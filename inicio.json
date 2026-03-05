@@ -1,0 +1,12 @@
+{
+    "available": 0,
+    "update": 0,
+    "update-url-apklis": {
+        "show": 0,
+        "url": "https://apklis.cu/tu-app"
+    },
+    "update-url-direct": {
+        "show": 0,
+        "url": "https://drive.google.com/tu-enlace"
+    }
+}
