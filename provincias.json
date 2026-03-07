@@ -1,0 +1,1528 @@
+{
+
+	"hits": [
+		{
+			"_index": "province",
+			"_id": "12",
+			"_score": 0.074107975,
+			"_source": {
+				"id": "12",
+				"municipios": [
+					"Antilla",
+					"Báguanos",
+					"Banes",
+					"Cacocum",
+					"Calixto García",
+					"Cueto",
+					"Frank País",
+					"Gibara",
+					"Holguín",
+					"Mayarí",
+					"Moa",
+					"Rafael Freyre",
+					"Sagua de Tánamo",
+					"Urbano Noris"
+				],
+				"nombre": "Holguín",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "13",
+			"_score": 0.074107975,
+			"_source": {
+				"id": "13",
+				"municipios": [
+					"Contramaestre",
+					"Guamá",
+					"Julio Antonio Mella",
+					"Palma Soriano",
+					"San Luis",
+					"Santiago de Cuba",
+					"Segundo Frente",
+					"Songo la Maya",
+					"Tercer Frente"
+				],
+				"nombre": "Santiago de Cuba",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "14",
+			"_score": 0.074107975,
+			"_source": {
+				"id": "14",
+				"municipios": [
+					"Baracoa",
+					"Caimanera",
+					"El Salvador",
+					"Guantánamo",
+					"Imías",
+					"Maisí",
+					"Manuel Tames",
+					"Niceto Pérez",
+					"San Antonio del Sur",
+					"Yateras"
+				],
+				"nombre": "Guantánamo",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "15",
+			"_score": 0.074107975,
+			"_source": {
+				"id": "15",
+				"municipios": [
+					"Nueva Gerona",
+					"La Victoria",
+					"Santa Fe",
+					"La Demajagua"
+				],
+				"nombre": "Isla de la Juventud",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "4",
+			"_score": 0.074107975,
+			"_source": {
+				"id": "4",
+				"municipios": [
+					"Arroyo Naranjo",
+					"Boyeros",
+					"Centro Habana",
+					"Cerro",
+					"Cotorro",
+					"Diez de Octubre",
+					"Guanabacoa",
+					"Habana del Este",
+					"Habana Vieja",
+					"La Lisa",
+					"Marianao",
+					"Playa",
+					"Plaza",
+					"Regla",
+					"San Miguel del Padrón"
+				],
+				"nombre": "La Habana",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "8",
+			"_score": 0.074107975,
+			"_source": {
+				"id": "8",
+				"nombre": "Sancti Spíritus",
+				"municipios": [
+					"Cabaiguán",
+					"Fomento",
+					"Jatibonico",
+					"La Sierpe",
+					"Sancti Spíritus",
+					"Taguasco",
+					"Trinidad",
+					"Yaguajay"
+				],
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "1",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "1",
+				"municipios": [
+					"Consolación del Sur",
+					"Guane",
+					"La Palma",
+					"Los Palacios",
+					"Mantua",
+					"Minas de Matahambre",
+					"Pinar del Río",
+					"San Juan y Martínez",
+					"San Luis",
+					"Sandino",
+					"Viñales"
+				],
+				"nombre": "Pinar del Río",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "10",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "10",
+				"municipios": [
+					"Camagüey",
+					"Carlos Manuel de Céspedes",
+					"Esmeralda",
+					"Florida",
+					"Guaimaro",
+					"Jimagüayú",
+					"Minas",
+					"Najasa",
+					"Nuevitas",
+					"Santa Cruz del Sur",
+					"Sibanicú",
+					"Sierra de Cubitas",
+					"Vertientes"
+				],
+				"nombre": "Camagüey",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "11",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "11",
+				"municipios": [
+					"Amancio Rodríguez",
+					"Colombia",
+					"Jesús Menéndez",
+					"Jobabo",
+					"Las Tunas",
+					"Majibacoa",
+					"Manatí",
+					"Puerto Padre"
+				],
+				"nombre": "Las Tunas",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "16",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "16",
+				"municipios": [
+					"Bartolomé Masó",
+					"Bayamo",
+					"Buey Arriba",
+					"Campechuela",
+					"Cauto Cristo",
+					"Guisa",
+					"Jiguaní",
+					"Manzanillo",
+					"Media Luna",
+					"Niquero",
+					"Pilón",
+					"Río Cauto",
+					"Yara"
+				],
+				"nombre": "Granma",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "2",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "2",
+				"municipios": [
+					"Alquízar",
+					"Artemisa",
+					"Bauta",
+					"Caimito",
+					"Guanajay",
+					"Güira de Melena",
+					"Mariel",
+					"San Antonio de los Baños",
+					"Bahía Honda",
+					"San Cristóbal",
+					"Candelaria"
+				],
+				"nombre": "Artemisa",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "3",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "3",
+				"municipios": [
+					"Batabanó",
+					"Bejucal",
+					"Güines",
+					"Jaruco",
+					"Madruga",
+					"Melena del Sur",
+					"Nueva Paz",
+					"Quivicán",
+					"San José de las Lajas",
+					"San Nicolás de Bari",
+					"Santa Cruz del Norte"
+				],
+				"nombre": "Mayabeque",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "5",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "5",
+				"municipios": [
+					"Calimete",
+					"Cárdenas",
+					"Ciénaga de Zapata",
+					"Colón",
+					"Jagüey Grande",
+					"Jovellanos",
+					"Limonar",
+					"Los Arabos",
+					"Martí",
+					"Matanzas",
+					"Pedro Betancourt",
+					"Perico",
+					"Unión de Reyes"
+				],
+				"nombre": "Matanzas",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "6",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "6",
+				"municipios": [
+					"Abreus",
+					"Aguada de Pasajeros",
+					"Cienfuegos",
+					"Cruces",
+					"Cumanayagua",
+					"Palmira",
+					"Rodas",
+					"Santa Isabel de las Lajas"
+				],
+				"nombre": "Cienfuegos",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "7",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "7",
+				"municipios": [
+					"Caibarién",
+					"Camajuaní",
+					"Cifuentes",
+					"Corralillo",
+					"Encrucijada",
+					"Manicaragua",
+					"Placetas",
+					"Quemado de Güines",
+					"Ranchuelo",
+					"Remedios",
+					"Sagua la Grande",
+					"Santa Clara",
+					"Santo Domingo"
+				],
+				"nombre": "Villa Clara",
+				"country": "Cuba"
+			}
+		},
+		{
+			"_index": "province",
+			"_id": "9",
+			"_score": 0.046520013,
+			"_source": {
+				"id": "9",
+				"nombre": "Ciego de Ávila",
+				"municipios": [
+					"Ciro Redondo",
+					"Baraguá",
+					"Bolivia",
+					"Chambas",
+					"Ciego de Ávila",
+					"Florencia",
+					"Majagua",
+					"Morón",
+					"Primero de Enero",
+					"Venezuela"
+				],
+				"country": "Cuba"
+			}
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "ANeTDrFt0pFrQBTJCISV",
+			"_score": null,
+			"_source": {
+				"id": "ANeTDrFt0pFrQBTJCISV",
+				"province": "Holguín",
+				"country": "Cuba",
+				"priceminfree": 150,
+				"zones": [
+					{
+						"name": "Gibara",
+						"price": 5
+					}
+				],
+				"municipality": "Gibara",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-11-21T19:00:43.441Z",
+				"createdAt": 1732215643441
+			},
+			"sort": [
+				1732215643441
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "t70gIfN3vCnsIc5UGEjM",
+			"_score": null,
+			"_source": {
+				"id": "t70gIfN3vCnsIc5UGEjM",
+				"country": "Cuba",
+				"createdAt": 1720417339327,
+				"province": "Holguín",
+				"isFree": false,
+				"municipality": "Holguín",
+				"active": true,
+				"creation-date": "2024-07-08T05:42:19.327Z",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"zones": [
+					{
+						"name": "Zona 1",
+						"price": 5
+					}
+				],
+				"priceminfree": 70
+			},
+			"sort": [
+				1720417339327
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "f8sE52Cf6BUVQEv5q9F4",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861117354,
+				"id": "f8sE52Cf6BUVQEv5q9F4",
+				"isFree": false,
+				"municipality": "Arroyo Naranjo",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "La Palma",
+						"price": 3.5
+					},
+					{
+						"name": "Otras zonas",
+						"price": 4
+					}
+				]
+			},
+			"sort": [
+				1697861117354
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "ioinBqggvUDdaTsmFyhs",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861327202,
+				"id": "ioinBqggvUDdaTsmFyhs",
+				"isFree": false,
+				"municipality": "Boyeros",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Otras zonas",
+						"price": 4
+					},
+					{
+						"name": "Fontanal, Cujae, S.Vegas",
+						"price": 5
+					}
+				]
+			},
+			"sort": [
+				1697861327202
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "hXSDqdqLUl8br2cvsKWJ",
+			"_score": null,
+			"_source": {
+				"active": true,
+				"country": "Cuba",
+				"createdAt": 1726937417499,
+				"creation-date": "2024-09-21T16:50:17.499Z",
+				"id": "hXSDqdqLUl8br2cvsKWJ",
+				"isFree": false,
+				"municipality": "Centro Habana",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Centro Habana",
+						"price": 2
+					}
+				]
+			},
+			"sort": [
+				1726937417499
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "KYFenz41om1HsGtGVX0w",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861526114,
+				"id": "KYFenz41om1HsGtGVX0w",
+				"isFree": false,
+				"municipality": "Cerro",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Cerro",
+						"price": 3
+					}
+				]
+			},
+			"sort": [
+				1697861526114
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "7PLYJWNXYccjmg9r8mkA",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861584057,
+				"id": "7PLYJWNXYccjmg9r8mkA",
+				"isFree": false,
+				"municipality": "Cotorro",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Cotorro",
+						"price": 6
+					}
+				]
+			},
+			"sort": [
+				1697861584057
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "e8epXmDNQrIWH3KI7kqQ",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697860903666,
+				"id": "e8epXmDNQrIWH3KI7kqQ",
+				"isFree": false,
+				"municipality": "Diez de Octubre",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Diez de Octubre",
+						"price": 3
+					}
+				]
+			},
+			"sort": [
+				1697860903666
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "wOtPdojsdFcwPx4XIwN0",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861685540,
+				"id": "wOtPdojsdFcwPx4XIwN0",
+				"isFree": false,
+				"municipality": "Guanabacoa",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Otras zonas",
+						"price": 4
+					},
+					{
+						"name": "El Miquito",
+						"price": 5
+					}
+				]
+			},
+			"sort": [
+				1697861685540
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "t3jnIQdueOANHwUjiBgo",
+			"_score": null,
+			"_source": {
+				"active": true,
+				"country": "Cuba",
+				"createdAt": 1726938032512,
+				"creation-date": "2024-09-21T17:00:32.512Z",
+				"id": "t3jnIQdueOANHwUjiBgo",
+				"isFree": false,
+				"municipality": "Habana del Este",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Villa Panamericana",
+						"price": 5
+					},
+					{
+						"name": "Otras zonas",
+						"price": 4.5
+					},
+					{
+						"name": "Guanabo",
+						"price": 6
+					}
+				]
+			},
+			"sort": [
+				1726938032512
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "Nkc9xizg2EP53SXrUSpF",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861409519,
+				"id": "Nkc9xizg2EP53SXrUSpF",
+				"isFree": false,
+				"municipality": "Habana Vieja",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Habana Vieja",
+						"price": 2
+					}
+				]
+			},
+			"sort": [
+				1697861409519
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "mggtE03Gz8aiSKh0z7YG",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697861936298,
+				"id": "mggtE03Gz8aiSKh0z7YG",
+				"isFree": false,
+				"municipality": "La Lisa",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "51 y 190",
+						"price": 4
+					},
+					{
+						"name": "Plamar / Coronela / Aroyo Arena",
+						"price": 4
+					},
+					{
+						"name": "Novia del Mediodía",
+						"price": 5
+					},
+					{
+						"name": "Otras zonas",
+						"price": 7
+					}
+				]
+			},
+			"sort": [
+				1697861936298
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "h98p5LgJc7TvHAAXS1cx",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697862065554,
+				"id": "h98p5LgJc7TvHAAXS1cx",
+				"isFree": false,
+				"municipality": "Marianao",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Marianao",
+						"price": 3.5
+					}
+				]
+			},
+			"sort": [
+				1697862065554
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "2SSyrDOi79IACUQAw4f6",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697862233441,
+				"id": "2SSyrDOi79IACUQAw4f6",
+				"isFree": false,
+				"municipality": "Playa",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Jaimanitas / Santa Fé",
+						"price": 6
+					},
+					{
+						"name": "Caimito",
+						"price": 10
+					},
+					{
+						"name": "Otras zonas",
+						"price": 4
+					},
+					{
+						"name": "Miramar",
+						"price": 3.5
+					}
+				]
+			},
+			"sort": [
+				1697862233441
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "bGAPBKM18atkalXLT9K3",
+			"_score": null,
+			"_source": {
+				"active": true,
+				"country": "Cuba",
+				"createdAt": 1713617835737,
+				"creation-date": "2024-04-20T12:57:15.736Z",
+				"id": "bGAPBKM18atkalXLT9K3",
+				"isFree": false,
+				"municipality": "Plaza",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Plaza",
+						"price": 2
+					}
+				]
+			},
+			"sort": [
+				1713617835737
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "WG69vRoXbOtL0z2ZyoTu",
+			"_score": null,
+			"_source": {
+				"country": "Cuba",
+				"createdAt": 1697862447549,
+				"id": "WG69vRoXbOtL0z2ZyoTu",
+				"isFree": false,
+				"municipality": "Regla",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Regla",
+						"price": 4
+					}
+				]
+			},
+			"sort": [
+				1697862447549
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "sb173F9LY98uiEjURgNq",
+			"_score": null,
+			"_source": {
+				"active": true,
+				"country": "Cuba",
+				"createdAt": 1713618029156,
+				"creation-date": "2024-04-20T13:00:29.156Z",
+				"id": "sb173F9LY98uiEjURgNq",
+				"isFree": false,
+				"municipality": "San Miguel del Padrón",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 400,
+				"province": "La Habana",
+				"zones": [
+					{
+						"name": "Virgen del Camino",
+						"price": 3
+					},
+					{
+						"name": "Otras zonas",
+						"price": 4
+					}
+				]
+			},
+			"sort": [
+				1713618029156
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "7k8pRiOpMGHXdbQ2xinT",
+			"_score": null,
+			"_source": {
+				"id": "7k8pRiOpMGHXdbQ2xinT",
+				"country": "Cuba",
+				"createdAt": 1712697948299,
+				"province": "Sancti Spíritus",
+				"isFree": false,
+				"active": true,
+				"creation-date": "2024-04-09T21:25:48.299Z",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"municipality": "Cabaiguán",
+				"zones": [
+					{
+						"name": "Cabaiguan",
+						"price": 3
+					}
+				],
+				"priceminfree": 170
+			},
+			"sort": [
+				1712697948299
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "8641afeuPYUYBvSBTAVb",
+			"_score": null,
+			"_source": {
+				"id": "8641afeuPYUYBvSBTAVb",
+				"country": "Cuba",
+				"createdAt": 1712698064915,
+				"province": "Sancti Spíritus",
+				"isFree": false,
+				"municipality": "Jatibonico",
+				"active": true,
+				"creation-date": "2024-04-09T21:27:44.915Z",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 120,
+				"zones": [
+					{
+						"name": "Jatibonico",
+						"price": 5
+					}
+				]
+			},
+			"sort": [
+				1712698064915
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "cuvnEE9tvb8KBQKyfkIh",
+			"_score": null,
+			"_source": {
+				"id": "cuvnEE9tvb8KBQKyfkIh",
+				"country": "Cuba",
+				"createdAt": 1712697792256,
+				"province": "Sancti Spíritus",
+				"municipality": "Sancti Spíritus",
+				"active": true,
+				"creation-date": "2024-04-09T21:23:12.256Z",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"zones": [
+					{
+						"name": "SSP Ciudad",
+						"price": 1
+					}
+				],
+				"isFree": false,
+				"priceminfree": 40
+			},
+			"sort": [
+				1712697792256
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "eZtqMSfeRo31S6Wl5h9O",
+			"_score": null,
+			"_source": {
+				"id": "eZtqMSfeRo31S6Wl5h9O",
+				"country": "Cuba",
+				"createdAt": 1712697737952,
+				"province": "Sancti Spíritus",
+				"isFree": false,
+				"municipality": "Taguasco",
+				"active": true,
+				"creation-date": "2024-04-09T21:22:17.952Z",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 120,
+				"zones": [
+					{
+						"name": "Tuinucú / Zaza ",
+						"price": 3
+					},
+					{
+						"name": "Taguasco",
+						"price": 4
+					}
+				]
+			},
+			"sort": [
+				1712697737952
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "IEkXoCE1MRzyS3l7FBke",
+			"_score": null,
+			"_source": {
+				"id": "IEkXoCE1MRzyS3l7FBke",
+				"country": "Cuba",
+				"createdAt": 1712698101250,
+				"province": "Sancti Spíritus",
+				"isFree": false,
+				"municipality": "Trinidad",
+				"active": true,
+				"creation-date": "2024-04-09T21:28:21.250Z",
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"priceminfree": 130,
+				"zones": [
+					{
+						"name": "Trinidad",
+						"price": 5
+					}
+				]
+			},
+			"sort": [
+				1712698101250
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "Mtpf9xtsIyPiL4hPMiwO",
+			"_score": null,
+			"_source": {
+				"id": "Mtpf9xtsIyPiL4hPMiwO",
+				"province": "Pinar del Río",
+				"country": "Cuba",
+				"priceminfree": 100,
+				"zones": [
+					{
+						"name": "Centro",
+						"price": 3
+					}
+				],
+				"municipality": "Los Palacios",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-11-22T05:53:49.789Z",
+				"createdAt": 1732254829789
+			},
+			"sort": [
+				1732254829789
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "s2Z9mWx6qQ15x1x46wuJ",
+			"_score": null,
+			"_source": {
+				"id": "s2Z9mWx6qQ15x1x46wuJ",
+				"province": "Pinar del Río",
+				"country": "Cuba",
+				"zones": [
+					{
+						"name": "Zona 1",
+						"price": 3
+					}
+				],
+				"municipality": "Pinar del Río",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-10-22T18:08:06.622Z",
+				"createdAt": 1729620486622,
+				"priceminfree": 100
+			},
+			"sort": [
+				1729620486622
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "AkI5MuGuIzZ5oTgYkUTH",
+			"_score": null,
+			"_source": {
+				"id": "AkI5MuGuIzZ5oTgYkUTH",
+				"province": "Pinar del Río",
+				"country": "Cuba",
+				"priceminfree": 500,
+				"zones": [
+					{
+						"name": "Sandino",
+						"price": 10
+					}
+				],
+				"municipality": "Sandino",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2025-07-31T20:32:57.193Z",
+				"createdAt": 1753993977193
+			},
+			"sort": [
+				1753993977193
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "1EBYcsQZZ8DrAqK31eTH",
+			"_score": null,
+			"_source": {
+				"id": "1EBYcsQZZ8DrAqK31eTH",
+				"province": "Camagüey",
+				"country": "Cuba",
+				"priceminfree": 90,
+				"zones": [
+					{
+						"name": "Camagüey ",
+						"price": 5
+					}
+				],
+				"municipality": "Camagüey",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-12-28T19:05:47.295Z",
+				"createdAt": 1735412747295
+			},
+			"sort": [
+				1735412747295
+			]
+		}
+	]
+}
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "qeZwInBGCJVsLpzv6pfW",
+			"_score": null,
+			"_source": {
+				"id": "qeZwInBGCJVsLpzv6pfW",
+				"province": "Camagüey",
+				"country": "Cuba",
+				"priceminfree": 90,
+				"zones": [
+					{
+						"name": "Florida",
+						"price": 5
+					}
+				],
+				"municipality": "Florida",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-11-01T21:01:39.517Z",
+				"createdAt": 1730494899517
+			},
+			"sort": [
+				1730494899517
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "FvfCn3plj9wbDAPDp2rO",
+			"_score": null,
+			"_source": {
+				"id": "FvfCn3plj9wbDAPDp2rO",
+				"province": "Las Tunas",
+				"country": "Cuba",
+				"priceminfree": 0,
+				"zones": [
+					{
+						"name": "Las Tunas",
+						"price": 0
+					}
+				],
+				"municipality": "Las Tunas",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2025-01-02T21:21:18.144Z",
+				"createdAt": 1735852878144
+			},
+			"sort": [
+				1735852878144
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "HF8KYUEBncGG2EsZM2d4",
+			"_score": null,
+			"_source": {
+				"id": "HF8KYUEBncGG2EsZM2d4",
+				"province": "Las Tunas",
+				"country": "Cuba",
+				"priceminfree": 0,
+				"zones": [
+					{
+						"name": "Puerto Padre",
+						"price": 0
+					}
+				],
+				"municipality": "Puerto Padre",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2025-01-08T16:47:54.960Z",
+				"createdAt": 1736354874960
+			},
+			"sort": [
+				1736354874960
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "U6Quw0Tz6eTsrAgRl3dt",
+			"_score": null,
+			"_source": {
+				"id": "U6Quw0Tz6eTsrAgRl3dt",
+				"country": "Cuba",
+				"createdAt": 1714844278392,
+				"province": "Granma",
+				"isFree": false,
+				"municipality": "Buey Arriba",
+				"active": true,
+				"creation-date": "2024-05-04T17:37:58.392Z",
+				"priceminfree": 23,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"zones": [
+					{
+						"price": 123,
+						"name": "zona granma"
+					}
+				]
+			},
+			"sort": [
+				1714844278392
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "gubr5CIgPHkaYINRKnd0",
+			"_score": null,
+			"_source": {
+				"id": "gubr5CIgPHkaYINRKnd0",
+				"province": "Artemisa",
+				"country": "Cuba",
+				"priceminfree": 80,
+				"zones": [
+					{
+						"name": "Precio fijo",
+						"price": 3
+					}
+				],
+				"municipality": "San Antonio de los Baños",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-10-21T21:42:45.392Z",
+				"createdAt": 1729546965392
+			},
+			"sort": [
+				1729546965392
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "Qc6EfseYIONgUsiP9lri",
+			"_score": null,
+			"_source": {
+				"id": "Qc6EfseYIONgUsiP9lri",
+				"country": "Cuba",
+				"createdAt": 1717270482694,
+				"province": "Matanzas",
+				"isFree": false,
+				"municipality": "Matanzas",
+				"active": true,
+				"creation-date": "2024-06-01T19:34:42.694Z",
+				"priceminfree": 200,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"zones": [
+					{
+						"name": "Zona Centro",
+						"price": 0
+					}
+				]
+			},
+			"sort": [
+				1717270482694
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "lorMyhGpCH9tA6JUAY30",
+			"_score": null,
+			"_source": {
+				"id": "lorMyhGpCH9tA6JUAY30",
+				"province": "Villa Clara",
+				"country": "Cuba",
+				"priceminfree": 0,
+				"zones": [
+					{
+						"name": "Corralillo",
+						"price": 0
+					}
+				],
+				"municipality": "Corralillo",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2025-05-20T02:14:07.147Z",
+				"createdAt": 1747707247147
+			},
+			"sort": [
+				1747707247147
+			]
+		}
+	]
+}
+
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "4m7EdmsvxSC17tiSbFhn",
+			"_score": null,
+			"_source": {
+				"id": "4m7EdmsvxSC17tiSbFhn",
+				"province": "Villa Clara",
+				"country": "Cuba",
+				"priceminfree": 0,
+				"zones": [
+					{
+						"name": "Santa Clara",
+						"price": 0
+					}
+				],
+				"municipality": "Santa Clara",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2025-05-20T02:14:35.665Z",
+				"createdAt": 1747707275665
+			},
+			"sort": [
+				1747707275665
+			]
+		}
+	]
+}
+
+{
+	"hits": [
+		{
+			"_index": "provincezones",
+			"_id": "FhgeUpkwq16nx8jqHU9W",
+			"_score": null,
+			"_source": {
+				"id": "FhgeUpkwq16nx8jqHU9W",
+				"province": "Ciego de Ávila",
+				"country": "Cuba",
+				"priceminfree": 100,
+				"zones": [
+					{
+						"name": "Ciego Ávila",
+						"price": 5
+					}
+				],
+				"municipality": "Ciego de Ávila",
+				"isFree": false,
+				"active": true,
+				"originCreate": "ecommerce",
+				"originUpdate": "ecommerce",
+				"creation-date": "2024-11-18T20:16:10.853Z",
+				"createdAt": 1731960970853
+			},
+			"sort": [
+				1731960970853
+			]
+		}
+	]
+}
+
+
