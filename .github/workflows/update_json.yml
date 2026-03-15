@@ -1,0 +1,33 @@
+name: Actualizar JSONs de productos
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: 🐍 Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 📦 Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: 🚀 Ejecutar fetch.py
+        run: python fetch.py
+
+      - name: 💾 Commit y push si hay cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add energ.json cel.json herra.json acce.json ofic.json comp.json hog.json aud.json accem.json
+          git diff --cached --quiet || git commit -m "chore: actualizar JSONs [$(date -u '+%Y-%m-%d %H:%M UTC')] [skip ci]"
+          git push
