@@ -4665,7 +4665,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -4958,7 +4958,7 @@
         "sales-price": 699,
         "short-description": "<p>- <strong>💻 HP OmniBook X Flip 2-en-1 (16-ar0013dx)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> <strong>AMD Ryzen AI 5 340</strong> (Optimizado para IA)</p></li><li><p><strong>⚡ Memoria RAM:</strong> <strong>16GB LPDDR5x</strong></p></li><li><p><strong>💾 Almacenamiento:</strong> <strong>512GB SSD</strong> (Capacidad masiva)</p></li><li><p><strong>📺 Pantalla:</strong> 16\" <strong>Táctil 2-en-1</strong> (Se convierte en tablet)</p></li><li><p><strong>🎨 Gráficos:</strong> AMD Radeon Graphics</p></li><li><p><strong>🔋 Batería:</strong> Hasta 15 horas (Carga rápida)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 con funciones <strong>Copilot+</strong></p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo</strong> (Color Meteor Silver)</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -7557,7 +7557,7 @@
         "sales-price": 72,
         "short-description": "",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
