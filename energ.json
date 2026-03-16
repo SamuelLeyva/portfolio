@@ -8748,7 +8748,7 @@
         "sales-price": 65,
         "short-description": "<ul><li><p>🔌 Interruptor de transferencia automática dual <strong>2P – 63A – 110V</strong></p></li><li><p>🔁 Cambio automático o manual entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⏱️ Tiempo de conmutación de <strong>hasta 2 segundos</strong></p></li><li><p>🏠 Ideal para <strong>casas, oficinas y pequeños negocios</strong></p></li><li><p>🛡️ Carcasa metálica resistente y segura</p></li><li><p>🧲 Terminales de cobre para conexión más estable</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -16980,9 +16980,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -19048,9 +19048,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -19077,7 +19077,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
@@ -19350,8 +19350,8 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
-          "-2-true",
+          "2820-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",

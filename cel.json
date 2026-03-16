@@ -377,9 +377,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -672,7 +672,7 @@
         "sales-price": 112,
         "short-description": "<ul><li><p>📱 <strong>Modelo:</strong> Xiaomi Poco C71, un smartphone accesible y confiable para uso diario.</p></li><li><p>⚡ <strong>Memoria RAM:</strong> 3 GB, ideal para multitarea ligera y apps básicas.</p></li><li><p>💾 <strong>Almacenamiento interno:</strong> 64 GB para guardar fotos, música, videos y aplicaciones.</p></li><li><p>🔆 <strong>Pantalla:</strong> Amplia y clara, perfecta para redes sociales y contenido multimedia.</p></li><li><p>🎨 <strong>Color:</strong> Negro, con diseño moderno y versátil.</p></li><li><p>🎁 <strong>Accesorios incluidos:</strong> Cover protector, mica para pantalla y audífonos, listos para usar desde el primer día.</p></li><li><p>👩‍🎓 <strong>Uso recomendado:</strong> Excelente para estudiantes, como segundo teléfono o para quienes buscan un dispositivo económico con prestaciones confiables</p></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -6434,9 +6434,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 56,
+            "stock": 45,
             "subcontractedid": "",
-            "virtual-stock": 44,
+            "virtual-stock": 45,
             "zip-code": ""
           },
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 44,
+        "stock": 50,
         "stock-enabled": true,
         "tag": [
           {
@@ -13109,7 +13109,7 @@
         "sales-price": 106,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
