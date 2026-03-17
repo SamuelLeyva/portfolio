@@ -5407,9 +5407,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 10,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -5494,9 +5494,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -5765,7 +5765,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
           "-2-true",
@@ -5789,7 +5789,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -6347,9 +6347,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 180,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 180,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -6434,9 +6434,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 40,
+            "stock": 220,
             "subcontractedid": "",
-            "virtual-stock": 40,
+            "virtual-stock": 220,
             "zip-code": ""
           },
           {
@@ -6705,7 +6705,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
           "-2-true",
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 42,
+        "stock": 220,
         "stock-enabled": true,
         "tag": [
           {
@@ -8206,9 +8206,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 20,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -8293,9 +8293,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -8564,10 +8564,10 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -8588,7 +8588,7 @@
         "sales-price": 184,
         "short-description": "<p>El Samsung Galaxy F17 combina rendimiento y estilo con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su elegante color negro y pantalla Super AMOLED ofrecen una experiencia visual vibrante y nítida. Este combo incluye funda protectora, mica de cristal templado y audífonos para una protección completa desde el primer uso.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
@@ -9135,9 +9135,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 20,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -9222,9 +9222,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -9493,10 +9493,10 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -9517,7 +9517,7 @@
         "sales-price": 189,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
@@ -10059,9 +10059,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 20,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -10146,9 +10146,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 19,
             "zip-code": ""
           },
           {
@@ -10417,10 +10417,10 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -10441,7 +10441,7 @@
         "sales-price": 129,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento confiable con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ garantizan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {

@@ -14867,35 +14867,6 @@
         "outstanding": false,
         "product-warehouses": [
           {
-            "acronym": "CAR",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "APA",
-            "country": "Estados Unidos",
-            "createdAt": 1753367051080,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "3944",
-            "idstel": "3944",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "APA.CAR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
             "acronym": "AGE",
             "active": true,
             "addres": "",
@@ -15093,9 +15064,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -15209,9 +15180,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -15241,35 +15212,6 @@
             "stock": -2,
             "subcontractedid": "",
             "virtual-stock": -2,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CAR",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "MVA",
-            "country": "Estados Unidos",
-            "createdAt": 1753367732909,
-            "creator-id": "",
-            "description": "Maravana Cargo",
-            "hidden": true,
-            "id": "901",
-            "idstel": "901",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Hialeah",
-            "name": "MVA.CAR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -15390,20 +15332,18 @@
           }
         ],
         "warehousesInStock": [
-          "3944-false",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
           "3866-true",
           "611-true",
-          "901-false",
           "3298-false",
           "933-false",
           "862-false",
@@ -15419,7 +15359,7 @@
         "sales-price": 45,
         "short-description": "<ul><li><p>🍚 <strong>Capacidad:</strong> 16 tazas (≈3 litros), ideal para familias grandes o reuniones</p></li><li><p>⚡ <strong>Potencia:</strong> 400W | Voltaje: 110V</p></li><li><p>🥘 <strong>Funciones:</strong> cocción de arroz y granos + vaporera para verduras, carnes y pescados</p></li><li><p>🔥 <strong>Automática:</strong> función de mantener caliente al finalizar la cocción</p></li><li><p>🛡️ <strong>Materiales:</strong> recipiente interior antiadherente extraíble, tapa de aluminio y estructura con revestimiento cerámico</p></li><li><p>🧽 <strong>Fácil limpieza:</strong> cesta de vapor apta para lavavajillas</p></li><li><p>📐 <strong>Dimensiones:</strong> 29 cm alto × 28.3 cm ancho × 23.6 cm largo</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -18044,9 +17984,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 30,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 30,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -18160,9 +18100,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 55,
+            "stock": 73,
             "subcontractedid": "",
-            "virtual-stock": 55,
+            "virtual-stock": 73,
             "zip-code": ""
           },
           {
@@ -18339,7 +18279,7 @@
         "sales-price": 62,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 30,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
@@ -18774,9 +18714,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -18890,9 +18830,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 39,
+            "stock": 43,
             "subcontractedid": "",
-            "virtual-stock": 38,
+            "virtual-stock": 43,
             "zip-code": ""
           },
           {
@@ -19069,7 +19009,7 @@
         "sales-price": 62,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 25,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
