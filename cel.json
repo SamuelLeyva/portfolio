@@ -3686,9 +3686,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -3981,7 +3981,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
@@ -6434,9 +6434,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 220,
+            "stock": 216,
             "subcontractedid": "",
-            "virtual-stock": 220,
+            "virtual-stock": 216,
             "zip-code": ""
           },
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 220,
+        "stock": 216,
         "stock-enabled": true,
         "tag": [
           {
@@ -12814,9 +12814,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -13109,7 +13109,7 @@
         "sales-price": 106,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [
           {
