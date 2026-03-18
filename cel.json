@@ -5494,9 +5494,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -5789,7 +5789,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -6434,9 +6434,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 211,
+            "stock": 111,
             "subcontractedid": "",
-            "virtual-stock": 211,
+            "virtual-stock": 111,
             "zip-code": ""
           },
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 216,
+        "stock": 111,
         "stock-enabled": true,
         "tag": [
           {
