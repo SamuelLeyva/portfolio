@@ -6436,7 +6436,7 @@
             "public": false,
             "stock": 100,
             "subcontractedid": "",
-            "virtual-stock": 99,
+            "virtual-stock": 100,
             "zip-code": ""
           },
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 101,
+        "stock": 100,
         "stock-enabled": true,
         "tag": [
           {
@@ -11403,7 +11403,7 @@
         "sales-price": 169,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.9\" Full HD+ IPS LCD, 144Hz</p><p>📸 <strong>Cámara trasera:</strong> 50MP</p><p>📸 <strong>Cámara frontal:</strong> 8MP</p><p>⚡ <strong>Batería:</strong> 7000 mAh con carga rápida 33W</p><p>⚡ <strong>Procesador:</strong> Qualcomm Snapdragon 685</p><p>🧠 <strong>Ram:</strong> 8GB</p><p>💾 <strong>Almacenamiento:</strong> 256GB (expandible con microSD)</p><p>📶 <strong>Conectividad:</strong> Redes 4G LTE, Wi-Fi, Bluetooth, Dual SIM</p><p></p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
