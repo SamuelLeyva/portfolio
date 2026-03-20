@@ -1015,9 +1015,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -1044,9 +1044,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -1317,8 +1317,8 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-true",
-          "-2-false",
+          "2820-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -1339,7 +1339,7 @@
         "sales-price": 75,
         "short-description": "<ul><li><p>📱✨ <strong>Tablet X Mobile Tab X8</strong> – Pantalla de 8 pulgadas para una experiencia visual cómoda.</p></li><li><p>⚡ <strong>3GB RAM</strong>: rendimiento fluido en apps y multitarea.</p></li><li><p>💾 <strong>32GB Almacenamiento</strong>: espacio suficiente para fotos, videos y aplicaciones.</p></li><li><p>🎨 <strong>Color Gris elegante</strong>: diseño moderno y versátil.</p></li><li><p>🔒 <strong>Práctica y confiable</strong>: ideal para estudio, trabajo y entretenimiento.</p></li><li><p>👜 <strong>Compacta y ligera</strong>: fácil de transportar a cualquier lugar.</p></li><li><p>⏱️ <strong>Beneficio clave</strong>: combina portabilidad y rendimiento a un precio accesible.</p></li><li><p>📶 <strong>Conectividad estable</strong>: compatible con SIM, WiFi y Bluetooth .</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",

@@ -2576,7 +2576,7 @@
             "public": false,
             "stock": -15,
             "subcontractedid": "",
-            "virtual-stock": -15,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -7219,7 +7219,7 @@
         "sales-price": 65,
         "short-description": "<ul><li><p>🔌 Interruptor de transferencia automática dual <strong>2P – 63A – 110V</strong></p></li><li><p>🔁 Cambio automático o manual entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⏱️ Tiempo de conmutación de <strong>hasta 2 segundos</strong></p></li><li><p>🏠 Ideal para <strong>casas, oficinas y pequeños negocios</strong></p></li><li><p>🛡️ Carcasa metálica resistente y segura</p></li><li><p>🧲 Terminales de cobre para conexión más estable</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -7619,7 +7619,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -7912,7 +7912,7 @@
         "sales-price": 49,
         "short-description": "<ul><li><p>Tipo: Regleta con protección</p></li><li><p>Puertos: 8 AC, 4 USB-A, 1 USB-C</p></li><li><p>Protección: 2100 J</p></li><li><p>Interruptor: Sí</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
