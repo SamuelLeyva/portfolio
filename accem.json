@@ -34,7 +34,7 @@
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 0,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -80,7 +80,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 14,
+            "price": 11,
             "updatedAt": 1747229914346
           },
           {
@@ -124,7 +124,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 14,
+            "price": 11,
             "updatedAt": 1747229914347
           }
         ],
