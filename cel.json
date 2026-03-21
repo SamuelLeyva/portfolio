@@ -1441,7 +1441,7 @@
         "sales-price": 128,
         "short-description": "<ul><li><p>⚡ <strong>4GB RAM + 128GB almacenamiento</strong>: rendimiento básico y espacio suficiente.</p></li><li><p>📱 <strong>Pantalla HD+ de 6.88” (120Hz)</strong>: fluida y amplia para multimedia.</p></li><li><p>📷 <strong>Cámara principal de 32MP</strong>: fotos claras y videos aceptables.</p></li><li><p>🔋 <strong>Batería 5200 mAh con carga 15W</strong>: autonomía para todo el día.</p></li><li><p>🎨 <strong>Diseño elegante en negro</strong>: moderno y sobrio.</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -11108,9 +11108,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 16,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -13920,7 +13920,7 @@
         "sales-price": 193,
         "short-description": "<p>¡Descubre el Xiaomi Redmi Note 14! Con su pantalla AMOLED de 6.67 pulgadas, un potente procesador Mediatek Helio G99 y 6GB de RAM, este teléfono te ofrece un rendimiento excepcional. La cámara triple de 108MP captura fotos increíbles en cualquier condición de luz. Además, la batería de 5500mAh asegura que tu dispositivo dure todo el día.</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
