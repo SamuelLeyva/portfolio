@@ -4593,9 +4593,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 20,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 19,
             "zip-code": ""
           },
           {
@@ -4888,7 +4888,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 95,
+        "stock": 94,
         "stock-enabled": true,
         "tag": [
           {
@@ -7351,9 +7351,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -7646,7 +7646,7 @@
         "sales-price": 155,
         "short-description": "<p>El Xiaomi Redmi 15C es un smartphone que combina un diseño elegante de tan solo 7.99 mm con un rendimiento robusto y una batería de larga duración. Su pantalla inmersiva de 6.9\" con tasa de refresco de 120 Hz ofrece una experiencia visual fluida y adaptable, ideal para entretenimiento y uso diario. Equipado con 6GB de RAM + 6GB virtual y 128GB de almacenamiento, garantiza un funcionamiento ágil y espacio amplio para tus aplicaciones y archivos. Además, incluye accesorios esenciales como funda, mica protectora y audífonos, junto con resistencia IP64 y carga rápida de 33W para mayor comodidad y durabilidad.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -8293,9 +8293,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 20,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 19,
             "zip-code": ""
           },
           {
@@ -8588,7 +8588,7 @@
         "sales-price": 184,
         "short-description": "<p>El Samsung Galaxy F17 combina rendimiento y estilo con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su elegante color negro y pantalla Super AMOLED ofrecen una experiencia visual vibrante y nítida. Este combo incluye funda protectora, mica de cristal templado y audífonos para una protección completa desde el primer uso.</p>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [
           {

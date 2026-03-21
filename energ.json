@@ -3101,9 +3101,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": -25,
+            "virtual-stock": -8,
             "zip-code": ""
           },
           {
@@ -3217,9 +3217,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -3375,7 +3375,7 @@
           "3807-true",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -3396,7 +3396,7 @@
         "sales-price": 1295,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Max</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 2048 Wh | 2400 W (Pico 4800 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePo 4000 Ciclos de carga.</p></li><li><p><strong>⏱️ Carga Rápida: </strong>1800W Carga rápida en 43 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W.</p></li><li><p><strong>🔌 Salidas:</strong> 4 salidas AC, 4 USB y 1 toma DC.</p></li><li><p><strong>🪶 Portabilidad:</strong> 20,3 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No. Modelo con Capacidad No expandible</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante App (WiFi/Bluetooth)</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -5320,9 +5320,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -5436,9 +5436,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 32,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 32,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -5594,7 +5594,7 @@
           "3807-true",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -5615,7 +5615,7 @@
         "sales-price": 730,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -6851,9 +6851,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -6967,9 +6967,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 29,
+            "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 31,
+            "virtual-stock": 25,
             "zip-code": ""
           },
           {
@@ -7146,7 +7146,7 @@
         "sales-price": 700,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2200 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
