@@ -672,7 +672,7 @@
         "sales-price": 112,
         "short-description": "<ul><li><p>📱 <strong>Modelo:</strong> Xiaomi Poco C71, un smartphone accesible y confiable para uso diario.</p></li><li><p>⚡ <strong>Memoria RAM:</strong> 3 GB, ideal para multitarea ligera y apps básicas.</p></li><li><p>💾 <strong>Almacenamiento interno:</strong> 64 GB para guardar fotos, música, videos y aplicaciones.</p></li><li><p>🔆 <strong>Pantalla:</strong> Amplia y clara, perfecta para redes sociales y contenido multimedia.</p></li><li><p>🎨 <strong>Color:</strong> Negro, con diseño moderno y versátil.</p></li><li><p>🎁 <strong>Accesorios incluidos:</strong> Cover protector, mica para pantalla y audífonos, listos para usar desde el primer día.</p></li><li><p>👩‍🎓 <strong>Uso recomendado:</strong> Excelente para estudiantes, como segundo teléfono o para quienes buscan un dispositivo económico con prestaciones confiables</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -6434,9 +6434,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 96,
+            "stock": 94,
             "subcontractedid": "",
-            "virtual-stock": 96,
+            "virtual-stock": 94,
             "zip-code": ""
           },
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 98,
+        "stock": 95,
         "stock-enabled": true,
         "tag": [
           {
@@ -9222,9 +9222,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -10441,7 +10441,7 @@
         "sales-price": 129,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento confiable con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ garantizan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
