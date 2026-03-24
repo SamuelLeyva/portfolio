@@ -1441,7 +1441,7 @@
         "sales-price": 128,
         "short-description": "<ul><li><p>⚡ <strong>4GB RAM + 128GB almacenamiento</strong>: rendimiento básico y espacio suficiente.</p></li><li><p>📱 <strong>Pantalla HD+ de 6.88” (120Hz)</strong>: fluida y amplia para multimedia.</p></li><li><p>📷 <strong>Cámara principal de 32MP</strong>: fotos claras y videos aceptables.</p></li><li><p>🔋 <strong>Batería 5200 mAh con carga 15W</strong>: autonomía para todo el día.</p></li><li><p>🎨 <strong>Diseño elegante en negro</strong>: moderno y sobrio.</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [
           {
@@ -5789,7 +5789,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
@@ -6729,7 +6729,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 83,
+        "stock": 77,
         "stock-enabled": true,
         "tag": [
           {
@@ -9517,7 +9517,7 @@
         "sales-price": 189,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
@@ -16493,7 +16493,7 @@
         "sales-price": 64,
         "short-description": "<p>📱 <strong>Estado:</strong> <strong>Nuevo en caja, sin uso</strong><br>\n ⚠ &nbsp;<strong>Condiciones del producto:</strong><br>\n🔓 <strong>Requiere desbloqueo de MDM</strong><br>\n📶 <strong>No muestra opciones de APN</strong> (requiere configuración técnica)<br>\n🚫 <strong>Sin garantía ni devoluciones una vez entregado</strong></p>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
