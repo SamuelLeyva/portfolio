@@ -7457,9 +7457,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -7752,7 +7752,7 @@
         "sales-price": 700,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
@@ -10673,7 +10673,7 @@
         "sales-price": 299,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -15323,7 +15323,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -15616,7 +15616,7 @@
         "sales-price": 142,
         "short-description": "<p><strong>🔋 Inversor de Corriente LVYUAN 1500W</strong></p><ul><li><p><strong>⚡ Potencia Continua:</strong> 1500W</p></li><li><p><strong>🚀 Potencia Pico:</strong> 3000W (Arranque)</p></li><li><p><strong>🔌 Voltaje Entrada:</strong> DC 12V (Batería de auto/solar)</p></li><li><p><strong>🏠 Voltaje Salida:</strong> AC 110V ± 10%</p></li><li><p><strong>〰️ Frecuencia:</strong> 60Hz</p></li><li><p><strong>🔌 Tomacorrientes:</strong> 2 Enchufes AC + 1 Puerto USB 5V</p></li><li><p><strong>🛡️ Protecciones:</strong> Sobrecarga, Cortocircuito, Sobrecalentamiento y Polaridad inversa</p></li><li><p><strong>🌀 Enfriamiento:</strong> Ventiladores inteligentes (se activan con el calor)</p></li><li><p><strong>🎨 Color/Material:</strong> Negro / Aleación de Aluminio (Alta resistencia)</p></li></ul><p>🎯 <strong>Compatibilidad y Usos:</strong></p><ul><li><p><strong>Equipos aptos:</strong> Laptops 💻, ventiladores, televisores 📺, consolas de videojuegos 🎮, luces LED 💡 y herramientas pequeñas.</p></li><li><p><strong>No recomendado:</strong> Dispositivos sensibles (médicos, láseres, audio de alta fidelidad).</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
