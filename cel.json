@@ -6434,9 +6434,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 56,
+            "stock": 55,
             "subcontractedid": "",
-            "virtual-stock": 56,
+            "virtual-stock": 55,
             "zip-code": ""
           },
           {
@@ -8293,9 +8293,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -8588,7 +8588,7 @@
         "sales-price": 184,
         "short-description": "<p>El Samsung Galaxy F17 combina rendimiento y estilo con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su elegante color negro y pantalla Super AMOLED ofrecen una experiencia visual vibrante y nítida. Este combo incluye funda protectora, mica de cristal templado y audífonos para una protección completa desde el primer uso.</p>",
         "short-description-en": "",
-        "stock": 16,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
