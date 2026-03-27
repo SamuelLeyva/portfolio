@@ -10673,7 +10673,7 @@
         "sales-price": 299,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -11925,9 +11925,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 42,
+            "stock": 41,
             "subcontractedid": "",
-            "virtual-stock": 42,
+            "virtual-stock": 41,
             "zip-code": ""
           },
           {
