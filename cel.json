@@ -642,6 +642,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -660,7 +687,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Poco C71, 3Gb Ram, 64Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -1411,6 +1439,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1429,7 +1484,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Poco C71, 4Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -2118,6 +2174,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2136,7 +2219,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi 15C, 6Gb Ram + 6Gb virtual, Total 12Gb, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Naranja",
         "productname_en": "",
@@ -3019,6 +3103,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -3037,7 +3148,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Samsung Galaxy A06 EU A065F 6Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -3951,6 +4063,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -3969,7 +4108,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi 15C, 4Gb Ram + 4Gb virtual, Total 8Gb, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -4858,6 +4998,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4876,7 +5043,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi 15C, 4Gb Ram + 4Gb virtual,Total 8Gb, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Verde",
         "productname_en": "",
@@ -5759,6 +5927,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -5777,7 +5972,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Samsung Galaxy F17 EU 4Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Morado",
         "productname_en": "",
@@ -6236,6 +6432,33 @@
         },
         "outstanding": false,
         "product-warehouses": [
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
           {
             "acronym": "AGE",
             "active": true,
@@ -6702,6 +6925,7 @@
           }
         ],
         "warehousesInStock": [
+          "116-false",
           "680-false",
           "3375-false",
           "4028-false",
@@ -6729,7 +6953,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 55,
+        "stock": 50,
         "stock-enabled": true,
         "tag": [
           {
@@ -7616,6 +7840,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -7634,7 +7885,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi 15C, 6Gb Ram + 6Gb virtual, Total 12Gb, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -8558,6 +8810,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -8576,7 +8855,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Samsung Galaxy F17 EU 4Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -9487,6 +9767,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -9505,7 +9812,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Samsung Galaxy A17 EU 4Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -10449,6 +10757,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -10467,7 +10802,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi 15C, 8Gb Ram + 8Gb virtual,Total 16Gb, 256Gb Almacenamiento, Con Cover, Mica y Audífonos - Verde",
         "productname_en": "",
@@ -11137,6 +11473,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -11155,7 +11518,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Palo Selfie 2 en 1 con Trípode y Control Remoto Bluetooth",
         "productname_en": "",
@@ -12101,6 +12465,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -12119,7 +12510,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Samsung Galaxy A16 4G A165M/DS Latin, 4Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -12927,6 +13319,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -12945,7 +13364,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi Note 14 Versión Global, 6Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -13823,6 +14243,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -13841,7 +14288,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi Note 14 Versión Global, 6Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Azul",
         "productname_en": "",
@@ -14828,6 +15276,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -14848,7 +15323,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Samsung Galaxy F05 E055 4Gb Ram, 64Gb Almacenamiento, Con Cover, Mica y Audífonos - Azul",
         "productname_en": "",
@@ -15723,6 +16199,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -15743,7 +16246,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono Xiaomi Redmi 14C, 4GB + 4GB Ram, 128GB Almacenamiento. (2409BRN2CL), Con Cover, Mica y Audífonos - Verde",
         "productname_en": "",
@@ -16484,6 +16988,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -16502,7 +17033,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Teléfono BLU Studio X5 (S0610WW) 1GB RAM, 32GB Almacenamiento, Requiere Trabajo Técnico, Sin Garantía ni Devoluciones",
         "productname_en": "",

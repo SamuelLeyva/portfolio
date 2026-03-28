@@ -646,6 +646,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -666,7 +693,8 @@
           "933-false",
           "862-false",
           "1624-false",
-          "120-false"
+          "120-false",
+          "116-false"
         ],
         "productname": "Pegamento - B7000 Transparente De Rápido Secado 3ML",
         "productname_en": "",
@@ -1313,6 +1341,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1331,7 +1386,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Pegamento - B7000 Transparente De Rápido Secado 10ML",
         "productname_en": "",
@@ -2081,6 +2137,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2101,7 +2184,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Microscopio Portable. Sunshine Dm-1000S",
         "productname_en": "",
@@ -2814,6 +2898,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2834,7 +2945,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Set Para Desmontaje De Teléfonos",
         "productname_en": "",

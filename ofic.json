@@ -688,6 +688,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -708,7 +735,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "DUMOS Escritorio de oficina pequeño de 32 pulgadas para computadora de estilo moderno y simple, mesa de trabajo de estudio Negro",
         "productname_en": "",
@@ -1446,6 +1474,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1466,7 +1521,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "LOLARAN AL1000 Máquina Contadora de Dinero con Contabilidad de Valor, Soporta Dólar y Euro, Detección de Falsificaciones UV, MG,",
         "productname_en": "",
@@ -2178,6 +2234,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2198,7 +2281,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Silla Ergonómica de Oficina Tipo Gaming, con Respaldo Alto, Reclinación y Soporte Lumbar, Rosado con Blanco",
         "productname_en": "",
@@ -2919,6 +3003,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2939,7 +3050,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Silla Ergonómica de Oficina Tipo Gaming, con Respaldo Alto, Reclinación y Soporte Lumbar, Rojo con Negro",
         "productname_en": "",
@@ -3651,6 +3763,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -3671,7 +3810,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Silla de Oficina Sin Brazos, Soporte Lumbar Ergonómico, Altura Ajustable, Giro de 360   Grados - Verde",
         "productname_en": "",
@@ -4405,6 +4545,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4425,7 +4592,8 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "116-false"
         ],
         "productname": "Impresora Epson Ecotank L-805 Inalámbrica A Color Y Monocromo Con Impresión De Alta Resolución",
         "productname_en": "",
