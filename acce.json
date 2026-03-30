@@ -242398,9 +242398,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -242673,7 +242673,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -242694,7 +242694,7 @@
         "sales-price": 3,
         "short-description": "",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -242913,6 +242913,33 @@
         },
         "outstanding": false,
         "product-warehouses": [
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": false,
+            "id": "116",
+            "idstel": "116",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
           {
             "acronym": "AGE",
             "active": true,
@@ -243376,36 +243403,10 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": false,
-            "id": "116",
-            "idstel": "116",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
+          "116-false",
           "680-false",
           "3375-false",
           "4028-false",
@@ -243421,8 +243422,7 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "116-false"
+          "1624-false"
         ],
         "productname": "Cable De Iphone. Usb - Lighting - 1 Metro / Calidad Regular",
         "productname_en": "",
@@ -243434,7 +243434,7 @@
         "sales-price": 4.5,
         "short-description": "",
         "short-description-en": "",
-        "stock": 158,
+        "stock": 148,
         "stock-enabled": true,
         "tag": [
           {
