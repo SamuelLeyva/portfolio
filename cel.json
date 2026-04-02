@@ -8607,9 +8607,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 15,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 15,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
