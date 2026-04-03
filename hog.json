@@ -17380,9 +17380,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -17498,7 +17498,7 @@
             "public": false,
             "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -17614,7 +17614,7 @@
             "public": false,
             "stock": 74,
             "subcontractedid": "",
-            "virtual-stock": 72,
+            "virtual-stock": 74,
             "zip-code": ""
           },
           {
@@ -17641,9 +17641,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -21,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -20,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -17767,7 +17767,7 @@
           "116-false",
           "680-false",
           "3375-false",
-          "4028-true",
+          "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
@@ -17776,7 +17776,7 @@
           "2193-false",
           "707-false",
           "3866-true",
-          "611-true",
+          "611-false",
           "3298-false",
           "933-false",
           "862-false",
@@ -17792,7 +17792,7 @@
         "sales-price": 62,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
@@ -18140,9 +18140,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -18401,9 +18401,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 21,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -18527,7 +18527,7 @@
           "116-false",
           "680-false",
           "3375-false",
-          "4028-true",
+          "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
@@ -18536,7 +18536,7 @@
           "2193-false",
           "707-false",
           "3866-true",
-          "611-true",
+          "611-false",
           "3298-false",
           "933-false",
           "862-false",
