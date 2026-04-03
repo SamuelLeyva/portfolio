@@ -2607,7 +2607,7 @@
         "sales-price": 265,
         "short-description": "<ul><li><p>⚡ <strong>8GB RAM</strong> para rendimiento rápido y multitarea fluida</p></li><li><p>💾 <strong>256GB de almacenamiento</strong> amplio y expandible</p></li><li><p>🌈 <strong>Pantalla AMOLED FHD+ 6.77\"</strong> con <strong>120Hz</strong></p></li><li><p>📸 <strong>Cámara principal 108MP</strong> + frontal 16MP</p></li><li><p>🔋 <strong>Batería de larga duración</strong> con <strong>carga rápida 45W</strong></p></li><li><p>🛡️ Resistencia <strong>IP66/IP64</strong> y estándar <strong>MIL‑STD‑810H</strong></p></li><li><p>🎧 Viene con <strong>cover, mica y audífonos</strong></p></li></ul><p><strong>✔ Ideal para quienes buscan potencia, gran pantalla y almacenamiento amplio en un diseño elegante.</strong></p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -6029,7 +6029,7 @@
         "sales-price": 119,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 32,
+        "stock": 26,
         "stock-enabled": true,
         "tag": [
           {
@@ -8903,7 +8903,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -10842,7 +10842,7 @@
         "sales-price": 195,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un rendimiento equilibrado con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su color gris elegante y pantalla HD+ brindan una experiencia visual nítida y moderna. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 29,
+        "stock": 28,
         "stock-enabled": true,
         "tag": [
           {
@@ -11801,7 +11801,7 @@
         "sales-price": 195,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -13511,7 +13511,7 @@
         "sales-price": 169,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 27,
+        "stock": 25,
         "stock-enabled": true,
         "tag": [
           {
@@ -13844,6 +13844,35 @@
         },
         "outstanding": false,
         "product-warehouses": [
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "Estados Unidos",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": true,
+            "id": "116",
+            "idstel": "116",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
           {
             "acronym": "AGE",
             "active": true,
@@ -14307,38 +14336,10 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "Estados Unidos",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": true,
-            "id": "116",
-            "idstel": "116",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
+          "116-false",
           "680-false",
           "3375-false",
           "4028-false",
@@ -14354,8 +14355,7 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "116-false"
+          "1624-false"
         ],
         "productname": "Teléfono Xiaomi Redmi Note 14 Versión Global, 6Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
@@ -14367,7 +14367,7 @@
         "sales-price": 193,
         "short-description": "<p>¡Descubre el Xiaomi Redmi Note 14! Con su pantalla AMOLED de 6.67 pulgadas, un potente procesador Mediatek Helio G99 y 6GB de RAM, este teléfono te ofrece un rendimiento excepcional. La cámara triple de 108MP captura fotos increíbles en cualquier condición de luz. Además, la batería de 5500mAh asegura que tu dispositivo dure todo el día.</p>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
