@@ -3109,9 +3109,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -3405,7 +3405,7 @@
         "sales-price": 128,
         "short-description": "<ul><li><p>⚡ <strong>4GB RAM + 128GB almacenamiento</strong>: rendimiento básico y espacio suficiente.</p></li><li><p>📱 <strong>Pantalla HD+ de 6.88” (120Hz)</strong>: fluida y amplia para multimedia.</p></li><li><p>📷 <strong>Cámara principal de 32MP</strong>: fotos claras y videos aceptables.</p></li><li><p>🔋 <strong>Batería 5200 mAh con carga 15W</strong>: autonomía para todo el día.</p></li><li><p>🎨 <strong>Diseño elegante en negro</strong>: moderno y sobrio.</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [
           {
@@ -5735,7 +5735,7 @@
             "public": false,
             "stock": 30,
             "subcontractedid": "",
-            "virtual-stock": 26,
+            "virtual-stock": 30,
             "zip-code": ""
           },
           {
@@ -6029,7 +6029,7 @@
         "sales-price": 119,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 26,
+        "stock": 30,
         "stock-enabled": true,
         "tag": [
           {
