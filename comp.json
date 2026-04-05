@@ -23945,7 +23945,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 489,
             "updatedAt": 1747229914344
           },
           {
@@ -23958,7 +23958,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 480,
             "updatedAt": 1747229914346
           },
           {
@@ -23969,7 +23969,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 489,
             "updatedAt": 1747229914346
           },
           {
@@ -23981,7 +23981,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420
+            "price": 489
           },
           {
             "deleted": false,
@@ -23991,7 +23991,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 489,
             "updatedAt": 1747229914347
           },
           {
@@ -24002,7 +24002,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 489,
             "updatedAt": 1747229914347
           }
         ],
@@ -24013,6 +24013,35 @@
         },
         "outstanding": false,
         "product-warehouses": [
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "Estados Unidos",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": true,
+            "id": "116",
+            "idstel": "116",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
           {
             "acronym": "AGE",
             "active": true,
@@ -24476,38 +24505,10 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "Estados Unidos",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": true,
-            "id": "116",
-            "idstel": "116",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
+          "116-false",
           "680-false",
           "3375-false",
           "4028-false",
@@ -24523,8 +24524,7 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "116-false"
+          "1624-false"
         ],
         "productname": "Laptop ASUS VivoBook 14 14.0'' FHD Intel Core i5-1334U 12GB RAM 256GB SSD Almacenamiento - Azul ( Nuevo )",
         "productname_en": "",
@@ -24533,7 +24533,7 @@
         "reference": "PRO06215",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 430,
+        "sales-price": 499,
         "short-description": "<ul><li><p><strong>💻 ASUS VivoBook 14 (Quiet Blue)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel Core i5-1334U (13ra Gen - hasta 4.6 GHz)</p></li><li><p><strong>⚡ Memoria RAM:</strong> 128GB LPDDR5</p></li><li><p><strong>💾 Almacenamiento:</strong> 256GB SSD NVMe PCIe</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" Full HD (1920 x 1080) antirreflejos</p></li><li><p><strong>🎨 Gráficos:</strong> Intel Iris Xe Graphics</p></li><li><p><strong>🔋 Batería:</strong> 42Wh con carga rápida</p></li><li><p><strong>🔌 Puertos:</strong> 1x USB-C, 2x USB 3.2, 1x USB 2.0, HDMI 1.4</p></li><li><p><strong>⚖️ Peso:</strong> 1.4 kg (Ultra portátil)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home</p></li></ul></li></ul>",
         "short-description-en": "",
         "stock": 10,
@@ -37895,7 +37895,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 219,
+            "price": 259,
             "updatedAt": 1747229914344
           },
           {
@@ -37908,7 +37908,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 219,
+            "price": 259,
             "updatedAt": 1747229914346
           },
           {
@@ -37919,7 +37919,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 219,
+            "price": 259,
             "updatedAt": 1747229914346
           },
           {
@@ -37931,7 +37931,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 219
+            "price": 259
           },
           {
             "deleted": false,
@@ -37941,7 +37941,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 219,
+            "price": 259,
             "updatedAt": 1747229914347
           },
           {
@@ -37952,7 +37952,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 219,
+            "price": 259,
             "updatedAt": 1747229914347
           }
         ],
@@ -38483,7 +38483,7 @@
         "reference": "PRO06061",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 229,
+        "sales-price": 269,
         "short-description": "<p><strong>💻 ASUS VivoBook Go 14 (Modelo: E410KA)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel Celeron N4500</p></li><li><p><strong>⚡ Memoria RAM:</strong> 4GB DDR4</p></li><li><p><strong>💾 Almacenamiento:</strong> 128GB eMMC</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" Full HD (1920 x 1080)</p></li><li><p><strong>🎨 Gráficos:</strong> Intel UHD Graphics</p></li><li><p><strong>🔋 Batería:</strong> Hasta 12 horas de autonomía</p></li><li><p><strong>🔌 Puertos:</strong> 1x USB-C, 1x USB 3.2, 1x USB 2.0, HDMI</p></li><li><p><strong>⚖️ Peso:</strong> 1.3 kg (Extra ligera)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home (S mode)</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo de Paquete</strong> 📦 (Color Negro)</p></li></ul>",
         "short-description-en": "",
         "stock": 2,
@@ -43802,7 +43802,7 @@
         "sales-price": 16.99,
         "short-description": "<ul><li><p>Fuente de alimentación estable de <strong>12V a 5A</strong></p></li><li><p>Entrada <strong>AC 100-240V</strong>, ideal para uso global</p></li><li><p>Compatible con dispositivos de <strong>1A a 5A</strong></p></li><li><p>Conector <strong>5.5×2.5mm</strong> (compatible 5.5×2.1mm)</p></li><li><p>Incluye <strong>cable de corriente</strong> y <strong>cable transformador</strong></p></li><li><p>Diseño compacto: <strong>128×58×34mm</strong></p></li><li><p>Perfecto para <strong>LEDs, routers, cámaras y más</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
