@@ -3846,9 +3846,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -6676,9 +6676,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 16,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -6972,7 +6972,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -7632,9 +7632,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
