@@ -1442,9 +1442,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -2179,9 +2179,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -6948,9 +6948,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -7223,7 +7223,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -8897,9 +8897,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -11566,9 +11566,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -14487,7 +14487,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -15,
+            "virtual-stock": -16,
             "zip-code": ""
           },
           {
