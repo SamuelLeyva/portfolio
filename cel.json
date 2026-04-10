@@ -1442,9 +1442,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -5985,7 +5985,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -60,
+            "virtual-stock": -63,
             "zip-code": ""
           },
           {
@@ -6948,9 +6948,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -8897,9 +8897,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 22,
+            "stock": 21,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -9856,9 +9856,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -11566,9 +11566,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -16252,9 +16252,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
