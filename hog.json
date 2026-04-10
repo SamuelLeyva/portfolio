@@ -16589,7 +16589,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -16705,7 +16705,7 @@
             "public": false,
             "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -16883,7 +16883,7 @@
         "sales-price": 180,
         "short-description": "<ul><li><p>🖼️ <strong>Resolución: </strong>720p / HD</p></li><li><p>🗣️ <strong>Control por voz: </strong>Alexa</p></li><li><p>🎧 <strong>Sonido: </strong>Cinematográfico DTS Virtual X</p></li><li><p>🔗 <strong>Conexión: </strong>HDMI ARC</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
