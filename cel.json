@@ -633,7 +633,7 @@
         "sales-price": 115,
         "short-description": "",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -1592,7 +1592,7 @@
         "sales-price": 429,
         "short-description": "<ul><li><p>📱 <strong>Pantalla Super AMOLED de 6.7\"</strong>: Gran panel con resolución FHD+ (1080 x 2340 px) y fluidez de <strong>120 Hz</strong>.</p></li><li><p>🚀 <strong>Rendimiento de 8GB RAM</strong>: Multitarea fluida gracias a su memoria RAM y procesador <strong>Exynos 1580</strong> de 4 nm.</p></li><li><p>💾 <strong>256GB de Almacenamiento</strong>: Espacio de sobra para tus apps y archivos, con soporte para 6 años de actualizaciones de seguridad.</p></li><li><p>📸 <strong>Cámara Triple de 50MP</strong>: Sensor principal de <strong>50 MP con OIS</strong> (estabilización óptica), gran angular de 12 MP y macro de 5 MP.</p></li><li><p>🤳 <strong>Selfies de 12MP</strong>: Cámara frontal de alta resolución para videollamadas y retratos nítidos.</p></li><li><p>🔋 <strong>Batería de 5,000 mAh</strong>: Hasta 29 horas de reproducción de video y soporte para carga súper rápida de <strong>45W</strong>.</p></li><li><p>🛡️ <strong>Durabilidad IP67</strong>: Resistente al polvo y al agua (sumergible hasta 1 metro por 30 min) con cristal <strong>Gorilla Glass Victus+</strong>.</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -3055,9 +3055,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -3351,7 +3351,7 @@
         "sales-price": 129,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G85</p><p>🧠 Ram: 6GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -7151,7 +7151,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 54,
+        "stock": 45,
         "stock-enabled": true,
         "tag": [
           {
@@ -9071,7 +9071,7 @@
         "sales-price": 169,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 30,
+        "stock": 26,
         "stock-enabled": true,
         "tag": [
           {
@@ -10065,7 +10065,7 @@
         "sales-price": 195,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un rendimiento equilibrado con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su color gris elegante y pantalla HD+ brindan una experiencia visual nítida y moderna. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
@@ -10781,7 +10781,7 @@
         "sales-price": 9.5,
         "short-description": "<p>El soporte selfie extensible para teléfono móvil es un trípode portátil de aleación ligera diseñado para selfies grupales, transmisión en vivo y grabación de video estable. Con brazo extensible de 90cm y rotación 360°, permite ajustar ángulos libremente. Incluye control remoto Bluetooth y adaptador universal compatible con la mayoría de smartphones, ideal para creadores de contenido, viajeros y usuarios de redes sociales.</p>",
         "short-description-en": "",
-        "stock": 159,
+        "stock": 157,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -15619,7 +15619,7 @@
         "sales-price": 130,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 23,
         "stock-enabled": true,
         "tag": [
           {
