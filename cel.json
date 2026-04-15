@@ -337,9 +337,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 36,
+            "stock": 34,
             "subcontractedid": "",
-            "virtual-stock": 36,
+            "virtual-stock": 34,
             "zip-code": ""
           },
           {
@@ -6858,7 +6858,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -7152,7 +7152,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -7823,7 +7823,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -8776,9 +8776,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 25,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -9072,7 +9072,7 @@
         "sales-price": 169,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 22,
+        "stock": 25,
         "stock-enabled": true,
         "tag": [
           {
@@ -9752,7 +9752,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -11460,9 +11460,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 28,
+            "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
@@ -11756,7 +11756,7 @@
         "sales-price": 169,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 25,
+        "stock": 28,
         "stock-enabled": true,
         "tag": [
           {
@@ -12711,7 +12711,7 @@
         "sales-price": 111,
         "short-description": "<ul><li><p>🖥️ Pantalla HD+ de 6.6\" con refresco de 90 Hz</p></li><li><p>🔄 Procesador Unisoc T7100, 3Gb de ram más 5Gb virtual, para un total de 8GB de ram. 128GB de almacenamiento</p></li><li><p>🤳 Cámara trasera de 13 MP con flash LED + selfie de 5 MP</p></li><li><p>🔋 Batería de larga duración de 5000 mAh con carga rápida USB-C</p></li><li><p>📶 Dual SIM, 4G LTE, Wi-Fi, Bluetooth y más</p></li><li><p>💧 Protección IP54 + funda incluida</p></li><li><p>🔐 Lector de huella lateral + desbloqueo facial</p></li><li><p>🎛️ Dynamic Bar, Always-On Display, jack de 3.5 mm</p></li><li><p>✨ Color: <strong>Titanium Espacial</strong>, moderno y sofisticado</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -13684,7 +13684,7 @@
         "sales-price": 111,
         "short-description": "<ul><li><p>📱 Pantalla de 6.6” HD+ a 90 Hz con brillo de hasta 1500 nits</p></li><li><p>⚙️ Procesador Octa-Core Unisoc T7100 con3GB más 5GB virtual, para un total de 8GB de RAM</p></li><li><p>📸 Cámara trasera de 13 MP con IA + frontal de 5 MP</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15W por USB-C</p></li><li><p>📦 Disponible 128GB de almacenamiento</p></li><li><p>💧 Certificación IP54 resistente a salpicaduras y polvo</p></li><li><p>🔐 Sensor de huella lateral + desbloqueo facial</p></li><li><p>🎧 Jack 3.5 mm, Dynamic Bar, Always-On Display</p></li><li><p>✨ Color: <strong>Negro Starlit</strong>, elegante y sobrio</p></li></ul>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -15304,9 +15304,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 21,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 21,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
