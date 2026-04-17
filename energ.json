@@ -6463,7 +6463,7 @@
         "sales-price": 1980,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Ultra</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 3072 Wh | 3600 W (Pico 7200 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1800W (0-100% en 1,5 h)</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1600 W (puerto de alto voltaje) + 1000 W (puerto de bajo voltaje).</p></li><li><p><strong>🔌 Salidas:</strong> 4 tomas CA, 2 USB -C, 2 USB A , 12 V, DC5521</p></li><li><p><strong>🪶 Portabilidad:</strong> 52 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 11 kWh.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth compatibles.</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -11263,9 +11263,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
