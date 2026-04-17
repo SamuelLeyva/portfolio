@@ -4,6 +4,10 @@
       "_index": "products",
       "_id": "43230081",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "43230081",
         "idstel": "43230081",
@@ -77,7 +81,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>☀️ <strong>Panel Solar Portátil EcoFlow 110W para generación de energía sostenible fuera de la red</strong></p><p>🔋 <strong>Potencia nominal de 110W para alimentar dispositivos cotidianos en camping o emergencias</strong></p><p>🌱 <strong>Energía limpia y gratuita compatible con generadores solares EcoFlow y estaciones de energía</strong></p><p>⚡ <strong>Tasa de conversión líder en el sector de hasta el 23%</strong></p><p>🧪 <strong>Fabricado con células de silicio monocristalino de alta eficiencia</strong></p><p>🌊 <strong>Certificación IP68 de resistencia al agua y al polvo</strong></p><p>💧 <strong>Probado en laboratorio bajo inmersión de 1 metro de profundidad durante 72 horas (norma IEC 60529)</strong></p><p>🪨 <strong>Construcción con compuesto de alta resistencia diseñado para soportar impactos y uso rudo</strong></p><p>🧳 <strong>Diseño plegable aproximadamente un 10% más pequeño y ligero que paneles similares del mercado</strong></p><p>🎒 <strong>Incluye funda protectora de transporte que ahorra espacio en el maletero</strong></p><p>🪑 <strong>Funda convertible en soporte ajustable en ángulo para máxima exposición solar</strong></p><p>🔌 <strong>Sistema de conexión y desconexión simplificado para un montaje rápido</strong></p><p>🧠 <strong>Optimizado con algoritmo MPPT al conectar a generadores EcoFlow para suministro estable</strong></p><p>⏱️ <strong>Capacidad de carga de un EcoFlow RIVER 2 en aproximadamente 3 a 6 horas</strong></p><p>☁️ <strong>Preparado para todo tipo de clima: diseñado para resistir el paso del tiempo en exteriores</strong></p><p>✨ <strong>Estado: Nuevo</strong></p>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -690,7 +694,7 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 190,
-        "short-description": "",
+        "short-description": "<p>☀️ <strong>EcoFlow 110W Panel Solar Portátil</strong></p><p>⚡ <strong>Potencia:</strong> 110W</p><p>🌞 <strong>Eficiencia:</strong> Hasta 23% de tasa de conversión (Células de silicio monocristalino)</p><p>🛡️ <strong>Resistencia:</strong> Certificación IP68 (Resistencia total al polvo y protección contra inmersión bajo 1 metro de agua hasta 72 horas en pruebas de laboratorio)</p><p>📐 <strong>Diseño:</strong> Plegable y portátil (Aproximadamente un 10% más pequeño y ligero que otros paneles portátiles similares del mercado)</p><p>🎒 <strong>Accesorios incluidos:</strong> Funda protectora con función de soporte ajustable en ángulo para máxima captación solar</p><p>🔌 <strong>Compatibilidad:</strong> Optimizado para generadores solares EcoFlow (Algoritmo MPPT para suministro de energía estable)</p>",
         "short-description-en": "",
         "stock": 5,
         "stock-enabled": true,
@@ -709,7 +713,9 @@
           "name": "Unidad"
         },
         "vendorID": "",
-        "ratesConfig": [],
+        "ratesConfig": [
+          "11399"
+        ],
         "special-tags": {
           "international-shipments": [],
           "location-restrictions": [],
@@ -18128,9 +18134,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -18431,7 +18437,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-true",
+          "2820-false",
           "-2-true",
           "1776-false",
           "2193-false",
