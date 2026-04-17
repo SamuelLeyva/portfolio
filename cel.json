@@ -5873,9 +5873,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 43,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 35,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -6169,7 +6169,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 43,
+        "stock": 18,
         "stock-enabled": true,
         "tag": [
           {
@@ -6856,9 +6856,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 100,
+            "stock": 50,
             "subcontractedid": "",
-            "virtual-stock": 90,
+            "virtual-stock": 40,
             "zip-code": ""
           },
           {
@@ -7152,7 +7152,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 100,
+        "stock": 50,
         "stock-enabled": true,
         "tag": [
           {
@@ -7821,9 +7821,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 46,
+            "stock": 21,
             "subcontractedid": "",
-            "virtual-stock": 37,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -8117,7 +8117,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 46,
+        "stock": 21,
         "stock-enabled": true,
         "tag": [
           {
