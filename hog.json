@@ -9075,7 +9075,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -9191,7 +9191,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -9369,7 +9369,7 @@
         "sales-price": 235,
         "short-description": "<ul><li><p>Tamaño: 40 pulgadas</p></li><li><p>Resolución: 1080p</p></li><li><p>Sonido: DTS Virtual-X</p></li><li><p>Control por Voz: Alexa</p></li><li><p>Conexiones: HDMI eARC, USB</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
