@@ -1271,9 +1271,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -1406,7 +1406,7 @@
           "2193-false",
           "707-false",
           "3866-false",
-          "611-false",
+          "611-true",
           "3298-false",
           "933-false",
           "862-false",
