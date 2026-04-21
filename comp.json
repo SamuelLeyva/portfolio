@@ -314,7 +314,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 555,
+            "price": 520,
             "updatedAt": 1747229914344
           },
           {
@@ -327,7 +327,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 545,
+            "price": 510,
             "updatedAt": 1747229914346
           },
           {
@@ -338,7 +338,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 555,
+            "price": 520,
             "updatedAt": 1747229914346
           },
           {
@@ -350,7 +350,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 545
+            "price": 510
           },
           {
             "deleted": false,
@@ -360,7 +360,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 555,
+            "price": 520,
             "updatedAt": 1747229914347
           },
           {
@@ -371,7 +371,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 545,
+            "price": 510,
             "updatedAt": 1747229914347
           }
         ],
@@ -902,7 +902,7 @@
         "reference": "PRO07143",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 555,
+        "sales-price": 520,
         "short-description": "<p>💻 <strong>Lenovo IdeaPad 1 15.6\" FHD (Intel 13th Gen)</strong></p><p>🧠 <strong>Procesador:</strong> Intel Core i5-1335U (13ª Generación, Arquitectura híbrida de rendimiento)</p><p>⚡ <strong>Memoria RAM:</strong> 8GB DDR4 (Velocidad de 3200 MHz)</p><p>💾 <strong>Almacenamiento:</strong> 256GB SSD NVMe (Capacidad total sólida)</p><p>📺 <strong>Pantalla:</strong> 15.6\" Full HD (1920 x 1080) 60Hz, Panel Antirreflejo</p><p>🎨 <strong>Gráficos:</strong> Intel Iris Xe Graphics (Integrados de alto desempeño para tareas diarias)</p><p>🔋 <strong>Batería:</strong> Química de Iones de Litio (Duración estándar para productividad)</p><p>🔌 <strong>Puertos:</strong> 1 x HDMI, 2 x USB-A, Conector de audio combinado (Auriculares/Micrófono), Teclado numérico dedicado</p><p>⚖️ <strong>Peso:</strong> Aprox. 2.63 kg (5.8 libras)</p><p>🪟 <strong>Sistema:</strong> Windows 11 Home (Modo S configurable)</p><p>✨ <strong>Estado:</strong> Nuevo (Color Gris - Incluye enfriador portátil PCO Laptop Cooler)</p>",
         "short-description-en": "",
         "stock": 4,
@@ -5991,7 +5991,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 395,
+            "price": 389,
             "updatedAt": 1747229914346
           },
           {
@@ -6014,7 +6014,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 399
+            "price": 389
           },
           {
             "deleted": false,
@@ -6035,7 +6035,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 390,
+            "price": 389,
             "updatedAt": 1747229914347
           }
         ],
@@ -23115,25 +23115,25 @@
         "outstanding": false,
         "product-warehouses": [
           {
-            "acronym": "CAR",
+            "acronym": "AND",
             "active": true,
             "addres": "",
             "agent-id": "",
-            "comercialname": "APA",
+            "comercialname": "ANDY",
             "country": "Estados Unidos",
-            "createdAt": 1753367051080,
+            "createdAt": 1774667717671,
             "creator-id": "",
-            "description": "Almacén de transito",
+            "description": "Almacen de traspaso",
             "hidden": true,
-            "id": "3944",
-            "idstel": "3944",
+            "id": "116",
+            "idstel": "116",
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
             "location": "",
             "minimum-stock": 0,
             "municipality": "Miami",
-            "name": "APA.CAR",
+            "name": "ANDY.AND",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
             "province": "Florida",
@@ -23341,9 +23341,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -23492,35 +23492,6 @@
             "zip-code": ""
           },
           {
-            "acronym": "CAR",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "MVA",
-            "country": "Estados Unidos",
-            "createdAt": 1753367732909,
-            "creator-id": "",
-            "description": "Maravana Cargo",
-            "hidden": true,
-            "id": "901",
-            "idstel": "901",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Hialeah",
-            "name": "MVA.CAR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -23635,39 +23606,10 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "Estados Unidos",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": true,
-            "id": "116",
-            "idstel": "116",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
-          "3944-false",
+          "116-false",
           "680-false",
           "3375-false",
           "4028-false",
@@ -23680,12 +23622,10 @@
           "707-false",
           "3866-false",
           "611-false",
-          "901-false",
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "116-false"
+          "1624-false"
         ],
         "productname": "Cargador Para Laptop 65W 20V 3.25A para Lenovo IdeaPad y Yoga | Punta 4.0*1.7mm | Compatible con modelos 100, 100S, B50,",
         "productname_en": "",
@@ -23697,7 +23637,7 @@
         "sales-price": 19,
         "short-description": "<p>⚡ Potencia de salida 65W (20V – 3.25A)</p><p>🔌 Punta 4.0 × 1.7 mm | Entrada universal 100–240V</p><p>💻 Compatible con Lenovo IdeaPad 100/100S, B50, Yoga 310, 510, 710</p><p>🛡️ Protección contra sobrecarga, sobrecalentamiento y cortocircuitos</p><p>📦 Producto nuevo de alta calidad | Devolución gratuita disponible</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
