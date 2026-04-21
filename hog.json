@@ -9768,9 +9768,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 8,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -9855,9 +9855,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -10130,7 +10130,7 @@
           "3807-true",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -10151,7 +10151,7 @@
         "sales-price": 550,
         "short-description": "<ul><li><p><strong>↔️Tamaño:</strong> 55 pulgadas</p></li><li><p>🖼️<strong>Resolución:</strong> 4K UHD (3840x2160)</p></li><li><p><strong>🖥️Sistema:</strong> Tizen OS</p></li><li><p>🔗<strong>Conexiones:</strong> HDMI, USB, Wi-Fi</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
