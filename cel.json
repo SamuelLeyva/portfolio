@@ -421,9 +421,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -3964,9 +3964,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 45,
+            "stock": 44,
             "subcontractedid": "",
-            "virtual-stock": 45,
+            "virtual-stock": 44,
             "zip-code": ""
           },
           {
@@ -4260,7 +4260,7 @@
         "sales-price": 125,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 48,
+        "stock": 45,
         "stock-enabled": true,
         "tag": [
           {
@@ -6131,7 +6131,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 33,
+        "stock": 32,
         "stock-enabled": true,
         "tag": [
           {
@@ -7101,7 +7101,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 66,
+        "stock": 63,
         "stock-enabled": true,
         "tag": [
           {
@@ -8066,7 +8066,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -9021,7 +9021,7 @@
         "sales-price": 169,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [
           {
@@ -12684,7 +12684,7 @@
         "sales-price": 169,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 38,
+        "stock": 36,
         "stock-enabled": true,
         "tag": [
           {
@@ -13657,7 +13657,7 @@
         "sales-price": 111,
         "short-description": "<ul><li><p>📱 Pantalla de 6.6” HD+ a 90 Hz con brillo de hasta 1500 nits</p></li><li><p>⚙️ Procesador Octa-Core Unisoc T7100 con3GB más 5GB virtual, para un total de 8GB de RAM</p></li><li><p>📸 Cámara trasera de 13 MP con IA + frontal de 5 MP</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15W por USB-C</p></li><li><p>📦 Disponible 128GB de almacenamiento</p></li><li><p>💧 Certificación IP54 resistente a salpicaduras y polvo</p></li><li><p>🔐 Sensor de huella lateral + desbloqueo facial</p></li><li><p>🎧 Jack 3.5 mm, Dynamic Bar, Always-On Display</p></li><li><p>✨ Color: <strong>Negro Starlit</strong>, elegante y sobrio</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -14648,7 +14648,7 @@
         "sales-price": 115,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 29,
+        "stock": 27,
         "stock-enabled": true,
         "tag": [
           {
@@ -16290,9 +16290,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -16586,7 +16586,7 @@
         "sales-price": 130,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 16,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
