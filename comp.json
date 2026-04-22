@@ -23341,9 +23341,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -23637,7 +23637,7 @@
         "sales-price": 19,
         "short-description": "<p>⚡ Potencia de salida 65W (20V – 3.25A)</p><p>🔌 Punta 4.0 × 1.7 mm | Entrada universal 100–240V</p><p>💻 Compatible con Lenovo IdeaPad 100/100S, B50, Yoga 310, 510, 710</p><p>🛡️ Protección contra sobrecarga, sobrecalentamiento y cortocircuitos</p><p>📦 Producto nuevo de alta calidad | Devolución gratuita disponible</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
