@@ -717,7 +717,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ <strong>8GB RAM</strong> para rendimiento rápido y multitarea fluida</p></li><li><p>💾 <strong>256GB de almacenamiento</strong> amplio y expandible</p></li><li><p>🌈 <strong>Pantalla AMOLED FHD+ 6.77\"</strong> con <strong>120Hz</strong></p></li><li><p>📸 <strong>Cámara principal 108MP</strong> + frontal 16MP</p></li><li><p>🔋 <strong>Batería de larga duración</strong> con <strong>carga rápida 45W</strong></p></li><li><p>🛡️ Resistencia <strong>IP66/IP64</strong> y estándar <strong>MIL‑STD‑810H</strong></p></li><li><p>🎧 Viene con <strong>cover, mica y audífonos</strong></p></li></ul><p><strong>✔ Ideal para quienes buscan potencia, gran pantalla y almacenamiento amplio en un diseño elegante.</strong></p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -2061,9 +2061,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -4260,7 +4260,7 @@
         "sales-price": 125,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 45,
+        "stock": 44,
         "stock-enabled": true,
         "tag": [
           {
@@ -6805,9 +6805,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 63,
+            "stock": 61,
             "subcontractedid": "",
-            "virtual-stock": 53,
+            "virtual-stock": 51,
             "zip-code": ""
           },
           {
@@ -7101,7 +7101,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 63,
+        "stock": 61,
         "stock-enabled": true,
         "tag": [
           {
@@ -7770,9 +7770,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -6,
+            "virtual-stock": -9,
             "zip-code": ""
           },
           {
@@ -8045,7 +8045,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -8066,7 +8066,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
