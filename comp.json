@@ -6273,9 +6273,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -6569,7 +6569,7 @@
         "sales-price": 399,
         "short-description": "<p><strong>💻 HP 15.6\" Táctil (15-fd0153dx)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> <strong>Intel Core i3-1315U</strong> (13ra Gen - 6 núcleos hasta 4.5 GHz)</p></li><li><p><strong>⚡ Memoria RAM:</strong> <strong>8GB DDR4</strong>-3200 MHz</p></li><li><p><strong>💾 Almacenamiento:</strong> <strong>256GB SSD</strong> PCIe NVMe M.2</p></li><li><p><strong>📺 Pantalla:</strong> <strong>15.6\" HD Táctil</strong> (1366 x 768) con microbordes</p></li><li><p><strong>🎨 Gráficos:</strong> Intel UHD Graphics</p></li><li><p><strong>🔋 Batería:</strong> Ion-litio de 3 celdas (<strong>41 Wh</strong>). Soporta <strong>carga rápida</strong> (50% en 45 min). Hasta 12 Hrs</p></li><li><p><strong>🔌 Puertos:</strong> 1x <strong>USB-C</strong>, 2x USB-A, 1x HDMI 1.4b, Jack 3.5mm</p></li><li><p><strong>⚖️ Peso:</strong> <strong>1.59 kg</strong> (Diseño ligero y delgado)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo</strong> (Color Plateado Natural)</p></li></ul><p></p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
