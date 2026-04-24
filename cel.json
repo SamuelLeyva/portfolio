@@ -717,7 +717,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ <strong>8GB RAM</strong> para rendimiento rápido y multitarea fluida</p></li><li><p>💾 <strong>256GB de almacenamiento</strong> amplio y expandible</p></li><li><p>🌈 <strong>Pantalla AMOLED FHD+ 6.77\"</strong> con <strong>120Hz</strong></p></li><li><p>📸 <strong>Cámara principal 108MP</strong> + frontal 16MP</p></li><li><p>🔋 <strong>Batería de larga duración</strong> con <strong>carga rápida 45W</strong></p></li><li><p>🛡️ Resistencia <strong>IP66/IP64</strong> y estándar <strong>MIL‑STD‑810H</strong></p></li><li><p>🎧 Viene con <strong>cover, mica y audífonos</strong></p></li></ul><p><strong>✔ Ideal para quienes buscan potencia, gran pantalla y almacenamiento amplio en un diseño elegante.</strong></p>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [
           {
@@ -2357,7 +2357,7 @@
         "sales-price": 429,
         "short-description": "<ul><li><p>📱 <strong>Pantalla Super AMOLED de 6.7\"</strong>: Gran panel con resolución FHD+ (1080 x 2340 px) y fluidez de <strong>120 Hz</strong>.</p></li><li><p>🚀 <strong>Rendimiento de 8GB RAM</strong>: Multitarea fluida gracias a su memoria RAM y procesador <strong>Exynos 1580</strong> de 4 nm.</p></li><li><p>💾 <strong>256GB de Almacenamiento</strong>: Espacio de sobra para tus apps y archivos, con soporte para 6 años de actualizaciones de seguridad.</p></li><li><p>📸 <strong>Cámara Triple de 50MP</strong>: Sensor principal de <strong>50 MP con OIS</strong> (estabilización óptica), gran angular de 12 MP y macro de 5 MP.</p></li><li><p>🤳 <strong>Selfies de 12MP</strong>: Cámara frontal de alta resolución para videollamadas y retratos nítidos.</p></li><li><p>🔋 <strong>Batería de 5,000 mAh</strong>: Hasta 29 horas de reproducción de video y soporte para carga súper rápida de <strong>45W</strong>.</p></li><li><p>🛡️ <strong>Durabilidad IP67</strong>: Resistente al polvo y al agua (sumergible hasta 1 metro por 30 min) con cristal <strong>Gorilla Glass Victus+</strong>.</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -4260,7 +4260,7 @@
         "sales-price": 125,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 44,
+        "stock": 40,
         "stock-enabled": true,
         "tag": [
           {
@@ -5200,7 +5200,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -6131,7 +6131,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 32,
+        "stock": 30,
         "stock-enabled": true,
         "tag": [
           {
@@ -9021,7 +9021,7 @@
         "sales-price": 169,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 16,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
@@ -10015,7 +10015,7 @@
         "sales-price": 195,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un rendimiento equilibrado con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su color gris elegante y pantalla HD+ brindan una experiencia visual nítida y moderna. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
