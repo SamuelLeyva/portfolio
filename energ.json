@@ -12511,7 +12511,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 8.7,
+            "price": 7.7,
             "updatedAt": 1747229914344
           },
           {
@@ -12524,7 +12524,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 8.7,
+            "price": 7,
             "updatedAt": 1747229914346
           },
           {
@@ -12535,7 +12535,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 8.7,
+            "price": 7.7,
             "updatedAt": 1747229914346
           },
           {
@@ -12547,7 +12547,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 8.7
+            "price": 7
           },
           {
             "deleted": false,
@@ -12557,7 +12557,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 8.7,
+            "price": 7.7,
             "updatedAt": 1747229914347
           },
           {
@@ -12568,7 +12568,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 8.3,
+            "price": 7,
             "updatedAt": 1747229914347
           }
         ],
@@ -13099,7 +13099,7 @@
         "reference": "PRO07075",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 8.7,
+        "sales-price": 7.7,
         "short-description": "<p><strong>☀️ Cable de Extensión Solar 12 AWG (Venta por Metro)</strong></p><ul><li><p><strong>📐 Calibre:</strong> 12 AWG (Ideal para minimizar caídas de voltaje).</p></li><li><p><strong>🔌 Uso:</strong> Conexión de paneles solares a controladores de carga o inversores.</p></li><li><p><strong>🛡️ Protección:</strong> Recubrimiento XLPE resistente a rayos UV y climas extremos.</p></li><li><p><strong>🌡️ Temperatura:</strong> Soporta hasta 90°C en condiciones húmedas o secas.</p></li><li><p><strong>⚡ Capacidad:</strong> Diseñado para manejar altas corrientes en sistemas de 12V, 24V o superiores.</p></li><li><p><strong>📏 Venta:</strong> Personalizada por metros lineales.( <strong>Compra mínima 10m de extensión</strong>)</p></li></ul>",
         "short-description-en": "",
         "stock": 246,
@@ -16160,7 +16160,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1970,
+            "price": 1840,
             "updatedAt": 1747229914346
           },
           {
@@ -16183,7 +16183,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1970
+            "price": 1840
           },
           {
             "deleted": false,
@@ -16204,7 +16204,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1960,
+            "price": 1840,
             "updatedAt": 1747229914347
           }
         ],
@@ -16735,7 +16735,7 @@
         "reference": "PRO06923",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 1980,
+        "sales-price": 1850,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Ultra</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 3072 Wh | 3600 W (Pico 7200 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1800W (0-100% en 1,5 h)</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1600 W (puerto de alto voltaje) + 1000 W (puerto de bajo voltaje).</p></li><li><p><strong>🔌 Salidas:</strong> 4 tomas CA, 2 USB -C, 2 USB A , 12 V, DC5521</p></li><li><p><strong>🪶 Portabilidad:</strong> 52 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 11 kWh.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth compatibles.</p></li></ul>",
         "short-description-en": "",
         "stock": 4,
@@ -18361,7 +18361,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 885,
+            "price": 780,
             "updatedAt": 1747229914346
           },
           {
@@ -18384,7 +18384,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 885
+            "price": 780
           },
           {
             "deleted": false,
@@ -18405,7 +18405,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 830,
+            "price": 780,
             "updatedAt": 1747229914347
           }
         ],
@@ -18936,7 +18936,7 @@
         "reference": "PRO05726",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 840,
+        "sales-price": 790,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 5 kWh con baterías adicionales DELTA 3 o DELTA Pro 3.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
         "stock": 1,
@@ -19078,7 +19078,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740,
+            "price": 720,
             "updatedAt": 1747229914344
           },
           {
@@ -19091,7 +19091,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 730,
+            "price": 710,
             "updatedAt": 1747229914346
           },
           {
@@ -19102,7 +19102,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740,
+            "price": 720,
             "updatedAt": 1747229914346
           },
           {
@@ -19114,7 +19114,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 730
+            "price": 710
           },
           {
             "deleted": false,
@@ -19124,7 +19124,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740,
+            "price": 720,
             "updatedAt": 1747229914347
           },
           {
@@ -19135,7 +19135,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 730,
+            "price": 710,
             "updatedAt": 1747229914347
           }
         ],
@@ -19666,7 +19666,7 @@
         "reference": "PRO06212",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 740,
+        "sales-price": 720,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
         "stock": 4,
