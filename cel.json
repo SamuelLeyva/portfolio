@@ -421,9 +421,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -717,7 +717,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ <strong>8GB RAM</strong> para rendimiento rápido y multitarea fluida</p></li><li><p>💾 <strong>256GB de almacenamiento</strong> amplio y expandible</p></li><li><p>🌈 <strong>Pantalla AMOLED FHD+ 6.77\"</strong> con <strong>120Hz</strong></p></li><li><p>📸 <strong>Cámara principal 108MP</strong> + frontal 16MP</p></li><li><p>🔋 <strong>Batería de larga duración</strong> con <strong>carga rápida 45W</strong></p></li><li><p>🛡️ Resistencia <strong>IP66/IP64</strong> y estándar <strong>MIL‑STD‑810H</strong></p></li><li><p>🎧 Viene con <strong>cover, mica y audífonos</strong></p></li></ul><p><strong>✔ Ideal para quienes buscan potencia, gran pantalla y almacenamiento amplio en un diseño elegante.</strong></p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
@@ -1104,9 +1104,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 30,
+            "stock": 28,
             "subcontractedid": "",
-            "virtual-stock": 30,
+            "virtual-stock": 28,
             "zip-code": ""
           },
           {
@@ -1400,7 +1400,7 @@
         "sales-price": 215,
         "short-description": "<ul><li><p>📱 <strong>Pantalla AMOLED de 6.77\"</strong>: Panel brillante con resolución <strong>FHD+</strong> (1080 x 2392 px), tasa de refresco de <strong>120 Hz</strong> y un brillo pico impresionante de <strong>3,200 nits</strong> para visibilidad total bajo el sol.</p></li><li><p>🚀 <strong>Rendimiento de 6GB RAM</strong>: Equipado con el procesador <strong>Snapdragon 6 Gen 3</strong> (en su versión 5G) o <strong>Helio G100 Ultra</strong> (4G), diseñado para una multitarea fluida y eficiencia energética.</p></li><li><p>💾 <strong>256GB de Almacenamiento</strong>: Amplio espacio interno para fotos, videos y apps, expandible mediante tarjeta <strong>microSD de hasta 1TB</strong>.</p></li><li><p>📸 <strong>Cámara Principal de 108MP</strong>: Sensor de alta resolución de <strong>108 MP</strong> con apertura f/1.7 y estabilización óptica (<strong>OIS</strong>), permitiendo capturas nítidas y grabación en <strong>4K</strong>.</p></li><li><p>🤳 <strong>Cámara Frontal de 20MP</strong>: Sensor de <strong>20 MP</strong> optimizado para selfies detallados y videollamadas en alta definición.</p></li><li><p>🔋 <strong>Batería de 5,520 mAh</strong>: Gran capacidad que ofrece hasta <strong>1.6 días de uso</strong> continuo. Soporta <strong>carga rápida de 45W</strong>, alcanzando el 50% en solo 25 minutos.</p></li><li><p>🛡️ <strong>Resistencia y Durabilidad</strong>: Certificación <strong>IP66</strong> contra polvo y chorros de agua, además de cristal de alta durabilidad para mayor protección ante caídas.</p></li></ul>",
         "short-description-en": "",
-        "stock": 31,
+        "stock": 30,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -3304,7 +3304,7 @@
         "sales-price": 129,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G85</p><p>🧠 Ram: 6GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -3964,9 +3964,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 39,
+            "stock": 36,
             "subcontractedid": "",
-            "virtual-stock": 39,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -4260,7 +4260,7 @@
         "sales-price": 125,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 40,
+        "stock": 39,
         "stock-enabled": true,
         "tag": [
           {
@@ -4898,9 +4898,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 27,
+            "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -5194,7 +5194,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 29,
+        "stock": 27,
         "stock-enabled": true,
         "tag": [
           {
@@ -6164,7 +6164,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 45,
+        "stock": 43,
         "stock-enabled": true,
         "tag": [
           {
@@ -12479,9 +12479,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -14417,9 +14417,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
