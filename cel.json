@@ -3288,7 +3288,7 @@
         "sales-price": 125,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 32,
+        "stock": 30,
         "stock-enabled": true,
         "tag": [
           {
@@ -4222,7 +4222,7 @@
         "sales-price": 184,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: Exynos 1330</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 5G, NFC, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 23,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [
           {
@@ -5861,9 +5861,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 34,
+            "stock": 33,
             "subcontractedid": "",
-            "virtual-stock": 34,
+            "virtual-stock": 33,
             "zip-code": ""
           },
           {
@@ -6157,7 +6157,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 35,
+        "stock": 33,
         "stock-enabled": true,
         "tag": [
           {
@@ -8077,7 +8077,7 @@
         "sales-price": 169,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 30,
+        "stock": 28,
         "stock-enabled": true,
         "tag": [
           {
@@ -12695,7 +12695,7 @@
         "sales-price": 111,
         "short-description": "<ul><li><p>🖥️ Pantalla HD+ de 6.6\" con refresco de 90 Hz</p></li><li><p>🔄 Procesador Unisoc T7100, 3Gb de ram más 5Gb virtual, para un total de 8GB de ram. 128GB de almacenamiento</p></li><li><p>🤳 Cámara trasera de 13 MP con flash LED + selfie de 5 MP</p></li><li><p>🔋 Batería de larga duración de 5000 mAh con carga rápida USB-C</p></li><li><p>📶 Dual SIM, 4G LTE, Wi-Fi, Bluetooth y más</p></li><li><p>💧 Protección IP54 + funda incluida</p></li><li><p>🔐 Lector de huella lateral + desbloqueo facial</p></li><li><p>🎛️ Dynamic Bar, Always-On Display, jack de 3.5 mm</p></li><li><p>✨ Color: <strong>Titanium Espacial</strong>, moderno y sofisticado</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -14659,7 +14659,7 @@
         "sales-price": 115,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
