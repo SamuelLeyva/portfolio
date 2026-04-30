@@ -5174,7 +5174,7 @@
         "sales-price": 129,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 18,
         "stock-enabled": true,
         "tag": [
           {
@@ -7122,7 +7122,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 40,
+        "stock": 39,
         "stock-enabled": true,
         "tag": [
           {
@@ -8077,7 +8077,7 @@
         "sales-price": 169,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 28,
+        "stock": 27,
         "stock-enabled": true,
         "tag": [
           {
@@ -11444,9 +11444,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 56,
+            "stock": 51,
             "subcontractedid": "",
-            "virtual-stock": 56,
+            "virtual-stock": 51,
             "zip-code": ""
           },
           {
@@ -11740,7 +11740,7 @@
         "sales-price": 169,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 57,
+        "stock": 56,
         "stock-enabled": true,
         "tag": [
           {
@@ -13668,7 +13668,7 @@
         "sales-price": 111,
         "short-description": "<ul><li><p>📱 Pantalla de 6.6” HD+ a 90 Hz con brillo de hasta 1500 nits</p></li><li><p>⚙️ Procesador Octa-Core Unisoc T7100 con3GB más 5GB virtual, para un total de 8GB de RAM</p></li><li><p>📸 Cámara trasera de 13 MP con IA + frontal de 5 MP</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15W por USB-C</p></li><li><p>📦 Disponible 128GB de almacenamiento</p></li><li><p>💧 Certificación IP54 resistente a salpicaduras y polvo</p></li><li><p>🔐 Sensor de huella lateral + desbloqueo facial</p></li><li><p>🎧 Jack 3.5 mm, Dynamic Bar, Always-On Display</p></li><li><p>✨ Color: <strong>Negro Starlit</strong>, elegante y sobrio</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -14363,9 +14363,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
