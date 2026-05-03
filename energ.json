@@ -10934,7 +10934,7 @@
         "sales-price": 190,
         "short-description": "<p>☀️ <strong>EcoFlow 110W Panel Solar Portátil</strong></p><p>⚡ <strong>Potencia:</strong> 110W</p><p>🌞 <strong>Eficiencia:</strong> Hasta 23% de tasa de conversión (Células de silicio monocristalino)</p><p>🛡️ <strong>Resistencia:</strong> Certificación IP68 (Resistencia total al polvo y protección contra inmersión bajo 1 metro de agua hasta 72 horas en pruebas de laboratorio)</p><p>📐 <strong>Diseño:</strong> Plegable y portátil (Aproximadamente un 10% más pequeño y ligero que otros paneles portátiles similares del mercado)</p><p>🎒 <strong>Accesorios incluidos:</strong> Funda protectora con función de soporte ajustable en ángulo para máxima captación solar</p><p>🔌 <strong>Compatibilidad:</strong> Optimizado para generadores solares EcoFlow (Algoritmo MPPT para suministro de energía estable)</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -17464,7 +17464,7 @@
         "sales-price": 1099,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Max</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 2048 Wh | 2400 W (Pico 4800 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePo 4000 Ciclos de carga.</p></li><li><p><strong>⏱️ Carga Rápida: </strong>1800W Carga rápida en 43 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W.</p></li><li><p><strong>🔌 Salidas:</strong> 4 salidas AC, 4 USB y 1 toma DC.</p></li><li><p><strong>🪶 Portabilidad:</strong> 20,3 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No. Modelo con Capacidad No expandible</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante App (WiFi/Bluetooth)</p></li></ul>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -23506,7 +23506,7 @@
         "sales-price": 650,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
