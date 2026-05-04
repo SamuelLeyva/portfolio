@@ -17081,9 +17081,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -17284,9 +17284,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -17440,14 +17440,14 @@
           "680-false",
           "3375-false",
           "4028-true",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
           "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "3298-false",
           "933-false",
@@ -17464,7 +17464,7 @@
         "sales-price": 1099,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Max</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 2048 Wh | 2400 W (Pico 4800 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePo 4000 Ciclos de carga.</p></li><li><p><strong>⏱️ Carga Rápida: </strong>1800W Carga rápida en 43 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W.</p></li><li><p><strong>🔌 Salidas:</strong> 4 salidas AC, 4 USB y 1 toma DC.</p></li><li><p><strong>🪶 Portabilidad:</strong> 20,3 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No. Modelo con Capacidad No expandible</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante App (WiFi/Bluetooth)</p></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -17842,9 +17842,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -18045,9 +18045,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -18201,14 +18201,14 @@
           "680-false",
           "3375-false",
           "4028-true",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
           "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "3298-false",
           "933-false",
@@ -18556,9 +18556,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -18643,9 +18643,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -18915,10 +18915,10 @@
           "680-false",
           "3375-false",
           "4028-true",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -18939,7 +18939,7 @@
         "sales-price": 790,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 5 kWh con baterías adicionales DELTA 3 o DELTA Pro 3.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -19286,9 +19286,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -19373,9 +19373,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -19645,7 +19645,7 @@
           "680-false",
           "3375-false",
           "4028-true",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
           "-2-true",
@@ -19669,7 +19669,7 @@
         "sales-price": 720,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -23123,9 +23123,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 18,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -23212,7 +23212,7 @@
             "public": false,
             "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -23326,9 +23326,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -23482,14 +23482,14 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-true",
           "3298-false",
           "933-false",
@@ -23506,7 +23506,7 @@
         "sales-price": 650,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
@@ -28768,7 +28768,7 @@
         "sales-price": 62,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -33339,9 +33339,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -33426,9 +33426,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -33542,9 +33542,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -33698,14 +33698,14 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "3298-false",
           "933-false",
@@ -33722,7 +33722,7 @@
         "sales-price": 620,
         "short-description": "<ul><li><p>🔋 <strong>Batería Extra para EcoFlow DELTA 2 – Smart Extra Battery</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh de energía adicional</p></li><li><p>🔌 <strong>Voltaje nominal:</strong> 51.2 V</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio-fosfato (LFP) – duradera y estable</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta 3 000 ciclos a 80 %+ de capacidad</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión directa y rápida con tu estación DELTA 2</p></li><li><p>🚀 <strong>Expande la capacidad total</strong> del sistema hasta ~2 048 Wh cuando se combina con la unidad principal</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, temperatura y cortocircuito</p></li><li><p>🔇 <strong>Operación silenciosa y segura</strong></p></li><li><p>📦 <strong>Diseño compacto y portátil:</strong> fácil de mover y conectar</p></li><li><p>🔗 <strong>Compatibilidad:</strong> EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -34165,9 +34165,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -34252,9 +34252,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -34368,9 +34368,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -34524,10 +34524,10 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -34548,7 +34548,7 @@
         "sales-price": 649,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje nominal:</strong> 51.2 V</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~4 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
