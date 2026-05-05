@@ -78525,6 +78525,35 @@
         "outstanding": false,
         "product-warehouses": [
           {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "Estados Unidos",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": true,
+            "id": "116",
+            "idstel": "116",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "AGE",
             "active": true,
             "addres": "",
@@ -78987,38 +79016,10 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "Estados Unidos",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": true,
-            "id": "116",
-            "idstel": "116",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
+          "116-false",
           "680-false",
           "3375-false",
           "4028-false",
@@ -79034,8 +79035,7 @@
           "3298-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "116-false"
+          "1624-false"
         ],
         "productname": "Cover Iphone 14 Plus Tlm04 Transparente Magsafe Dorado",
         "productname_en": "",
@@ -79047,7 +79047,7 @@
         "sales-price": 6,
         "short-description": "",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -184315,7 +184315,7 @@
         "sales-price": 10,
         "short-description": "<p>⚡ Thor: Cargador Rápido 20W con Doble Poder</p><ul><li><p><strong>🚀 Carga Ultra Rápida (20W):</strong> Gracias a la tecnología <strong>Power Delivery 3.0 (PD)</strong>, puedes cargar tu iPhone o Android compatible hasta el <strong>50% en solo 30 minutos</strong>.</p></li><li><p><strong>🔌 Doble Puerto Inteligente:</strong></p><ul><li><p><strong>USB Tipo-C (PD 3.0):</strong> Para dispositivos de última generación y carga rápida máxima.</p></li><li><p><strong>USB-A (QC 3.0):</strong> Equipado con <strong>Quick Charge 3.0</strong> para cargar dispositivos tradicionales a gran velocidad.</p></li></ul></li><li><p><strong>📱 Carga Dual Simultánea:</strong> Permite cargar <strong>dos dispositivos al mismo tiempo</strong>, gestionando la energía de forma inteligente para no dañar tus baterías.</p></li><li><p><strong>🚨 Indicador de Luz LED:</strong> Cuenta con una luz integrada que te permite localizar el cargador fácilmente en la oscuridad y confirmar que está recibiendo energía.</p></li><li><p><strong>🛡️ Protección Multicapa:</strong> Chip inteligente que protege contra <strong>sobrecalentamiento, sobrevoltaje y cortocircuitos</strong>, cuidando la vida útil de tu smartphone.</p></li><li><p><strong>🌍 Compatibilidad Universal:</strong> Ideal para smartphones (iPhone, Samsung, Xiaomi), tablets, audífonos inalámbricos y smartwatches.</p></li><li><p><strong>✈️ Diseño Compacto y Viajero:</strong> Ligero y pequeño, perfecto para llevar en la mochila o el bolsillo sin ocupar espacio.</p></li></ul>",
         "short-description-en": "",
-        "stock": 127,
+        "stock": 117,
         "stock-enabled": true,
         "tag": [
           {
@@ -192966,7 +192966,7 @@
             "public": false,
             "stock": 720,
             "subcontractedid": "",
-            "virtual-stock": 722,
+            "virtual-stock": 720,
             "zip-code": ""
           },
           {
@@ -193260,7 +193260,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 722,
+        "stock": 720,
         "stock-enabled": true,
         "tag": [
           {
