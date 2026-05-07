@@ -16752,6 +16752,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "estaciones-de-energía"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -17466,7 +17477,19 @@
         "short-description-en": "",
         "stock": 7,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-01-06T11:48:22.000Z",
         "warranty": null,
@@ -18239,6 +18262,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "estaciones-de-energía"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -18953,6 +18987,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "estaciones-de-energía"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -19671,7 +19716,19 @@
         "short-description-en": "",
         "stock": 3,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-01-04T01:13:23.000Z",
         "warranty": null,
@@ -21147,7 +21204,19 @@
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-01-03T00:09:20.000Z",
         "warranty": null,
@@ -22649,6 +22718,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "estaciones-de-energía"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -23532,6 +23612,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "blackfriday"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -24398,6 +24489,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "estaciones-de-energía"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -26563,6 +26665,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "estaciones-de-energía"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -33688,6 +33801,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "baterías-extra"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
@@ -34514,6 +34638,17 @@
             "originCreate": "ecommerce",
             "originUpdate": "ecommerce",
             "slug": "baterías-extra"
+          },
+          {
+            "active": true,
+            "createdAt": 1778179026035,
+            "creation-date": "2026-05-07T18:37:06.035Z",
+            "description": "Madre",
+            "id": "qdkjpb7wyixBgCtTAzpY",
+            "name": "Madre",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "madre"
           }
         ],
         "subcontractedid": "0",
