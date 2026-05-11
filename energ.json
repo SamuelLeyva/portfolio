@@ -10322,7 +10322,7 @@
         "description": "<p>☀️ <strong>Panel Solar Portátil EcoFlow 110W para generación de energía sostenible fuera de la red</strong></p><p>🔋 <strong>Potencia nominal de 110W para alimentar dispositivos cotidianos en camping o emergencias</strong></p><p>🌱 <strong>Energía limpia y gratuita compatible con generadores solares EcoFlow y estaciones de energía</strong></p><p>⚡ <strong>Tasa de conversión líder en el sector de hasta el 23%</strong></p><p>🧪 <strong>Fabricado con células de silicio monocristalino de alta eficiencia</strong></p><p>🌊 <strong>Certificación IP68 de resistencia al agua y al polvo</strong></p><p>💧 <strong>Probado en laboratorio bajo inmersión de 1 metro de profundidad durante 72 horas (norma IEC 60529)</strong></p><p>🪨 <strong>Construcción con compuesto de alta resistencia diseñado para soportar impactos y uso rudo</strong></p><p>🧳 <strong>Diseño plegable aproximadamente un 10% más pequeño y ligero que paneles similares del mercado</strong></p><p>🎒 <strong>Incluye funda protectora de transporte que ahorra espacio en el maletero</strong></p><p>🪑 <strong>Funda convertible en soporte ajustable en ángulo para máxima exposición solar</strong></p><p>🔌 <strong>Sistema de conexión y desconexión simplificado para un montaje rápido</strong></p><p>🧠 <strong>Optimizado con algoritmo MPPT al conectar a generadores EcoFlow para suministro estable</strong></p><p>⏱️ <strong>Capacidad de carga de un EcoFlow RIVER 2 en aproximadamente 3 a 6 horas</strong></p><p>☁️ <strong>Preparado para todo tipo de clima: diseñado para resistir el paso del tiempo en exteriores</strong></p><p>✨ <strong>Estado: Nuevo</strong></p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 5.79,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -10343,7 +10343,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 174,
+            "price": 180,
             "updatedAt": 1747229914344
           },
           {
@@ -10356,7 +10356,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 174,
+            "price": 180,
             "updatedAt": 1747229914346
           },
           {
@@ -10367,7 +10367,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 174,
+            "price": 180,
             "updatedAt": 1747229914346
           },
           {
@@ -10379,7 +10379,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 174
+            "price": 180
           },
           {
             "deleted": false,
@@ -10389,7 +10389,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 174,
+            "price": 180,
             "updatedAt": 1747229914347
           },
           {
@@ -10400,7 +10400,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 174,
+            "price": 180,
             "updatedAt": 1747229914347
           }
         ],
@@ -16102,7 +16102,7 @@
         "description": "<p><strong>Presentamos la EcoFlow DELTA 3 Ultra:</strong> No es solo una estación de energía, es <strong>el corazón de tu independencia eléctrica</strong>. Diseñada para quienes exigen potencia absoluta, confianza inquebrantable y libertad energética sin límites.</p><p><strong>💥 POTENCIA INDUSTRIAL</strong></p><p>⚡ <strong>7200W Potencia Pico (Surge)</strong> - Enciende herramientas pesadas y motores grandes</p><p>🔌 <strong>3600W Salida AC Continua</strong> - Alimenta electrodomésticos completos simultáneamente</p><p>🚀 <strong>X-Boost 3.0 hasta 4600W</strong> - Tecnología inteligente para dispositivos de alta demanda</p><p></p><p><strong>🔋 CAPACIDAD REVOLUCIONARIA</strong></p><p>🪫 <strong>3072Wh Capacidad Masiva</strong> - Energía para días, no horas</p><p>♻️ <strong>Batería LFP Grado Automotriz</strong> - 4x más ciclos que litio, más segura, más fría</p><p>⏳ <strong>Hasta 1500 Horas de Vida</strong> - Diseñada para durar una década de uso intensivo</p><p></p><p><strong>🌞 CARGA ULTRA-RÁPIDA</strong></p><p>☀️ <strong>Carga Solar en 4 Horas</strong> - Compatible con paneles solares de alta potencia</p><p>⚡ <strong>Carga CA Super-Rápida</strong> - Tecnología de carga más avanzada del mercado</p><p>🔋 <strong>10 Dispositivos Simultáneos</strong> - 4 AC + 3 USB-C + 1 USB-A + 1 DC + más</p><p></p><p><strong>🛡️ TECNOLOGÍA INTELIGENTE</strong></p><p>📡 <strong>Control DSP de Ultra Precisión</strong> - Onda sinusoidal pura para equipos sensibles</p><p>🔄 <strong>UPS Integrado (&lt;20ms)</strong> - Protección ininterrumpida para servidores y equipos críticos</p><p>📱 <strong>Control Total por App</strong> - Monitorea y controla cada vatio desde tu teléfono</p><p></p><p><strong>🏠 USOS ILIMITADOS</strong></p><p>🏡 <strong>Respaldo para Hogar Completo</strong> - Mantiene refrigeradores, AC, luces en apagones</p><p>🚐 <strong>Vida Off-Grid</strong> - Energía autosuficiente para casas móviles y caravanas</p><p>🛠️ <strong>Obra y Construcción</strong> - Potencia industrial portátil para herramientas profesionales</p><p>🏕️ <strong>Aventuras Extremas</strong> - Lleva todas las comodidades a la naturaleza más remota</p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 2.64,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -16147,7 +16147,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1694,
+            "price": 1735,
             "updatedAt": 1747229914344
           },
           {
@@ -16160,7 +16160,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1694,
+            "price": 1735,
             "updatedAt": 1747229914346
           },
           {
@@ -16171,7 +16171,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1694,
+            "price": 1735,
             "updatedAt": 1747229914346
           },
           {
@@ -16183,7 +16183,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1694
+            "price": 1735
           },
           {
             "deleted": false,
@@ -16193,7 +16193,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1694,
+            "price": 1735,
             "updatedAt": 1747229914347
           },
           {
@@ -16204,7 +16204,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1694,
+            "price": 1735,
             "updatedAt": 1747229914347
           }
         ],
@@ -16880,7 +16880,7 @@
         "description": "<p>Domina tu energía con la EcoFlow DELTA 3 (1500). Diseñada para la vida moderna, esta estación de energía portátil es el corazón de tu hogar y tus aventuras. Con una capacidad base de 1500Wh, garantiza que lo esencial nunca se detenga, ya sea el frigorífico durante un apagón o el proyector en una noche de camping.</p><p><strong>🔋 Capacidad Expansible</strong> De 1500Wh a 5500Wh. Energía suficiente para días, no solo horas. Mantén tu hogar funcionando en emergencias o alimenta largas escapadas.</p><p><strong>⚡ Carga Ultra rápida X-Stream</strong> Del 0% al 100% en solo 90 minutos mediante CA. Prepárate para cualquier situación en el tiempo que dura una película.</p><p><strong>🏠 Alimenta el 99% de los Electrodomésticos</strong> Salida de 2400W con X-Boost. Funciona desde frigoríficos y hornos hasta herramientas de bricolaje, sin sobrecargas.</p><p><strong>🛡️ Respaldo Ininterrumpido para el Hogar</strong> Cambio automático en 5ms. Protege tu nevera, equipo médico o pecera sin un solo parpadeo durante un corte de luz.</p><p><strong>🌞 5 Métodos de Carga Versátiles</strong> CA, Solar, Coche, Generador y Carga Múltiple. Recárgala donde y como quieras, siendo totalmente autosuficiente.</p><p><strong>🔒 Seguridad LFP Garantizada</strong> Batería de Fosfato de Hierro y Litio con protección IP54 y BMS inteligente. Hasta 10 años de vida útil con máxima seguridad.</p><p><strong>🎒 Portátil y Compacta</strong> Solo 16,5 kg. Llévala fácilmente de una habitación a otra, a tu caravana o a tu próximo destino al aire libre.</p><p><strong>📱 Control Inteligente desde tu App</strong> Supervisa y controla tu energía desde cualquier lugar. Programa funciones para ahorrar en tu factura de la luz.</p><p><strong>🤫 Funcionamiento Silencioso</strong> Solo 35 dB con cargas bajas. Perfecta para interiores, noches de camping o espacios de trabajo sin molestias.</p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 12.74,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -16931,7 +16931,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 940,
+            "price": 789,
             "updatedAt": 1747229914344
           },
           {
@@ -16944,7 +16944,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 940,
+            "price": 789,
             "updatedAt": 1747229914346
           },
           {
@@ -16955,7 +16955,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 940,
+            "price": 789,
             "updatedAt": 1747229914346
           },
           {
@@ -16967,7 +16967,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 940
+            "price": 789
           },
           {
             "deleted": false,
@@ -16977,7 +16977,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 940,
+            "price": 789,
             "updatedAt": 1747229914347
           },
           {
@@ -16988,7 +16988,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 940,
+            "price": 789,
             "updatedAt": 1747229914347
           }
         ],
@@ -17519,7 +17519,7 @@
         "reference": "PRO06924",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 950,
+        "sales-price": 799,
         "short-description": "<ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1536 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 3000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W (0-100% en 1.5h)</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: 4</strong> USB-A <strong>2</strong> USB-C <strong>6</strong> AC 120V <strong>3</strong> Puertos de 12V (vehículo) </p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 16,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 5500 Wh.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p><p>l</p></li></ul>",
         "short-description-en": "",
         "stock": 6,
@@ -17635,7 +17635,7 @@
         "description": "<p>La <strong>EcoFlow DELTA 3 Plus</strong> es una estación de energía portátil de nueva generación, creada para quienes necesitan energía robusta, seguridad extrema y una velocidad de carga imbatible. Con una capacidad de 1024Wh, salida de 1800W (hasta 3600W con picos), es perfecta para electrodomésticos, herramientas y uso prolongado durante apagones.</p><p>⚙️ Características destacadas:</p><p><strong>Potencia superior con X-Boost</strong></p><ul><li><p>1800W de salida continua y hasta 3600W de pico</p></li><li><p>Compatible con el 99% de los equipos del hogar</p></li><li><p>Permite alimentar hornos (2150W), secadores (2500W), cafeteras (2600W) y más</p></li></ul><p><strong>Carga ultrarrápida y versátil</strong></p><ul><li><p>1500W de entrada por CA: carga completa en 56 minutos</p></li><li><p>Entrada solar de 500W (11–60V)</p></li><li><p>Compatible con carga por auto (800W), generador inteligente y multicharging</p></li></ul><p><strong>Batería premium y duradera</strong></p><ul><li><p>Celdas LFP (LiFePO₄) de tercera generación</p></li><li><p>Más de 4,000 ciclos a 80% de capacidad</p></li><li><p>Vida útil de hasta 10 años con uso frecuente</p></li></ul><p><strong>Protección triple y seguridad inteligente</strong></p><ul><li><p>Certificación IP65: resistente al polvo y salpicaduras</p></li><li><p>Más de 40 protecciones eléctricas: temperatura, voltaje, sobrecargas</p></li><li><p>Sistema antiexplosiones y protección térmica avanzada</p></li></ul><p><strong>Conectividad y control total</strong></p><ul><li><p>App con modo TOU y alertas de tormenta</p></li><li><p>Híbrido inteligente con generador EcoFlow 3000 (Dual Fuel)</p></li><li><p>Función de auto encendido/apagado para prolongar autonomía</p></li></ul><p><strong>Diseño práctico y robusto</strong></p><ul><li><p>Dimensiones: 398 × 202 × 283.6 mm</p></li><li><p>Peso: 12.5 kg</p></li><li><p>Compacta y fácil de transportar</p></li></ul><p>🔌 Equipos que puedes alimentar:</p><ul><li><p>🧊 Refrigerador (150W): 5–6 horas</p></li><li><p>📺 TV LED 42\": 8–10 horas</p></li><li><p>🛏️ CPAP: 10–14 horas</p></li><li><p>🍳 Horno eléctrico (2150W): hasta 45 minutos</p></li><li><p>💇‍♀️ Secador de pelo (1800–2500W): 40–60 minutos</p></li><li><p>🔦 Luces LED (5W): más de 180 horas</p></li><li><p>🧰 Herramientas eléctricas (800W): 1–2 horas</p></li></ul><p><em>Tiempos aproximados. La duración real depende del consumo de cada equipo.</em></p><p>🛡️ Garantía:</p><ul><li><p>✅ 30 días de garantía directa con nuestra tienda</p></li><li><p>🛠️ Garantía oficial de EcoFlow: 5 años</p></li></ul><p>📦 Contenido de la caja:</p><ul><li><p>Estación de energía portátil EcoFlow DELTA 3 Plus</p></li><li><p>Cable de carga por corriente alterna (CA)</p></li><li><p>Cable de carga para automóvil</p></li><li><p>Manual de usuario</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 7.73,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -17656,7 +17656,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 729,
+            "price": 745,
             "updatedAt": 1747229914344
           },
           {
@@ -17669,7 +17669,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 729,
+            "price": 745,
             "updatedAt": 1747229914346
           },
           {
@@ -17680,7 +17680,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 729,
+            "price": 745,
             "updatedAt": 1747229914346
           },
           {
@@ -17692,7 +17692,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 729
+            "price": 745
           },
           {
             "deleted": false,
@@ -17702,7 +17702,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 729,
+            "price": 745,
             "updatedAt": 1747229914347
           },
           {
@@ -17713,7 +17713,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 724,
+            "price": 745,
             "updatedAt": 1747229914347
           }
         ],
@@ -18244,7 +18244,7 @@
         "reference": "PRO05726",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 790,
+        "sales-price": 755,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No permite expandir</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
         "stock": 3,
@@ -18364,7 +18364,7 @@
         "description": "<p>Descubre la <strong>EcoFlow DELTA 3</strong> 🚀, la estación de energía portátil con <strong>batería LFP de 1024Wh</strong> y más de <strong>3000 ciclos</strong> de vida útil. Cuenta con <strong>4 enchufes AC de 1800W</strong> y tecnología <strong>X-Boost</strong> para alimentar incluso herramientas de hasta <strong>2400W</strong>. Se recarga al <strong>100% en solo 1 hora</strong> ⏱️ y es compatible con paneles solares ☀️. ¡El poder infinito para tu hogar, aventuras o emergencias está aquí!</p><p></p><p>🔋 Capacidad de la Batería y Potencia</p><p>🔹 <strong>Capacidad</strong>: <strong>1024 Wh</strong> ⚡</p><p>🔹 <strong>Potencia Continua (Base): </strong>1800W</p><p>🔹<strong>Potencia Máxima</strong> con tegnología X-Boost (Pico): 2400W</p><p>🔹 <strong>Potencia de Salida en Puerto DC</strong>: <strong>136W</strong> (12.6V, 10A máx.) 🔧.</p><p>🔹 <strong>Potencia de Salida USB-C</strong>: <strong>100W</strong> (x2 puertos) 📱💻.</p><p>🌞 Entradas de Carga (¿Cómo se recarga?)</p><p>🔹 <strong>Carga por Corriente Alterna (AC)</strong>: ⚡ Carga ultra rápida <strong>0-80% en 36 minutos</strong> ⏱️. <strong>0-100% en aproximadamente 1 hora</strong> 🕐.</p><p>🔹 <strong>Carga Solar</strong>: ☀️ Máximo de <strong>500W</strong> de entrada. Compatible con paneles solares de 11-60V y 15A 🌱.</p><p>🔹 <strong>Carga por Coche (12V)</strong>: 🚗 Carga en aproximadamente <strong>10 horas</strong> 🕙.</p><p>🔹 <strong>Carga Combinada (AC + Solar)</strong>: 🔌☀️ Hasta <strong>1200W</strong> para una recarga aún más rápida 🚀.</p><p>🔌 Salidas (¿Qué puedes conectar?)</p><p>🔹 <strong>Enchufes AC (Corriente Casa)</strong>: 4 puertos 🏠.</p><p>🔹 <strong>Puertos USB-A</strong>: 2 puertos (12W max c/u) 📱🎧.</p><p>🔹 <strong>Puertos USB-C</strong>: 2 puertos (100W max c/u) 💻🔥. Ideales para laptops.</p><p>🔹 <strong>Puerto de Coche (12V)</strong>: 1 puerto (136W max) 🚗.</p><p>🔹 <strong>Puerto DC (5521)</strong>: 1 puerto 🔋.</p><p>⚙️ Tecnologías EcoFlow Clave</p><p>🔹 <strong>X-Boost</strong>: 🚀 Permite alimentar dispositivos de alta potencia (hasta <strong>2400W</strong>) como herramientas, microondas pequeños o hervidores, superando su límite nominal de 1800W de manera inteligente y segura.</p><p>🔹 <strong>Batería LFP (LiFePO4)</strong>: 🔋 Ofrece una <strong>vida útil extremadamente larga</strong> (más de <strong>3000 ciclos</strong> hasta llegar al 80% de su capacidad) ♻️. Es más segura y estable que las baterías de iones de litio convencionales.</p><p>🔹 <strong>Gestionamiento Inteligente de Batería (BMS)</strong>: 📊 Monitorea en tiempo real el voltaje, corriente y temperatura para una máxima seguridad y eficiencia.</p><p>🔹 <strong>App EcoFlow</strong>: 📱 Controla y monitorea la unidad de forma inalámbrica vía Bluetooth/Wi-Fi desde tu smartphone (ver nivel de carga, tiempo restante, activar puertos, etc.).</p><p>🎯 Otras Características Importantes</p><p>🔹 <strong>Diseño y Portabilidad</strong>: 🎒 Pesa aproximadamente <strong>13,2 kg</strong>. Incluye una práctica asa integrada para transportarla.</p><p>🔹 <strong>Funcionamiento Silencioso</strong>: 🔇 Menos de <strong>50 dB</strong> durante su uso, ideal para camping o interiores 🏕️.</p><p>🔹 <strong>Modo de Espera de Baja Energía</strong>: 💤 Reduce el consumo de energía propia cuando no está en uso.</p><p>🔹 <strong>Carga de Bajo Consumo</strong>: ⚡ Permite cargar dispositivos de muy baja potencia (como un router o un ventilador pequeño) de manera eficiente.</p><p>🛡️ Seguridad</p><p>🔹 <strong>Certificaciones</strong>: ✅ Cumple con rigurosos estándares internacionales (UL, CE, RoHS, etc.).</p><p>🔹 <strong>Sistema de Enfriamiento</strong>: ❄️ Ventilador dual y sistema de gestión térmica para un rendimiento óptimo incluso bajo carga pesada.</p><p>🔹 <strong>Protecciones</strong>: 🛡️ Incluye protección contra sobrecarga, sobretensión, sobrecorriente y cortocircuito.</p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 8.48,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -18397,7 +18397,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 720,
+            "price": 689,
             "updatedAt": 1747229914344
           },
           {
@@ -18410,7 +18410,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 710,
+            "price": 689,
             "updatedAt": 1747229914346
           },
           {
@@ -18421,7 +18421,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 720,
+            "price": 689,
             "updatedAt": 1747229914346
           },
           {
@@ -18433,7 +18433,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 710
+            "price": 689
           },
           {
             "deleted": false,
@@ -18443,7 +18443,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 720,
+            "price": 689,
             "updatedAt": 1747229914347
           },
           {
@@ -18454,7 +18454,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 654,
+            "price": 689,
             "updatedAt": 1747229914347
           }
         ],
@@ -18692,9 +18692,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -18808,9 +18808,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -18985,10 +18985,10 @@
         "reference": "PRO06212",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 720,
+        "sales-price": 699,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -19765,7 +19765,7 @@
         "description": "<ul><li><p>🔌 <strong>Interruptor de transferencia automática NALEI NLQ3-125/4P – 63A</strong></p></li><li><p>🏠 Diseñado para que su casa o negocio cambie de forma automática de la corriente principal a su fuente de respaldo (planta eléctrica o inversor), evitando apagones prolongados y molestias</p></li><li><p>🔁 Realiza la conmutación entre las dos fuentes de energía sin que usted tenga que intervenir, y además permite <strong>modo manual</strong> cuando lo necesite</p></li><li><p>⚡ Soporta una capacidad de hasta <strong>63 amperios</strong>, ideal para instalaciones donde se alimentan varios circuitos importantes al mismo tiempo</p></li><li><p>🔌 Configuración <strong>4P (cuatro polos)</strong>, adecuada para instalaciones que requieren conmutar todas las líneas del sistema de forma segura (por ejemplo, instalaciones monofásicas completas o sistemas trifásicos ligeros, según el tablero)</p></li><li><p>⏱️ Cambio rápido entre fuentes para mantener funcionando equipos esenciales como:</p><ul><li><p>refrigeradores</p></li><li><p>iluminación general</p></li><li><p>computadoras</p></li><li><p>routers y sistemas de comunicación</p></li><li><p>equipos de oficina y puntos de venta</p></li></ul></li><li><p>🛡️ Fabricado con materiales de alta calidad para ofrecer mayor durabilidad y seguridad en el uso diario</p></li><li><p>🧲 Terminales de conexión de alta conductividad que ayudan a reducir calentamientos y pérdidas eléctricas</p></li><li><p>🏢 Ideal para:</p><ul><li><p>viviendas con planta eléctrica</p></li><li><p>pequeños y medianos comercios</p></li><li><p>oficinas</p></li><li><p>instalaciones con inversores de respaldo</p></li></ul></li></ul><p>👉 El <strong>NALEI NLQ3-125/4P</strong> es la solución perfecta para usted que desea un sistema de respaldo confiable, automático y seguro, sin depender de cambios manuales cada vez que ocurre un corte eléctrico.</p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 33.71,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -19786,7 +19786,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 89,
+            "price": 65,
             "updatedAt": 1747229914344
           },
           {
@@ -19799,7 +19799,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 84,
+            "price": 65,
             "updatedAt": 1747229914346
           },
           {
@@ -19810,7 +19810,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 89,
+            "price": 65,
             "updatedAt": 1747229914346
           },
           {
@@ -19822,7 +19822,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 89
+            "price": 65
           },
           {
             "deleted": false,
@@ -19832,7 +19832,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 89,
+            "price": 65,
             "updatedAt": 1747229914347
           },
           {
@@ -19843,7 +19843,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 84,
+            "price": 65,
             "updatedAt": 1747229914347
           }
         ],
@@ -20374,7 +20374,7 @@
         "reference": "PRO06977",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 89,
+        "sales-price": 69,
         "short-description": "<ul><li><p>🔁 Cambio automático entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⚡ Capacidad de <strong>hasta 63 A</strong></p></li><li><p>🔌 Configuración <strong>4 polos (4P)</strong> para sistemas completos</p></li><li><p>🏠 Ideal para <strong>viviendas, comercios y oficinas</strong></p></li><li><p>🛡️ Alta seguridad para proteger sus equipos</p></li><li><p>🔄 Operación <strong>automática y manual</strong></p></li></ul>",
         "short-description-en": "",
         "stock": 14,
@@ -20554,7 +20554,7 @@
         "description": "<p>La <strong>EcoFlow RIVER 2 Pro</strong> es una estación de energía portátil ligera pero potente, diseñada para quienes necesitan energía confiable en casa o al aire libre. Con 768Wh de capacidad, una salida de 800W (hasta 1600W con X-Boost) y una carga completa en tan solo 70 minutos, es ideal para cortes de energía, viajes, campamentos o actividades al aire libre.</p><p>⚙️ Características destacadas:</p><p><strong>Rendimiento superior en un diseño compacto</strong></p><ul><li><p>800W de salida AC continua</p></li><li><p>Hasta 1600W en modo X-Boost para electrodomésticos de alto consumo</p></li><li><p>Compatible con el 80% de los equipos del hogar</p></li></ul><p><strong>Carga ultrarrápida y flexible</strong></p><ul><li><p>Carga completa en solo 70 minutos (CA)</p></li><li><p>Hasta 1.8kWh diarios con panel solar (no incluido)</p></li><li><p>Compatible con carga en auto, solar, USB-C y adaptador CA</p></li></ul><p><strong>Batería segura y duradera</strong></p><ul><li><p>Tecnología LiFePO₄ con más de 3,000 ciclos a 80%</p></li><li><p>Vida útil estimada de hasta 10 años de uso diario</p></li><li><p>Sistema BMS inteligente para protección térmica, de voltaje y corriente</p></li></ul><p><strong>Diseñada para seguridad y eficiencia</strong></p><ul><li><p>Certificación TÜV Rheinland: primer equipo portátil con este estándar</p></li><li><p>EPS (sistema de respaldo automático) con conmutación en menos de 30 ms</p></li><li><p>Ideal como respaldo nocturno o en zonas con cortes frecuentes</p></li></ul><p><strong>Control total desde la app EcoFlow</strong></p><ul><li><p>Monitoriza niveles, ajusta parámetros, personaliza la carga</p></li><li><p>Conectividad Wi-Fi y Bluetooth</p></li><li><p>Compatible con sistemas solares EcoFlow</p></li></ul><p><strong>Ligera, portátil y lista para cualquier aventura</strong></p><ul><li><p>Peso: 8.2 kg (18.2 lb)</p></li><li><p>Compacta y fácil de transportar</p></li><li><p>Perfecta para camping, pesca, playa, viajes en auto o RV</p></li></ul><p>🔌 Equipos que puedes alimentar:</p><ul><li><p>💻 Laptop (50W): 12–14 horas</p></li><li><p>📺 TV LED 32\": 10 horas</p></li><li><p>❄️ Mini refrigerador (60W): 11–12 horas</p></li><li><p>🍳 Cafetera (800W): 3–4 ciclos</p></li><li><p>🛏️ CPAP: 10–12 horas</p></li><li><p>🔦 Luz LED (5W): 140+ horas</p></li><li><p>🧰 Herramientas eléctricas pequeñas: múltiples cargas</p></li></ul><p><em>Tiempos aproximados. La duración real depende del consumo de cada equipo.</em></p><p>🛡️ Garantía:</p><ul><li><p>✅ 30 días de garantía directa con nuestra tienda</p></li><li><p>🛠️ Garantía oficial de EcoFlow: 5 años</p></li></ul><p>📦 Contenido de la caja:</p><ul><li><p>Estación de energía portátil EcoFlow RIVER 2 Pro</p></li><li><p>Cable de carga por CA</p></li><li><p>Cable de carga para automóvil</p></li><li><p>Manual de usuario</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 5.82,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -20587,7 +20587,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 470,
+            "price": 489,
             "updatedAt": 1747229914344
           },
           {
@@ -20600,7 +20600,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 470,
+            "price": 489,
             "updatedAt": 1747229914346
           },
           {
@@ -20611,7 +20611,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 470,
+            "price": 489,
             "updatedAt": 1747229914346
           },
           {
@@ -20623,7 +20623,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 470
+            "price": 489
           },
           {
             "deleted": false,
@@ -20633,7 +20633,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 470,
+            "price": 489,
             "updatedAt": 1747229914347
           },
           {
@@ -20644,7 +20644,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 465,
+            "price": 489,
             "updatedAt": 1747229914347
           }
         ],
@@ -21418,7 +21418,7 @@
         "description": "<p>La EcoFlow DELTA 2 es una estación de energía portátil diseñada para quienes buscan respaldo eléctrico confiable en el hogar o fuera de la red. Con una potencia de 1800W (pico de 2700W) y capacidad inicial de 1024Wh, se puede expandir hasta 3kWh para cubrir desde electrodomésticos hasta múltiples dispositivos a la vez.</p><p>⚙️ <strong>Características destacadas:</strong></p><ul><li><p><strong>Potencia de salida confiable</strong></p><ul><li><p>1800W continuos (pico de 2700W) para alimentar más del 90 % de los electrodomésticos</p></li><li><p>X-Boost permite alimentar equipos de hasta 2200W sin sobrecarga</p></li></ul></li><li><p><strong>Capacidad expandible</strong></p><ul><li><p>Compatible con baterías adicionales DELTA 2, DELTA Max y DELTA 2 Max para llegar hasta 3072Wh</p></li></ul></li><li><p><strong>Carga ultrarrápida</strong></p><ul><li><p>Entrada de CA de 1200W: carga completa en 80 minutos aprox.</p></li><li><p>Compatible con paneles solares hasta 500W (MPPT): carga en 3–6 horas según condiciones</p></li></ul></li><li><p><strong>Conectividad versátil</strong></p><ul><li><p>6 x salidas AC (1800W total)</p></li><li><p>2 x USB-A estándar (12W máx.)</p></li><li><p>2 x USB-A carga rápida (18W máx.)</p></li><li><p>2 x USB-C (100W máx.)</p></li><li><p>1 x salida de auto (126W máx.)</p></li><li><p>2 x DC5521 (38W máx.)</p></li></ul></li><li><p><strong>Tecnología inteligente</strong></p><ul><li><p>App EcoFlow vía Wi-Fi y Bluetooth para monitorear, ajustar parámetros y recibir alertas</p></li><li><p>Modo EPS: respaldo inmediato ante cortes (cambio en &lt;30ms)</p></li><li><p>Sistema BMS de seguridad para protección térmica, voltaje y corriente</p></li></ul></li><li><p><strong>Diseño robusto y portátil</strong></p><ul><li><p>Dimensiones: 40 × 21.1 × 28.1 cm</p></li><li><p>Peso: 12 kg</p></li></ul></li><li><p><strong>Ecosistema ampliable</strong></p><ul><li><p>Compatible con aires acondicionados portátiles, paneles solares EcoFlow, generadores inteligentes y más</p></li></ul></li></ul><p>🔌 <strong>Equipos que puedes alimentar:</strong></p><ul><li><p>💻 Laptop (50W): 16–18 horas</p></li><li><p>📺 TV LED 32\" (50W): 14–16 horas</p></li><li><p>❄️ Mini refrigerador (60W): 12–13 horas</p></li><li><p>🛏️ CPAP: 12–14 horas</p></li><li><p>🍳 Cafetera (800W): Hasta 10 ciclos</p></li><li><p>🔦 Luz LED (5W): 180+ horas</p></li><li><p>🧰 Herramientas eléctricas pequeñas: múltiples cargas</p></li></ul><p><em>Tiempos estimados según consumo promedio. Pueden variar por condiciones reales.</em></p><p>🛡️ <strong>Garantía:</strong></p><ul><li><p>✅ 30 días de garantía directa con nuestra tienda</p></li><li><p>🛠️ Garantía oficial de EcoFlow: 5 años</p></li></ul><p>📦 <strong>Contenido de la caja:</strong></p><ul><li><p>Estación de energía portátil EcoFlow DELTA 2</p></li><li><p>Cable de carga por CA</p></li><li><p>Cable de carga para automóvil</p></li><li><p>Manual de usuario</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 7.85,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -21469,7 +21469,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 599,
+            "price": 635,
             "updatedAt": 1747229914344
           },
           {
@@ -21482,7 +21482,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 599,
+            "price": 635,
             "updatedAt": 1747229914346
           },
           {
@@ -21493,7 +21493,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 599,
+            "price": 635,
             "updatedAt": 1747229914346
           },
           {
@@ -21505,7 +21505,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 599
+            "price": 635
           },
           {
             "deleted": false,
@@ -21515,7 +21515,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 599,
+            "price": 635,
             "updatedAt": 1747229914347
           },
           {
@@ -21526,7 +21526,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 599,
+            "price": 635,
             "updatedAt": 1747229914347
           }
         ],
@@ -21764,9 +21764,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -21880,9 +21880,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -22057,10 +22057,10 @@
         "reference": "PRO05206",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 650,
+        "sales-price": 645,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -22289,7 +22289,7 @@
         "description": "<p>La <strong>EcoFlow RIVER 2 Max</strong> es una estación de energía portátil compacta, confiable y lista para acompañarte donde lo necesites. Con 512Wh de capacidad y 500W de salida continua (X-Boost hasta 1000W), permite alimentar hasta el 80 % de los electrodomésticos esenciales del hogar.</p><p>⚙️ <strong>Características destacadas:</strong></p><ul><li><p><strong>Potencia portátil en tamaño reducido</strong></p><ul><li><p>500W de salida continua y 1000W en modo X-Boost</p></li><li><p>Ideal para luces, computadoras, routers, herramientas pequeñas, refrigeradores compactos y más</p></li></ul></li><li><p><strong>Carga ultrarrápida</strong></p><ul><li><p>Carga completa en solo 60 minutos mediante CA (660W máx.)</p></li><li><p>Entrada solar hasta 220W para carga en 3 horas</p></li><li><p>También puede cargarse por puerto de auto o USB-C</p></li></ul></li><li><p><strong>Batería LiFePO₄ de larga duración</strong></p><ul><li><p>Hasta 3,000 ciclos para mantener el 80% de capacidad</p></li><li><p>Mayor seguridad térmica, eficiencia y vida útil</p></li><li><p>BMS inteligente: protección contra sobrecargas, sobrecalentamiento, cortocircuito y más</p></li></ul></li><li><p><strong>Versatilidad de puertos y conectividad</strong></p><ul><li><p>2 x salidas AC (500W, pico 1000W)</p></li><li><p>2 x USB-A (12W máx.)</p></li><li><p>1 x USB-C (entrada/salida 100W)</p></li><li><p>1 x salida para auto (12.6V, 10A)</p></li><li><p>1 x DC5521 (12.6V, 3A)</p></li></ul></li><li><p><strong>Diseño ligero y portátil</strong></p><ul><li><p>Solo 6 kg (13.4 lbs) de peso</p></li><li><p>Dimensiones: 26.9 × 26 × 19.6 cm</p></li><li><p>Compacta y lista para viajar</p></li></ul></li><li><p><strong>Respaldo inteligente y silencioso</strong></p><ul><li><p>Modo EPS con cambio automático en menos de 30ms</p></li><li><p>Nivel de ruido máximo: 62 dB bajo cargas altas</p></li></ul></li><li><p><strong>Control total desde tu celular</strong></p><ul><li><p>Compatible con app EcoFlow vía Wi-Fi y Bluetooth</p></li><li><p>Monitorea niveles de carga, temperatura y configura el comportamiento del sistema</p></li></ul></li></ul><p>🔌 <strong>Equipos que puedes alimentar:</strong></p><ul><li><p>💻 Laptop (50W): 8–10 horas</p></li><li><p>📺 TV LED 32\": 6–8 horas</p></li><li><p>❄️ Mini refrigerador (60W): 6–7 horas</p></li><li><p>🛏️ CPAP: 7–8 horas</p></li><li><p>🔦 Luz LED (5W): 90–100 horas</p></li><li><p>🧰 Herramientas eléctricas pequeñas: múltiples ciclos</p></li></ul><p><em>Tiempos aproximados según consumo y condiciones reales.</em></p><p>🛡️ <strong>Garantía:</strong></p><ul><li><p>✅ 30 días de garantía directa con nuestra tienda</p></li><li><p>🛠️ Garantía oficial de EcoFlow: 5 años</p></li></ul><p>📦 <strong>Contenido de la caja:</strong></p><ul><li><p>Estación de energía portátil EcoFlow RIVER 2 Max</p></li><li><p>Cable de carga por CA</p></li><li><p>Cable de carga para automóvil</p></li><li><p>Manual de usuario</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 11.58,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -22358,7 +22358,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 440,
             "updatedAt": 1747229914344
           },
           {
@@ -22371,7 +22371,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 440,
             "updatedAt": 1747229914346
           },
           {
@@ -22382,7 +22382,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 440,
             "updatedAt": 1747229914346
           },
           {
@@ -22394,7 +22394,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420
+            "price": 440
           },
           {
             "deleted": false,
@@ -22404,7 +22404,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 420,
+            "price": 440,
             "updatedAt": 1747229914347
           },
           {
@@ -22415,7 +22415,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 415,
+            "price": 440,
             "updatedAt": 1747229914347
           }
         ],
@@ -22946,7 +22946,7 @@
         "reference": "PRO05077",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 475,
+        "sales-price": 450,
         "short-description": "<p><strong>🔋 Modelo:</strong> EcoFlow RIVER 2 Max</p><ul><li><p><strong>⚡ Potencia:</strong> 512 Wh | 500 W (X-Boost 1000 W).</p></li><li><p><strong>🧬 Vida útil:</strong> LiFePo (3000 ciclos).</p></li><li><p><strong>⏱️ Carga:</strong> 0-100% en 60 min.</p></li><li><p><strong>☀️ Solar:</strong> Hasta 220 W.</p></li><li><p><strong>🔌 Tomas:</strong> 4 CA, USB-C (100W), USB-A y DC.</p></li><li><p><strong>🪶 Peso:</strong> 6.1 kg.</p></li><li><p><strong>➕ Batería extra:</strong> <strong>No compatible.</strong></p></li><li><p><strong>📱 App:</strong> Control vía EcoFlow App.</p></li></ul>",
         "short-description-en": "",
         "stock": 10,
@@ -23054,7 +23054,7 @@
         "description": "<ul><li><p>🔌 <strong>Interruptor de transferencia automática dual 2P 63A 110V – Modelo GCQ2-63/2P</strong></p></li><li><p>🏠 Diseñado para que su vivienda o negocio pueda cambiar automáticamente de la corriente normal a su respaldo (planta eléctrica o inversor) cuando ocurre un apagón</p></li><li><p>🔁 Permite trabajar en <strong>modo automático o manual</strong>, para que usted tenga el control total del cambio de energía cuando lo necesite</p></li><li><p>⏱️ Realiza el cambio de una fuente a otra en un tiempo máximo de <strong>2 segundos</strong>, ayudando a mantener encendidos sus equipos</p></li><li><p>⚡ Compatible con instalaciones eléctricas de <strong>110V</strong>, ideales para sistemas residenciales y comerciales ligeros</p></li><li><p>🔌 Capacidad de trabajo de <strong>63 amperios</strong>, adecuada para manejar cargas reales del hogar como iluminación, refrigerador, televisión, ventiladores, computadoras y otros equipos esenciales</p></li><li><p>🛡️ Construido con <strong>carcasa metálica</strong>, que ofrece mayor protección, durabilidad y seguridad frente al uso continuo</p></li><li><p>🧲 Incorpora <strong>terminales de cobre de alta conductividad</strong>, lo que mejora la estabilidad eléctrica y reduce pérdidas en la conexión</p></li><li><p>🔩 Sistema de conexión tipo túnel, más <strong>seguro y cómodo para el instalador</strong></p></li><li><p>🔄 Funciona en redes de <strong>50 / 60 Hz</strong></p></li><li><p>🔌 Configuración de <strong>2 polos (2P)</strong>, ideal para sistemas monofásicos de doble fuente</p></li><li><p>📏 Tamaño compacto de <strong>150 × 138 × 115 mm</strong>, fácil de integrar en tableros eléctricos</p></li></ul><p>👉 Este interruptor es una solución práctica para usted que desea proteger su casa o negocio frente a apagones, evitando cambios manuales constantes y asegurando una transición segura entre la corriente principal y su fuente de respaldo.</p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 10.77,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -23099,7 +23099,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 65,
+            "price": 64,
             "updatedAt": 1747229914344
           },
           {
@@ -23112,7 +23112,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 59,
+            "price": 64,
             "updatedAt": 1747229914346
           },
           {
@@ -23123,7 +23123,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 65,
+            "price": 64,
             "updatedAt": 1747229914346
           },
           {
@@ -23135,7 +23135,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 60
+            "price": 64
           },
           {
             "deleted": false,
@@ -23145,7 +23145,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 65,
+            "price": 64,
             "updatedAt": 1747229914347
           },
           {
@@ -23156,7 +23156,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 59,
+            "price": 64,
             "updatedAt": 1747229914347
           }
         ],
@@ -23791,7 +23791,7 @@
         "description": "<p>🛡️ <strong>Protección Robusta</strong>:</p><ul><li><p>2100 julios de protección contra sobretensiones</p></li><li><p>Resguarda dispositivos de picos de voltaje y fluctuaciones</p></li></ul><p>🔌 <strong>Múltiples Conexiones</strong>:</p><ul><li><p>8 tomacorrientes CA con espacio amplio</p></li><li><p>Compatible con enchufes de distintos tamaños</p></li></ul><p>⚡ <strong>Carga Rápida USB</strong>:</p><ul><li><p>4 puertos USB-A + 1 puerto USB-C</p></li><li><p>Ideal para teléfonos, tabletas y accesorios</p></li></ul><p>🔘 <strong>Control Conveniente</strong>:</p><ul><li><p>Interruptor integrado de encendido/apagado</p></li><li><p>Facilita el manejo energético y ahorro</p></li></ul><p>🏠 <strong>Diseño Duradero</strong>:</p><ul><li><p>Materiales resistentes para uso diario</p></li><li><p>Perfecto para hogar, oficina o viajes</p></li></ul><p></p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 24.49,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -23824,7 +23824,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 35,
+            "price": 44,
             "updatedAt": 1747229914344
           },
           {
@@ -23837,7 +23837,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 35,
+            "price": 44,
             "updatedAt": 1747229914346
           },
           {
@@ -23848,7 +23848,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 35,
+            "price": 44,
             "updatedAt": 1747229914346
           },
           {
@@ -23860,7 +23860,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 35
+            "price": 44
           },
           {
             "deleted": false,
@@ -23870,7 +23870,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 35,
+            "price": 44,
             "updatedAt": 1747229914347
           },
           {
@@ -23881,7 +23881,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 35,
+            "price": 44,
             "updatedAt": 1747229914347
           }
         ],
@@ -24489,7 +24489,7 @@
         "description": "<p>🔋 <strong>Tecnología Avanzada</strong>:</p><ul><li><p>Batería LiFePO4 de larga duración</p></li><li><p>X-GaNPower para mayor eficiencia y doble tiempo de uso en dispositivos &lt;100W</p></li></ul><p>⚡ <strong>Potencia Versátil</strong>:</p><ul><li><p>300W continuos / 600W con tecnología X-Boost</p></li><li><p>6 salidas simultáneas para múltiples dispositivos</p></li></ul><p>🚀 <strong>Recarga Rápida</strong>:</p><ul><li><p>100% en 1 hora por corriente (tecnología X-Stream)</p></li><li><p>Carga solar en 2.6 horas (entrada de 110W)</p></li></ul><p>🛡️ <strong>Protección Confiable</strong>:</p><ul><li><p>UPS de &lt;20 ms para cortes de energía</p></li><li><p>Resistencia IP54, ignífuga y antiimpactos</p></li></ul><p>🎒 <strong>Portabilidad Optimizada</strong>:</p><ul><li><p>Solo 3.5 kg (7.8 lb) y 30% más compacta que el promedio</p></li><li><p>Asa integrada para fácil transporte</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 8.03,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -24534,7 +24534,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 270,
+            "price": 285,
             "updatedAt": 1747229914344
           },
           {
@@ -24547,7 +24547,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 270,
+            "price": 285,
             "updatedAt": 1747229914346
           },
           {
@@ -24558,7 +24558,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 270,
+            "price": 285,
             "updatedAt": 1747229914346
           },
           {
@@ -24570,7 +24570,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 270
+            "price": 285
           },
           {
             "deleted": false,
@@ -24580,7 +24580,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 270,
+            "price": 285,
             "updatedAt": 1747229914347
           },
           {
@@ -24591,7 +24591,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 270,
+            "price": 285,
             "updatedAt": 1747229914347
           }
         ],
@@ -25122,7 +25122,7 @@
         "reference": "PRO06341",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 299,
+        "sales-price": 295,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
         "stock": 6,
@@ -25226,7 +25226,7 @@
         "description": "<p><strong>☀️ Especificaciones Solares:</strong></p><ul><li><p><strong>Potencia máxima:</strong> 220W</p></li><li><p><strong>Eficiencia de células:</strong> 22-23% (monocristalinas)</p></li><li><p><strong>Tensión de operación:</strong> 18V</p></li><li><p><strong>Corriente de operación:</strong> 12.22A</p></li></ul><p><strong>📐 Diseño y Portabilidad:</strong></p><ul><li><p><strong>Dimensiones abierto:</strong> 120 x 60 cm (aprox.)</p></li><li><p><strong>Dimensiones plegado:</strong> 60 x 50 x 5 cm</p></li><li><p><strong>Peso:</strong> 8 kg</p></li><li><p><strong>Material:</strong> Tela Oxford resistente + cubierta PET</p></li></ul><p><strong>🔌 Conectividad y Compatibilidad:</strong></p><ul><li><p><strong>Conector estándar:</strong> XT60</p></li><li><p><strong>Compatibilidad principal:</strong> ECOFLOW, Jackery, Bluetti y otras marcas</p></li><li><p><strong>Cable incluido:</strong> 2 metros</p></li></ul><p><strong>⚙️ Características Técnicas:</strong></p><ul><li><p><strong>Clase de resistencia:</strong> IP67 (impermeable y resistente al polvo)</p></li><li><p><strong>Tolerancia de potencia:</strong> ±3%</p></li><li><p><strong>Temperatura operativa:</strong> -20°C a 60°C</p></li><li><p></p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 8.34,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -25289,7 +25289,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 325,
+            "price": 350,
             "updatedAt": 1747229914344
           },
           {
@@ -25302,7 +25302,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 325,
+            "price": 350,
             "updatedAt": 1747229914346
           },
           {
@@ -25313,7 +25313,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 325,
+            "price": 350,
             "updatedAt": 1747229914346
           },
           {
@@ -25325,7 +25325,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 325
+            "price": 350
           },
           {
             "deleted": false,
@@ -25346,7 +25346,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 325,
+            "price": 350,
             "updatedAt": 1747229914347
           }
         ],
@@ -31637,7 +31637,7 @@
         "description": "<p>La <strong>EcoFlow DELTA 2 Smart Extra Battery</strong> es la solución perfecta para quienes necesitan ampliar la capacidad de su estación de energía DELTA 2. Con 1024Wh adicionales, permite alcanzar hasta 2048Wh de capacidad total, ideal para emergencias, aventuras al aire libre o respaldo en el hogar.</p><p>Con tecnología de batería <strong>LFP (fosfato de hierro y litio)</strong>, garantiza más de 3000 ciclos de carga hasta el 80% de capacidad, lo que se traduce en una vida útil de aproximadamente 10 años de uso diario. Esto representa 6 veces más longevidad que muchas otras baterías del mercado.</p><p>⚙️ <strong>Ventajas clave:</strong></p><ul><li><p><strong>Plug and Play:</strong> Se conecta directamente a la DELTA 2 sin necesidad de configuración.</p></li><li><p><strong>Carga eficiente y rápida:</strong> Se recarga junto con la estación base usando tomacorrientes, paneles solares o generador inteligente.</p></li><li><p><strong>Control desde app:</strong> Supervisa el estado de la batería, el nivel de carga y más, desde cualquier lugar usando la app EcoFlow.</p></li><li><p><strong>Diseño apilable y compacto:</strong> Ahorra espacio al poder colocarla sobre la estación base u otra batería adicional.</p></li><li><p><strong>Compartimiento interno:</strong> Ideal para guardar cables y accesorios, ayudando a mantener todo organizado.</p></li></ul><p>🔌 <strong>Aplicaciones ideales:</strong></p><ul><li><p>🏠 Respaldo doméstico</p></li><li><p>🚐 Uso en vehículos recreativos (RV)</p></li><li><p>🏕️ Camping y aventuras al aire libre</p></li><li><p>🔋 Almacenamiento de energía para uso diario</p></li></ul><p>📐 <strong>Especificaciones técnicas:</strong></p><ul><li><p><strong>Capacidad:</strong> 1024Wh</p></li><li><p><strong>Peso:</strong> 9.5 kg / 21 lb</p></li><li><p><strong>Dimensiones:</strong> 40 × 21.1 × 28.1 cm (15.7 × 8.3 × 11.1 in)</p></li><li><p><strong>Química de batería:</strong> LiFePO₄ (LFP)</p></li><li><p><strong>Ciclos de vida:</strong> 3000 ciclos hasta 80% de capacidad</p></li><li><p><strong>Modelos compatibles:</strong> EcoFlow DELTA 2</p></li><li><p><strong>Garantía:</strong> 5 años con la marca</p></li><li><p><strong>Garantía de la tienda:</strong> 30 días de garantía directa</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 16.13,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -31658,7 +31658,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 515,
+            "price": 570,
             "updatedAt": 1747229914344
           },
           {
@@ -31671,7 +31671,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 515,
+            "price": 570,
             "updatedAt": 1747229914346
           },
           {
@@ -31682,7 +31682,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 515,
+            "price": 570,
             "updatedAt": 1747229914346
           },
           {
@@ -31694,7 +31694,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 515
+            "price": 570
           },
           {
             "deleted": false,
@@ -31704,7 +31704,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 610,
+            "price": 570,
             "updatedAt": 1747229914347
           },
           {
@@ -31715,7 +31715,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 515,
+            "price": 570,
             "updatedAt": 1747229914347
           }
         ],
@@ -31953,9 +31953,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -32069,9 +32069,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -32228,7 +32228,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -32246,10 +32246,10 @@
         "reference": "PRO06067",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 620,
+        "sales-price": 580,
         "short-description": "<ul><li><p>🔋 <strong>Batería Extra para EcoFlow DELTA 2 – Smart Extra Battery</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh de energía adicional</p></li><li><p>🔌 <strong>Voltaje nominal:</strong> 51.2 V</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio-fosfato (LFP) – duradera y estable</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta 3 000 ciclos a 80 %+ de capacidad</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión directa y rápida con tu estación DELTA 2</p></li><li><p>🚀 <strong>Expande la capacidad total</strong> del sistema hasta ~2 048 Wh cuando se combina con la unidad principal</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, temperatura y cortocircuito</p></li><li><p>🔇 <strong>Operación silenciosa y segura</strong></p></li><li><p>📦 <strong>Diseño compacto y portátil:</strong> fácil de mover y conectar</p></li><li><p>🔗 <strong>Compatibilidad:</strong> EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -32456,7 +32456,7 @@
         "description": "<p>⚡ <strong>Capacidad Extra de 1024Wh</strong> - Expande significativamente la autonomía de tus dispositivos Delta 3/Plus/1500</p><p>🔋 <strong>Tecnología LFP Premium</strong> - Más de 3000 ciclos de carga y 10 años de vida útil manteniendo el 80% de capacidad</p><p>📱 <strong>Control Inteligente vía App</strong> - Monitorea y controla el rendimiento mediante la aplicación EcoFlow</p><p>🔌 <strong>Compatibilidad Universal</strong> - Funciona con Delta 2, Delta 3, Delta 3 Plus y Delta 3 1500</p><p>🛡️ <strong>Seguridad y Durabilidad</strong> - Diseño robusto y química de batería estable para uso confiable</p><p><strong>Especificaciones Técnicas</strong> ⚙️</p><ul><li><p>Capacidad: 1024Wh</p></li><li><p>Voltaje: 110V CA</p></li><li><p>Dimensiones: 16\" x 8\" x 8\"</p></li><li><p>Ciclos: 3000+ cargas</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 16.95,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -32495,7 +32495,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 644,
+            "price": 579,
             "updatedAt": 1747229914344
           },
           {
@@ -32508,7 +32508,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 644,
+            "price": 579,
             "updatedAt": 1747229914346
           },
           {
@@ -32519,7 +32519,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 644,
+            "price": 579,
             "updatedAt": 1747229914346
           },
           {
@@ -32531,7 +32531,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 644
+            "price": 579
           },
           {
             "deleted": false,
@@ -32541,7 +32541,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 644,
+            "price": 579,
             "updatedAt": 1747229914347
           },
           {
@@ -32552,7 +32552,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 644,
+            "price": 579,
             "updatedAt": 1747229914347
           }
         ],
@@ -33083,7 +33083,7 @@
         "reference": "PRO06380",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 649,
+        "sales-price": 589,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje nominal:</strong> 51.2 V</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~4 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
         "stock": 1,
@@ -45970,7 +45970,7 @@
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 20,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -46003,7 +46003,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 28,
+            "price": 23,
             "updatedAt": 1747229914344
           },
           {
@@ -46016,7 +46016,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 28,
+            "price": 23,
             "updatedAt": 1747229914346
           },
           {
@@ -46027,7 +46027,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 28,
+            "price": 23,
             "updatedAt": 1747229914346
           },
           {
@@ -46039,7 +46039,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 28
+            "price": 23
           },
           {
             "deleted": false,
@@ -46049,7 +46049,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 30,
+            "price": 23,
             "updatedAt": 1747229914347
           },
           {
@@ -46060,7 +46060,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 28,
+            "price": 23,
             "updatedAt": 1747229914347
           }
         ],
@@ -46591,7 +46591,7 @@
         "reference": "PRO06301",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 35,
+        "sales-price": 33,
         "short-description": "",
         "short-description-en": "",
         "stock": 16,
