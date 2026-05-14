@@ -19340,7 +19340,7 @@
         "description": "<ul><li><p>🔋 <strong>BATERÍA GIGANTE Y POWER BANK:</strong> <strong>20000 mAh</strong> de capacidad. <strong>Carga rápida USB-C</strong>. <strong>Funciona de 8 a 58 horas</strong>. También actúa como <strong>banco de energía</strong> para cargar tu teléfono o tablet mediante su puerto de salida USB.</p></li><li><p>🌀 <strong>COBERTURA TOTAL AJUSTABLE:</strong> <strong>Giro de 270°</strong> y oscilación automática para distribuir el aire en todas las direcciones. <strong>Gancho giratorio de 360°</strong> para colgar fácilmente en tiendas, ramas o estructuras.</p></li><li><p>📱 <strong>CONTROL REMOTO Y PROGRAMABLE:</strong> <strong>Mando a distancia incluido</strong> para operar todas las funciones hasta a <strong>8 metros (26 pies)</strong>. Ajusta velocidad, luz y programa el <strong>temporizador (1H, 2H, 4H, 8H)</strong> sin moverte.</p></li><li><p>🔇 <strong>POTENTE Y ULTRASILENCIOSO:</strong> Tecnología de <strong>motor sin escobillas</strong> y aspas de alta calidad para un <strong>flujo de aire fuerte</strong> con un <strong>nivel de ruido muy bajo (≤28 dB)</strong>, ideal para dormir o trabajar.</p></li><li><p>💡 <strong>MULTIFUNCIÓN 3 EN 1:</strong> Combina <strong>ventilador portátil</strong>, <strong>luz ambiental</strong> y <strong>power bank</strong> en un solo dispositivo. Perfecto para <strong>camping, barbacoas, playa, oficina, tiendas</strong> o como ventilador de emergencia.</p></li><li><p>⚡ <strong>PORTÁTIL Y SEGURO:</strong> Diseño <strong>compacto y ligero</strong> para llevar a cualquier parte. <strong>Funciona mientras se carga</strong>. Material seguro que <strong>no genera calor excesivo</strong>, apto para uso familiar.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -19403,7 +19403,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 62,
+            "price": 43,
             "updatedAt": 1747229914344
           },
           {
@@ -19416,7 +19416,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 40,
+            "price": 43,
             "updatedAt": 1747229914346
           },
           {
@@ -19427,7 +19427,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 60,
+            "price": 43,
             "updatedAt": 1747229914346
           },
           {
@@ -19439,7 +19439,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 40
+            "price": 43
           },
           {
             "deleted": false,
@@ -19449,7 +19449,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 43,
             "updatedAt": 1747229914347
           },
           {
@@ -19460,7 +19460,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 40,
+            "price": 43,
             "updatedAt": 1747229914347
           }
         ],
@@ -19814,9 +19814,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 51,
+            "stock": 42,
             "subcontractedid": "",
-            "virtual-stock": 51,
+            "virtual-stock": 42,
             "zip-code": ""
           },
           {
@@ -20021,7 +20021,7 @@
         "reference": "PRO06214",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 62,
+        "sales-price": 45,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
         "stock": 0,
@@ -20130,7 +20130,7 @@
         "description": "<ul><li><p>🔋 <strong>BATERÍA GIGANTE Y POWER BANK:</strong> <strong>20000 mAh</strong> de capacidad. <strong>Carga rápida USB-C</strong>. <strong>Funciona de 8 a 58 horas</strong>. También actúa como <strong>banco de energía</strong> para cargar tu teléfono o tablet mediante su puerto de salida USB.</p></li><li><p>🌀 <strong>COBERTURA TOTAL AJUSTABLE:</strong> <strong>Giro de 270°</strong> y oscilación automática para distribuir el aire en todas las direcciones. <strong>Gancho giratorio de 360°</strong> para colgar fácilmente en tiendas, ramas o estructuras.</p></li><li><p>📱 <strong>CONTROL REMOTO Y PROGRAMABLE:</strong> <strong>Mando a distancia incluido</strong> para operar todas las funciones hasta a <strong>8 metros (26 pies)</strong>. Ajusta velocidad, luz y programa el <strong>temporizador (1H, 2H, 4H, 8H)</strong> sin moverte.</p></li><li><p>🔇 <strong>POTENTE Y ULTRASILENCIOSO:</strong> Tecnología de <strong>motor sin escobillas</strong> y aspas de alta calidad para un <strong>flujo de aire fuerte</strong> con un <strong>nivel de ruido muy bajo (≤28 dB)</strong>, ideal para dormir o trabajar.</p></li><li><p>💡 <strong>MULTIFUNCIÓN 3 EN 1:</strong> Combina <strong>ventilador portátil</strong>, <strong>luz ambiental</strong> y <strong>power bank</strong> en un solo dispositivo. Perfecto para <strong>camping, barbacoas, playa, oficina, tiendas</strong> o como ventilador de emergencia.</p></li><li><p>⚡ <strong>PORTÁTIL Y SEGURO:</strong> Diseño <strong>compacto y ligero</strong> para llevar a cualquier parte. <strong>Funciona mientras se carga</strong>. Material seguro que <strong>no genera calor excesivo</strong>, apto para uso familiar.<strong>Propiedades del Ventilador Recargable F6 20000 mAh:</strong></p></li></ul><ul><li><p><strong>Batería de alta capacidad</strong>: 20,000 mAh, ideal para uso prolongado sin necesidad de recarga.</p></li><li><p><strong>Oscilación automática</strong>: Cubre un área más amplia con movimiento giratorio.</p></li><li><p><strong>Linterna LED integrada</strong>: Funcionalidad adicional para iluminación en espacios oscuros.</p></li><li><p><strong>Control remoto</strong>: Ajusta velocidad y funciones a distancia.</p></li><li><p><strong>4 velocidades</strong>: Flujo de aire personalizable según tus necesidades.</p></li><li><p><strong>Gancho para colgar</strong>: Diseño portátil para tiendas, camping o interiores.</p></li><li><p><strong>Portátil y recargable</strong>: Ideal para viajes, exteriores o emergencias.</p></li><li><p><strong>Diseño resistente</strong>: Práctico y duradero para uso intensivo.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -20193,7 +20193,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 62,
+            "price": 43,
             "updatedAt": 1747229914344
           },
           {
@@ -20206,7 +20206,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 40,
+            "price": 43,
             "updatedAt": 1747229914346
           },
           {
@@ -20217,7 +20217,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 43,
             "updatedAt": 1747229914346
           },
           {
@@ -20229,7 +20229,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 40
+            "price": 43
           },
           {
             "deleted": false,
@@ -20239,7 +20239,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 43,
             "updatedAt": 1747229914347
           },
           {
@@ -20250,7 +20250,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 40,
+            "price": 43,
             "updatedAt": 1747229914347
           }
         ],
@@ -20490,7 +20490,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -20606,7 +20606,7 @@
             "public": false,
             "stock": 40,
             "subcontractedid": "",
-            "virtual-stock": 39,
+            "virtual-stock": 40,
             "zip-code": ""
           },
           {
@@ -20811,10 +20811,10 @@
         "reference": "PRO06213",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 62,
+        "sales-price": 45,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {

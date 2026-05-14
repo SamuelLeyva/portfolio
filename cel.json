@@ -2068,9 +2068,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -2394,7 +2394,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [
           {
@@ -3058,9 +3058,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 15,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 15,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -3384,7 +3384,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
@@ -5003,7 +5003,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -16,
+            "virtual-stock": -18,
             "zip-code": ""
           },
           {
@@ -6016,7 +6016,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -14,
             "zip-code": ""
           },
           {
@@ -9796,7 +9796,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -7,
+            "virtual-stock": -8,
             "zip-code": ""
           },
           {
@@ -12549,7 +12549,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -132,
+            "virtual-stock": -134,
             "zip-code": ""
           },
           {
