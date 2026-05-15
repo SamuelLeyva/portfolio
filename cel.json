@@ -387,7 +387,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -20,
+            "virtual-stock": -22,
             "zip-code": ""
           },
           {
@@ -7009,7 +7009,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -132,
+            "virtual-stock": -133,
             "zip-code": ""
           },
           {
@@ -10667,7 +10667,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -30,
+            "virtual-stock": -31,
             "zip-code": ""
           },
           {
