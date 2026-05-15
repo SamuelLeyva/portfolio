@@ -387,7 +387,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -18,
+            "virtual-stock": -20,
             "zip-code": ""
           },
           {
@@ -2394,7 +2394,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
@@ -7009,7 +7009,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -130,
+            "virtual-stock": -132,
             "zip-code": ""
           },
           {
@@ -9796,7 +9796,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -9,
+            "virtual-stock": -11,
             "zip-code": ""
           },
           {
@@ -10667,7 +10667,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -27,
+            "virtual-stock": -30,
             "zip-code": ""
           },
           {
@@ -12549,7 +12549,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -134,
+            "virtual-stock": -136,
             "zip-code": ""
           },
           {
