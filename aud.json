@@ -1981,7 +1981,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -2305,7 +2305,7 @@
         "sales-price": 30,
         "short-description": "<ul><li><p>🔊 <strong>Sonido 360° De 10W</strong> potente y envolvente.</p></li><li><p>🔗 <strong>Bluetooth 5.0 + TWS</strong> para emparejar dos bocinas.</p></li><li><p>🎵 <strong>Modos BT / USB / microSD / Aux / FM</strong>.</p></li><li><p>🤳 <strong>Manos Libres</strong> para llamadas.</p></li><li><p>🔋 <strong>Batería 1500 mAh</strong> hasta 4 horas.</p></li><li><p>🧳 <strong>Diseño Portátil Con Correa</strong>.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {

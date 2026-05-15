@@ -17099,9 +17099,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -20223,9 +20223,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -20549,7 +20549,7 @@
         "sales-price": 450,
         "short-description": "<p><strong>🔋 Modelo:</strong> EcoFlow RIVER 2 Max</p><ul><li><p><strong>⚡ Potencia:</strong> 512 Wh | 500 W (X-Boost 1000 W).</p></li><li><p><strong>🧬 Vida útil:</strong> LiFePo (3000 ciclos).</p></li><li><p><strong>⏱️ Carga:</strong> 0-100% en 60 min.</p></li><li><p><strong>☀️ Solar:</strong> Hasta 220 W.</p></li><li><p><strong>🔌 Tomas:</strong> 4 CA, USB-C (100W), USB-A y DC.</p></li><li><p><strong>🪶 Peso:</strong> 6.1 kg.</p></li><li><p><strong>➕ Batería extra:</strong> <strong>No compatible.</strong></p></li><li><p><strong>📱 App:</strong> Control vía EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
@@ -24135,9 +24135,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -24327,7 +24327,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "3298-false",
           "117-false",
@@ -24809,9 +24809,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -28707,7 +28707,7 @@
         "sales-price": 142,
         "short-description": "<p><strong>🔋 Inversor de Corriente LVYUAN 1500W</strong></p><ul><li><p><strong>⚡ Potencia Continua:</strong> 1500W</p></li><li><p><strong>🚀 Potencia Pico:</strong> 3000W (Arranque)</p></li><li><p><strong>🔌 Voltaje Entrada:</strong> DC 12V (Batería de auto/solar)</p></li><li><p><strong>🏠 Voltaje Salida:</strong> AC 110V ± 10%</p></li><li><p><strong>〰️ Frecuencia:</strong> 60Hz</p></li><li><p><strong>🔌 Tomacorrientes:</strong> 2 Enchufes AC + 1 Puerto USB 5V</p></li><li><p><strong>🛡️ Protecciones:</strong> Sobrecarga, Cortocircuito, Sobrecalentamiento y Polaridad inversa</p></li><li><p><strong>🌀 Enfriamiento:</strong> Ventiladores inteligentes (se activan con el calor)</p></li><li><p><strong>🎨 Color/Material:</strong> Negro / Aleación de Aluminio (Alta resistencia)</p></li></ul><p>🎯 <strong>Compatibilidad y Usos:</strong></p><ul><li><p><strong>Equipos aptos:</strong> Laptops 💻, ventiladores, televisores 📺, consolas de videojuegos 🎮, luces LED 💡 y herramientas pequeñas.</p></li><li><p><strong>No recomendado:</strong> Dispositivos sensibles (médicos, láseres, audio de alta fidelidad).</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
