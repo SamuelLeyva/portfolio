@@ -6998,9 +6998,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7114,9 +7114,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7302,7 +7302,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -7324,7 +7324,7 @@
         "sales-price": 269,
         "short-description": "<ul><li><p>🌬️ <strong>Potencia:</strong> 500W generación eólica</p></li><li><p>🔋 <strong>Sistema:</strong> 12V</p></li><li><p>🌪️ <strong>Arranque:</strong> desde 2.5 m/s de viento</p></li><li><p>⚡ <strong>Velocidad nominal:</strong> 12 m/s</p></li><li><p>🧠 <strong>Controlador:</strong> MPPT incluido</p></li><li><p>📏 <strong>Diámetro rotor:</strong> 47 pulgadas</p></li><li><p>🔇 Operación silenciosa (~55 dB)</p></li><li><p>🛠️ Kit completo con anemómetro</p></li><li><p>🏠 Ideal para casas, RV, granjas y sistemas off-grid</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -11028,9 +11028,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -11144,9 +11144,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -11336,7 +11336,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "3298-false",
           "117-false",
@@ -11354,7 +11354,7 @@
         "sales-price": 190,
         "short-description": "<p>☀️ <strong>EcoFlow 110W Panel Solar Portátil</strong></p><p>⚡ <strong>Potencia:</strong> 110W</p><p>🌞 <strong>Eficiencia:</strong> Hasta 23% de tasa de conversión (Células de silicio monocristalino)</p><p>🛡️ <strong>Resistencia:</strong> Certificación IP68 (Resistencia total al polvo y protección contra inmersión bajo 1 metro de agua hasta 72 horas en pruebas de laboratorio)</p><p>📐 <strong>Diseño:</strong> Plegable y portátil (Aproximadamente un 10% más pequeño y ligero que otros paneles portátiles similares del mercado)</p><p>🎒 <strong>Accesorios incluidos:</strong> Funda protectora con función de soporte ajustable en ángulo para máxima captación solar</p><p>🔌 <strong>Compatibilidad:</strong> Optimizado para generadores solares EcoFlow (Algoritmo MPPT para suministro de energía estable)</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -16983,9 +16983,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -17309,7 +17309,7 @@
         "sales-price": 699,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -18432,9 +18432,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 14,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 14,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -18758,7 +18758,7 @@
         "sales-price": 69,
         "short-description": "<ul><li><p>🔁 Cambio automático entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⚡ Capacidad de <strong>hasta 63 A</strong></p></li><li><p>🔌 Configuración <strong>4 polos (4P)</strong> para sistemas completos</p></li><li><p>🏠 Ideal para <strong>viviendas, comercios y oficinas</strong></p></li><li><p>🛡️ Alta seguridad para proteger sus equipos</p></li><li><p>🔄 Operación <strong>automática y manual</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -23990,9 +23990,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -24809,9 +24809,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -25113,7 +25113,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -25135,7 +25135,7 @@
         "sales-price": 45,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
