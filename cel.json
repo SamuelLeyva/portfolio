@@ -387,7 +387,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -22,
+            "virtual-stock": -23,
             "zip-code": ""
           },
           {
@@ -2394,7 +2394,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -3384,7 +3384,7 @@
         "sales-price": 145,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
@@ -5003,7 +5003,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -34,
+            "virtual-stock": -35,
             "zip-code": ""
           },
           {
@@ -8779,7 +8779,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -11,
+            "virtual-stock": -12,
             "zip-code": ""
           },
           {
@@ -9796,7 +9796,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -11,
+            "virtual-stock": -12,
             "zip-code": ""
           },
           {
@@ -12549,7 +12549,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -136,
+            "virtual-stock": -137,
             "zip-code": ""
           },
           {

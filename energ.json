@@ -11354,7 +11354,7 @@
         "sales-price": 190,
         "short-description": "<p>☀️ <strong>EcoFlow 110W Panel Solar Portátil</strong></p><p>⚡ <strong>Potencia:</strong> 110W</p><p>🌞 <strong>Eficiencia:</strong> Hasta 23% de tasa de conversión (Células de silicio monocristalino)</p><p>🛡️ <strong>Resistencia:</strong> Certificación IP68 (Resistencia total al polvo y protección contra inmersión bajo 1 metro de agua hasta 72 horas en pruebas de laboratorio)</p><p>📐 <strong>Diseño:</strong> Plegable y portátil (Aproximadamente un 10% más pequeño y ligero que otros paneles portátiles similares del mercado)</p><p>🎒 <strong>Accesorios incluidos:</strong> Funda protectora con función de soporte ajustable en ángulo para máxima captación solar</p><p>🔌 <strong>Compatibilidad:</strong> Optimizado para generadores solares EcoFlow (Algoritmo MPPT para suministro de energía estable)</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -20549,7 +20549,7 @@
         "sales-price": 450,
         "short-description": "<p><strong>🔋 Modelo:</strong> EcoFlow RIVER 2 Max</p><ul><li><p><strong>⚡ Potencia:</strong> 512 Wh | 500 W (X-Boost 1000 W).</p></li><li><p><strong>🧬 Vida útil:</strong> LiFePo (3000 ciclos).</p></li><li><p><strong>⏱️ Carga:</strong> 0-100% en 60 min.</p></li><li><p><strong>☀️ Solar:</strong> Hasta 220 W.</p></li><li><p><strong>🔌 Tomas:</strong> 4 CA, USB-C (100W), USB-A y DC.</p></li><li><p><strong>🪶 Peso:</strong> 6.1 kg.</p></li><li><p><strong>➕ Batería extra:</strong> <strong>No compatible.</strong></p></li><li><p><strong>📱 App:</strong> Control vía EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
@@ -25135,7 +25135,7 @@
         "sales-price": 45,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
