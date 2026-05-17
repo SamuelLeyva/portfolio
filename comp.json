@@ -22879,9 +22879,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -22995,9 +22995,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -23183,11 +23183,11 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "3298-false",
           "117-false",
@@ -23205,7 +23205,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p>🎒 Compartimento acolchado para laptop hasta 15.6\". </p></li><li><p>🛡️ Fondo resistente al agua. Poliéster duradero. </p></li><li><p>📦 Organización: bolsillo frontal, interno y 2 laterales de malla. </p></li><li><p>🎒 Correas acolchadas y panel trasero ergonómico. </p></li><li><p>🎒 Asa acolchada + cincha para colgar. Cremalleras resistentes. </p></li><li><p>⚖️ Ligera (400g). Medidas: 46x31x16 cm.</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -40584,9 +40584,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -40700,9 +40700,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 15,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 15,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -40888,7 +40888,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -40910,7 +40910,7 @@
         "sales-price": 269,
         "short-description": "<p><strong>💻 ASUS VivoBook Go 14 (Modelo: E410KA)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel Celeron N4500</p></li><li><p><strong>⚡ Memoria RAM:</strong> 4GB DDR4</p></li><li><p><strong>💾 Almacenamiento:</strong> 128GB eMMC</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" Full HD (1920 x 1080)</p></li><li><p><strong>🎨 Gráficos:</strong> Intel UHD Graphics</p></li><li><p><strong>🔋 Batería:</strong> Hasta 12 horas de autonomía</p></li><li><p><strong>🔌 Puertos:</strong> 1x USB-C, 1x USB 3.2, 1x USB 2.0, HDMI</p></li><li><p><strong>⚖️ Peso:</strong> 1.3 kg (Extra ligera)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home (S mode)</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo de Paquete</strong> 📦 (Color Negro)</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",

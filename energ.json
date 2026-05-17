@@ -9158,7 +9158,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 560,
+            "price": 500,
             "updatedAt": 1747229914344
           },
           {
@@ -9171,7 +9171,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 549,
+            "price": 500,
             "updatedAt": 1747229914346
           },
           {
@@ -9182,7 +9182,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 560,
+            "price": 500,
             "updatedAt": 1747229914346
           },
           {
@@ -9194,7 +9194,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 549
+            "price": 500
           },
           {
             "deleted": false,
@@ -9204,7 +9204,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 560,
+            "price": 500,
             "updatedAt": 1747229914347
           },
           {
@@ -9215,7 +9215,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 549,
+            "price": 500,
             "updatedAt": 1747229914347
           }
         ],
@@ -9776,7 +9776,7 @@
         "reference": "PRO07150",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 560,
+        "sales-price": 530,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 3000W nominal / ~6000W pico</p></li><li><p>⚡ <strong>Tecnología:</strong> Alta frecuencia (más eficiente y compacto)</p></li><li><p>🌞 <strong>MPPT integrado:</strong> 100A (hasta 4000W solar)</p></li><li><p>🔋 <strong>Sistema:</strong> 24V compatible con LiFePO4, litio, AGM y gel</p></li><li><p>🔌 <strong>Salida:</strong> 120V AC onda pura</p></li><li><p>📡 <strong>Conectividad:</strong> WiFi para monitoreo remoto</p></li><li><p>🧠 <strong>Modos inteligentes:</strong> Solar, red y modo híbrido</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🏠 Ideal para sistemas solares compactos y uso doméstico</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -11354,7 +11354,7 @@
         "sales-price": 190,
         "short-description": "<p>☀️ <strong>EcoFlow 110W Panel Solar Portátil</strong></p><p>⚡ <strong>Potencia:</strong> 110W</p><p>🌞 <strong>Eficiencia:</strong> Hasta 23% de tasa de conversión (Células de silicio monocristalino)</p><p>🛡️ <strong>Resistencia:</strong> Certificación IP68 (Resistencia total al polvo y protección contra inmersión bajo 1 metro de agua hasta 72 horas en pruebas de laboratorio)</p><p>📐 <strong>Diseño:</strong> Plegable y portátil (Aproximadamente un 10% más pequeño y ligero que otros paneles portátiles similares del mercado)</p><p>🎒 <strong>Accesorios incluidos:</strong> Funda protectora con función de soporte ajustable en ángulo para máxima captación solar</p><p>🔌 <strong>Compatibilidad:</strong> Optimizado para generadores solares EcoFlow (Algoritmo MPPT para suministro de energía estable)</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -19469,7 +19469,7 @@
             "public": false,
             "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -19793,7 +19793,7 @@
         "sales-price": 450,
         "short-description": "<p><strong>🔋 Modelo:</strong> EcoFlow RIVER 2 Max</p><ul><li><p><strong>⚡ Potencia:</strong> 512 Wh | 500 W (X-Boost 1000 W).</p></li><li><p><strong>🧬 Vida útil:</strong> LiFePo (3000 ciclos).</p></li><li><p><strong>⏱️ Carga:</strong> 0-100% en 60 min.</p></li><li><p><strong>☀️ Solar:</strong> Hasta 220 W.</p></li><li><p><strong>🔌 Tomas:</strong> 4 CA, USB-C (100W), USB-A y DC.</p></li><li><p><strong>🪶 Peso:</strong> 6.1 kg.</p></li><li><p><strong>➕ Batería extra:</strong> <strong>No compatible.</strong></p></li><li><p><strong>📱 App:</strong> Control vía EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
