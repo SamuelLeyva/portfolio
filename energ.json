@@ -16632,9 +16632,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -16835,9 +16835,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -17133,14 +17133,14 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -17164,7 +17164,7 @@
         "sales-price": 3200,
         "short-description": "<p><strong>🔋 EcoFlow DELTA Pro 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 4096 Wh (escalable a 48 kWh) | 4000 W (Pico 8000 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP mejorada, 3000 ciclos al 80% de capacidad.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> hasta <strong>3000W</strong>. 0 - 80% en  <strong>50-60 minutos</strong></p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 2600 W (puerto alto voltaje 1600W max + puerto bajo voltaje 1000W max).</p></li><li><p><strong>🔌 Salidas:</strong> 5 Puertos CA , 2 USB-C, 2USB -A , 12V, DC5521, 1 Anderson</p></li><li><p><strong>🪶 Portabilidad:</strong> 52 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, capacidad expandible a12 kWh con batería extra.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth compatibles.</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -17439,9 +17439,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -17642,9 +17642,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -17758,9 +17758,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -17940,14 +17940,14 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-true",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -17969,7 +17969,7 @@
         "sales-price": 699,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -20799,9 +20799,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -21002,9 +21002,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -21300,14 +21300,14 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -21329,7 +21329,7 @@
         "sales-price": 450,
         "short-description": "<p><strong>🔋 Modelo:</strong> EcoFlow RIVER 2 Max</p><ul><li><p><strong>⚡ Potencia:</strong> 512 Wh | 500 W (X-Boost 1000 W).</p></li><li><p><strong>🧬 Vida útil:</strong> LiFePo (3000 ciclos).</p></li><li><p><strong>⏱️ Carga:</strong> 0-100% en 60 min.</p></li><li><p><strong>☀️ Solar:</strong> Hasta 220 W.</p></li><li><p><strong>🔌 Tomas:</strong> 4 CA, USB-C (100W), USB-A y DC.</p></li><li><p><strong>🪶 Peso:</strong> 6.1 kg.</p></li><li><p><strong>➕ Batería extra:</strong> <strong>No compatible.</strong></p></li><li><p><strong>📱 App:</strong> Control vía EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -23155,9 +23155,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -23358,9 +23358,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -23656,14 +23656,14 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -23685,7 +23685,7 @@
         "sales-price": 295,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -30872,9 +30872,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -31075,9 +31075,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -31191,9 +31191,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -31373,18 +31373,18 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "3298-false",
           "117-false",
@@ -31402,7 +31402,7 @@
         "sales-price": 589,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje nominal:</strong> 51.2 V</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~4 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -33220,9 +33220,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -33423,9 +33423,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -33721,14 +33721,14 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -33750,7 +33750,7 @@
         "sales-price": 645,
         "short-description": "<ul><li><p><strong>Tipo:</strong> Batería externa / módulo de expansión de energía</p></li><li><p><strong>Uso principal:</strong> <strong>Aumentar la capacidad</strong> de estaciones de energía VTOMAN compatibles</p></li><li><p><strong>No funciona sola:</strong> Debe estar conectada a una estación principal para funcionar</p></li><li><p><strong>Capacidad típica:</strong> Alta capacidad para extender autonomía (≈1548 Wh según modelo)</p></li><li><p><strong>Compatibilidad:</strong> Diseñada para estaciones VTOMAN con puerto de expansión específico</p><ul><li><p><strong>Compatible con:</strong></p><ul><li><p>VTOMAN <strong>FlashSpeed 1500</strong> ✔️</p></li><li><p>Posible compatibilidad con <strong>FlashSpeed 1000 / 600</strong> si tienen puerto de expansión ⭐</p></li></ul></li><li><p><strong>No compatible con:</strong> estaciones de otras marcas ni estaciones VTOMAN sin puerto de expansión para PB-81 ❌</p></li></ul></li><li><p><strong>Conexión:</strong> Requiere puerto de expansión dedicado en la estación principal</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
