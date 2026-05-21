@@ -4887,7 +4887,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -14074,7 +14074,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 22,
+        "stock": 21,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -15283,9 +15283,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -15610,7 +15610,7 @@
         "sales-price": 16,
         "short-description": "<ul><li><p>🧱 Caja de distribución ABS</p></li><li><p>💧 Protección IP65 contra agua y polvo</p></li><li><p>🪟 Tapa transparente</p></li><li><p>🔌 Ideal para sistemas solares e industriale</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
