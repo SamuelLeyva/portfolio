@@ -199812,16 +199812,16 @@
     },
     {
       "_index": "products",
-      "_id": "32124668",
+      "_id": "32124691",
       "_score": null,
       "_ignored": [
         "description.keyword"
       ],
       "_source": {
-        "id": "32124668",
-        "idstel": "32124668",
+        "id": "32124691",
+        "idstel": "32124691",
         "creation-date": "2024-09-20T00:33:21+0000",
-        "barcode": "PRO04768",
+        "barcode": "PRO04772",
         "buildservice": [],
         "attribute": [
           {
@@ -199867,34 +199867,6 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "active": true,
-            "createdAt": 1740685915068,
-            "creation-date": "2025-02-27T19:51:55.068Z",
-            "data": [
-              {
-                "id": "108",
-                "name": "Galaxy A05s",
-                "name_en": "Galaxy A05s"
-              },
-              {
-                "id": "161",
-                "name": "Galaxy F14 5G",
-                "name_en": "Galaxy F14 5G"
-              },
-              {
-                "id": "102",
-                "name": "Galaxy A14",
-                "name_en": "Galaxy A14"
-              }
-            ],
-            "description": "",
-            "id": "TPshKJ8oilVegQIUVSRg",
-            "name": "Modelo ( Celulares )",
-            "name_en": "Modelo ( Celulares )",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce"
           }
         ],
         "category": [
@@ -199909,14 +199881,14 @@
         "discontinued": false,
         "discount-percentage": 0,
         "inactive": false,
-        "isCatalog": false,
+        "isCatalog": true,
         "onlyBougth": false,
         "images": [
           {
-            "id": "20111a30-b4d7-4019-3848-5707418e4800",
-            "idstel": "3832532",
+            "id": "0e5471b2-3e95-4cf5-2875-21239de02900",
+            "idstel": "3832535",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/20111a30-b4d7-4019-3848-5707418e4800/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/0e5471b2-3e95-4cf5-2875-21239de02900/public"
           }
         ],
         "item-rates": [
@@ -199941,7 +199913,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 0.99,
+            "price": 2.2,
             "updatedAt": 1747229914346
           },
           {
@@ -199985,13 +199957,13 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1,
+            "price": 3.5,
             "updatedAt": 1747229914347
           }
         ],
         "min-max": {
           "qty-max": 0,
-          "qty-min": 0,
+          "qty-min": 5,
           "step": 0
         },
         "outstanding": false,
@@ -200107,9 +200079,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -200252,9 +200224,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 54,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 54,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -200389,7 +200361,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "B1P6 CAJA1",
+            "location": "",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -200397,9 +200369,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 126,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 126,
             "zip-code": ""
           },
           {
@@ -200552,7 +200524,7 @@
           "116-false",
           "4813-false",
           "680-false",
-          "3375-true",
+          "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -200562,24 +200534,24 @@
           "2193-false",
           "707-false",
           "3866-false",
-          "611-false",
+          "611-true",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
           "1624-false"
         ],
-        "productname": "Cover de Silicona Samsung A05S (A057 / 2023) / F14 (E145F / 2024) / M14 (M146 / 2023) / A14. Negro",
+        "productname": "Cover de Silicona Samsung A25 (A256 / 2023). Negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO04768",
+        "reference": "PRO04772",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 54,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
