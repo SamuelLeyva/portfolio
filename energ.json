@@ -11435,9 +11435,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -11762,7 +11762,7 @@
         "sales-price": 25,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C).</p><p>⚡ Carga USB rápida e inteligente de 12W.</p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga.</p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable.</p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -12947,9 +12947,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 196,
+            "stock": 186,
             "subcontractedid": "",
-            "virtual-stock": 196,
+            "virtual-stock": 186,
             "zip-code": ""
           },
           {
@@ -13274,7 +13274,7 @@
         "sales-price": 7.7,
         "short-description": "<p><strong>☀️ Cable de Extensión Solar 12 AWG (Venta por Metro)</strong></p><ul><li><p><strong>📐 Calibre:</strong> 12 AWG (Ideal para minimizar caídas de voltaje).</p></li><li><p><strong>🔌 Uso:</strong> Conexión de paneles solares a controladores de carga o inversores.</p></li><li><p><strong>🛡️ Protección:</strong> Recubrimiento XLPE resistente a rayos UV y climas extremos.</p></li><li><p><strong>🌡️ Temperatura:</strong> Soporta hasta 90°C en condiciones húmedas o secas.</p></li><li><p><strong>⚡ Capacidad:</strong> Diseñado para manejar altas corrientes en sistemas de 12V, 24V o superiores.</p></li><li><p><strong>📏 Venta:</strong> Personalizada por metros lineales.( <strong>Compra mínima 10m de extensión</strong>)</p></li></ul>",
         "short-description-en": "",
-        "stock": 196,
+        "stock": 186,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
