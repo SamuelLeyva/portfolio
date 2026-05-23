@@ -6733,9 +6733,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -7060,7 +7060,7 @@
         "sales-price": 14,
         "short-description": "<ul><li><p>🔧 Caja externa M.2 NVMe</p></li><li><p>⚡ USB-C 10Gbps</p></li><li><p>📏 Compatibilidad 2280/2260/2242/2230</p></li><li><p>💻 Ideal para respaldo y portabilida</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
