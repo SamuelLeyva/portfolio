@@ -2335,9 +2335,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 31,
+            "stock": 25,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -2662,7 +2662,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 31,
+        "stock": 25,
         "stock-enabled": true,
         "tag": [
           {
@@ -6495,7 +6495,7 @@
         "sales-price": 9.5,
         "short-description": "<p>El soporte selfie extensible para teléfono móvil es un trípode portátil de aleación ligera diseñado para selfies grupales, transmisión en vivo y grabación de video estable. Con brazo extensible de 90cm y rotación 360°, permite ajustar ángulos libremente. Incluye control remoto Bluetooth y adaptador universal compatible con la mayoría de smartphones, ideal para creadores de contenido, viajeros y usuarios de redes sociales.</p>",
         "short-description-en": "",
-        "stock": 154,
+        "stock": 153,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -7549,7 +7549,7 @@
         "sales-price": 170,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 59,
+        "stock": 57,
         "stock-enabled": true,
         "tag": [
           {
