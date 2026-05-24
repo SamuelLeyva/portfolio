@@ -1319,7 +1319,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -5,
+            "virtual-stock": -6,
             "zip-code": ""
           },
           {
@@ -2662,7 +2662,7 @@
         "sales-price": 119,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
@@ -6495,7 +6495,7 @@
         "sales-price": 9.5,
         "short-description": "<p>El soporte selfie extensible para teléfono móvil es un trípode portátil de aleación ligera diseñado para selfies grupales, transmisión en vivo y grabación de video estable. Con brazo extensible de 90cm y rotación 360°, permite ajustar ángulos libremente. Incluye control remoto Bluetooth y adaptador universal compatible con la mayoría de smartphones, ideal para creadores de contenido, viajeros y usuarios de redes sociales.</p>",
         "short-description-en": "",
-        "stock": 153,
+        "stock": 144,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -8257,7 +8257,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -48,
+            "virtual-stock": -49,
             "zip-code": ""
           },
           {
@@ -10209,7 +10209,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -21,
+            "virtual-stock": -42,
             "zip-code": ""
           },
           {
@@ -11996,7 +11996,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -18,
+            "virtual-stock": -34,
             "zip-code": ""
           },
           {
