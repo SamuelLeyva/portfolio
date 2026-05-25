@@ -2004,9 +2004,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -2120,9 +2120,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -2309,7 +2309,7 @@
           "3807-true",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -2331,7 +2331,7 @@
         "sales-price": 115,
         "short-description": "<p>🎨 Diseño moderno que se adapta a cualquier decoración. Escritorio amplio y organizado. </p><p>🛡️ Superficie impermeable, antiarañazos y fácil de limpiar. </p><p>🔩 Estructura de acero con refuerzo en X para máxima estabilidad. </p><p>⚡ Ensamblaje fácil con herramientas incluidas y video guía. </p><p>🤝 Servicio al cliente con soporte y reemplazo rápido garantizado.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -2787,9 +2787,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -2903,9 +2903,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -3092,7 +3092,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -3114,7 +3114,7 @@
         "sales-price": 90,
         "short-description": "<ul><li><p>🌳 <strong>MDF premium antiarañazos e impermeable</strong> – superficie resistente y fácil de limpiar.</p></li><li><p>🔧 <strong>Refuerzo en X central</strong>: elimina el bamboleo y aporta estabilidad.</p></li><li><p>💪 <strong>Alta capacidad de carga</strong>: soporta hasta <strong>265 lbs (120 kg)</strong> gracias a sus patas de tubo cuadrado.</p></li><li><p>⚡ <strong>Montaje rápido y sencillo</strong>: incluye todas las herramientas necesarias.</p></li><li><p>🏠 <strong>Diseño práctico y duradero</strong>: ideal para hogar, oficina o talleres.</p></li><li><p>✅ <strong>Beneficio clave</strong>: resistencia, estabilidad y montaje express en un solo producto.</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",

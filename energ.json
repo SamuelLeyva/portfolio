@@ -3904,9 +3904,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -4020,9 +4020,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -4209,7 +4209,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -4231,7 +4231,7 @@
         "sales-price": 890,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 5000W nominal / 15000W pico</p></li><li><p>🧱 <strong>Tecnología:</strong> Baja frecuencia para mejor arranque de cargas exigentes</p></li><li><p>🔋 <strong>Sistema:</strong> 24V compatible con baterías LiFePO4, litio, AGM, gel y plomo ácido</p></li><li><p>🔌 <strong>Salida:</strong> 120V AC de onda pura, ideal para equipos sensibles</p></li><li><p>🎛️ <strong>Control remoto:</strong> Incluye control remoto con cable de 10 m</p></li><li><p>🧠 <strong>Modos de trabajo:</strong> Automático, prioridad red, prioridad batería, ahorro y generador</p></li><li><p>🛡️ <strong>Protección completa:</strong> Sobrecarga, cortocircuito, temperatura y voltaje</p></li><li><p>🏠 <strong>Uso recomendado:</strong> Sistemas off grid, respaldo eléctrico, RV, botes y viviendas</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -8966,9 +8966,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9082,9 +9082,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9271,7 +9271,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -9293,7 +9293,7 @@
         "sales-price": 199,
         "short-description": "<ul><li><p>🌞 <strong>Tipo:</strong> Controlador solar MPPT de alta eficiencia</p></li><li><p>⚡ <strong>Corriente:</strong> 50A</p></li><li><p>🔋 <strong>Sistema:</strong> 12V / 24V automático</p></li><li><p>⚡ <strong>Eficiencia:</strong> Hasta 98% (carga más rápida)</p></li><li><p>📱 <strong>Conectividad:</strong> Bluetooth con monitoreo por app</p></li><li><p>🔌 <strong>Capacidad solar:</strong> 660W (12V) / 1320W (24V)</p></li><li><p>🔋 Compatible con baterías AGM, Gel, Flooded y Litio</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🏠 Ideal para sistemas solares domésticos y móviles</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -10654,9 +10654,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -10770,9 +10770,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -10959,11 +10959,11 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "3298-false",
           "117-false",
@@ -10981,7 +10981,7 @@
         "sales-price": 159,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 520W / 40A</p></li><li><p>🔋 <strong>Tipo:</strong> Cargador DC a DC (alternador a batería)</p></li><li><p>🔌 <strong>Voltaje:</strong> 12V/24V a 12V/24V automático</p></li><li><p>⚡ <strong>Eficiencia:</strong> &gt;94% (carga rápida)</p></li><li><p>🔋 Compatible con baterías LiFePO4, AGM, Gel y plomo ácido</p></li><li><p>🚗 Ideal para RV, campers, autos y sistemas off-grid</p></li><li><p>🔄 Función de carga inversa de emergencia</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🌡️ Ventilación activa con ventilador</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -24236,7 +24236,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -12,
+            "virtual-stock": -62,
             "zip-code": ""
           },
           {
@@ -25056,7 +25056,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": -58,
             "zip-code": ""
           },
           {
