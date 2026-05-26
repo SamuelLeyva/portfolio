@@ -1189,9 +1189,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 49,
+            "stock": 48,
             "subcontractedid": "",
-            "virtual-stock": 49,
+            "virtual-stock": 48,
             "zip-code": ""
           },
           {
@@ -1516,7 +1516,7 @@
         "sales-price": 2,
         "short-description": "<ul><li><p>🛠️ Destornillador Tri-Wing </p></li><li><p>🛠️ Destornillador Pentalobe</p></li><li><p>🛠️ Destornillador Phillips </p></li><li><p>🛠️ Destornillador Plano</p></li><li><p>🫧 Ventosa </p></li><li><p>🔸 Herramienta plástica de apertura (2)</p></li><li><p>🔸 Herramienta cúbica de apertura (2)</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 49,
+        "stock": 48,
         "stock-enabled": true,
         "tag": [
           {
