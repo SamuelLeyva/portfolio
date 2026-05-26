@@ -15074,9 +15074,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -15379,7 +15379,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -15401,7 +15401,7 @@
         "sales-price": 180,
         "short-description": "<ul><li><p>🖼️ <strong>Resolución: </strong>720p / HD</p></li><li><p>🗣️ <strong>Control por voz: </strong>Alexa</p></li><li><p>🎧 <strong>Sonido: </strong>Cinematográfico DTS Virtual X</p></li><li><p>🔗 <strong>Conexión: </strong>HDMI ARC</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
