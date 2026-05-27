@@ -416,7 +416,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -24,
+            "virtual-stock": -26,
             "zip-code": ""
           },
           {
@@ -4351,7 +4351,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -13,
+            "virtual-stock": -14,
             "zip-code": ""
           },
           {
@@ -7214,7 +7214,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -50,
+            "virtual-stock": -51,
             "zip-code": ""
           },
           {
@@ -8265,7 +8265,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -10953,7 +10953,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -51,
+            "virtual-stock": -53,
             "zip-code": ""
           },
           {
