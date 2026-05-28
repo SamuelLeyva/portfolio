@@ -195605,7 +195605,7 @@
             "public": false,
             "stock": 574,
             "subcontractedid": "",
-            "virtual-stock": 589,
+            "virtual-stock": 574,
             "zip-code": ""
           },
           {
@@ -195930,7 +195930,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 589,
+        "stock": 574,
         "stock-enabled": true,
         "tag": [
           {
