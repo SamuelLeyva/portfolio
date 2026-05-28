@@ -7134,9 +7134,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
@@ -7461,7 +7461,7 @@
         "sales-price": 125,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -12797,9 +12797,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 38,
+            "stock": 32,
             "subcontractedid": "",
-            "virtual-stock": 37,
+            "virtual-stock": 31,
             "zip-code": ""
           },
           {
@@ -13124,7 +13124,7 @@
         "sales-price": 118,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 38,
+        "stock": 32,
         "stock-enabled": true,
         "tag": [
           {
