@@ -16613,9 +16613,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -16932,9 +16932,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -17446,9 +17446,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -17649,9 +17649,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": -1,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -17947,7 +17947,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
@@ -17976,7 +17976,7 @@
         "sales-price": 799,
         "short-description": "<ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1536 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 3000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W (0-100% en 1.5h)</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: 4</strong> USB-A <strong>2</strong> USB-C <strong>6</strong> AC 120V <strong>3</strong> Puertos de 12V (vehículo) </p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 16,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 5500 Wh.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p><p>l</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": -1,
         "stock-enabled": true,
         "tag": [
           {
@@ -19065,9 +19065,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -19268,9 +19268,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -19384,9 +19384,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 27,
+            "stock": 29,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -19566,14 +19566,14 @@
         ],
         "warehousesInStock": [
           "116-true",
-          "4813-true",
+          "4813-false",
           "680-false",
           "3375-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -19595,7 +19595,7 @@
         "sales-price": 660,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -20356,7 +20356,7 @@
         "sales-price": 69,
         "short-description": "<ul><li><p>🔁 Cambio automático entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⚡ Capacidad de <strong>hasta 63 A</strong></p></li><li><p>🔌 Configuración <strong>4 polos (4P)</strong> para sistemas completos</p></li><li><p>🏠 Ideal para <strong>viviendas, comercios y oficinas</strong></p></li><li><p>🛡️ Alta seguridad para proteger sus equipos</p></li><li><p>🔄 Operación <strong>automática y manual</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -25814,7 +25814,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -202,
+            "virtual-stock": -208,
             "zip-code": ""
           },
           {

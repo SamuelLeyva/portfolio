@@ -1442,9 +1442,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 15,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -3402,7 +3402,7 @@
         "sales-price": 213,
         "short-description": "<ul><li><p>📱 <strong>Pantalla:</strong> 6.77\" AMOLED Full HD+ 120Hz</p><p>📸 <strong>Cámara trasera:</strong> 108MP + 2MP</p><p>📸 <strong>Cámara frontal:</strong> 20MP</p><p>⚡ <strong>Batería:</strong> 5520 mAh con carga rápida</p><p>⚡ <strong>Procesador:</strong> Qualcomm Snapdragon 6 Gen 3</p><p>🧠 <strong>Ram:</strong> 6GB</p><p>💾 <strong>Almacenamiento:</strong> 128GB</p><p>📶 <strong>Conectividad:</strong> Redes 5G, Wi-Fi, Bluetooth</p></li></ul><p></p><p></p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -8219,7 +8219,7 @@
         "sales-price": 110,
         "short-description": "<ul><li><p>📱 Pantalla de 6.6” HD+ a 90 Hz con brillo de hasta 1500 nits</p></li><li><p>⚙️ Procesador Octa-Core Unisoc T7100 con3GB más 5GB virtual, para un total de 8GB de RAM</p></li><li><p>📸 Cámara trasera de 13 MP con IA + frontal de 5 MP</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15W por USB-C</p></li><li><p>📦 Disponible 128GB de almacenamiento</p></li><li><p>💧 Certificación IP54 resistente a salpicaduras y polvo</p></li><li><p>🔐 Sensor de huella lateral + desbloqueo facial</p></li><li><p>🎧 Jack 3.5 mm, Dynamic Bar, Always-On Display</p></li><li><p>✨ Color: <strong>Negro Starlit</strong>, elegante y sobrio</p></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -11211,7 +11211,7 @@
         "sales-price": 118,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 25,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
