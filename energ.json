@@ -16613,7 +16613,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
@@ -16818,7 +16818,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -16932,7 +16932,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 8,
             "subcontractedid": "",
             "virtual-stock": 13,
             "zip-code": ""
@@ -17114,7 +17114,7 @@
         ],
         "warehousesInStock": [
           "116-true",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
@@ -17446,7 +17446,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 1,
             "subcontractedid": "",
             "virtual-stock": 5,
             "zip-code": ""
@@ -17649,9 +17649,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -3,
             "zip-code": ""
           },
           {
@@ -17954,7 +17954,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -18436,7 +18436,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
