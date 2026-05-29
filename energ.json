@@ -12910,7 +12910,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -16,
+            "virtual-stock": -31,
             "zip-code": ""
           },
           {
@@ -19825,9 +19825,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 50,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 50,
             "zip-code": ""
           },
           {
@@ -19970,9 +19970,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 50,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 50,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -20354,12 +20354,12 @@
           }
         ],
         "warehousesInStock": [
-          "116-false",
+          "116-true",
           "4813-true",
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-false",
           "-2-false",
@@ -21488,9 +21488,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 50,
+            "stock": 100,
             "subcontractedid": "",
-            "virtual-stock": 50,
+            "virtual-stock": 100,
             "zip-code": ""
           },
           {
@@ -21633,9 +21633,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 50,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 50,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -22022,7 +22022,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-true",
+          "3807-false",
           "120-false",
           "2820-true",
           "-2-false",
@@ -26603,7 +26603,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -186,
+            "virtual-stock": -189,
             "zip-code": ""
           },
           {
