@@ -978,7 +978,7 @@
         "sales-price": 213,
         "short-description": "<ul><li><p>⚡ Hasta 6 GB de RAM y procesador MediaTek Helio G100‑Ultra para rendimiento rápido y multitarea fluida</p></li><li><p>💾 128 GB de almacenamiento amplio, ampliable hasta 2 TB con microSD (ranura híbrida SIM/microSD)</p></li><li><p>🌈 Pantalla AMOLED FHD+ de 6.77\" con 120 Hz, colores vivos de 12 bits y brillo máximo de 3200 nits, perfecta para ver incluso bajo el sol</p></li><li><p>📸 Cámara principal de 108 MP con agrupación 9‑en‑1 para fotos luminosas + selfie nítida de 20 MP, capturas con gran detalle incluso de noche</p></li><li><p>🔋 Batería de larga duración de 6000 mAh compatible con carga turbo de 33 W</p></li><li><p>🛡️ Diseño ultradelgado de 7.94 mm y ligero (183.7 g), moderno y resistente con certificación IP64 contra agua y polvo, y sensor de huella en pantalla</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -1769,7 +1769,7 @@
         "sales-price": 103,
         "short-description": "<p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p><p>💾 64GB de almacenamiento expandible mediante microSD.</p><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p><p>🔋 Batería de 5,000 mAh para mayor duración.</p><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p><p>🔵 Elegante acabado en color Azul.</p><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
@@ -2517,7 +2517,7 @@
         "sales-price": 213,
         "short-description": "<ul><li><p>📱 <strong>Pantalla AMOLED de 6.77\"</strong>: Panel brillante con resolución <strong>FHD+</strong> (1080 x 2392 px), tasa de refresco de <strong>120 Hz</strong> y un brillo pico impresionante de <strong>3,200 nits</strong> para visibilidad total bajo el sol.</p></li><li><p>🚀 <strong>Rendimiento de 6GB RAM</strong>: Equipado con el procesador <strong>Snapdragon 6 Gen 3</strong> (en su versión 5G) o <strong>Helio G100 Ultra</strong> (4G), diseñado para una multitarea fluida y eficiencia energética.</p></li><li><p>💾 <strong>256GB de Almacenamiento</strong>: Amplio espacio interno para fotos, videos y apps, expandible mediante tarjeta <strong>microSD de hasta 1TB</strong>.</p></li><li><p>📸 <strong>Cámara Principal de 108MP</strong>: Sensor de alta resolución de <strong>108 MP</strong> con apertura f/1.7 y estabilización óptica (<strong>OIS</strong>), permitiendo capturas nítidas y grabación en <strong>4K</strong>.</p></li><li><p>🤳 <strong>Cámara Frontal de 20MP</strong>: Sensor de <strong>20 MP</strong> optimizado para selfies detallados y videollamadas en alta definición.</p></li><li><p>🔋 <strong>Batería de 5,520 mAh</strong>: Gran capacidad que ofrece hasta <strong>1.6 días de uso</strong> continuo. Soporta <strong>carga rápida de 45W</strong>, alcanzando el 50% en solo 25 minutos.</p></li><li><p>🛡️ <strong>Resistencia y Durabilidad</strong>: Certificación <strong>IP66</strong> contra polvo y chorros de agua, además de cristal de alta durabilidad para mayor protección ante caídas.</p></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -8033,9 +8033,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 55,
+            "stock": 47,
             "subcontractedid": "",
-            "virtual-stock": 55,
+            "virtual-stock": 47,
             "zip-code": ""
           },
           {
@@ -8360,7 +8360,7 @@
         "sales-price": 125,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 70,
+        "stock": 48,
         "stock-enabled": true,
         "tag": [
           {
@@ -11476,7 +11476,7 @@
         "sales-price": 193,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un rendimiento equilibrado con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su color gris elegante y pantalla HD+ brindan una experiencia visual nítida y moderna. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
@@ -16373,7 +16373,7 @@
         "sales-price": 110,
         "short-description": "<ul><li><p>📱 Pantalla de 6.6” HD+ a 90 Hz con brillo de hasta 1500 nits</p></li><li><p>⚙️ Procesador Octa-Core Unisoc T7100 con3GB más 5GB virtual, para un total de 8GB de RAM</p></li><li><p>📸 Cámara trasera de 13 MP con IA + frontal de 5 MP</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15W por USB-C</p></li><li><p>📦 Disponible 128GB de almacenamiento</p></li><li><p>💧 Certificación IP54 resistente a salpicaduras y polvo</p></li><li><p>🔐 Sensor de huella lateral + desbloqueo facial</p></li><li><p>🎧 Jack 3.5 mm, Dynamic Bar, Always-On Display</p></li><li><p>✨ Color: <strong>Negro Starlit</strong>, elegante y sobrio</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -17424,7 +17424,7 @@
         "sales-price": 123,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 36,
+        "stock": 35,
         "stock-enabled": true,
         "tag": [
           {
@@ -22019,9 +22019,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
@@ -22346,7 +22346,7 @@
         "sales-price": 118,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
