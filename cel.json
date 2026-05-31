@@ -1442,9 +1442,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": -16,
+            "virtual-stock": -21,
             "zip-code": ""
           },
           {
@@ -1769,7 +1769,7 @@
         "sales-price": 103,
         "short-description": "<p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p><p>💾 64GB de almacenamiento expandible mediante microSD.</p><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p><p>🔋 Batería de 5,000 mAh para mayor duración.</p><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p><p>🔵 Elegante acabado en color Azul.</p><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -8033,9 +8033,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 47,
+            "stock": 34,
             "subcontractedid": "",
-            "virtual-stock": 47,
+            "virtual-stock": 34,
             "zip-code": ""
           },
           {
@@ -8360,7 +8360,7 @@
         "sales-price": 125,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 47,
+        "stock": 34,
         "stock-enabled": true,
         "tag": [
           {
@@ -17097,9 +17097,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 35,
+            "stock": 34,
             "subcontractedid": "",
-            "virtual-stock": 35,
+            "virtual-stock": 34,
             "zip-code": ""
           },
           {
@@ -17424,7 +17424,7 @@
         "sales-price": 123,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 35,
+        "stock": 34,
         "stock-enabled": true,
         "tag": [
           {
@@ -22019,9 +22019,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -22346,7 +22346,7 @@
         "sales-price": 118,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
