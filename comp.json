@@ -7507,7 +7507,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -23207,7 +23207,7 @@
         "sales-price": 24,
         "short-description": "<ul><li><p>🎧 <strong>Bluetooth 5.0</strong> para conexión estable y eficiente.</p></li><li><p>🔇 <strong>Reducción Pasiva De Ruido</strong> para audio más limpio.</p></li><li><p>🔋 <strong>Hasta 15h De Reproducción</strong> con batería de 400 mAh.</p></li><li><p>📀 <strong>Ranura Micro SD + Controles Integrados</strong>.</p></li><li><p>🎛️ <strong>Diadema Plegable y Ajustable</strong>.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
