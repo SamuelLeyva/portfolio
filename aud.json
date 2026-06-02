@@ -410,9 +410,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -737,7 +737,7 @@
         "sales-price": 17,
         "short-description": "<p>🔊 Sonido potente de 5W para interiores y exteriores. </p><p>🔗 Bluetooth 5.3, entrada AUX y ranura MicroSD/TF. </p><p>🔋 1500mAh, hasta 7h de música. Carga USB-C en 3h. </p><p>🛡️ Carcasa de goma y tejido resistente para aventuras. </p><p>🎒 Compacto y ligero (374g), fácil de llevar.</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
