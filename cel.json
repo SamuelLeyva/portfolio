@@ -2851,9 +2851,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -3178,7 +3178,7 @@
         "sales-price": 213,
         "short-description": "<ul><li><p>⚡ Hasta 6 GB de RAM y procesador MediaTek Helio G100‑Ultra para rendimiento rápido y multitarea fluida</p></li><li><p>💾 128 GB de almacenamiento amplio, ampliable hasta 2 TB con microSD (ranura híbrida SIM/microSD)</p></li><li><p>🌈 Pantalla AMOLED FHD+ de 6.77\" con 120 Hz, colores vivos de 12 bits y brillo máximo de 3200 nits, perfecta para ver incluso bajo el sol</p></li><li><p>📸 Cámara principal de 108 MP con agrupación 9‑en‑1 para fotos luminosas + selfie nítida de 20 MP, capturas con gran detalle incluso de noche</p></li><li><p>🔋 Batería de larga duración de 6000 mAh compatible con carga turbo de 33 W</p></li><li><p>🛡️ Diseño ultradelgado de 7.94 mm y ligero (183.7 g), moderno y resistente con certificación IP64 contra agua y polvo, y sensor de huella en pantalla</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
