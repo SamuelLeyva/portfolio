@@ -5206,7 +5206,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -14,
+            "virtual-stock": -16,
             "zip-code": ""
           },
           {
@@ -10233,9 +10233,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -10560,7 +10560,7 @@
         "sales-price": 125,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
@@ -13349,9 +13349,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -13654,7 +13654,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -13676,7 +13676,7 @@
         "sales-price": 193,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un rendimiento equilibrado con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su color gris elegante y pantalla HD+ brindan una experiencia visual nítida y moderna. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -20200,7 +20200,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -25,
+            "virtual-stock": -29,
             "zip-code": ""
           },
           {
@@ -24219,9 +24219,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": -6,
+            "virtual-stock": -12,
             "zip-code": ""
           },
           {
@@ -24546,7 +24546,7 @@
         "sales-price": 118,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
@@ -25087,7 +25087,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
             "virtual-stock": -16,
             "zip-code": ""
@@ -25392,7 +25392,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
