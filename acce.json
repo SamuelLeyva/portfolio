@@ -185632,9 +185632,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 37,
+            "stock": 32,
             "subcontractedid": "",
-            "virtual-stock": 37,
+            "virtual-stock": 32,
             "zip-code": ""
           },
           {
@@ -185959,7 +185959,7 @@
         "sales-price": 10,
         "short-description": "<p>⚡ Thor: Cargador Rápido 20W con Doble Poder</p><ul><li><p><strong>🚀 Carga Ultra Rápida (20W):</strong> Gracias a la tecnología <strong>Power Delivery 3.0 (PD)</strong>, puedes cargar tu iPhone o Android compatible hasta el <strong>50% en solo 30 minutos</strong>.</p></li><li><p><strong>🔌 Doble Puerto Inteligente:</strong></p><ul><li><p><strong>USB Tipo-C (PD 3.0):</strong> Para dispositivos de última generación y carga rápida máxima.</p></li><li><p><strong>USB-A (QC 3.0):</strong> Equipado con <strong>Quick Charge 3.0</strong> para cargar dispositivos tradicionales a gran velocidad.</p></li></ul></li><li><p><strong>📱 Carga Dual Simultánea:</strong> Permite cargar <strong>dos dispositivos al mismo tiempo</strong>, gestionando la energía de forma inteligente para no dañar tus baterías.</p></li><li><p><strong>🚨 Indicador de Luz LED:</strong> Cuenta con una luz integrada que te permite localizar el cargador fácilmente en la oscuridad y confirmar que está recibiendo energía.</p></li><li><p><strong>🛡️ Protección Multicapa:</strong> Chip inteligente que protege contra <strong>sobrecalentamiento, sobrevoltaje y cortocircuitos</strong>, cuidando la vida útil de tu smartphone.</p></li><li><p><strong>🌍 Compatibilidad Universal:</strong> Ideal para smartphones (iPhone, Samsung, Xiaomi), tablets, audífonos inalámbricos y smartwatches.</p></li><li><p><strong>✈️ Diseño Compacto y Viajero:</strong> Ligero y pequeño, perfecto para llevar en la mochila o el bolsillo sin ocupar espacio.</p></li></ul>",
         "short-description-en": "",
-        "stock": 37,
+        "stock": 32,
         "stock-enabled": true,
         "tag": [
           {
@@ -238237,7 +238237,7 @@
             "public": false,
             "stock": 265,
             "subcontractedid": "",
-            "virtual-stock": 264,
+            "virtual-stock": 265,
             "zip-code": ""
           },
           {
@@ -239828,7 +239828,7 @@
             "public": false,
             "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -240153,7 +240153,7 @@
         "sales-price": 14,
         "short-description": "<p>🚀 Samsung 45W Super Fast Charger: Velocidad de Élite</p><ul><li><p><strong>⚡ Carga Super Rápida 2.0:</strong> Aprovecha la máxima velocidad disponible para dispositivos compatibles (como la serie <strong>S22/S23/S24 Ultra</strong> y la serie <strong>Tab S9</strong>), cargando mucho más rápido que el estándar de 25W.</p></li><li><p><strong>🔌 Conector USB-C a USB-C:</strong> Diseñado para manejar altos flujos de corriente de forma segura y eficiente, manteniendo la compatibilidad con el estándar más moderno.</p></li><li><p><strong>🔋 Tecnología PPS (Programmable Power Supply):</strong> Optimiza la entrega de energía en tiempo real, ajustando el voltaje para minimizar el calor y maximizar la salud de tu batería a largo plazo.</p></li><li><p><strong>🛡️ Seguridad Avanzada:</strong> Incluye protecciones contra sobrecorriente, cortocircuitos y fluctuaciones de temperatura, garantizando que tu equipo esté siempre a salvo.</p></li><li><p><strong>🖤 Diseño Negro Mate:</strong> Un acabado sofisticado, profesional y mucho más resistente a las ralladuras y huellas dactilares.</p></li><li><p><strong>📱 Versatilidad Total:</strong> Aunque es una bestia con Samsung, puede cargar a gran velocidad otros dispositivos como <strong>iPhones, iPads, Nintendo Switch</strong> e incluso algunas <strong>laptops ligeras</strong> con puerto USB-C.</p></li><li><p><strong>✈️ Formato Robusto:</strong> A pesar de su gran potencia, mantiene un diseño compacto que facilita su transporte sin sacrificar la durabilidad.</p></li></ul>",
         "short-description-en": "",
-        "stock": 27,
+        "stock": 26,
         "stock-enabled": true,
         "tag": [
           {
@@ -244064,7 +244064,7 @@
         "sales-price": 4.5,
         "short-description": "",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
