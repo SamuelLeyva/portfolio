@@ -6424,9 +6424,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -6729,7 +6729,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -6751,7 +6751,7 @@
         "sales-price": 285,
         "short-description": "<ul><li><p>⚡ <strong>Potencia alta:</strong> 5000W para equipos exigentes</p></li><li><p>🔄 <strong>Conversión dual:</strong> 110V ↔ 220V (Step Up / Step Down)</p></li><li><p>🔌 <strong>Múltiples salidas:</strong> 6 AC (US + EU) + USB + Type-C</p></li><li><p>📊 <strong>Pantallas LED:</strong> voltaje en tiempo real</p></li><li><p>🧠 <strong>Protección total:</strong> sobrecarga, sobrecorriente y cortocircuito</p></li><li><p>🔇 <strong>Operación silenciosa:</strong> bobinas toroidales de alta calidad</p></li><li><p>🌍 <strong>Uso global:</strong> compatible con equipos de diferentes países</p></li><li><p>🧳 <strong>Diseño portátil:</strong> con asa para transporte</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18688,7 +18688,7 @@
         "sales-price": 1170,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Max</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 2048 Wh | 2400 W (Pico 4800 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePo 4000 Ciclos de carga.</p></li><li><p><strong>⏱️ Carga Rápida: </strong>1800W Carga rápida en 43 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W.</p></li><li><p><strong>🔌 Salidas:</strong> 4 salidas AC, 4 USB y 1 toma DC.</p></li><li><p><strong>🪶 Portabilidad:</strong> 20,3 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No. Modelo con Capacidad No expandible</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante App (WiFi/Bluetooth)</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -20815,7 +20815,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -5,
+            "virtual-stock": -7,
             "zip-code": ""
           },
           {
@@ -26526,9 +26526,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -27655,6 +27655,7 @@
         },
         "vendorID": "",
         "ratesConfig": [
+          "12431",
           "15287",
           "11482",
           "17589",
@@ -28117,9 +28118,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 30,
+            "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -28444,7 +28445,7 @@
         "sales-price": 50,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 143,
+        "stock": 30,
         "stock-enabled": true,
         "tag": [
           {
