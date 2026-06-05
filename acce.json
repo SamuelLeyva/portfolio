@@ -239818,9 +239818,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 26,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 26,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -240145,7 +240145,7 @@
         "sales-price": 14,
         "short-description": "<p>🚀 Samsung 45W Super Fast Charger: Velocidad de Élite</p><ul><li><p><strong>⚡ Carga Super Rápida 2.0:</strong> Aprovecha la máxima velocidad disponible para dispositivos compatibles (como la serie <strong>S22/S23/S24 Ultra</strong> y la serie <strong>Tab S9</strong>), cargando mucho más rápido que el estándar de 25W.</p></li><li><p><strong>🔌 Conector USB-C a USB-C:</strong> Diseñado para manejar altos flujos de corriente de forma segura y eficiente, manteniendo la compatibilidad con el estándar más moderno.</p></li><li><p><strong>🔋 Tecnología PPS (Programmable Power Supply):</strong> Optimiza la entrega de energía en tiempo real, ajustando el voltaje para minimizar el calor y maximizar la salud de tu batería a largo plazo.</p></li><li><p><strong>🛡️ Seguridad Avanzada:</strong> Incluye protecciones contra sobrecorriente, cortocircuitos y fluctuaciones de temperatura, garantizando que tu equipo esté siempre a salvo.</p></li><li><p><strong>🖤 Diseño Negro Mate:</strong> Un acabado sofisticado, profesional y mucho más resistente a las ralladuras y huellas dactilares.</p></li><li><p><strong>📱 Versatilidad Total:</strong> Aunque es una bestia con Samsung, puede cargar a gran velocidad otros dispositivos como <strong>iPhones, iPads, Nintendo Switch</strong> e incluso algunas <strong>laptops ligeras</strong> con puerto USB-C.</p></li><li><p><strong>✈️ Formato Robusto:</strong> A pesar de su gran potencia, mantiene un diseño compacto que facilita su transporte sin sacrificar la durabilidad.</p></li></ul>",
         "short-description-en": "",
-        "stock": 26,
+        "stock": 24,
         "stock-enabled": true,
         "tag": [
           {
