@@ -1652,9 +1652,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -4391,9 +4391,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 21,
             "subcontractedid": "",
-            "virtual-stock": 23,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -5407,9 +5407,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 27,
+            "stock": 21,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -6475,9 +6475,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 11,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -10346,9 +10346,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -11435,9 +11435,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 30,
+            "stock": 29,
             "subcontractedid": "",
-            "virtual-stock": 30,
+            "virtual-stock": 29,
             "zip-code": ""
           },
           {
@@ -13298,9 +13298,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
