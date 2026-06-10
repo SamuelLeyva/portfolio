@@ -2217,7 +2217,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -2333,7 +2333,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -2542,7 +2542,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 2500W nominal / 5000W pico</p></li><li><p>🔌 <strong>Conversión:</strong> 12V DC a 120V AC</p></li><li><p>🔄 <strong>Onda:</strong> Senoidal modificada</p></li><li><p>📊 <strong>Pantalla:</strong> LCD + indicadores LED</p></li><li><p>🎛️ <strong>Control remoto:</strong> Incluido con cable</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🌡️ Ventilador inteligente por temperatura</p></li><li><p>🚗 Ideal para autos, RV, camping y emergencias</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -16276,7 +16276,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -19323,7 +19323,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -46,
+            "virtual-stock": -50,
             "zip-code": ""
           },
           {
@@ -20229,7 +20229,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -20986,7 +20986,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -36,
+            "virtual-stock": -35,
             "zip-code": ""
           },
           {
@@ -21311,7 +21311,7 @@
         "sales-price": 699,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
