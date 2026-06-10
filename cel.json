@@ -7405,9 +7405,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -8452,9 +8452,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -9481,9 +9481,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -10545,9 +10545,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -12603,9 +12603,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -14436,9 +14436,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 46,
+            "stock": 44,
             "subcontractedid": "",
-            "virtual-stock": 38,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -15452,9 +15452,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -15779,7 +15779,7 @@
         "sales-price": 110,
         "short-description": "<ul><li><p>🖥️ Pantalla HD+ de 6.6\" con refresco de 90 Hz</p></li><li><p>🔄 Procesador Unisoc T7100, 3Gb de ram más 5Gb virtual, para un total de 8GB de ram. 128GB de almacenamiento</p></li><li><p>🤳 Cámara trasera de 13 MP con flash LED + selfie de 5 MP</p></li><li><p>🔋 Batería de larga duración de 5000 mAh con carga rápida USB-C</p></li><li><p>📶 Dual SIM, 4G LTE, Wi-Fi, Bluetooth y más</p></li><li><p>💧 Protección IP54 + funda incluida</p></li><li><p>🔐 Lector de huella lateral + desbloqueo facial</p></li><li><p>🎛️ Dynamic Bar, Always-On Display, jack de 3.5 mm</p></li><li><p>✨ Color: <strong>Titanium Espacial</strong>, moderno y sofisticado</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -16541,9 +16541,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 28,
+            "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 28,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
