@@ -1183,9 +1183,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -1510,7 +1510,7 @@
         "sales-price": 19,
         "short-description": "<p><strong>Altavoz 1Hora BOC244 7W</strong> 🔊</p><ul><li><p>⚡ <strong>Potencia:</strong> 7W RMS (Sonido nítido + bajos).</p></li><li><p>🔋 <strong>Batería:</strong> Hasta 10 horas de música. 2000mAh</p></li><li><p>🔗 <strong>TWS:</strong> Conecta 2 parlantes para modo estéreo.</p></li><li><p>📡 <strong>Bluetooth:</strong> Versión 5.3 (Cero retrasos).</p></li><li><p>📻 <strong>Extras:</strong> Radio FM, Micro SD ..</p></li><li><p>📞 <strong>Manos Libres:</strong> Micrófono para llamadas.</p></li><li><p>⚖️ <strong>Portátil:</strong> Solo 360g (Súper ligero).</p></li><li><p>🔌 <strong>Carga:</strong> Puerto USB Tipo-C.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
