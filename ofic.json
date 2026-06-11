@@ -399,9 +399,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -428,9 +428,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -732,8 +732,8 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
-          "-2-true",
+          "2820-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -755,7 +755,7 @@
         "sales-price": 169,
         "short-description": "<ul><li><p>💵 <strong>Velocidad:</strong> Hasta 1000 billetes por minuto</p></li><li><p>🔍 <strong>Detección:</strong> UV, MG, IR y DD contra billetes falsos</p></li><li><p>💰 <strong>Monedas:</strong> Compatible con USD y EUR</p></li><li><p>📊 <strong>Pantalla:</strong> LCD + display externo para cliente</p></li><li><p>🔢 Modos: conteo, lote, suma, acumulación, automático/manual</p></li><li><p>🧠 Detección de errores: billetes dobles, encadenados o dañados</p></li><li><p>🔇 Operación silenciosa (&lt;60 dB)</p></li><li><p>🏪 Ideal para negocios con alto manejo de efectivo</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
