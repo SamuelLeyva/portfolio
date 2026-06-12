@@ -4163,9 +4163,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -4482,9 +4482,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -4636,7 +4636,7 @@
         "warehousesInStock": [
           "116-false",
           "4813-false",
-          "680-false",
+          "680-true",
           "3375-false",
           "4028-false",
           "3807-false",
@@ -4647,7 +4647,7 @@
           "2193-false",
           "707-false",
           "3866-false",
-          "611-true",
+          "611-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -4904,9 +4904,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -5223,9 +5223,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 7,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -5377,7 +5377,7 @@
         "warehousesInStock": [
           "116-false",
           "4813-false",
-          "680-false",
+          "680-true",
           "3375-false",
           "4028-false",
           "3807-false",
@@ -5388,7 +5388,7 @@
           "2193-false",
           "707-false",
           "3866-false",
-          "611-true",
+          "611-false",
           "3298-false",
           "117-false",
           "933-false",
