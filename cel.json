@@ -4,6 +4,10 @@
       "_index": "products",
       "_id": "45009101",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "45009101",
         "idstel": "45009101",
@@ -17,7 +21,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>El nuevo itel en color negro combina un diseño moderno, gran autonomía y funciones esenciales para el día a día. Gracias a su pantalla fluida de 90Hz, batería de larga duración y memoria RAM virtual adicional, este dispositivo ofrece una experiencia más cómoda para redes sociales, mensajería, videos y navegación cotidiana.</p><p>Propiedades y Especificaciones Técnicas:</p><p>🖼️ Pantalla Amplia y Fluida: Disfruta de una pantalla IPS LCD de 6.6 pulgadas con resolución HD+ (720 x 1612 píxeles). Su tasa de refresco de 90Hz brinda una navegación más suave al desplazarte entre aplicaciones y contenido multimedia.</p><p>🧠 Rendimiento Optimizado: Equipado con procesador Unisoc T7100 Octa-Core, acompañado de 3GB de RAM física más 5GB de RAM virtual, ofreciendo mejor fluidez en multitarea y aplicaciones de uso diario.</p><p>💾 Espacio para tus Aplicaciones y Archivos: Cuenta con 128GB de almacenamiento interno para fotos, videos y aplicaciones, además de soporte para expansión mediante tarjeta microSD.</p><p>📸 Sistema de Cámaras Funcional:</p><p>📷 Cámara Principal de 8 MP: Captura fotografías y videos en resolución Full HD 1080p.</p><p>💡 Flash LED Integrado: Mejora las tomas en ambientes con poca iluminación.</p><p>🤳 Cámara Frontal de 5 MP: Ideal para selfies y videollamadas cotidianas.</p><p>🔋 Batería de Gran Capacidad: Su batería de 5,000 mAh proporciona autonomía suficiente para acompañarte durante todo el día sin preocuparte constantemente por la carga.</p><p>🛡️ Diseño Resistente y Seguro: Este modelo ofrece resistencia a caídas de hasta 1.2 metros y cumplimiento MIL-STD-810H, aportando mayor durabilidad para el uso diario.</p><p>📲 Conectividad y Funciones Adicionales:</p><p>🔐 Sensor de huellas lateral para desbloqueo rápido y seguro.</p><p>🔌 Puerto USB Type-C.</p><p>🎧 Entrada de audio 3.5mm para audífonos convencionales.</p><p>📡 Conectividad WiFi, Bluetooth y GPS.</p><p>📱 Android 15 Go Edition optimizado para mejor rendimiento.</p>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -690,7 +694,7 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 115,
-        "short-description": "",
+        "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 128GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
