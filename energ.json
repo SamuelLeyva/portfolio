@@ -8234,9 +8234,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -8539,7 +8539,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -8561,7 +8561,7 @@
         "sales-price": 530,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 3000W nominal / ~6000W pico</p></li><li><p>⚡ <strong>Tecnología:</strong> Alta frecuencia (más eficiente y compacto)</p></li><li><p>🌞 <strong>MPPT integrado:</strong> 100A (hasta 4000W solar)</p></li><li><p>🔋 <strong>Sistema:</strong> 24V compatible con LiFePO4, litio, AGM y gel</p></li><li><p>🔌 <strong>Salida:</strong> 120V AC onda pura</p></li><li><p>📡 <strong>Conectividad:</strong> WiFi para monitoreo remoto</p></li><li><p>🧠 <strong>Modos inteligentes:</strong> Solar, red y modo híbrido</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🏠 Ideal para sistemas solares compactos y uso doméstico</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -10605,7 +10605,7 @@
             "public": false,
             "stock": 950,
             "subcontractedid": "",
-            "virtual-stock": 900,
+            "virtual-stock": 950,
             "zip-code": ""
           },
           {
@@ -10930,7 +10930,7 @@
         "sales-price": 1.5,
         "short-description": "<p>Puntas XT60 para adaptar cables solares a entradas EcoFlow compatibles.</p><p>🔌 Conector tipo XT60 para conexión solar</p><p>☀️ Ideal para adaptar cables solares a estaciones EcoFlow compatibles</p><p>🧩 Se venden como puntas sueltas</p><p>🔧 Útiles para armado, reemplazo o reparación de conexiones solares</p><p>📦 No incluye cable completo ni kit de instalación</p>",
         "short-description-en": "",
-        "stock": 900,
+        "stock": 950,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18300,7 +18300,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -21549,7 +21549,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -22,
+            "virtual-stock": -24,
             "zip-code": ""
           },
           {
@@ -22279,9 +22279,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -22308,9 +22308,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -22612,7 +22612,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -22635,7 +22635,7 @@
         "sales-price": 69,
         "short-description": "<ul><li><p>🔁 Cambio automático entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⚡ Capacidad de <strong>hasta 63 A</strong></p></li><li><p>🔌 Configuración <strong>4 polos (4P)</strong> para sistemas completos</p></li><li><p>🏠 Ideal para <strong>viviendas, comercios y oficinas</strong></p></li><li><p>🛡️ Alta seguridad para proteger sus equipos</p></li><li><p>🔄 Operación <strong>automática y manual</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -23537,7 +23537,7 @@
         "sales-price": 750,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -25289,7 +25289,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 25,
+        "stock": 24,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
