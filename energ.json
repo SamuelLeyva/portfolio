@@ -12571,7 +12571,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 25,
+            "price": 19,
             "updatedAt": 1747229914344
           },
           {
@@ -12584,7 +12584,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 25,
+            "price": 14.3,
             "updatedAt": 1747229914346
           },
           {
@@ -12595,7 +12595,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 25,
+            "price": 19,
             "updatedAt": 1747229914346
           },
           {
@@ -12607,7 +12607,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 25
+            "price": 19
           },
           {
             "deleted": false,
@@ -12617,7 +12617,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 25,
+            "price": 19,
             "updatedAt": 1747229914347
           },
           {
@@ -12628,7 +12628,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 23,
+            "price": 17,
             "updatedAt": 1747229914347
           }
         ],
@@ -13219,7 +13219,7 @@
         "reference": "PRO07089",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 25,
+        "sales-price": 19,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C).</p><p>⚡ Carga USB rápida e inteligente de 12W.</p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga.</p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable.</p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
         "stock": 8,
@@ -19097,7 +19097,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -42,
+            "virtual-stock": -63,
             "zip-code": ""
           },
           {
@@ -22308,9 +22308,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -25289,7 +25289,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 23,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
