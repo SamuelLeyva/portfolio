@@ -3392,9 +3392,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 25,
+            "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
@@ -3719,7 +3719,7 @@
         "sales-price": 108,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 64GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 25,
+        "stock": 27,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -7474,7 +7474,7 @@
         "sales-price": 149,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 18,
         "stock-enabled": true,
         "tag": [
           {
@@ -10201,9 +10201,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": -9,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -11230,9 +11230,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 14,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 14,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -18215,9 +18215,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 31,
+            "stock": 29,
             "subcontractedid": "",
-            "virtual-stock": 23,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -20289,9 +20289,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 41,
+            "stock": 43,
             "subcontractedid": "",
-            "virtual-stock": 21,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -20616,7 +20616,7 @@
         "sales-price": 188,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.67\" AMOLED Full HD+ 120Hz</p><p>📸 <strong>Cámara trasera:</strong> 108MP + 2MP + 2MP</p><p>📸 <strong>Cámara frontal:</strong> 20MP</p><p>⚡ <strong>Batería:</strong> 5500 mAh con carga rápida 33W</p><p>⚡ <strong>Procesador:</strong> MediaTek Helio G99-Ultra</p><p>🧠 <strong>Ram:</strong> 6GB</p><p>💾 <strong>Almacenamiento:</strong> 128GB (expandible con microSD)</p><p>📶 <strong>Conectividad:</strong> Redes 4G LTE, Wi-Fi AC, Bluetooth 5.3</p>",
         "short-description-en": "",
-        "stock": 41,
+        "stock": 43,
         "stock-enabled": true,
         "tag": [
           {

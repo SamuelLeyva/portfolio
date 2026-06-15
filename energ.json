@@ -6509,9 +6509,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -6836,7 +6836,7 @@
         "sales-price": 1189,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 6400W nominal / ~12000W pico</p></li><li><p>🧱 <strong>Tecnología:</strong> Baja frecuencia (alto arranque para cargas pesadas)</p></li><li><p>🔋 <strong>Sistema:</strong> 48V compatible con baterías de litio y plomo ácido</p></li><li><p>🔌 <strong>Salida:</strong> 120V / 240V Split Phase (tipo casa completa)</p></li><li><p>🌞 <strong>MPPT integrado:</strong> 120A alta eficiencia</p></li><li><p>🧠 <strong>Modo híbrido:</strong> Solar + red + generador</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🏠 Ideal para casas completas, negocios y sistemas solares grandes</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
