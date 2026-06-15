@@ -10603,9 +10603,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 949,
+            "stock": 950,
             "subcontractedid": "",
-            "virtual-stock": 949,
+            "virtual-stock": 950,
             "zip-code": ""
           },
           {
@@ -10930,7 +10930,7 @@
         "sales-price": 1.5,
         "short-description": "<p>Puntas XT60 para adaptar cables solares a entradas EcoFlow compatibles.</p><p>🔌 Conector tipo XT60 para conexión solar</p><p>☀️ Ideal para adaptar cables solares a estaciones EcoFlow compatibles</p><p>🧩 Se venden como puntas sueltas</p><p>🔧 Útiles para armado, reemplazo o reparación de conexiones solares</p><p>📦 No incluye cable completo ni kit de instalación</p>",
         "short-description-en": "",
-        "stock": 949,
+        "stock": 950,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18300,7 +18300,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -22279,9 +22279,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -22612,7 +22612,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-true",
+          "2820-false",
           "-2-false",
           "1776-false",
           "2193-false",
@@ -22635,7 +22635,7 @@
         "sales-price": 69,
         "short-description": "<ul><li><p>🔁 Cambio automático entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⚡ Capacidad de <strong>hasta 63 A</strong></p></li><li><p>🔌 Configuración <strong>4 polos (4P)</strong> para sistemas completos</p></li><li><p>🏠 Ideal para <strong>viviendas, comercios y oficinas</strong></p></li><li><p>🛡️ Alta seguridad para proteger sus equipos</p></li><li><p>🔄 Operación <strong>automática y manual</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -24962,9 +24962,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 21,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 21,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -25289,7 +25289,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 21,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
