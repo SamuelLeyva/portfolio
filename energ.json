@@ -76,7 +76,7 @@
         "description": "<p>⚡ Energía potente para equipos de alto consumo</p><p>El inversor VEVOR de <strong>5000W</strong> convierte corriente de <strong>12V DC a 120V AC</strong>, permitiendo alimentar equipos de mayor demanda energética desde baterías de vehículos o sistemas portátiles.</p><p>👉 Ideal para uso intensivo en exteriores, trabajo o respaldo eléctrico.</p><p>🔋 Alto rendimiento para cargas exigentes</p><p>Ofrece:</p><ul><li><p><strong>5000W continuos</strong></p></li><li><p><strong>10000W pico de arranque</strong></p></li></ul><p>Permite alimentar:</p><ul><li><p>Herramientas eléctricas</p></li><li><p>Electrodomésticos</p></li><li><p>Equipos de trabajo</p></li><li><p>Sistemas de respaldo</p></li></ul><p>👉 Diseñado para cargas pesadas y uso continuo.</p><p>🔄 Onda senoidal modificada (uso general)</p><p>Este inversor trabaja con <strong>onda modificada</strong>, lo que permite:</p><ul><li><p>Buena compatibilidad con la mayoría de equipos</p></li><li><p>Mayor eficiencia y menor costo</p></li><li><p>Uso ideal en aplicaciones generales</p></li></ul><p>⚠️ No recomendado para:</p><ul><li><p>Equipos médicos</p></li><li><p>Electrónica extremadamente sensible</p></li></ul><p>🎛️ Control remoto para operación a distancia</p><p>Incluye control remoto con cable de aproximadamente <strong>3 metros</strong>, que permite:</p><ul><li><p>Encender y apagar el inversor</p></li><li><p>Controlar su funcionamiento a distancia</p></li></ul><p>👉 Ideal para instalaciones en vehículos o sistemas fijos.</p><p>📊 Indicadores LED de funcionamiento</p><p>Cuenta con indicadores LED que muestran:</p><ul><li><p>Estado de operación</p></li><li><p>Fallos o alertas</p></li><li><p>Encendido del equipo</p></li></ul><p>👉 Permite monitoreo rápido y sencillo.</p><p>🌡️ Sistema de enfriamiento inteligente</p><p>Integra ventilador automático que:</p><ul><li><p>Se activa a <strong>45°C (113°F)</strong></p></li><li><p>Reduce la temperatura interna</p></li><li><p>Mantiene estabilidad en uso prolongado</p></li></ul><p>👉 Protege el equipo y mejora su vida útil.</p><p>🛡️ Protección completa del sistema</p><p>Incluye múltiples protecciones:</p><ul><li><p>Sobrecarga</p></li><li><p>Cortocircuito</p></li><li><p>Sobretemperatura</p></li><li><p>Bajo voltaje</p></li><li><p>Sobrevoltaje</p></li><li><p>Polaridad inversa</p></li></ul><p>👉 Seguridad total para el inversor y los equipos conectados.</p><p>🧱 Construcción resistente en aluminio</p><p>Fabricado con carcasa de <strong>aleación de aluminio</strong>, que ofrece:</p><ul><li><p>Resistencia a impactos</p></li><li><p>Protección contra corrosión</p></li><li><p>Mejor disipación de calor</p></li></ul><p>👉 Preparado para condiciones exigentes.</p><p>🏠 Aplicaciones recomendadas</p><p>Ideal para:</p><ul><li><p>Camiones y vehículos</p></li><li><p>RV / campers</p></li><li><p>Embarcaciones</p></li><li><p>Trabajo en campo</p></li><li><p>Emergencias</p></li><li><p>Sistemas portátiles</p></li></ul><p>⚠️ Recomendaciones de uso</p><p>👉 Uso continuo recomendado: <strong>3000W – 4000W</strong></p><p>👉 Usar cableado adecuado (muy importante en 12V por alto amperaje)</p><p>👉 Evitar conectar equipos sensibles</p><p>📊 <strong>Ficha Técnica</strong></p><ul><li><p><strong>Marca:</strong> VEVOR</p></li><li><p><strong>Modelo:</strong> GYM-5000W</p></li><li><p><strong>Tipo:</strong> Inversor DC-AC</p></li><li><p><strong>Potencia nominal:</strong> 5000W</p></li><li><p><strong>Potencia pico:</strong> 10000W</p></li><li><p><strong>Voltaje de entrada:</strong> 12V DC</p></li><li><p><strong>Voltaje de salida:</strong> 120V AC</p></li><li><p><strong>Frecuencia:</strong> 60 Hz</p></li><li><p><strong>Forma de onda:</strong> Senoidal modificada</p></li><li><p><strong>Eficiencia:</strong> 88%</p></li><li><p><strong>Corriente sin carga:</strong> 0.5A</p></li><li><p><strong>Protección bajo voltaje:</strong> 10V</p></li><li><p><strong>Protección sobrevoltaje:</strong> 16V</p></li><li><p><strong>Sistema de enfriamiento:</strong> Ventilador inteligente</p></li><li><p><strong>Indicadores:</strong> LED</p></li><li><p><strong>Dimensiones:</strong> 17.32 x 8.15 x 6.5 pulgadas</p></li><li><p><strong>Peso neto:</strong> ~18 lb</p></li><li><p><strong>Peso con caja (estimado):</strong> 21 – 25 lb</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 15,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -176,7 +176,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 361.25,
+            "price": 330,
             "updatedAt": 1747229914346
           },
           {
@@ -199,7 +199,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 361.25
+            "price": 345
           },
           {
             "deleted": false,
@@ -209,7 +209,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 425,
+            "price": 330,
             "updatedAt": 1747229914347
           },
           {
@@ -220,7 +220,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 361.25,
+            "price": 345,
             "updatedAt": 1747229914347
           }
         ],
@@ -811,7 +811,7 @@
         "reference": "PRO07167",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 425,
+        "sales-price": 355,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 5000W nominal / 10000W pico</p></li><li><p>🔌 <strong>Conversión:</strong> 12V DC a 120V AC</p></li><li><p>🔄 <strong>Onda:</strong> Senoidal modificada</p></li><li><p>🎛️ <strong>Control remoto:</strong> Incluido (cable ~3 m)</p></li><li><p>📊 <strong>Indicadores:</strong> LED + monitoreo básico</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🌡️ Ventilador inteligente por temperatura</p></li><li><p>🚗 Ideal para autos, RV, camping y emergencias</p></li></ul>",
         "short-description-en": "",
         "stock": 1,
@@ -3537,7 +3537,7 @@
         "description": "<p>⚡ Potencia real para uso exigente</p><p>El inversor cargador VEVOR de <strong>5000W</strong> ofrece una potencia continua estable con capacidad de hasta <strong>15000W en picos</strong>, permitiendo alimentar múltiples equipos simultáneamente, incluyendo dispositivos con alto consumo al arranque como refrigeradores, bombas de agua y herramientas eléctricas.</p><p>Está diseñado para mantener un suministro eléctrico confiable tanto en sistemas solares como en situaciones de respaldo durante apagones.</p><p>🧱 Tecnología de baja frecuencia (máxima fuerza y resistencia)</p><p>Este modelo utiliza <strong>tecnología de baja frecuencia</strong>, lo que le proporciona ventajas clave frente a inversores convencionales:</p><ul><li><p>Mayor capacidad de arranque para equipos exigentes</p></li><li><p>Mejor desempeño con cargas inductivas</p></li><li><p>Mayor durabilidad en uso continuo</p></li><li><p>Mayor estabilidad en condiciones de alta demanda</p></li></ul><p>👉 <strong>En términos simples:</strong> es un equipo más fuerte, más robusto y preparado para uso pesado.</p><p>🔌 Energía limpia con onda pura</p><p>Genera una salida de <strong>onda senoidal pura</strong>, equivalente a la electricidad de la red:</p><ul><li><p>Protege equipos electrónicos sensibles</p></li><li><p>Evita interferencias eléctricas</p></li><li><p>Reduce el desgaste de los dispositivos</p></li></ul><p>Ideal para:</p><ul><li><p>Televisores</p></li><li><p>Computadoras</p></li><li><p>Equipos médicos</p></li><li><p>Electrodomésticos</p></li></ul><p>👉 Garantiza un funcionamiento seguro y estable</p><p>🔋 Función inversor + cargador integrado</p><p>Este equipo combina dos funciones en un solo dispositivo:</p><ul><li><p>Conversión de corriente DC (batería) a AC (uso doméstico)</p></li><li><p>Carga automática de baterías cuando hay otra fuente disponible</p></li></ul><p>👉 Permite un sistema energético continuo sin interrupciones.</p><p>🔋 Amplia compatibilidad de baterías</p><p>Diseñado para sistemas de <strong>24V</strong>, compatible con:</p><ul><li><p>LiFePO4</p></li><li><p>Litio</p></li><li><p>AGM</p></li><li><p>Gel</p></li><li><p>Plomo ácido</p></li></ul><p>👉 Permite flexibilidad total en la configuración del sistema energético.</p><p>🎛️ Control remoto para mayor comodidad</p><p>Incluye un <strong>control remoto con cable de 10 metros</strong>, que permite:</p><ul><li><p>Encender y apagar el equipo a distancia</p></li><li><p>Supervisar su funcionamiento</p></li><li><p>Instalar el inversor en un lugar seguro o ventilado</p></li></ul><p>👉 Ideal para instalaciones en RV, cuartos técnicos o espacios reducidos.</p><p>🧠 Modos inteligentes de operación</p><p>Cuenta con múltiples modos de funcionamiento:</p><ul><li><p>Modo automático</p></li><li><p>Prioridad red</p></li><li><p>Prioridad batería</p></li><li><p>Modo ahorro energético</p></li><li><p>Modo generador</p></li></ul><p>👉 Permite optimizar el consumo según las necesidades del usuario.</p><p>📊 Pantalla LCD informativa</p><p>Integra una pantalla LCD que muestra en tiempo real:</p><ul><li><p>Voltaje de entrada y salida</p></li><li><p>Estado de la batería</p></li><li><p>Modo de operación</p></li><li><p>Alertas del sistema</p></li></ul><p>👉 Facilita el monitoreo incluso para usuarios no técnicos</p><p>🛡️ Sistema de protección completa</p><p>Incluye múltiples protecciones para garantizar seguridad:</p><ul><li><p>Sobrecarga</p></li><li><p>Cortocircuito</p></li><li><p>Sobretemperatura</p></li><li><p>Alto y bajo voltaje</p></li><li><p>Protección de batería</p></li></ul><p>👉 Protege tanto el equipo como los dispositivos conectados.</p><p>🏠 Aplicaciones recomendadas</p><p>Ideal para:</p><ul><li><p>Sistemas solares off-grid</p></li><li><p>Viviendas con apagones frecuentes</p></li><li><p>RV / campers / embarcaciones</p></li><li><p>Negocios pequeños y medianos</p></li><li><p>Equipos con alto consumo y arranque fuerte</p></li></ul><p>⚠️ Recomendaciones de uso</p><p>Para un funcionamiento óptimo:</p><p>👉 Uso continuo recomendado: <strong>3500W – 4000W</strong></p><p>Evitar uso simultáneo de:</p><ul><li><p>Aires acondicionados grandes</p></li><li><p>Cocinas eléctricas</p></li><li><p>Equipos de alta resistencia</p></li></ul><p>👉 Se recomienda trabajar al <strong>70–80% de su capacidad</strong> para mayor durabilidad.</p><p>📊 <strong>Ficha Técnica</strong></p><ul><li><p><strong>Marca:</strong> VEVOR</p></li><li><p><strong>Modelo:</strong> BL-W5024V-L</p></li><li><p><strong>Tipo:</strong> Inversor Cargador</p></li><li><p><strong>Frecuencia:</strong> Baja frecuencia</p></li><li><p><strong>Potencia nominal:</strong> 5000W</p></li><li><p><strong>Potencia pico:</strong> 15000W</p></li><li><p><strong>Voltaje de entrada:</strong> DC 24V</p></li><li><p><strong>Voltaje de salida:</strong> AC 120V</p></li><li><p><strong>Forma de onda:</strong> Onda senoidal pura</p></li><li><p><strong>Corriente de carga:</strong> 70A / 55A / 35A / 15A</p></li><li><p><strong>Tipos de batería compatibles:</strong> LiFePO4, Litio, AGM, Gel, Plomo ácido</p></li><li><p><strong>Modos de operación:</strong> Automático, Prioridad red, Prioridad batería, Ahorro, Generador</p></li><li><p><strong>Pantalla:</strong> LCD</p></li><li><p><strong>Control remoto:</strong> Sí (cable 10 m)</p></li><li><p><strong>Protecciones:</strong> Sobrecarga, cortocircuito, sobretemperatura, alto/bajo voltaje</p></li><li><p><strong>Dimensiones:</strong> 23.23 x 11.22 x 7.87 pulgadas</p></li><li><p><strong>Peso neto:</strong> 58.83 lb</p></li><li><p><strong>Peso con caja (estimado):</strong> 66 – 75 lb</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 15,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -3637,7 +3637,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 756.5,
+            "price": 699,
             "updatedAt": 1747229914346
           },
           {
@@ -3660,7 +3660,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 756.5
+            "price": 720
           },
           {
             "deleted": false,
@@ -3670,7 +3670,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 890,
+            "price": 720,
             "updatedAt": 1747229914347
           },
           {
@@ -3681,7 +3681,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 756.5,
+            "price": 720,
             "updatedAt": 1747229914347
           }
         ],
@@ -4272,7 +4272,7 @@
         "reference": "PRO07162",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 890,
+        "sales-price": 729,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 5000W nominal / 15000W pico</p></li><li><p>🧱 <strong>Tecnología:</strong> Baja frecuencia para mejor arranque de cargas exigentes</p></li><li><p>🔋 <strong>Sistema:</strong> 24V compatible con baterías LiFePO4, litio, AGM, gel y plomo ácido</p></li><li><p>🔌 <strong>Salida:</strong> 120V AC de onda pura, ideal para equipos sensibles</p></li><li><p>🎛️ <strong>Control remoto:</strong> Incluye control remoto con cable de 10 m</p></li><li><p>🧠 <strong>Modos de trabajo:</strong> Automático, prioridad red, prioridad batería, ahorro y generador</p></li><li><p>🛡️ <strong>Protección completa:</strong> Sobrecarga, cortocircuito, temperatura y voltaje</p></li><li><p>🏠 <strong>Uso recomendado:</strong> Sistemas off grid, respaldo eléctrico, RV, botes y viviendas</p></li></ul>",
         "short-description-en": "",
         "stock": 1,
@@ -6098,7 +6098,7 @@
         "description": "<p>⚡ Potencia avanzada para sistemas completos</p><p>El inversor híbrido VEVOR de <strong>6400W</strong> está diseñado para sistemas energéticos exigentes, ofreciendo una salida continua estable con capacidad de picos elevados para manejar múltiples equipos simultáneamente.</p><p>Es capaz de alimentar desde cargas básicas hasta equipos de alto consumo como:</p><ul><li><p>Aires acondicionados</p></li><li><p>Bombas de agua</p></li><li><p>Herramientas eléctricas</p></li><li><p>Sistemas completos de vivienda</p></li></ul><p>👉 Ideal para instalaciones residenciales grandes o negocios.</p><p>🧱 Tecnología de baja frecuencia (uso pesado real)</p><p>Este equipo utiliza <strong>tecnología de baja frecuencia</strong>, lo que le permite:</p><ul><li><p>Soportar picos de arranque altos</p></li><li><p>Trabajar con cargas inductivas exigentes</p></li><li><p>Mantener estabilidad bajo alta demanda</p></li><li><p>Ofrecer mayor durabilidad</p></li></ul><p>👉 <strong>En términos simples:</strong> es un inversor fuerte, industrial y confiable.</p><p>🔌 Sistema Split Phase 120V / 240V</p><p>Cuenta con salida <strong>dual 120V / 240V (Split Phase)</strong>, lo que permite:</p><ul><li><p>Alimentar circuitos completos de una vivienda</p></li><li><p>Conectar equipos de alto voltaje</p></li><li><p>Compatibilidad total con instalaciones tipo EE.UU.</p></li></ul><p>👉 Esto lo convierte en una solución mucho más completa que los inversores estándar</p><p>🌞 Controlador solar MPPT 120A integrado</p><p>Incluye un potente <strong>MPPT de 120A</strong>, que permite:</p><ul><li><p>Mayor aprovechamiento de la energía solar</p></li><li><p>Carga eficiente incluso en condiciones variables</p></li><li><p>Mejor rendimiento del sistema</p></li></ul><p>👉 Conversión eficiente de energía solar para maximizar producción</p><p>⚡ Energía limpia con onda pura</p><p>Genera corriente de <strong>onda senoidal pura</strong>, equivalente a la red eléctrica:</p><ul><li><p>Protege equipos electrónicos</p></li><li><p>Reduce interferencias</p></li><li><p>Mantiene estabilidad de operación</p></li></ul><p>Ideal para:</p><ul><li><p>Computadoras</p></li><li><p>Equipos médicos</p></li><li><p>Electrodomésticos</p></li><li><p>Equipos industriales</p></li></ul><p>🔋 Sistema de 48V (mayor eficiencia y escalabilidad)</p><p>Funciona con sistemas de <strong>48V</strong>, lo que permite:</p><ul><li><p>Menor pérdida de energía</p></li><li><p>Mayor eficiencia en cargas altas</p></li><li><p>Mejor desempeño en sistemas grandes</p></li></ul><p>Compatible con:</p><ul><li><p>Baterías de litio</p></li><li><p>Baterías plomo ácido</p></li><li><p>Sistemas personalizados</p></li></ul><p>👉 Ideal para proyectos solares de mayor escala.</p><p>🧠 Modos inteligentes de operación</p><p>Permite múltiples configuraciones:</p><ul><li><p>Modo solar prioritario</p></li><li><p>Modo red prioritario</p></li><li><p>Modo híbrido automático</p></li><li><p>Modo respaldo</p></li></ul><p>👉 Gestiona automáticamente la energía según disponibilidad.</p><p>⚡ Transferencia rápida tipo UPS</p><p>Cuenta con un sistema de transferencia rápida (~10 ms), lo que permite:</p><ul><li><p>Mantener equipos encendidos sin interrupciones</p></li><li><p>Proteger dispositivos sensibles</p></li></ul><p>👉 Ideal para sistemas críticos</p><p>🛡️ Sistema de protección avanzada</p><p>Incluye protecciones completas:</p><ul><li><p>Sobrecarga</p></li><li><p>Cortocircuito</p></li><li><p>Sobretemperatura</p></li><li><p>Alto y bajo voltaje</p></li><li><p>Protección de batería</p></li><li><p>Fusible reemplazable</p></li></ul><p>👉 Seguridad total para el sistema eléctrico</p><p>🏠 Aplicaciones recomendadas</p><p>Ideal para:</p><ul><li><p>Casas completas</p></li><li><p>Negocios medianos</p></li><li><p>Sistemas solares grandes</p></li><li><p>Talleres y equipos industriales</p></li><li><p>Sistemas off-grid avanzados</p></li></ul><p>⚠️ Recomendaciones de uso</p><p>👉 Uso continuo recomendado: <strong>4500W – 5200W</strong></p><p>Evitar sobrecargar con:</p><ul><li><p>Equipos de alta demanda simultánea sin cálculo previo</p></li></ul><p>👉 Se recomienda operar al <strong>70–80% de capacidad</strong> para mayor durabilidad.</p><p>📊 <strong>Ficha Técnica</strong></p><ul><li><p><strong>Marca:</strong> VEVOR</p></li><li><p><strong>Modelo:</strong> VS8048AMN</p></li><li><p><strong>Tipo:</strong> Inversor Híbrido</p></li><li><p><strong>Frecuencia:</strong> Baja frecuencia</p></li><li><p><strong>Potencia nominal:</strong> 6400W</p></li><li><p><strong>Potencia pico:</strong> ~12000W</p></li><li><p><strong>Voltaje de entrada:</strong> DC 48V</p></li><li><p><strong>Voltaje de salida:</strong> AC 120V / 240V (Split Phase)</p></li><li><p><strong>Frecuencia de salida:</strong> 60Hz</p></li><li><p><strong>Forma de onda:</strong> Onda senoidal pura</p></li><li><p><strong>Controlador solar:</strong> MPPT 120A</p></li><li><p><strong>Eficiencia máxima:</strong> 93%</p></li><li><p><strong>Tipos de batería:</strong> Litio, plomo ácido</p></li><li><p><strong>Nivel de ruido:</strong> &lt;45 dB</p></li><li><p><strong>Material:</strong> Metal con recubrimiento en polvo</p></li><li><p><strong>Temperatura de operación:</strong> 14°F a 122°F (-10°C a 50°C)</p></li><li><p><strong>Humedad:</strong> 20% – 95% RH</p></li><li><p><strong>Dimensiones:</strong> 15.75 x 7.09 x 21.46 pulgadas</p></li><li><p><strong>Peso neto:</strong> 78.48 lb</p></li><li><p><strong>Peso con caja (estimado):</strong> 88 – 100 lb</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 15,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -6198,7 +6198,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1010.65,
+            "price": 999,
             "updatedAt": 1747229914346
           },
           {
@@ -6221,7 +6221,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1010.65
+            "price": 1050
           },
           {
             "deleted": false,
@@ -6231,7 +6231,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1189,
+            "price": 1050,
             "updatedAt": 1747229914347
           },
           {
@@ -6242,7 +6242,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1010.65,
+            "price": 1050,
             "updatedAt": 1747229914347
           }
         ],
@@ -6833,7 +6833,7 @@
         "reference": "PRO07152",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 1189,
+        "sales-price": 1099,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 6400W nominal / ~12000W pico</p></li><li><p>🧱 <strong>Tecnología:</strong> Baja frecuencia (alto arranque para cargas pesadas)</p></li><li><p>🔋 <strong>Sistema:</strong> 48V compatible con baterías de litio y plomo ácido</p></li><li><p>🔌 <strong>Salida:</strong> 120V / 240V Split Phase (tipo casa completa)</p></li><li><p>🌞 <strong>MPPT integrado:</strong> 120A alta eficiencia</p></li><li><p>🧠 <strong>Modo híbrido:</strong> Solar + red + generador</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🏠 Ideal para casas completas, negocios y sistemas solares grandes</p></li></ul>",
         "short-description-en": "",
         "stock": 3,
@@ -7823,7 +7823,7 @@
         "description": "<p>⚡ Solución todo en uno para energía solar</p><p>El inversor híbrido VEVOR de <strong>3000W</strong> integra en un solo equipo <strong>inversor, cargador y controlador solar MPPT</strong>, permitiendo crear sistemas solares eficientes sin necesidad de múltiples dispositivos.</p><p>Es ideal para aplicaciones residenciales, oficinas pequeñas y sistemas off-grid donde se busca simplicidad y funcionalidad.</p><p>⚡ Potencia estable para uso diario</p><p>Ofrece <strong>3000W de potencia continua</strong>, suficiente para alimentar:</p><ul><li><p>Televisores</p></li><li><p>Computadoras</p></li><li><p>Luces</p></li><li><p>Ventiladores</p></li><li><p>Electrodomésticos básicos</p></li></ul><p>👉 Diseñado para mantener el funcionamiento estable de equipos cotidianos.</p><p>🔌 Energía limpia con onda pura</p><p>Genera corriente de <strong>onda senoidal pura</strong>, equivalente a la red eléctrica:</p><ul><li><p>Protege equipos sensibles</p></li><li><p>Evita interferencias</p></li><li><p>Mejora la eficiencia de los dispositivos</p></li></ul><p>👉 Ideal para electrónica moderna y equipos delicados</p><p>🌞 Controlador solar MPPT integrado (100A)</p><p>Incluye un potente <strong>controlador MPPT de 100A</strong>, que permite:</p><ul><li><p>Mejor aprovechamiento de la energía solar</p></li><li><p>Carga más rápida de baterías</p></li><li><p>Mayor eficiencia del sistema</p></li></ul><p>Soporta:</p><ul><li><p>Hasta <strong>4000W de paneles solares</strong></p></li><li><p>Rango de voltaje <strong>60V – 500V DC</strong></p></li></ul><p>👉 Permite configuraciones solares flexibles y eficientes</p><p>🧠 Tecnología de alta frecuencia (más eficiente y compacto)</p><p>Este equipo utiliza <strong>alta frecuencia</strong>, lo que significa:</p><ul><li><p>Menor tamaño y peso</p></li><li><p>Mayor eficiencia energética</p></li><li><p>Instalación más sencilla</p></li></ul><p>👉 <strong>En términos simples:</strong> es más moderno, compacto y fácil de usar, aunque con menor capacidad para picos extremos que los de baja frecuencia.</p><p>📡 Monitoreo remoto con WiFi</p><p>Cuenta con conectividad WiFi integrada que permite:</p><ul><li><p>Supervisar el sistema desde el teléfono</p></li><li><p>Consultar estado de batería y consumo</p></li><li><p>Ver generación solar</p></li></ul><p>👉 Control del sistema desde cualquier lugar.</p><p>🔋 Compatible con múltiples baterías</p><p>Diseñado para sistemas de <strong>24V</strong>, compatible con:</p><ul><li><p>LiFePO4</p></li><li><p>Litio</p></li><li><p>AGM</p></li><li><p>Gel</p></li><li><p>Plomo ácido</p></li></ul><p>👉 Permite adaptar el sistema según necesidades.</p><p>🧠 Modos inteligentes de operación</p><p>Incluye varios modos de funcionamiento:</p><ul><li><p>Solar primero</p></li><li><p>Red primero</p></li><li><p>Modo híbrido</p></li><li><p>Modo respaldo</p></li></ul><p>👉 Permite optimizar el uso de energía según el escenario.</p><p>📊 Pantalla y control integrado</p><p>Incluye panel de control con pantalla que permite:</p><ul><li><p>Configurar parámetros</p></li><li><p>Monitorear el sistema</p></li><li><p>Ajustar modos de trabajo</p></li></ul><p>👉 Control directo y sencillo.</p><p>🛡️ Sistema de protección completa</p><p>Incluye protecciones avanzadas:</p><ul><li><p>Sobrecarga</p></li><li><p>Cortocircuito</p></li><li><p>Sobretemperatura</p></li><li><p>Alto/bajo voltaje</p></li><li><p>Protección de batería</p></li></ul><p>👉 Seguridad total del sistema eléctrico</p><p>🏠 Aplicaciones recomendadas</p><p>Ideal para:</p><ul><li><p>Sistemas solares domésticos</p></li><li><p>Oficinas pequeñas</p></li><li><p>RV / campers</p></li><li><p>Sistemas off-grid compactos</p></li><li><p>Usuarios que buscan facilidad de instalación</p></li></ul><p>⚠️ Recomendaciones de uso</p><p>👉 Uso continuo recomendado: <strong>2000W – 2400W</strong></p><p>Evitar uso con:</p><ul><li><p>Aires acondicionados grandes</p></li><li><p>Equipos de alto arranque simultáneo</p></li></ul><p>👉 Este equipo está optimizado para eficiencia, no para cargas pesadas extremas.</p><p>📊 <strong>Ficha Técnica</strong></p><ul><li><p><strong>Marca:</strong> VEVOR</p></li><li><p><strong>Modelo:</strong> LVM3000-24L</p></li><li><p><strong>Tipo:</strong> Inversor Híbrido</p></li><li><p><strong>Frecuencia:</strong> Alta frecuencia</p></li><li><p><strong>Potencia nominal:</strong> 3000W</p></li><li><p><strong>Potencia pico:</strong> ~6000W</p></li><li><p><strong>Voltaje de entrada:</strong> DC 24V</p></li><li><p><strong>Voltaje de salida:</strong> AC 110–120V</p></li><li><p><strong>Forma de onda:</strong> Onda senoidal pura</p></li><li><p><strong>Controlador solar:</strong> MPPT 100A</p></li><li><p><strong>Entrada solar máxima:</strong> 4000W</p></li><li><p><strong>Rango MPPT:</strong> 60V – 500V DC</p></li><li><p><strong>Corriente de carga:</strong> 100A (PV + AC) / 60A (AC)</p></li><li><p><strong>Tipos de batería:</strong> LiFePO4, Litio, AGM, Gel, Plomo ácido</p></li><li><p><strong>Conectividad:</strong> WiFi</p></li><li><p><strong>Pantalla:</strong> LCD integrada</p></li><li><p><strong>Modos de operación:</strong> Solar, Red, Híbrido</p></li><li><p><strong>Protecciones:</strong> Sobrecarga, cortocircuito, temperatura, voltaje</p></li><li><p><strong>Dimensiones:</strong> 12.8 x 4.2 x 14.4 pulgadas</p></li><li><p><strong>Peso neto:</strong> 15.1 lb</p></li><li><p><strong>Peso con caja (estimado):</strong> 17.5 – 19 lb</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 15,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -7923,7 +7923,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 450.5,
+            "price": 390,
             "updatedAt": 1747229914346
           },
           {
@@ -7946,7 +7946,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 450.5
+            "price": 390
           },
           {
             "deleted": false,
@@ -7956,7 +7956,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 500,
+            "price": 390,
             "updatedAt": 1747229914347
           },
           {
@@ -7967,7 +7967,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 450.5,
+            "price": 390,
             "updatedAt": 1747229914347
           }
         ],
@@ -8558,7 +8558,7 @@
         "reference": "PRO07150",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 530,
+        "sales-price": 399,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 3000W nominal / ~6000W pico</p></li><li><p>⚡ <strong>Tecnología:</strong> Alta frecuencia (más eficiente y compacto)</p></li><li><p>🌞 <strong>MPPT integrado:</strong> 100A (hasta 4000W solar)</p></li><li><p>🔋 <strong>Sistema:</strong> 24V compatible con LiFePO4, litio, AGM y gel</p></li><li><p>🔌 <strong>Salida:</strong> 120V AC onda pura</p></li><li><p>📡 <strong>Conectividad:</strong> WiFi para monitoreo remoto</p></li><li><p>🧠 <strong>Modos inteligentes:</strong> Solar, red y modo híbrido</p></li><li><p>🛡️ Protección completa eléctrica</p></li><li><p>🏠 Ideal para sistemas solares compactos y uso doméstico</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -22635,7 +22635,7 @@
         "sales-price": 69,
         "short-description": "<ul><li><p>🔁 Cambio automático entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⚡ Capacidad de <strong>hasta 63 A</strong></p></li><li><p>🔌 Configuración <strong>4 polos (4P)</strong> para sistemas completos</p></li><li><p>🏠 Ideal para <strong>viviendas, comercios y oficinas</strong></p></li><li><p>🛡️ Alta seguridad para proteger sus equipos</p></li><li><p>🔄 Operación <strong>automática y manual</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -22899,7 +22899,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740,
+            "price": 710,
             "updatedAt": 1747229914346
           },
           {
@@ -22932,7 +22932,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740,
+            "price": 710,
             "updatedAt": 1747229914347
           },
           {
@@ -23210,9 +23210,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
@@ -23537,7 +23537,7 @@
         "sales-price": 750,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
