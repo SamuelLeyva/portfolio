@@ -3392,9 +3392,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 29,
+            "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
@@ -7147,9 +7147,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 20,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 19,
             "zip-code": ""
           },
           {
@@ -10201,9 +10201,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": -6,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -18215,9 +18215,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 33,
+            "stock": 31,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -19231,9 +19231,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -21305,9 +21305,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 45,
+            "stock": 43,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
