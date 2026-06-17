@@ -185634,7 +185634,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -15,
             "zip-code": ""
           },
           {

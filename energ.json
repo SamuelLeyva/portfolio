@@ -603,9 +603,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -10186,7 +10186,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 88,
+        "stock": 86,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -20692,7 +20692,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -23537,7 +23537,7 @@
         "sales-price": 750,
         "short-description": "<ul><li><p><strong>🔋 EcoFlow DELTA 2</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 2700 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas: </strong>6 salidas de CA, 4 puertos USB-A (dos de carga rápida), 2 puertos USB-C de 100W, y salidas de 12V para coche y DC5521.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 3 kWh con batería extra DELTA 2 o DELTA Max.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -25289,7 +25289,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31058,7 +31058,7 @@
             "public": false,
             "stock": 33,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 33,
             "zip-code": ""
           },
           {
@@ -31383,7 +31383,7 @@
         "sales-price": 8,
         "short-description": "<p>🔧 Características Técnicas</p><ul><li><p>💡 <strong>Potencia de 800 lúmenes</strong> en formato mini</p></li><li><p>🔋 <strong>Batería recargable integrada</strong> con cable USB</p></li><li><p>🔑 <strong>Diseño llavero portátil</strong> para llevar siempre contigo</p></li><li><p>🛠️ <strong>Función saca chapas</strong> incluida</p></li><li><p>🎒 <strong>Compacta y ligera</strong>: ideal para bolsillo o mochila</p></li><li><p>📦 <strong>Pack de 2 unidades</strong> para mayor practicidad</p></li></ul>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 33,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
