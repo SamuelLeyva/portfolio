@@ -10240,7 +10240,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "<p>Las puntas XT60 para cable solar son una solución práctica para adaptar, reparar o armar conexiones destinadas a entradas solares de estaciones EcoFlow compatibles. Están pensadas para quienes necesitan únicamente el conector, sin comprar un cable completo.</p><p>Al venderse como puntas sueltas, permiten mayor flexibilidad en proyectos de instalación solar, reemplazo de conectores o fabricación de adaptadores personalizados, siempre que se utilicen con cables y equipos compatibles.</p><p><strong>Ventajas clave:</strong></p><p>🔌 Conector tipo XT60 para aplicaciones solares compatibles</p><p>☀️ Diseñado para adaptar cables solares a entrada EcoFlow compatible</p><p>🧩 Producto vendido como puntas sueltas</p><p>🔧 Ideal para armado, reparación o reemplazo de conectores</p><p>📦 No incluye cable solar completo</p><p>⚙️ Requiere instalación o ensamblaje adecuado según el cable utilizado</p><p><strong>Especificaciones destacadas:</strong></p><p>Tipo: puntas/conectores XT60</p><p>Uso: adaptación de cable solar</p><p>Compatibilidad: entradas solares EcoFlow compatibles</p><p>Presentación: puntas sueltas</p><p>Cable incluido: no</p><p>Kit de instalación: no incluido</p>",
+        "description": "<p>Las puntas XT60 para cable solar son una solución práctica para adaptar, reparar o armar conexiones destinadas a entradas solares de estaciones EcoFlow compatibles. Están pensadas para quienes necesitan únicamente el conector, sin comprar un cable completo.</p><p>Al venderse como puntas sueltas, permiten mayor flexibilidad en proyectos de instalación solar, reemplazo de conectores o fabricación de adaptadores personalizados, siempre que se utilicen con cables y equipos compatibles.</p><p><strong>Ventajas clave:</strong></p><p>🔌 Conector tipo XT60 para aplicaciones solares compatibles</p><p>☀️ Diseñado para adaptar cables solares.</p><p>🧩 Producto vendido como puntas sueltas</p><p>🔧 Ideal para armado, reparación o reemplazo de conectores en tu ecoflow</p><p>📦 No incluye cable solar completo</p><p>⚙️ Requiere instalación o ensamblaje adecuado.</p><p><strong>Especificaciones destacadas:</strong></p><p>Tipo: puntas/conectores XT60</p><p>Uso: Reparación de puertos dañados en ecoflow</p><p>Compatibilidad: ecoflow que usen el conector xt60</p><p>Presentación: puntas sueltas</p><p>Cable incluido: no</p><p>Kit de instalación: no incluido</p>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -10923,7 +10923,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Puntas XT60 Para Cable Solar Adaptador De Entrada EcoFlow Sueltas",
+        "productname": "Puntas XT60 Para Cable Solar Adaptador De Entrada EcoFlow Sueltas Hembras",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -14412,7 +14412,7 @@
             "public": false,
             "stock": 46,
             "subcontractedid": "",
-            "virtual-stock": 46,
+            "virtual-stock": 31,
             "zip-code": ""
           },
           {
@@ -19100,7 +19100,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -65,
+            "virtual-stock": -66,
             "zip-code": ""
           },
           {
@@ -23215,7 +23215,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -24965,9 +24965,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
