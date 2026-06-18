@@ -19993,9 +19993,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 39,
+            "stock": 34,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -20320,7 +20320,7 @@
         "sales-price": 188,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.67\" AMOLED Full HD+ 120Hz</p><p>📸 <strong>Cámara trasera:</strong> 108MP + 2MP + 2MP</p><p>📸 <strong>Cámara frontal:</strong> 20MP</p><p>⚡ <strong>Batería:</strong> 5500 mAh con carga rápida 33W</p><p>⚡ <strong>Procesador:</strong> MediaTek Helio G99-Ultra</p><p>🧠 <strong>Ram:</strong> 6GB</p><p>💾 <strong>Almacenamiento:</strong> 128GB (expandible con microSD)</p><p>📶 <strong>Conectividad:</strong> Redes 4G LTE, Wi-Fi AC, Bluetooth 5.3</p>",
         "short-description-en": "",
-        "stock": 39,
+        "stock": 34,
         "stock-enabled": true,
         "tag": [
           {
