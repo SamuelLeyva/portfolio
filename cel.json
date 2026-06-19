@@ -7880,9 +7880,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 15,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 15,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -8207,7 +8207,7 @@
         "sales-price": 149,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
@@ -14056,9 +14056,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -14383,7 +14383,7 @@
         "sales-price": 199,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -17919,9 +17919,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 22,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -18246,7 +18246,7 @@
         "sales-price": 170,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 22,
         "stock-enabled": true,
         "tag": [
           {
