@@ -3210,7 +3210,7 @@
         "sales-price": 108,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 64GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 53,
+        "stock": 50,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -10682,7 +10682,7 @@
         "sales-price": 135,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -11402,9 +11402,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 64,
+            "stock": 58,
             "subcontractedid": "",
-            "virtual-stock": 62,
+            "virtual-stock": 56,
             "zip-code": ""
           },
           {
@@ -11729,7 +11729,7 @@
         "sales-price": 136,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 67,
+        "stock": 58,
         "stock-enabled": true,
         "tag": [
           {
@@ -14534,9 +14534,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -14861,7 +14861,7 @@
         "sales-price": 193,
         "short-description": "<p>El Samsung Galaxy F17 combina rendimiento y estilo con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su elegante color negro y pantalla Super AMOLED ofrecen una experiencia visual vibrante y nítida. Este combo incluye funda protectora, mica de cristal templado y audífonos para una protección completa desde el primer uso.</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -18406,9 +18406,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 36,
+            "stock": 35,
             "subcontractedid": "",
-            "virtual-stock": 28,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
@@ -18733,7 +18733,7 @@
         "sales-price": 170,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 37,
+        "stock": 35,
         "stock-enabled": true,
         "tag": [
           {
@@ -20808,7 +20808,7 @@
         "sales-price": 188,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.67\" AMOLED Full HD+ 120Hz</p><p>📸 <strong>Cámara trasera:</strong> 108MP + 2MP + 2MP</p><p>📸 <strong>Cámara frontal:</strong> 20MP</p><p>⚡ <strong>Batería:</strong> 5500 mAh con carga rápida 33W</p><p>⚡ <strong>Procesador:</strong> MediaTek Helio G99-Ultra</p><p>🧠 <strong>Ram:</strong> 6GB</p><p>💾 <strong>Almacenamiento:</strong> 128GB (expandible con microSD)</p><p>📶 <strong>Conectividad:</strong> Redes 4G LTE, Wi-Fi AC, Bluetooth 5.3</p>",
         "short-description-en": "",
-        "stock": 21,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [
           {

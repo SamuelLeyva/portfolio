@@ -1361,9 +1361,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -1477,9 +1477,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -1666,11 +1666,11 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "3298-false",
           "117-false",
@@ -1688,7 +1688,7 @@
         "sales-price": 359,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 3500W nominal / 7000W pico</p></li><li><p>🔌 <strong>Conversión:</strong> 12V DC a 120V AC</p></li><li><p>🔄 <strong>Onda:</strong> Senoidal pura (ideal equipos sensibles)</p></li><li><p>📊 <strong>Pantalla:</strong> LCD + indicadores LED</p></li><li><p>🎛️ <strong>Control remoto:</strong> Incluido (cable 3 m)</p></li><li><p>🔌 <strong>Salidas:</strong> 4 AC + 1 USB QC 3.0</p></li><li><p>🛡️ Protección completa + enchufes GFCI</p></li><li><p>🔇 Operación silenciosa (20–40 dB)</p></li><li><p>🚐 Ideal para RV, solar, camping y respaldo</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -18173,9 +18173,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -18500,7 +18500,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p><strong>⚡ Voltaje nominal</strong>: 6 V</p></li><li><p><strong>🔌 Corriente máxima (Imp)</strong>: 1,6 A (verificado en condiciones óptimas)</p></li><li><p><strong>☀️ Potencia máxima (Pmax)</strong>: <strong>9,6 W</strong> (6 V × 1,6 A)</p></li><li><p><strong>🔋 Voltaje en circuito abierto (Voc)</strong>: Aprox. <strong>7,3 V</strong> (típico en paneles de 6 V)</p></li><li><p><strong>🔬 Tipo de celda</strong>: <strong>monocristalina</strong> (alta eficiencia, ~18-21%)</p></li><li><p><strong>📐 Aplicaciones confirmadas</strong>: Carga de baterías de 6 V, proyectos DIY, sensores, luces LED</p></li><li><p><strong>🌧️ Diseño</strong>: Resistente a condiciones exteriores (UV, agua), ideal para instalaciones portátiles</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
