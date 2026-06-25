@@ -9344,7 +9344,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 85,
+        "stock": 84,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -12839,9 +12839,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -13166,7 +13166,7 @@
         "sales-price": 19,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C). </p><p>⚡ Carga USB rápida e inteligente de 12W. </p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga. </p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable. </p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -13567,7 +13567,7 @@
             "public": false,
             "stock": 36,
             "subcontractedid": "",
-            "virtual-stock": 26,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -13892,7 +13892,7 @@
         "sales-price": 7.7,
         "short-description": "<p><strong>☀️ Cable de Extensión Solar 12 AWG (Venta por Metro)</strong></p><ul><li><p><strong>📐 Calibre:</strong> 12 AWG (Ideal para minimizar caídas de voltaje).</p></li><li><p><strong>🔌 Uso:</strong> Conexión de paneles solares a controladores de carga o inversores.</p></li><li><p><strong>🛡️ Protección:</strong> Recubrimiento XLPE resistente a rayos UV y climas extremos.</p></li><li><p><strong>🌡️ Temperatura:</strong> Soporta hasta 90°C en condiciones húmedas o secas.</p></li><li><p><strong>⚡ Capacidad:</strong> Diseñado para manejar altas corrientes en sistemas de 12V, 24V o superiores.</p></li><li><p><strong>📏 Venta:</strong> Personalizada por metros lineales.( <strong>Compra mínima 10m de extensión</strong>)</p></li></ul>",
         "short-description-en": "",
-        "stock": 26,
+        "stock": 36,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -19938,7 +19938,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -21517,7 +21517,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -3,
             "zip-code": ""
           },
           {
@@ -21842,7 +21842,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
