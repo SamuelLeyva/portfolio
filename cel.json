@@ -12431,9 +12431,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 37,
+            "stock": 36,
             "subcontractedid": "",
-            "virtual-stock": 37,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -12758,7 +12758,7 @@
         "sales-price": 135,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 37,
+        "stock": 36,
         "stock-enabled": true,
         "tag": [
           {
