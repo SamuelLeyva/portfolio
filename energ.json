@@ -9344,7 +9344,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 84,
+        "stock": 82,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -9761,9 +9761,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 992,
+            "stock": 996,
             "subcontractedid": "",
-            "virtual-stock": 992,
+            "virtual-stock": 996,
             "zip-code": ""
           },
           {
@@ -10088,7 +10088,7 @@
         "sales-price": 1.5,
         "short-description": "<p>Puntas XT60 para adaptar cables solares a entradas EcoFlow compatibles.</p><p>🔌 Conector tipo XT60 para conexión solar</p><p>☀️ Ideal para adaptar cables solares a estaciones EcoFlow compatibles</p><p>🧩 Se venden como puntas sueltas</p><p>🔧 Útiles para armado, reemplazo o reparación de conexiones solares</p><p>📦 No incluye cable completo ni kit de instalación</p>",
         "short-description-en": "",
-        "stock": 1000,
+        "stock": 996,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18500,7 +18500,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p><strong>⚡ Voltaje nominal</strong>: 6 V</p></li><li><p><strong>🔌 Corriente máxima (Imp)</strong>: 1,6 A (verificado en condiciones óptimas)</p></li><li><p><strong>☀️ Potencia máxima (Pmax)</strong>: <strong>9,6 W</strong> (6 V × 1,6 A)</p></li><li><p><strong>🔋 Voltaje en circuito abierto (Voc)</strong>: Aprox. <strong>7,3 V</strong> (típico en paneles de 6 V)</p></li><li><p><strong>🔬 Tipo de celda</strong>: <strong>monocristalina</strong> (alta eficiencia, ~18-21%)</p></li><li><p><strong>📐 Aplicaciones confirmadas</strong>: Carga de baterías de 6 V, proyectos DIY, sensores, luces LED</p></li><li><p><strong>🌧️ Diseño</strong>: Resistente a condiciones exteriores (UV, agua), ideal para instalaciones portátiles</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {

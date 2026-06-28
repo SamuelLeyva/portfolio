@@ -89,7 +89,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 183,
+            "price": 178,
             "updatedAt": 1747229914346
           },
           {
@@ -3586,7 +3586,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 183,
+            "price": 178,
             "updatedAt": 1747229914346
           },
           {
@@ -4332,7 +4332,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 183,
+            "price": 178,
             "updatedAt": 1747229914346
           },
           {
@@ -5297,7 +5297,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 208,
+            "price": 204,
             "updatedAt": 1747229914346
           },
           {
@@ -7009,7 +7009,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 183,
+            "price": 178,
             "updatedAt": 1747229914346
           },
           {
@@ -9667,7 +9667,7 @@
         "sales-price": 147,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.7\"</p><p>📸 <strong>Cámara trasera: </strong>50MP</p><p>📸 <strong>Cámara frontal: </strong>8MP</p><p>⚡ <strong>Batería:</strong> 5000 mAh</p><p>⚡ <strong>Procesador: </strong>Octa-Core Cortex</p><p>💾 <strong>Almacenamiento:</strong> 128GB</p><p>📶 <strong>Conectividad: </strong>Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 35,
+        "stock": 34,
         "stock-enabled": true,
         "tag": [
           {
@@ -11729,7 +11729,7 @@
         "sales-price": 136,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 58,
+        "stock": 56,
         "stock-enabled": true,
         "tag": [
           {
