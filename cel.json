@@ -727,7 +727,7 @@
         "sales-price": 213,
         "short-description": "<ul><li><p>⚡ Hasta 6 GB de RAM y procesador MediaTek Helio G100‑Ultra para rendimiento rápido y multitarea fluida</p></li><li><p>💾 128 GB de almacenamiento amplio, ampliable hasta 2 TB con microSD (ranura híbrida SIM/microSD)</p></li><li><p>🌈 Pantalla AMOLED FHD+ de 6.77\" con 120 Hz, colores vivos de 12 bits y brillo máximo de 3200 nits, perfecta para ver incluso bajo el sol</p></li><li><p>📸 Cámara principal de 108 MP con agrupación 9‑en‑1 para fotos luminosas + selfie nítida de 20 MP, capturas con gran detalle incluso de noche</p></li><li><p>🔋 Batería de larga duración de 6000 mAh compatible con carga turbo de 33 W</p></li><li><p>🛡️ Diseño ultradelgado de 7.94 mm y ligero (183.7 g), moderno y resistente con certificación IP64 contra agua y polvo, y sensor de huella en pantalla</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 39,
+        "stock": 38,
         "stock-enabled": true,
         "tag": [
           {
@@ -1470,7 +1470,7 @@
         "sales-price": 105,
         "short-description": "<ul><li><p>⚡ 4 GB de RAM y procesador UNISOC Tiger T606 de 8 núcleos para rendimiento fluido y multitarea estable</p></li><li><p>💾 64 GB de almacenamiento interno, ampliable con microSD, espacio de sobra para tus fotos, apps y vídeos</p></li><li><p>🌈 Pantalla IPS LCD de 6.75\" con resolución HD+ y diseño de cristal 2.5D, imágenes claras y vibrantes</p></li><li><p>📸 Cámara trasera dual de 13 MP + 2 MP (profundidad) + selfie de 8 MP, capturas precisas y listas para redes sociales🔋 Batería de 5000 mAh con carga rápida de 18 W, energía para todo el día sin interrupciones</p></li><li><p>🛡️ Diseño ultradelgado de solo 7.9 mm y 189 g, sensor de huella trasero, desbloqueo facial y Android 14</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -1565,7 +1565,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 97,
+            "price": 94,
             "updatedAt": 1747229914346
           },
           {
@@ -2572,7 +2572,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 87,
+            "price": 86,
             "updatedAt": 1747229914346
           },
           {
@@ -4643,9 +4643,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -6435,9 +6435,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -8013,7 +8013,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 128,
+            "price": 127,
             "updatedAt": 1747229914346
           },
           {
@@ -8651,7 +8651,7 @@
         "sales-price": 148,
         "short-description": "<p>📱 Pantalla: 6.9\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 13MP</p><p>⚡ Batería: 6000 mAh</p><p>⚡ Procesador: MediaTek Helio G81-Ultra</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 28,
+        "stock": 27,
         "stock-enabled": true,
         "tag": [
           {
@@ -9029,7 +9029,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 125,
+            "price": 121,
             "updatedAt": 1747229914346
           },
           {
@@ -10044,7 +10044,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 113,
+            "price": 112,
             "updatedAt": 1747229914346
           },
           {
@@ -11729,7 +11729,7 @@
         "sales-price": 136,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 52,
+        "stock": 51,
         "stock-enabled": true,
         "tag": [
           {
@@ -12120,7 +12120,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 113,
+            "price": 112,
             "updatedAt": 1747229914346
           },
           {
@@ -16261,7 +16261,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 113,
+            "price": 112,
             "updatedAt": 1747229914346
           },
           {
@@ -17679,7 +17679,7 @@
         "sales-price": 9.5,
         "short-description": "<p>El soporte selfie extensible para teléfono móvil es un trípode portátil de aleación ligera diseñado para selfies grupales, transmisión en vivo y grabación de video estable. Con brazo extensible de 90cm y rotación 360°, permite ajustar ángulos libremente. Incluye control remoto Bluetooth y adaptador universal compatible con la mayoría de smartphones, ideal para creadores de contenido, viajeros y usuarios de redes sociales.</p>",
         "short-description-en": "",
-        "stock": 144,
+        "stock": 143,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18406,9 +18406,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 33,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": -6,
             "zip-code": ""
           },
           {
@@ -18733,7 +18733,7 @@
         "sales-price": 170,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 34,
+        "stock": 33,
         "stock-enabled": true,
         "tag": [
           {
@@ -19184,7 +19184,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 103,
+            "price": 102.5,
             "updatedAt": 1747229914346
           },
           {
@@ -21127,7 +21127,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 119,
+            "price": 117,
             "updatedAt": 1747229914346
           },
           {
@@ -21765,7 +21765,7 @@
         "sales-price": 139,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
@@ -22039,7 +22039,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 119,
+            "price": 117,
             "updatedAt": 1747229914346
           },
           {
@@ -23060,7 +23060,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 107.5,
+            "price": 107,
             "updatedAt": 1747229914346
           },
           {
@@ -23698,7 +23698,7 @@
         "sales-price": 127,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 16,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
@@ -23929,7 +23929,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 107.5,
+            "price": 107,
             "updatedAt": 1747229914346
           },
           {

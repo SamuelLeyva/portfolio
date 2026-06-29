@@ -25232,7 +25232,7 @@
         "sales-price": 9.5,
         "short-description": "<p>El soporte selfie extensible para teléfono móvil es un trípode portátil de aleación ligera diseñado para selfies grupales, transmisión en vivo y grabación de video estable. Con brazo extensible de 90cm y rotación 360°, permite ajustar ángulos libremente. Incluye control remoto Bluetooth y adaptador universal compatible con la mayoría de smartphones, ideal para creadores de contenido, viajeros y usuarios de redes sociales.</p>",
         "short-description-en": "",
-        "stock": 144,
+        "stock": 143,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -193281,9 +193281,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 445,
+            "stock": 414,
             "subcontractedid": "",
-            "virtual-stock": 446,
+            "virtual-stock": 445,
             "zip-code": ""
           },
           {
@@ -193608,7 +193608,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 446,
+        "stock": 445,
         "stock-enabled": true,
         "tag": [
           {
