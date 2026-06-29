@@ -5608,9 +5608,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -5935,7 +5935,7 @@
         "sales-price": 238,
         "short-description": "<ul><li><p>📱 <strong>Pantalla AMOLED de 6.77\"</strong>: Panel brillante con resolución <strong>FHD+</strong> (1080 x 2392 px), tasa de refresco de <strong>120 Hz</strong> y un brillo pico impresionante de <strong>3,200 nits</strong> para visibilidad total bajo el sol.</p></li><li><p>🚀 <strong>Rendimiento de 8GB RAM</strong>: Equipado con el procesador <strong>Snapdragon 6 Gen 3</strong> (en su versión 5G) o <strong>Helio G100 Ultra</strong> (4G), diseñado para una multitarea fluida y eficiencia energética.</p></li><li><p>💾 <strong>256GB de Almacenamiento</strong>: Amplio espacio interno para fotos, videos y apps, expandible mediante tarjeta <strong>microSD de hasta 1TB</strong>.</p></li><li><p>📸 <strong>Cámara Principal de 108MP</strong>: Sensor de alta resolución de <strong>108 MP</strong> con apertura f/1.7 y estabilización óptica (<strong>OIS</strong>), permitiendo capturas nítidas y grabación en <strong>4K</strong>.</p></li><li><p>🤳 <strong>Cámara Frontal de 20MP</strong>: Sensor de <strong>20 MP</strong> optimizado para selfies detallados y videollamadas en alta definición.</p></li><li><p>🔋 <strong>Batería de 5,520 mAh</strong>: Gran capacidad que ofrece hasta <strong>1.6 días de uso</strong> continuo. Soporta <strong>carga rápida de 45W</strong>, alcanzando el 50% en solo 25 minutos.</p></li><li><p>🛡️ <strong>Resistencia y Durabilidad</strong>: Certificación <strong>IP66</strong> contra polvo y chorros de agua, además de cristal de alta durabilidad para mayor protección ante caídas.</p></li></ul>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
@@ -11729,7 +11729,7 @@
         "sales-price": 136,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 56,
+        "stock": 52,
         "stock-enabled": true,
         "tag": [
           {
@@ -14861,7 +14861,7 @@
         "sales-price": 193,
         "short-description": "<p>El Samsung Galaxy F17 combina rendimiento y estilo con 4 GB de RAM y 128 GB de almacenamiento, ideal para el uso diario. Su elegante color negro y pantalla Super AMOLED ofrecen una experiencia visual vibrante y nítida. Este combo incluye funda protectora, mica de cristal templado y audífonos para una protección completa desde el primer uso.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {

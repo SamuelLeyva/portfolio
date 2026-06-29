@@ -9254,7 +9254,7 @@
         "sales-price": 1.5,
         "short-description": "<p>Puntas XT60 para adaptar cables solares a entradas EcoFlow compatibles.</p><p>🔌 Conector tipo XT60 para conexión solar</p><p>☀️ Ideal para adaptar cables solares a estaciones EcoFlow compatibles</p><p>🧩 Se venden como puntas sueltas</p><p>🔧 Útiles para armado, reemplazo o reparación de conexiones solares</p><p>📦 No incluye cable completo ni kit de instalación</p>",
         "short-description-en": "",
-        "stock": 996,
+        "stock": 995,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18198,7 +18198,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -16,
+            "virtual-stock": -17,
             "zip-code": ""
           },
           {
