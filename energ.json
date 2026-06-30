@@ -17666,7 +17666,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p><strong>⚡ Voltaje nominal</strong>: 6 V</p></li><li><p><strong>🔌 Corriente máxima (Imp)</strong>: 1,6 A (verificado en condiciones óptimas)</p></li><li><p><strong>☀️ Potencia máxima (Pmax)</strong>: <strong>9,6 W</strong> (6 V × 1,6 A)</p></li><li><p><strong>🔋 Voltaje en circuito abierto (Voc)</strong>: Aprox. <strong>7,3 V</strong> (típico en paneles de 6 V)</p></li><li><p><strong>🔬 Tipo de celda</strong>: <strong>monocristalina</strong> (alta eficiencia, ~18-21%)</p></li><li><p><strong>📐 Aplicaciones confirmadas</strong>: Carga de baterías de 6 V, proyectos DIY, sensores, luces LED</p></li><li><p><strong>🌧️ Diseño</strong>: Resistente a condiciones exteriores (UV, agua), ideal para instalaciones portátiles</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -23424,7 +23424,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "<p><strong>☀️ Especificaciones Solares:</strong></p><ul><li><p><strong>Potencia máxima:</strong> 220W</p></li><li><p><strong>Eficiencia de células:</strong> 22-23% (monocristalinas)</p></li><li><p><strong>Tensión de operación:</strong> 18V</p></li><li><p><strong>Corriente de operación:</strong> 12.22A</p></li></ul><p><strong>📐 Diseño y Portabilidad:</strong></p><ul><li><p><strong>Dimensiones abierto:</strong> 120 x 60 cm (aprox.)</p></li><li><p><strong>Dimensiones plegado:</strong> 60 x 50 x 5 cm</p></li><li><p><strong>Peso:</strong> 8 kg</p></li><li><p><strong>Material:</strong> Tela Oxford resistente + cubierta PET</p></li></ul><p><strong>🔌 Conectividad y Compatibilidad:</strong></p><ul><li><p><strong>Conector estándar:</strong> XT60</p></li><li><p><strong>Compatibilidad principal:</strong> ECOFLOW, Jackery, Bluetti y otras marcas</p></li><li><p><strong>Cable incluido:</strong> 2 metros</p></li></ul><p><strong>⚙️ Características Técnicas:</strong></p><ul><li><p><strong>Clase de resistencia:</strong> IP67 (impermeable y resistente al polvo)</p></li><li><p><strong>Tolerancia de potencia:</strong> ±3%</p></li><li><p><strong>Temperatura operativa:</strong> -20°C a 60°C</p></li><li><p></p></li></ul>",
+        "description": "<p>El Panel Solar Bifacial Portátil EcoFlow NextGen 220W está diseñado para generar energía solar de forma eficiente, práctica y resistente en exteriores. Gracias a su tecnología N Type TOPCon de silicio monocristalino, alcanza una eficiencia de conversión de hasta 25%, permitiendo una carga más rápida en un formato compacto y fácil de transportar.</p><p>Su diseño bifacial dos en uno permite captar energía tanto por la parte frontal como por la trasera, ayudando a aprovechar mejor la luz disponible. Además, incorpora un soporte ajustable de 30° a 60° y una guía de ángulo solar integrada, para orientar el panel de forma sencilla y obtener mejor exposición al sol.</p><p><strong>Ventajas clave:</strong></p><p>☀️ Potencia frontal de 220W y potencia trasera de 175W</p><p>⚡ Eficiencia de conversión de hasta 25%</p><p>🔁 Diseño bifacial para captar más energía solar</p><p>📐 Ángulo ajustable entre 30° y 60°</p><p>💧 Clasificación IP68 resistente al agua y al polvo</p><p>🧳 Plegable, ligero y fácil de transportar</p><p>🛡️ Construcción con vidrio templado y recubrimiento ETFE</p><p>🔌 Conectores fotovoltaicos y cable solar a XT60 incluido</p><p><strong>Especificaciones técnicas:</strong> </p><p>• Tipo de celda: N Type TOPCon silicio monocristalino </p><p>• Potencia nominal: 220W frontal / 175W trasera </p><p>• Eficiencia: 25.00% </p><p>• Voltaje de circuito abierto: 21.5V </p><p>• Vmp: 18.4V </p><p>• Corriente de cortocircuito: 12.4A frontal / 9.9A trasera </p><p>• Imp: 11.9A frontal / 9.5A trasera </p><p>• Peso: aprox. 15.4 lb / 7.0 kg </p><p>• Dimensiones desplegado: 615 x 2155 x 25 mm </p><p>• Dimensiones plegado: 615 x 590 x 32 mm </p><p>• Tipo de conector: conectores fotovoltaicos </p><p>• Protección: IP68 contra agua y polvo</p>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -23816,7 +23816,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -9,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -24131,7 +24131,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Panel Solar Portátil ECOFLOW 220W, Plegable",
+        "productname": "Panel Solar Bifacial Portátil EcoFlow NextGen 220W TOPCon IP68 Con Cable XT60",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -24139,7 +24139,7 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 360,
-        "short-description": "<p>Panel solar portátil ECOFLOW de 220W con diseño plegable que ofrece carga rápida y eficiente para estaciones de energía y dispositivos electrónicos. Ideal para camping, viajes en autocaravana y emergencias, cuenta con células solares de alta eficiencia y resistencia al agua IP67. Incluye conectores universales para compatibilidad con múltiples dispositivos</p>",
+        "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
@@ -24159,8 +24159,11 @@
         },
         "vendorID": "",
         "ratesConfig": [
+          "12431",
           "15287",
           "11482",
+          "17589",
+          "11388",
           "11399"
         ],
         "special-tags": {
@@ -26808,7 +26811,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -5,
+            "virtual-stock": -6,
             "zip-code": ""
           },
           {
