@@ -11658,7 +11658,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 85,
+            "price": 79,
             "updatedAt": 1747229914346
           },
           {
@@ -11795,9 +11795,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 2,
+            "stock": 92,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 92,
             "zip-code": ""
           },
           {
@@ -12114,9 +12114,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 132,
+            "stock": 42,
             "subcontractedid": "",
-            "virtual-stock": 132,
+            "virtual-stock": 42,
             "zip-code": ""
           },
           {
@@ -14239,7 +14239,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -59,
+            "virtual-stock": -60,
             "zip-code": ""
           },
           {
@@ -16634,7 +16634,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 8,
             "subcontractedid": "",
             "virtual-stock": 6,
             "zip-code": ""
@@ -16750,7 +16750,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 45,
+            "stock": 44,
             "subcontractedid": "",
             "virtual-stock": 44,
             "zip-code": ""
@@ -16961,7 +16961,7 @@
         "sales-price": 729,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -18945,9 +18945,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -19264,9 +19264,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 12,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -19418,7 +19418,7 @@
         "warehousesInStock": [
           "116-false",
           "4813-false",
-          "680-false",
+          "680-true",
           "3375-false",
           "4028-false",
           "3807-false",
@@ -19429,7 +19429,7 @@
           "2193-false",
           "707-false",
           "3866-false",
-          "611-true",
+          "611-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -20666,7 +20666,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -22252,7 +22252,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
             "virtual-stock": 1,
             "zip-code": ""
@@ -22579,7 +22579,7 @@
         "sales-price": 360,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",

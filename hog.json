@@ -10194,9 +10194,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -10310,9 +10310,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -10499,7 +10499,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -10521,7 +10521,7 @@
         "sales-price": 139,
         "short-description": "<ul><li><p>🍲 <strong>Capacidad:</strong> 5.7 litros, prepara hasta 6 porciones</p></li><li><p>⚡ <strong>Potencia:</strong> 1000W | Voltaje: 127V | Frecuencia: 110Hz</p></li><li><p>🥘 <strong>Funciones 9 en 1:</strong> olla a presión, sartén, sous vide, vaporera, cocción lenta, arrocera, cocina de granos, fabricante de yogurt, calentador de comida</p></li><li><p>⏱️ <strong>Programas inteligentes:</strong> 15 modos automáticos con un solo toque</p></li><li><p>🔒 <strong>Seguridad:</strong> más de 10 sistemas, incluyendo liberación rápida de vapor y protección contra sobrecalentamiento</p></li><li><p>⏳ <strong>Rapidez:</strong> cocina hasta un 70% más rápido que métodos tradicionales</p></li><li><p>🛡️ <strong>Material:</strong> olla interior de acero inoxidable resistente a impactos y corrosión</p></li><li><p>🔥 <strong>Funciones extra:</strong> apagado automático y mantener caliente para conservar el sabor</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
