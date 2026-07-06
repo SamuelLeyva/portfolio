@@ -11429,7 +11429,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 42,
+        "stock": 41,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -13370,9 +13370,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": -48,
+            "virtual-stock": -39,
             "zip-code": ""
           },
           {
@@ -13675,7 +13675,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -13697,7 +13697,7 @@
         "sales-price": 1200,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Max</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 2048 Wh | 2400 W (Pico 4800 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePo 4000 Ciclos de carga.</p></li><li><p><strong>⏱️ Carga Rápida: </strong>1800W Carga rápida en 43 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 4 salidas AC, 4 USB y 1 toma DC.</p></li><li><p><strong>🪶 Portabilidad:</strong> 20,3 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No. Modelo con Capacidad No expandible</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante App (WiFi/Bluetooth)</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
