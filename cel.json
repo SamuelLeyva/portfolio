@@ -8526,9 +8526,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -8853,7 +8853,7 @@
         "sales-price": 147,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.7\"</p><p>📸 <strong>Cámara trasera: </strong>50MP</p><p>📸 <strong>Cámara frontal: </strong>8MP</p><p>⚡ <strong>Batería:</strong> 5000 mAh</p><p>⚡ <strong>Procesador: </strong>Octa-Core Cortex</p><p>💾 <strong>Almacenamiento:</strong> 128GB</p><p>📶 <strong>Conectividad: </strong>Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
