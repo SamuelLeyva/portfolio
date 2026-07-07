@@ -7226,9 +7226,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 968,
+            "stock": 998,
             "subcontractedid": "",
-            "virtual-stock": 968,
+            "virtual-stock": 998,
             "zip-code": ""
           },
           {
@@ -7553,7 +7553,7 @@
         "sales-price": 1.5,
         "short-description": "<p>Puntas XT60 para adaptar cables solares a entradas EcoFlow compatibles.</p><p>🔌 Conector tipo XT60 para conexión solar</p><p>☀️ Ideal para adaptar cables solares a estaciones EcoFlow compatibles</p><p>🧩 Se venden como puntas sueltas</p><p>🔧 Útiles para armado, reemplazo o reparación de conexiones solares</p><p>📦 No incluye cable completo ni kit de instalación</p>",
         "short-description-en": "",
-        "stock": 1000,
+        "stock": 998,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -11102,9 +11102,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 39,
+            "stock": 37,
             "subcontractedid": "",
-            "virtual-stock": 39,
+            "virtual-stock": 37,
             "zip-code": ""
           },
           {
@@ -11218,9 +11218,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 30,
+            "stock": 28,
             "subcontractedid": "",
-            "virtual-stock": 30,
+            "virtual-stock": 28,
             "zip-code": ""
           },
           {
@@ -11429,7 +11429,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 39,
+        "stock": 37,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -13685,7 +13685,7 @@
         "sales-price": 885,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No permite expandir</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -14714,7 +14714,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 715,
+            "price": 695,
             "updatedAt": 1747229914347
           }
         ],
@@ -14981,9 +14981,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 21,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -15097,7 +15097,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 71,
+            "stock": 69,
             "subcontractedid": "",
             "virtual-stock": 69,
             "zip-code": ""
@@ -15308,7 +15308,7 @@
         "sales-price": 729,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 27,
+        "stock": 21,
         "stock-enabled": true,
         "tag": [
           {
@@ -17466,9 +17466,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -17793,7 +17793,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -19900,9 +19900,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
