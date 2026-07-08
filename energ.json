@@ -7676,7 +7676,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 80,
+        "stock": 79,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -8093,7 +8093,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1000,
+            "stock": 998,
             "subcontractedid": "",
             "virtual-stock": 998,
             "zip-code": ""
@@ -11969,9 +11969,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 75,
+            "stock": 74,
             "subcontractedid": "",
-            "virtual-stock": 75,
+            "virtual-stock": 74,
             "zip-code": ""
           },
           {
@@ -12296,7 +12296,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 82,
+        "stock": 74,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -17169,7 +17169,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 685,
+            "price": 715,
             "updatedAt": 1747229914346
           },
           {
@@ -17192,7 +17192,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 735
+            "price": 740
           },
           {
             "deleted": false,
@@ -17202,7 +17202,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 710,
+            "price": 715,
             "updatedAt": 1747229914347
           },
           {
@@ -17213,7 +17213,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 695,
+            "price": 720,
             "updatedAt": 1747229914347
           }
         ],
@@ -17480,9 +17480,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -17785,7 +17785,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -17804,10 +17804,10 @@
         "reference": "PRO06314",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 729,
+        "sales-price": 740,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -20292,7 +20292,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -22283,9 +22283,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -22401,7 +22401,7 @@
             "public": false,
             "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -22588,7 +22588,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -22610,7 +22610,7 @@
         "sales-price": 295,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
