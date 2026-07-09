@@ -9611,9 +9611,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9938,7 +9938,7 @@
         "sales-price": 15,
         "short-description": "<p>🧲 Tecnología MagSafe: acoplamiento magnético perfecto. </p><p>⚡ Carga inalámbrica rápida de 15W. </p><p>🔋 Capacidad de 5000mAh para emergencias. </p><p>✈️ Ultra delgada y ligera (154g). </p><p>📱 Banco de energía y soporte. Recarga por Type-C.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -17480,9 +17480,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -17785,7 +17785,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -17807,7 +17807,7 @@
         "sales-price": 740,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -21839,7 +21839,7 @@
         "sales-price": 295,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -37623,9 +37623,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 26,
+            "stock": 25,
             "subcontractedid": "",
-            "virtual-stock": 26,
+            "virtual-stock": 25,
             "zip-code": ""
           },
           {
@@ -37950,7 +37950,7 @@
         "sales-price": 30,
         "short-description": "",
         "short-description-en": "",
-        "stock": 26,
+        "stock": 25,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
