@@ -22074,7 +22074,7 @@
         "sales-price": 10,
         "short-description": "<ul><li><p>🧲 <strong>Sujeción Magnética Firme</strong> para teléfonos hasta 3.74”.</p></li><li><p>📏 <strong>Brazo Extensible 5.5\"–7.5\"</strong> ajustable a tu preferencia.</p></li><li><p>🧲 <strong>Succión Gel-Pad</strong> para parabrisas o tablero.</p></li><li><p>🔄 <strong>Base Multiángulo + Brazo 180º</strong> para mejor visibilidad.</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -193281,9 +193281,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 411,
+            "stock": 381,
             "subcontractedid": "",
-            "virtual-stock": 411,
+            "virtual-stock": 408,
             "zip-code": ""
           },
           {
@@ -193608,7 +193608,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 411,
+        "stock": 408,
         "stock-enabled": true,
         "tag": [
           {
@@ -235057,9 +235057,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 250,
+            "stock": 230,
             "subcontractedid": "",
-            "virtual-stock": 250,
+            "virtual-stock": 230,
             "zip-code": ""
           },
           {
