@@ -9637,9 +9637,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": -30,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -30,
             "zip-code": ""
           },
           {
@@ -9724,9 +9724,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 38,
+            "stock": 68,
             "subcontractedid": "",
-            "virtual-stock": 38,
+            "virtual-stock": 68,
             "zip-code": ""
           },
           {
@@ -10026,7 +10026,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-false",
+          "3807-true",
           "120-false",
           "2820-false",
           "-2-true",
@@ -10051,7 +10051,7 @@
         "sales-price": 127,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 38,
+        "stock": 68,
         "stock-enabled": true,
         "tag": [
           {
@@ -13715,9 +13715,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": -40,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -40,
             "zip-code": ""
           },
           {
@@ -13802,9 +13802,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 47,
+            "stock": 87,
             "subcontractedid": "",
-            "virtual-stock": 45,
+            "virtual-stock": 85,
             "zip-code": ""
           },
           {
@@ -14104,7 +14104,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-false",
+          "3807-true",
           "120-false",
           "2820-false",
           "-2-true",
@@ -14129,7 +14129,7 @@
         "sales-price": 129,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 47,
+        "stock": 87,
         "stock-enabled": true,
         "tag": [
           {
@@ -22645,9 +22645,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": -10,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -22732,9 +22732,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -23034,7 +23034,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-false",
+          "3807-true",
           "120-false",
           "2820-false",
           "-2-true",
@@ -23059,7 +23059,7 @@
         "sales-price": 119,
         "short-description": "<p>El Samsung Galaxy A06 combina rendimiento esencial y diseño práctico con 4 GB de RAM y 64 GB de almacenamiento para el día a día. Su elegante color negro y pantalla HD+ brindan una experiencia visual fluida y versátil. El combo incluye funda protectora, mica de cristal templado y audífonos para mayor comodidad y protección inmediata.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
@@ -23514,9 +23514,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": -30,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -30,
             "zip-code": ""
           },
           {
@@ -23601,9 +23601,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 49,
+            "stock": 79,
             "subcontractedid": "",
-            "virtual-stock": 49,
+            "virtual-stock": 79,
             "zip-code": ""
           },
           {
@@ -23903,7 +23903,7 @@
           "680-false",
           "3375-false",
           "4028-false",
-          "3807-false",
+          "3807-true",
           "120-false",
           "2820-false",
           "-2-true",
@@ -23928,7 +23928,7 @@
         "sales-price": 119,
         "short-description": "",
         "short-description-en": "",
-        "stock": 49,
+        "stock": 79,
         "stock-enabled": true,
         "tag": [
           {
