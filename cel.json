@@ -365,9 +365,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -692,7 +692,7 @@
         "sales-price": 105,
         "short-description": "",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -1094,9 +1094,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 16,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -1421,7 +1421,7 @@
         "sales-price": 105,
         "short-description": "",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18715,9 +18715,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 64,
+            "stock": 62,
             "subcontractedid": "",
-            "virtual-stock": 56,
+            "virtual-stock": 54,
             "zip-code": ""
           },
           {
@@ -19042,7 +19042,7 @@
         "sales-price": 165,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 64,
+        "stock": 62,
         "stock-enabled": true,
         "tag": [
           {
