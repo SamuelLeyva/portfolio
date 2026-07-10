@@ -193281,9 +193281,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 381,
+            "stock": 376,
             "subcontractedid": "",
-            "virtual-stock": 408,
+            "virtual-stock": 381,
             "zip-code": ""
           },
           {
@@ -193608,7 +193608,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 408,
+        "stock": 381,
         "stock-enabled": true,
         "tag": [
           {
@@ -235384,7 +235384,7 @@
         "sales-price": 8,
         "short-description": "<p>⚡ Samsung 25W Super Fast Charger: Potencia y Estilo Negro</p><ul><li><p><strong>🚀 Carga Súper Rápida (25W):</strong> Utiliza la tecnología <strong>USB-C Power Delivery (PD) 3.0</strong>, permitiendo que dispositivos como la serie Galaxy S o serie A carguen del <strong>0% al 50% en aproximadamente 30 minutos</strong>.</p></li><li><p><strong>🔌 Tecnología PPS (Programmable Power Supply):</strong> Este es el \"cerebro\" del cargador; ajusta el voltaje y la corriente en tiempo real para cargar de forma más eficiente y reducir el calor, protegiendo tu batería.</p></li><li><p><strong>🛡️ Seguridad Certificada:</strong> Construido con protección contra sobrecorrientes, cortocircuitos y fluctuaciones de temperatura, garantizando que tu smartphone nunca corra riesgos.</p></li><li><p><strong>📱 Compatibilidad Extendida:</strong> Aunque brilla con Samsung, es totalmente compatible con <strong>iPhone, Google Pixel, iPad</strong> y otros dispositivos Android que soporten carga rápida mediante USB-C.</p></li><li><p><strong>🖤 Acabado Negro Mate:</strong> Un diseño sobrio y profesional que resiste mejor las huellas dactilares y el desgaste diario en comparación con los acabados brillantes.</p></li><li><p><strong>🪶 Compacto y Portátil:</strong> Su tamaño reducido lo hace ideal para llevarlo en la mochila o usarlo en regletas de enchufes congestionadas sin obstruir otros espacios.</p></li><li><p><strong>🔋 Eficiencia en Reposo:</strong> Consumo de energía ultra bajo cuando no hay ningún dispositivo conectado, ayudando al ahorro energético en casa.</p></li></ul>",
         "short-description-en": "",
-        "stock": 250,
+        "stock": 230,
         "stock-enabled": true,
         "tag": [
           {
