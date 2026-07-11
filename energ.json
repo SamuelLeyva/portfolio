@@ -22061,7 +22061,7 @@
             "public": false,
             "stock": 16,
             "subcontractedid": "",
-            "virtual-stock": 14,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -22386,7 +22386,7 @@
         "sales-price": 740,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [
           {
@@ -26704,9 +26704,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 8,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -26936,9 +26936,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -27233,7 +27233,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-true",
+          "116-false",
           "4813-false",
           "680-false",
           "3375-false",
@@ -27241,7 +27241,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -27263,7 +27263,7 @@
         "sales-price": 425,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
