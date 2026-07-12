@@ -8259,7 +8259,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -8584,7 +8584,7 @@
         "sales-price": 359,
         "short-description": "<ul><li><p>⚡ <strong>Potencia:</strong> 3500W nominal / 7000W pico</p></li><li><p>🔌 <strong>Conversión:</strong> 12V DC a 120V AC</p></li><li><p>🔄 <strong>Onda:</strong> Senoidal pura (ideal equipos sensibles)</p></li><li><p>📊 <strong>Pantalla:</strong> LCD + indicadores LED</p></li><li><p>🎛️ <strong>Control remoto:</strong> Incluido (cable 3 m)</p></li><li><p>🔌 <strong>Salidas:</strong> 4 AC + 1 USB QC 3.0</p></li><li><p>🛡️ Protección completa + enchufes GFCI</p></li><li><p>🔇 Operación silenciosa (20–40 dB)</p></li><li><p>🚐 Ideal para RV, solar, camping y respaldo</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -17518,7 +17518,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 68,
+        "stock": 67,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -19982,7 +19982,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 850,
+            "price": 880,
             "updatedAt": 1747229914346
           },
           {
@@ -20005,7 +20005,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 870
+            "price": 880
           },
           {
             "deleted": false,
@@ -20026,7 +20026,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 870,
+            "price": 880,
             "updatedAt": 1747229914347
           }
         ],
@@ -20617,7 +20617,7 @@
         "reference": "PRO05726",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 885,
+        "sales-price": 890,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No permite expandir</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -21495,7 +21495,7 @@
         "sales-price": 740,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
@@ -26047,7 +26047,7 @@
             "public": false,
             "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
