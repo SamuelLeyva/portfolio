@@ -2587,9 +2587,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 29,
+            "stock": 28,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 28,
             "zip-code": ""
           },
           {
@@ -8427,7 +8427,7 @@
         "sales-price": 127,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 68,
+        "stock": 63,
         "stock-enabled": true,
         "tag": [
           {
@@ -13227,9 +13227,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 14,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -14242,9 +14242,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 32,
+            "stock": 34,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 31,
             "zip-code": ""
           },
           {
@@ -17165,9 +17165,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -18151,9 +18151,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": -12,
+            "virtual-stock": -13,
             "zip-code": ""
           },
           {
