@@ -4,6 +4,10 @@
       "_index": "products",
       "_id": "45696412",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "45696412",
         "idstel": "45696412",
@@ -25,6 +29,253 @@
             "name_en": "Nike",
             "originCreate": "",
             "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696535313430,
+            "data": [
+              {
+                "id": "6",
+                "name": "64 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "PBychuNQOnOw6xxrxPf2",
+            "name": "Almacenamiento",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Tecnología",
+                "name_en": "Technology"
+              }
+            ],
+            "id": "Sector",
+            "name": "Sector",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696676408175,
+            "data": [
+              {
+                "id": "8",
+                "name": "Android",
+                "name_en": "Android"
+              }
+            ],
+            "description": "",
+            "id": "qS1nZkztvJVtyMsz2IdS",
+            "name": "Sistema Operativo",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729478199652,
+            "creation-date": "2024-10-21T02:36:39.652Z",
+            "data": [
+              {
+                "id": "1",
+                "name": "Si",
+                "name_en": "Yes"
+              }
+            ],
+            "description": "",
+            "id": "juyCESAsVuLhJaLXdUS2",
+            "name": "Pantalla táctil",
+            "name_en": "Pantalla táctil",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729969053779,
+            "creation-date": "2024-10-26T18:57:33.779Z",
+            "data": [
+              {
+                "id": "7",
+                "name": "13MP",
+                "name_en": "13MP"
+              }
+            ],
+            "description": "",
+            "id": "kipYg9VxrvIhGgNcANEU",
+            "name": "Cámara Trasera",
+            "name_en": "Cámara Trasera",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729968943655,
+            "creation-date": "2024-10-26T18:55:43.655Z",
+            "data": [
+              {
+                "id": "7",
+                "name": "8MP",
+                "name_en": "8MP"
+              }
+            ],
+            "description": "",
+            "id": "1Ts4wojniDhZsUp4Cjua",
+            "name": "Cámara frontal",
+            "name_en": "Cámara frontal",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535229659,
+            "data": [
+              {
+                "id": "8",
+                "name": "8 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "9y9h9dSmwhowM472H6Hw",
+            "name": "Ram",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696535706749,
+            "data": [
+              {
+                "id": "18",
+                "name": "USB tipo C",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "gciO5hectmJj0Na1nOsD",
+            "name": "Puertos",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "active": true,
+            "createdAt": 1729970011574,
+            "creation-date": "2024-10-26T19:13:31.574Z",
+            "data": [
+              {
+                "id": "6",
+                "name": "4G LTE",
+                "name_en": "4G LTE"
+              },
+              {
+                "id": "3",
+                "name": "3G",
+                "name_en": "3G"
+              },
+              {
+                "id": "1",
+                "name": "2G",
+                "name_en": "2G"
+              }
+            ],
+            "description": "",
+            "id": "Ylsr7vBfZA74G62GAnxv",
+            "name": "Red",
+            "name_en": "Red",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696676672522,
+            "data": [
+              {
+                "id": "5",
+                "name": "De 6.0'' a 7.0''",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "eqM0wDHfpNBMxDEiFM6J",
+            "name": "Pulgadas",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "10",
+                "name": "Verde",
+                "name_en": "Green"
+              }
+            ],
+            "id": "Colour",
+            "name": "Color",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535416942,
+            "data": [
+              {
+                "id": "1",
+                "name": "Inalámbrico",
+                "name_en": ""
+              },
+              {
+                "id": "2",
+                "name": "Bluetooth",
+                "name_en": ""
+              },
+              {
+                "id": "3",
+                "name": "NFC",
+                "name_en": "NFC"
+              }
+            ],
+            "description": "",
+            "id": "7kvZCFvICG8ROZNSgNm4",
+            "name": "Conectividad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
           }
         ],
         "category": [
@@ -34,7 +285,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>El Xiaomi Redmi A7 Pro está pensado para quienes buscan un smartphone con una pantalla gigante y fluida, una batería que dura días y un rendimiento ampliado, sin renunciar a un diseño delgado y moderno. Su pantalla inmersiva de 6,9″ con tasa de refresco de 120 Hz, el procesador de ocho núcleos, los 8 GB de RAM totales (4 GB + 4 GB de extensión) y los 64 GB de almacenamiento UFS 2.2 ofrecen una experiencia ágil para redes sociales, videojuegos y entretenimiento. Esta versión incluye, además, cover protector, mica para pantalla y audífonos, para que lo tengas todo listo desde el primer momento.</p><p>⚡ Rendimiento fluido y memoria ampliada</p><ul><li><p>4 GB de RAM física + 4 GB de RAM virtual gracias a la función de extensión de memoria, que alcanza hasta 8 GB para una multitarea sin interrupciones y aplicaciones que se abren al instante.</p></li><li><p>Potente procesador de ocho núcleos con almacenamiento UFS 2.2 de alta velocidad, que acelera la lectura y escritura de datos para una experiencia de uso muy fluida.</p></li><li><p>64 GB de almacenamiento interno, espacio de sobra para tus fotos, vídeos, apps y documentos, con la posibilidad de ampliar mediante tarjeta microSD.</p></li><li><p>Xiaomi HyperOS con optimización integral que mantiene la fluidez incluso tras un uso prolongado (48 meses de experiencia como nuevo, según pruebas internas).</p></li></ul><p>🌈 Pantalla inmersiva de 6,9″ y 120 Hz</p><ul><li><p>Enorme pantalla de 6,9 pulgadas con frecuencia de actualización adaptativa de hasta 120 Hz, que ofrece deslizamientos ultraligeros y una claridad excepcional.</p></li><li><p>Brillo máximo HBM de 800 nits que permite ver la pantalla con claridad incluso bajo luz solar directa, ideal para exteriores.</p></li><li><p>Tecnología Wet Touch 2.0: control táctil preciso incluso con los dedos mojados, grasos o enjabonados.</p></li><li><p>Triple certificación TÜV Rheinland (luz azul reducida, libre de parpadeo y amigable con el ritmo circadiano) para cuidar la vista en largas sesiones.</p></li></ul><p>📸 Cámara dual AI de 13 MP que captura cada detalle</p><ul><li><p>Cámara principal de 13 MP con sensor de gran tamaño que incrementa la entrada de luz un 13 %, junto con HDR+ para un rendimiento superior en luces y sombras.</p></li><li><p>Modo nocturno que realza las fotos en entornos oscuros, ofreciendo imágenes más vivas y detalladas sin flash.</p></li><li><p>AI Sky: transforma cielos apagados en impresionantes atardeceres o noches estrelladas con un solo toque, sin necesidad de edición.</p></li><li><p>Cámara frontal de 8 MP con función Beautify para selfies naturales y radiantes, lista para videollamadas y redes sociales.</p></li></ul><p>🔋 Batería masiva de 6000 mAh que te acompaña por días</p><ul><li><p>6000 mAh de capacidad típica que proporciona hasta 2,37 días de uso, 49 horas de llamadas, 77 horas de música o 35 horas de reproducción de vídeo.</p></li><li><p>Batería de larga duración con más de 1000 ciclos de carga manteniendo un excelente rendimiento, para una vida útil más extensa.</p></li><li><p>Cómoda carga mediante USB-C.</p></li></ul><p>🛡️ Diseño delgado, elegante y funcional</p><ul><li><p>Cuerpo ultradelgado de solo 8,15 mm de grosor y un peso ligero de 208 g, fácil de manejar y transportar.</p></li><li><p>Acabados inspirados en la naturaleza: Negro (elegante), Azul Niebla (suave) y Verde Palmera (refrescante). Anillo de lente prismático que aporta un toque sofisticado.</p></li><li><p>Sensor de huella dactilar lateral para desbloqueo rápido y seguro.</p></li><li><p>Conector de auriculares de 3,5 mm, NFC y refuerzo de volumen al 200 % para un sonido potente en altavoces.</p></li><li><p>Funciones inteligentes: Gemini de Google integrado, búsqueda con rodear un objeto, Xiaomi HyperIsland y Xiaomi Interconnectivity para sincronización con otros dispositivos.</p></li></ul><p>🎧 Accesorios incluidos </p><ul><li><p>Cover protector, mica para pantalla y audífonos incluidos, para que empieces a disfrutar sin gastos adicionales.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Usuarios que priorizan una pantalla gigante y fluida para ver vídeos, jugar y navegar con la máxima comodidad.</p></li><li><p>Personas que necesitan una batería que dure días enteros sin preocuparse por el cargador, ideal para viajes, trabajo fuera de casa o largas jornadas de entretenimiento.</p></li><li><p>Estudiantes y profesionales que valoran la multitarea, el almacenamiento amplio y una cámara versátil con funciones de inteligencia artificial.</p></li><li><p>Quienes buscan un móvil completo, delgado y con todos los accesorios incluidos desde el primer momento, más un regalo de música premium.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -382,9 +633,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 22,
             "subcontractedid": "",
-            "virtual-stock": 23,
+            "virtual-stock": 22,
             "zip-code": ""
           },
           {
@@ -707,7 +958,7 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 119,
-        "short-description": "",
+        "short-description": "<ul><li><p>⚡ Procesador de ocho núcleos y 8 GB de RAM (4+4 GB extendida) con almacenamiento UFS 2.2, rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 64 GB de almacenamiento interno, rápido y con espacio de sobra para apps, fotos y vídeos</p></li><li><p>🌈 Pantalla inmersiva de 6.9\" a 120 Hz con 800 nits (HBM), triple certificación TÜV y Wet Touch 2.0, visible incluso bajo el sol y usable con dedos mojados</p></li><li><p>📸 Cámara dual AI de 13 MP con modo noche y HDR+ + selfie de 8 MP, capturas vívidas y bien iluminadas en cualquier luz</p></li><li><p>🔋 Batería masiva de 6000 mAh con hasta 2.37 días de autonomía y 1000 ciclos de carga manteniendo un gran rendimiento</p></li><li><p>🛡️ Diseño delgado de 8.15 mm y 208 g, sensor de huella lateral, conector de 3.5 mm, NFC y refuerzo de volumen al 200%</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
         "stock": 23,
         "stock-enabled": true,
@@ -1898,9 +2149,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 47,
+            "stock": 46,
             "subcontractedid": "",
-            "virtual-stock": 47,
+            "virtual-stock": 46,
             "zip-code": ""
           },
           {
@@ -15502,9 +15753,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -16517,9 +16768,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 34,
+            "stock": 33,
             "subcontractedid": "",
-            "virtual-stock": 31,
+            "virtual-stock": 30,
             "zip-code": ""
           },
           {
@@ -18351,9 +18602,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 124,
+            "stock": 121,
             "subcontractedid": "",
-            "virtual-stock": 116,
+            "virtual-stock": 113,
             "zip-code": ""
           },
           {
@@ -19440,9 +19691,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 20,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 19,
             "zip-code": ""
           },
           {
