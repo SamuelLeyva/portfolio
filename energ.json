@@ -13681,7 +13681,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 79,
+        "stock": 75,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -17518,7 +17518,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 67,
+        "stock": 59,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -24423,7 +24423,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -24539,7 +24539,7 @@
             "public": false,
             "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -24748,7 +24748,7 @@
         "sales-price": 295,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 245 Wh | 300 W (Pico 600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 110 W.</p></li><li><p><strong>🔌 Salidas:</strong> Un enchufe Schuko de CA, dos USB-A, un USB-C (100 W) y toma de 12 V.</p></li><li><p><strong>🪶 Portabilidad:</strong> Más pequeña y manejable que su predecesora, diseñada para ser muy portátil.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible con batería adicional inteligente EcoFlow EB300 (286Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión mediante la EcoFlow App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -26047,7 +26047,7 @@
             "public": false,
             "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -26372,7 +26372,7 @@
         "sales-price": 425,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
