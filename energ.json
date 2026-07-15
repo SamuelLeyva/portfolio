@@ -16649,8 +16649,8 @@
           }
         ],
         "category": [
-          "PEQcn1ZRIIDvJlbqZPDP",
-          "PJQXoHsSgJPi9xfYQ5SH"
+          "PJQXoHsSgJPi9xfYQ5SH",
+          "Quj4WQwqhoXmQTdoExUC"
         ],
         "compatibility": [],
         "deleted": false,
@@ -17390,6 +17390,7 @@
         "vendorID": "",
         "ratesConfig": [
           "12431",
+          "15287",
           "11399"
         ],
         "special-tags": {
@@ -20148,7 +20149,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {

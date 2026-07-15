@@ -1393,9 +1393,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -1720,7 +1720,7 @@
         "sales-price": 107,
         "short-description": "<ul><li><p>⚡ 12 GB totales de RAM (4 GB físicos + 8 GB virtuales) y procesador Octa‑core a 1.6 GHz, multitarea ágil y desempeño potente</p></li><li><p>💾 64 GB de almacenamiento interno ampliable hasta 256 GB con microSD, espacio de sobra para fotos, apps y archivos</p></li><li><p>🌈 Pantalla HD+ de 6.6\" con notch de gota de agua, colores vibrantes y visualización inmersiva</p></li><li><p>📸 Cámara principal de 13 MP + selfie de 5 MP, capturas claras y listas para compartir</p></li><li><p>🔋 Batería de 5000 mAh con sistema de ahorro inteligente, energía para todo el día sin preocupaciones</p></li><li><p>🛡️ Sensor de huella lateral, Android 13, conector de 3.5 mm, USB Tipo‑C y grosor de solo 8.5 mm</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
@@ -2896,7 +2896,7 @@
             "public": false,
             "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -3221,7 +3221,7 @@
         "sales-price": 105,
         "short-description": "",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -3623,7 +3623,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 22,
             "subcontractedid": "",
             "virtual-stock": 22,
             "zip-code": ""
@@ -3950,7 +3950,7 @@
         "sales-price": 105,
         "short-description": "",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 22,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -5116,7 +5116,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 22,
             "subcontractedid": "",
             "virtual-stock": 22,
             "zip-code": ""
@@ -5443,7 +5443,7 @@
         "sales-price": 205,
         "short-description": "<ul><li><p>⚡ Hasta 6 GB de RAM y procesador MediaTek Helio G100‑Ultra para rendimiento rápido y multitarea fluida</p></li><li><p>💾 128 GB de almacenamiento amplio, ampliable hasta 2 TB con microSD (ranura híbrida SIM/microSD)</p></li><li><p>🌈 Pantalla AMOLED FHD+ de 6.77\" con 120 Hz, colores vivos de 12 bits y brillo máximo de 3200 nits, perfecta para ver incluso bajo el sol</p></li><li><p>📸 Cámara principal de 108 MP con agrupación 9‑en‑1 para fotos luminosas + selfie nítida de 20 MP, capturas con gran detalle incluso de noche</p></li><li><p>🔋 Batería de larga duración de 6000 mAh compatible con carga turbo de 33 W</p></li><li><p>🛡️ Diseño ultradelgado de 7.94 mm y ligero (183.7 g), moderno y resistente con certificación IP64 contra agua y polvo, y sensor de huella en pantalla</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 24,
+        "stock": 22,
         "stock-enabled": true,
         "tag": [
           {
@@ -7599,9 +7599,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 45,
+            "stock": 43,
             "subcontractedid": "",
-            "virtual-stock": 41,
+            "virtual-stock": 43,
             "zip-code": ""
           },
           {
@@ -7926,7 +7926,7 @@
         "sales-price": 99,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 64GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 49,
+        "stock": 43,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -8606,9 +8606,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 30,
+            "stock": 29,
             "subcontractedid": "",
-            "virtual-stock": 30,
+            "virtual-stock": 29,
             "zip-code": ""
           },
           {
@@ -8933,7 +8933,7 @@
         "sales-price": 127,
         "short-description": "<ul><li><p>⚡ 8 GB de RAM (4 GB extendida) y procesador T7250 para rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 64 GB de almacenamiento interno, espacio de sobra para fotos, apps y documentos</p></li><li><p>🌈 Pantalla Dot Notch de 6.75\" con resolución HD+ y tasa de refresco de 120 Hz, imágenes suaves y colores nítidos</p></li><li><p>📸 Cámara trasera de 13 MP con flash dual + selfie de 8 MP, capturas claras y bien iluminadas</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15 W y puerto Tipo‑C, energía para todo el día</p></li><li><p>🛡️ Diseño delgado de solo 8.1 mm, sensor de huella lateral, control remoto infrarrojo y Android 15</p></li></ul>",
         "short-description-en": "",
-        "stock": 30,
+        "stock": 29,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -9624,9 +9624,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 34,
+            "stock": 33,
             "subcontractedid": "",
-            "virtual-stock": 32,
+            "virtual-stock": 33,
             "zip-code": ""
           },
           {
@@ -9951,7 +9951,7 @@
         "sales-price": 205,
         "short-description": "<ul><li><p>⚡ Hasta 6 GB de RAM y procesador MediaTek Helio G100‑Ultra para rendimiento rápido y multitarea fluida</p></li><li><p>💾 128 GB de almacenamiento amplio, ampliable hasta 2 TB con microSD (ranura híbrida SIM/microSD)</p></li><li><p>🌈 Pantalla AMOLED FHD+ de 6.77\" con 120 Hz, colores vivos de 12 bits y brillo máximo de 3200 nits, perfecta para ver incluso bajo el sol</p></li><li><p>📸 Cámara principal de 108 MP con agrupación 9‑en‑1 para fotos luminosas + selfie nítida de 20 MP, capturas con gran detalle incluso de noche</p></li><li><p>🔋 Batería de larga duración de 6000 mAh compatible con carga turbo de 33 W</p></li><li><p>🛡️ Diseño ultradelgado de 7.94 mm y ligero (183.7 g), moderno y resistente con certificación IP64 contra agua y polvo, y sensor de huella en pantalla</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 36,
+        "stock": 33,
         "stock-enabled": true,
         "tag": [
           {
@@ -12362,9 +12362,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -12689,7 +12689,7 @@
         "sales-price": 138,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 18,
         "stock-enabled": true,
         "tag": [
           {
@@ -17822,7 +17822,7 @@
         "sales-price": 185,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [
           {
@@ -20671,7 +20671,7 @@
         "sales-price": 165,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 118,
+        "stock": 117,
         "stock-enabled": true,
         "tag": [
           {
@@ -22825,7 +22825,7 @@
         "sales-price": 165,
         "short-description": "<p>El Samsung Galaxy A16 4G es un teléfono eficiente que ofrece un rendimiento sólido para tareas diarias. Equipado con una pantalla Super AMOLED de 6.7 pulgadas y resolución Full HD+, disfrutarás de colores vibrantes y detalles nítidos. Su procesador MediaTek Helio G99 y sus 4GB de RAM aseguran un funcionamiento fluido, mientras que su almacenamiento de 128GB, ampliable mediante microSD hasta 1.5TB, te ofrece suficiente espacio para tus aplicaciones y archivos. Además, cuenta con una batería de 5000 mAh que proporciona una duración completa del día y carga rápida de 25W. Con conectividad Wi-Fi, Bluetooth 5.3 y certificación IP54, el Galaxy A16 4G es resistente a salpicaduras de agua y polvo, ideal para un uso diario sin preocupaciones.</p>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [
           {
@@ -23445,9 +23445,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 11,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -23772,7 +23772,7 @@
         "sales-price": 138,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
@@ -26247,9 +26247,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 37,
+            "stock": 35,
             "subcontractedid": "",
-            "virtual-stock": 37,
+            "virtual-stock": 35,
             "zip-code": ""
           },
           {
@@ -26574,7 +26574,7 @@
         "sales-price": 119,
         "short-description": "",
         "short-description-en": "",
-        "stock": 37,
+        "stock": 35,
         "stock-enabled": true,
         "tag": [
           {
