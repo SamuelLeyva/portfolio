@@ -6186,7 +6186,7 @@
         "sales-price": 105,
         "short-description": "<ul><li><p>⚡ 4 GB de RAM y procesador UNISOC Tiger T606 de 8 núcleos para rendimiento fluido y multitarea estable</p></li><li><p>💾 64 GB de almacenamiento interno, ampliable con microSD, espacio de sobra para tus fotos, apps y vídeos</p></li><li><p>🌈 Pantalla IPS LCD de 6.75\" con resolución HD+ y diseño de cristal 2.5D, imágenes claras y vibrantes</p></li><li><p>📸 Cámara trasera dual de 13 MP + 2 MP (profundidad) + selfie de 8 MP, capturas precisas y listas para redes sociales🔋 Batería de 5000 mAh con carga rápida de 18 W, energía para todo el día sin interrupciones</p></li><li><p>🛡️ Diseño ultradelgado de solo 7.9 mm y 189 g, sensor de huella trasero, desbloqueo facial y Android 14</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -10697,7 +10697,7 @@
         "sales-price": 205,
         "short-description": "<ul><li><p>📱 <strong>Pantalla AMOLED de 6.77\"</strong>: Panel brillante con resolución <strong>FHD+</strong> (1080 x 2392 px), tasa de refresco de <strong>120 Hz</strong> y un brillo pico impresionante de <strong>3,200 nits</strong> para visibilidad total bajo el sol.</p></li><li><p>🚀 <strong>Rendimiento de 6GB RAM</strong>: Equipado con el procesador <strong>Snapdragon 6 Gen 3</strong> (en su versión 5G) o <strong>Helio G100 Ultra</strong> (4G), diseñado para una multitarea fluida y eficiencia energética.</p></li><li><p>💾 <strong>256GB de Almacenamiento</strong>: Amplio espacio interno para fotos, videos y apps, expandible mediante tarjeta <strong>microSD de hasta 1TB</strong>.</p></li><li><p>📸 <strong>Cámara Principal de 108MP</strong>: Sensor de alta resolución de <strong>108 MP</strong> con apertura f/1.7 y estabilización óptica (<strong>OIS</strong>), permitiendo capturas nítidas y grabación en <strong>4K</strong>.</p></li><li><p>🤳 <strong>Cámara Frontal de 20MP</strong>: Sensor de <strong>20 MP</strong> optimizado para selfies detallados y videollamadas en alta definición.</p></li><li><p>🔋 <strong>Batería de 5,520 mAh</strong>: Gran capacidad que ofrece hasta <strong>1.6 días de uso</strong> continuo. Soporta <strong>carga rápida de 45W</strong>, alcanzando el 50% en solo 25 minutos.</p></li><li><p>🛡️ <strong>Resistencia y Durabilidad</strong>: Certificación <strong>IP66</strong> contra polvo y chorros de agua, además de cristal de alta durabilidad para mayor protección ante caídas.</p></li></ul>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 18,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18510,9 +18510,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 32,
+            "stock": 31,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 28,
             "zip-code": ""
           },
           {
@@ -26574,7 +26574,7 @@
         "sales-price": 119,
         "short-description": "",
         "short-description-en": "",
-        "stock": 34,
+        "stock": 33,
         "stock-enabled": true,
         "tag": [
           {
