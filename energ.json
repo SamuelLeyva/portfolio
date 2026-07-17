@@ -371,7 +371,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -12477,9 +12477,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 75,
+            "stock": 74,
             "subcontractedid": "",
-            "virtual-stock": 75,
+            "virtual-stock": 74,
             "zip-code": ""
           },
           {
@@ -12804,7 +12804,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 75,
+        "stock": 74,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -24331,9 +24331,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
