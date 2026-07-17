@@ -960,7 +960,7 @@
         "sales-price": 119,
         "short-description": "<ul><li><p>⚡ Procesador de ocho núcleos y 8 GB de RAM (4+4 GB extendida) con almacenamiento UFS 2.2, rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 64 GB de almacenamiento interno, rápido y con espacio de sobra para apps, fotos y vídeos</p></li><li><p>🌈 Pantalla inmersiva de 6.9\" a 120 Hz con 800 nits (HBM), triple certificación TÜV y Wet Touch 2.0, visible incluso bajo el sol y usable con dedos mojados</p></li><li><p>📸 Cámara dual AI de 13 MP con modo noche y HDR+ + selfie de 8 MP, capturas vívidas y bien iluminadas en cualquier luz</p></li><li><p>🔋 Batería masiva de 6000 mAh con hasta 2.37 días de autonomía y 1000 ciclos de carga manteniendo un gran rendimiento</p></li><li><p>🛡️ Diseño delgado de 8.15 mm y 208 g, sensor de huella lateral, conector de 3.5 mm, NFC y refuerzo de volumen al 200%</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -5859,9 +5859,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -6186,7 +6186,7 @@
         "sales-price": 105,
         "short-description": "<ul><li><p>⚡ 4 GB de RAM y procesador UNISOC Tiger T606 de 8 núcleos para rendimiento fluido y multitarea estable</p></li><li><p>💾 64 GB de almacenamiento interno, ampliable con microSD, espacio de sobra para tus fotos, apps y vídeos</p></li><li><p>🌈 Pantalla IPS LCD de 6.75\" con resolución HD+ y diseño de cristal 2.5D, imágenes claras y vibrantes</p></li><li><p>📸 Cámara trasera dual de 13 MP + 2 MP (profundidad) + selfie de 8 MP, capturas precisas y listas para redes sociales🔋 Batería de 5000 mAh con carga rápida de 18 W, energía para todo el día sin interrupciones</p></li><li><p>🛡️ Diseño ultradelgado de solo 7.9 mm y 189 g, sensor de huella trasero, desbloqueo facial y Android 14</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -15781,7 +15781,7 @@
         "sales-price": 128,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 30,
+        "stock": 29,
         "stock-enabled": true,
         "tag": [
           {
@@ -17822,7 +17822,7 @@
         "sales-price": 185,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
@@ -20671,7 +20671,7 @@
         "sales-price": 165,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 116,
+        "stock": 115,
         "stock-enabled": true,
         "tag": [
           {
