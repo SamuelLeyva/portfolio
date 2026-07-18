@@ -8379,9 +8379,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -15045,7 +15045,7 @@
         "sales-price": 25,
         "short-description": "<p>⚡ Interfaz: USB-C 3.1 hasta 10Gbps</p><p>💽 Compatibilidad: SSD M.2 NVMe + SATA (2230 / 2242 / 2260 / 2280)</p><p>📦 Capacidad: Soporta hasta 4TB</p><p>🧰 Instalación: Tool-Free (sin herramientas)</p><p>🔥 Material: Aluminio con disipación térmica</p><p>🔌 Funciones: Plug &amp; Play + Hot Swap</p><p>💻 Uso: Compatible con PC, laptops y dispositivos USB-C</p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
