@@ -16569,7 +16569,7 @@
         "sales-price": 7.7,
         "short-description": "<p><strong>☀️ Cable de Extensión Solar 12 AWG (Venta por Metro)</strong></p><ul><li><p><strong>📐 Calibre:</strong> 12 AWG (Ideal para minimizar caídas de voltaje).</p></li><li><p><strong>🔌 Uso:</strong> Conexión de paneles solares a controladores de carga o inversores.</p></li><li><p><strong>🛡️ Protección:</strong> Recubrimiento XLPE resistente a rayos UV y climas extremos.</p></li><li><p><strong>🌡️ Temperatura:</strong> Soporta hasta 90°C en condiciones húmedas o secas.</p></li><li><p><strong>⚡ Capacidad:</strong> Diseñado para manejar altas corrientes en sistemas de 12V, 24V o superiores.</p></li><li><p><strong>📏 Venta:</strong> Personalizada por metros lineales.( <strong>Compra mínima 10m de extensión</strong>)</p></li></ul>",
         "short-description-en": "",
-        "stock": 290,
+        "stock": 280,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -22703,9 +22703,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -23030,7 +23030,7 @@
         "sales-price": 740,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -28687,7 +28687,7 @@
         "sales-price": 425,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31044,7 +31044,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 570,
+            "price": 640,
             "updatedAt": 1747229914346
           },
           {
@@ -31067,7 +31067,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 570
+            "price": 640
           },
           {
             "deleted": false,
@@ -31077,7 +31077,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 570,
+            "price": 640,
             "updatedAt": 1747229914347
           },
           {
@@ -31088,7 +31088,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 570,
+            "price": 640,
             "updatedAt": 1747229914347
           }
         ],
@@ -31679,10 +31679,10 @@
         "reference": "PRO06067",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 580,
+        "sales-price": 650,
         "short-description": "<ul><li><p>🔋 <strong>Batería Extra para EcoFlow DELTA 2 – Smart Extra Battery</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh de energía adicional</p></li><li><p>🔌 <strong>Voltaje nominal:</strong> 51.2 V</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio-fosfato (LFP) – duradera y estable</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta 3 000 ciclos a 80 %+ de capacidad</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión directa y rápida con tu estación DELTA 2</p></li><li><p>🚀 <strong>Expande la capacidad total</strong> del sistema hasta ~2 048 Wh cuando se combina con la unidad principal</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, temperatura y cortocircuito</p></li><li><p>🔇 <strong>Operación silenciosa y segura</strong></p></li><li><p>📦 <strong>Diseño compacto y portátil:</strong> fácil de mover y conectar</p></li><li><p>🔗 <strong>Compatibilidad:</strong> EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -31941,7 +31941,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 579,
+            "price": 660,
             "updatedAt": 1747229914346
           },
           {
@@ -31964,7 +31964,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 579
+            "price": 660
           },
           {
             "deleted": false,
@@ -31974,7 +31974,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 579,
+            "price": 660,
             "updatedAt": 1747229914347
           },
           {
@@ -31985,7 +31985,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 579,
+            "price": 660,
             "updatedAt": 1747229914347
           }
         ],
@@ -32576,7 +32576,7 @@
         "reference": "PRO06380",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 589,
+        "sales-price": 670,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje: </strong>110V CA</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~3 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
         "stock": 0,

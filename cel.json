@@ -14444,9 +14444,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 27,
+            "stock": 28,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 28,
             "zip-code": ""
           },
           {
@@ -14771,7 +14771,7 @@
         "sales-price": 128,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 27,
+        "stock": 28,
         "stock-enabled": true,
         "tag": [
           {
@@ -15790,7 +15790,7 @@
         "sales-price": 165,
         "short-description": "<p>El Samsung Galaxy A16 es un smartphone desbloqueado que combina un diseño moderno con un rendimiento equilibrado para el uso diario. Su pantalla Super AMOLED de 6.7 pulgadas con tasa de refresco de 90Hz ofrece colores vibrantes y fluidez en cada interacción. Equipado con 4GB de RAM y 128GB de almacenamiento, cuenta con un procesador MediaTek Helio para un desempeño eficiente en multitarea y aplicaciones. La batería de 5000 mAh garantiza una larga autonomía, mientras su cámara principal de 50MP captura momentos con gran detalle y claridad.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
