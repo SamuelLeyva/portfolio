@@ -1469,7 +1469,7 @@
         "sales-price": 119,
         "short-description": "",
         "short-description-en": "",
-        "stock": 26,
+        "stock": 23,
         "stock-enabled": true,
         "tag": [
           {
@@ -6916,7 +6916,7 @@
         "sales-price": 99,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 64GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 42,
+        "stock": 39,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -16804,7 +16804,7 @@
         "sales-price": 128,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 28,
+        "stock": 26,
         "stock-enabled": true,
         "tag": [
           {
@@ -19400,9 +19400,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -19727,7 +19727,7 @@
         "sales-price": 123,
         "short-description": "<p>El <strong>Xiaomi Redmi A5 (Negro)</strong> combina <strong>6 GB de RAM gestionada (3 GB física + 3 GB virtual)</strong> y <strong>64 GB de almacenamiento</strong> expandible, ideal para multitarea y almacenar contenido. Su pantalla de <strong>6.88 pulgadas</strong> y cámara principal de <strong>32 MP</strong> ofrecen una experiencia visual y fotográfica nítida. Incluye una <strong>batería de 5000 mAh con carga rápida de 15W</strong> para uso prolongado sin interrupciones. Equipado con el <strong>procesador UNISOC T7250 y Android 15 Go</strong>, garantiza eficiencia en tareas diarias. Completan su valor accesorios como funda, mica y audífonos, en un diseño dorado elegante y conectividad <strong>4G Dual SIM</strong></p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -23672,7 +23672,7 @@
         "sales-price": 119,
         "short-description": "<p>El Samsung Galaxy A06 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, perfecto para el uso diario. Su moderno color verde y pantalla HD+ brindan una experiencia visual nítida y fresca. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad desde el primer uso.</p>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -24541,7 +24541,7 @@
         "sales-price": 119,
         "short-description": "",
         "short-description-en": "",
-        "stock": 28,
+        "stock": 26,
         "stock-enabled": true,
         "tag": [
           {

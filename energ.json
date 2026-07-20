@@ -6523,7 +6523,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -18,
+            "virtual-stock": -19,
             "zip-code": ""
           },
           {
@@ -17371,7 +17371,7 @@
         "sales-price": 85,
         "short-description": "<p>📜 Certificado EN50618 para seguridad y durabilidad industrial. </p><p>🔌 Conector XT60 reforzado para +20,000 ciclos. </p><p>⚡ Cobre puro 12 AWG para carga eficiente de 30A. </p><p>🛡️ Material XLPE/XLPO con vida útil de 25+ años. </p><p>🔧 Conectores MC4 y XT60 preinstalados. Plug &amp; Play universal. </p><p>📏 Longitud de 10m para configuraciones flexibles.</p>",
         "short-description-en": "",
-        "stock": 47,
+        "stock": 46,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -22703,9 +22703,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -23030,7 +23030,7 @@
         "sales-price": 740,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
@@ -30939,7 +30939,7 @@
         "sales-price": 26,
         "short-description": "<p>🔧 Características Técnicas</p><ul><li><p>☀️ <strong>Panel solar integrado</strong> para carga ecológica</p></li><li><p>🔋 <strong>2 baterías recargables de 1200 mAh</strong> (2400 mAh en total)</p></li><li><p>💡 <strong>Iluminación LED potente y uniforme</strong></p></li><li><p>🎒 <strong>Diseño portátil y ligero</strong> para camping, viajes y emergencias</p></li><li><p>⚡ <strong>Opciones de carga versátiles</strong> (solar y eléctrica)</p></li><li><p>🛡️ <strong>Construcción resistente</strong> para mayor durabilidad</p></li><li><p>🎨 <strong>Acabado en color azul</strong> moderno y atractivo</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
