@@ -2211,7 +2211,7 @@
         "sales-price": 105,
         "short-description": "",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -9360,9 +9360,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -10679,7 +10679,7 @@
         "sales-price": 127,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 48,
+        "stock": 43,
         "stock-enabled": true,
         "tag": [
           {
