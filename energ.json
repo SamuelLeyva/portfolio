@@ -8047,7 +8047,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -33,
+            "virtual-stock": -36,
             "zip-code": ""
           },
           {
@@ -18480,7 +18480,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -20371,7 +20371,7 @@
         "sales-price": 3200,
         "short-description": "<p><strong>🔋 EcoFlow DELTA Pro 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 4096 Wh (escalable a 48 kWh) | 4000 W (Pico 8000 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP mejorada, 3000 ciclos al 80% de capacidad.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> hasta <strong>3000W</strong>. 0 - 80% en  <strong>50-60 minutos</strong></p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 2600 W (puerto alto voltaje 1600W max + puerto bajo voltaje 1000W max).</p></li><li><p><strong>🔌 Salidas:</strong> 5 Puertos CA , 2 USB-C, 2USB -A , 12V, DC5521, 1 Anderson</p></li><li><p><strong>🪶 Portabilidad:</strong> 52 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, capacidad expandible a12 kWh con batería extra.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth compatibles.</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -23509,9 +23509,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
