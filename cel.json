@@ -6157,7 +6157,7 @@
         "sales-price": 127,
         "short-description": "<ul><li><p>⚡ 8 GB de RAM (4 GB extendida) y procesador T7250 para rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 64 GB de almacenamiento interno, espacio de sobra para fotos, apps y documentos</p></li><li><p>🌈 Pantalla Dot Notch de 6.75\" con resolución HD+ y tasa de refresco de 120 Hz, imágenes suaves y colores nítidos</p></li><li><p>📸 Cámara trasera de 13 MP con flash dual + selfie de 8 MP, capturas claras y bien iluminadas</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15 W y puerto Tipo‑C, energía para todo el día</p></li><li><p>🛡️ Diseño delgado de solo 8.1 mm, sensor de huella lateral, control remoto infrarrojo y Android 15</p></li></ul>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -8586,9 +8586,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 41,
+            "stock": 38,
             "subcontractedid": "",
-            "virtual-stock": 41,
+            "virtual-stock": 38,
             "zip-code": ""
           },
           {
@@ -8913,7 +8913,7 @@
         "sales-price": 127,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 41,
+        "stock": 40,
         "stock-enabled": true,
         "tag": [
           {
@@ -12370,9 +12370,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
