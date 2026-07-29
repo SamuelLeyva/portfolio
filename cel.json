@@ -385,7 +385,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -710,7 +710,7 @@
         "sales-price": 107,
         "short-description": "<ul><li><p>⚡ 12 GB totales de RAM (4 GB físicos + 8 GB virtuales) y procesador Octa‑core a 1.6 GHz, multitarea ágil y desempeño potente</p></li><li><p>💾 64 GB de almacenamiento interno ampliable hasta 256 GB con microSD, espacio de sobra para fotos, apps y archivos</p></li><li><p>🌈 Pantalla HD+ de 6.6\" con notch de gota de agua, colores vibrantes y visualización inmersiva</p></li><li><p>📸 Cámara principal de 13 MP + selfie de 5 MP, capturas claras y listas para compartir</p></li><li><p>🔋 Batería de 5000 mAh con sistema de ahorro inteligente, energía para todo el día sin preocupaciones</p></li><li><p>🛡️ Sensor de huella lateral, Android 13, conector de 3.5 mm, USB Tipo‑C y grosor de solo 8.5 mm</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -3674,7 +3674,7 @@
         "sales-price": 205,
         "short-description": "<ul><li><p>⚡ Hasta 6 GB de RAM y procesador MediaTek Helio G100‑Ultra para rendimiento rápido y multitarea fluida</p></li><li><p>💾 128 GB de almacenamiento amplio, ampliable hasta 2 TB con microSD (ranura híbrida SIM/microSD)</p></li><li><p>🌈 Pantalla AMOLED FHD+ de 6.77\" con 120 Hz, colores vivos de 12 bits y brillo máximo de 3200 nits, perfecta para ver incluso bajo el sol</p></li><li><p>📸 Cámara principal de 108 MP con agrupación 9‑en‑1 para fotos luminosas + selfie nítida de 20 MP, capturas con gran detalle incluso de noche</p></li><li><p>🔋 Batería de larga duración de 6000 mAh compatible con carga turbo de 33 W</p></li><li><p>🛡️ Diseño ultradelgado de 7.94 mm y ligero (183.7 g), moderno y resistente con certificación IP64 contra agua y polvo, y sensor de huella en pantalla</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
@@ -8913,7 +8913,7 @@
         "sales-price": 127,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 38,
+        "stock": 33,
         "stock-enabled": true,
         "tag": [
           {
