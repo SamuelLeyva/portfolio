@@ -727,7 +727,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Bocina Bluetooth Portatil - 1HORA - Negro",
+        "productname": "Bocina Bluetooth Portatil - 1HORA BOC243 - Negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -754,7 +754,11 @@
           "name": "Unidad"
         },
         "vendorID": "",
-        "ratesConfig": [],
+        "ratesConfig": [
+          "15287",
+          "17589",
+          "11399"
+        ],
         "special-tags": {
           "international-shipments": [],
           "location-restrictions": [],
