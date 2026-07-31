@@ -897,7 +897,92 @@
         "creation-date": "2026-07-24T10:58:06+0000",
         "barcode": "",
         "buildservice": [],
-        "attribute": [],
+        "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1732298437006,
+            "creation-date": "2024-11-22T18:00:37.006Z",
+            "data": [
+              {
+                "id": "29",
+                "name": "1536 Wh",
+                "name_en": "1536 Wh"
+              }
+            ],
+            "description": "",
+            "id": "vCYSVkguYrVxBqfxsvMj",
+            "name": "Capacidad de corriente",
+            "name_en": "Capacidad de corriente",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1732298616217,
+            "creation-date": "2024-11-22T18:03:36.217Z",
+            "data": [
+              {
+                "id": "22",
+                "name": "1800 W",
+                "name_en": "1800 W"
+              },
+              {
+                "id": "38",
+                "name": "3600 W",
+                "name_en": "3600 W"
+              }
+            ],
+            "description": "",
+            "id": "n3yWiTDrN2RpXIaffRpx",
+            "name": "Potencia",
+            "name_en": "Potencia",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "84",
+                "name": "Oukitel",
+                "name_en": "Oukitel"
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "Nike",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          }
+        ],
         "category": [
           "d0v1oZ5JI4V3IA2i8Vmh",
           "RvOk8bFjHgMnUFnDaIYs",
@@ -1660,7 +1745,20 @@
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1733327632904,
+            "creation-date": "2024-12-04T15:53:52.904Z",
+            "description": "Estaciones de energía",
+            "id": "DV6fLPtpydT8gLyyDlte",
+            "name": "Estaciones de energía",
+            "name_en": "Estaciones de energía",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "estaciones-de-energía"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-07-24T10:58:06+0000",
         "warranty": null,
@@ -1675,7 +1773,11 @@
           "name": "Unidad"
         },
         "vendorID": "",
-        "ratesConfig": [],
+        "ratesConfig": [
+          "15287",
+          "17589",
+          "11399"
+        ],
         "special-tags": {
           "international-shipments": [],
           "location-restrictions": [],
@@ -1702,7 +1804,92 @@
         "creation-date": "2026-07-24T10:52:29+0000",
         "barcode": "",
         "buildservice": [],
-        "attribute": [],
+        "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "84",
+                "name": "Oukitel",
+                "name_en": "Oukitel"
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "Nike",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1732298616217,
+            "creation-date": "2024-11-22T18:03:36.217Z",
+            "data": [
+              {
+                "id": "22",
+                "name": "1800 W",
+                "name_en": "1800 W"
+              },
+              {
+                "id": "38",
+                "name": "3600 W",
+                "name_en": "3600 W"
+              }
+            ],
+            "description": "",
+            "id": "n3yWiTDrN2RpXIaffRpx",
+            "name": "Potencia",
+            "name_en": "Potencia",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1732298437006,
+            "creation-date": "2024-11-22T18:00:37.006Z",
+            "data": [
+              {
+                "id": "27",
+                "name": "1024 Wh",
+                "name_en": "1024 Wh"
+              }
+            ],
+            "description": "",
+            "id": "vCYSVkguYrVxBqfxsvMj",
+            "name": "Capacidad de corriente",
+            "name_en": "Capacidad de corriente",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          }
+        ],
         "category": [
           "d0v1oZ5JI4V3IA2i8Vmh",
           "RvOk8bFjHgMnUFnDaIYs",
@@ -2459,7 +2646,20 @@
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1733327632904,
+            "creation-date": "2024-12-04T15:53:52.904Z",
+            "description": "Estaciones de energía",
+            "id": "DV6fLPtpydT8gLyyDlte",
+            "name": "Estaciones de energía",
+            "name_en": "Estaciones de energía",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "estaciones-de-energía"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-07-24T10:52:29+0000",
         "warranty": null,
@@ -2474,7 +2674,12 @@
           "name": "Unidad"
         },
         "vendorID": "",
-        "ratesConfig": [],
+        "ratesConfig": [
+          "15287",
+          "17589",
+          "11388",
+          "11399"
+        ],
         "special-tags": {
           "international-shipments": [],
           "location-restrictions": [],
@@ -31666,9 +31871,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -31971,7 +32176,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -31993,7 +32198,7 @@
         "sales-price": 425,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",

@@ -190186,9 +190186,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 210,
+            "stock": 208,
             "subcontractedid": "",
-            "virtual-stock": 220,
+            "virtual-stock": 208,
             "zip-code": ""
           },
           {
@@ -190513,7 +190513,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 220,
+        "stock": 208,
         "stock-enabled": true,
         "tag": [
           {
