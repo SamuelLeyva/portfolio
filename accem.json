@@ -5411,9 +5411,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 10,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -5643,9 +5643,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -5948,7 +5948,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -5970,7 +5970,7 @@
         "sales-price": 6,
         "short-description": "<ul><li><p><strong>Producto:</strong> Red Elástica de Carga / Sujeción</p></li><li><p><strong>Color:</strong> Negro</p></li><li><p><strong>Material:</strong> Bandas Elásticas de Alta Calidad (impermeables y resistentes al desgaste)</p></li><li><p><strong>Dimensiones Extendidas:</strong> Aprox. 50 cm (largo) x 22.9 cm (ancho)</p></li><li><p><strong>Tipo de Fijación:</strong> Ganchos</p></li><li><p><strong>Característica Especial:</strong> Diseño de Doble Capa</p></li><li><p><strong>Compatibilidad:</strong> Motocicletas, Bicicletas (con portaequipajes), Vehículos Todo Terreno (ATV), Motos de Nieve.</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -6936,9 +6936,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 10,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7168,9 +7168,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -7473,7 +7473,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -7495,7 +7495,7 @@
         "sales-price": 7,
         "short-description": "<ul><li><p><strong>Tipo de Producto:</strong> Correa / Arnés de Sujeción Elástica</p></li><li><p><strong>Material Principal:</strong> Poliamida</p></li><li><p><strong>Característica:</strong> Multifuncional (4 en 1), Alta Elasticidad, Ajustable</p></li><li><p><strong>Componentes:</strong> Incluye ganchos para enganche seguro</p></li><li><p><strong>Uso Principal:</strong> Sujetar cascos de motocicleta y bicicleta eléctrica en el almacenamiento trasero</p></li><li><p><strong>Usos Adicionales:</strong> Sujeción de equipaje, herramientas, cargas ligeras en vehículos personales.</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
