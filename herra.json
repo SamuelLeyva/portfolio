@@ -738,7 +738,19 @@
         "short-description-en": "",
         "stock": 3,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1782937185461,
+            "creation-date": "2026-07-01T20:19:45.461Z",
+            "description": "Herramientas de reparación",
+            "id": "MYKE9wKdJ17jw5qztDlv",
+            "name": "Herramientas de reparación",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "herramientas-de-reparación"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2019-08-30T09:22:10+0000",
         "warranty": {
