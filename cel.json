@@ -656,9 +656,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 89,
+            "stock": 88,
             "subcontractedid": "",
-            "virtual-stock": 89,
+            "virtual-stock": 88,
             "zip-code": ""
           },
           {
@@ -1416,9 +1416,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -1743,7 +1743,7 @@
         "sales-price": 107,
         "short-description": "<ul><li><p>⚡ 12 GB totales de RAM (4 GB físicos + 8 GB virtuales) y procesador Octa‑core a 1.6 GHz, multitarea ágil y desempeño potente</p></li><li><p>💾 64 GB de almacenamiento interno ampliable hasta 256 GB con microSD, espacio de sobra para fotos, apps y archivos</p></li><li><p>🌈 Pantalla HD+ de 6.6\" con notch de gota de agua, colores vibrantes y visualización inmersiva</p></li><li><p>📸 Cámara principal de 13 MP + selfie de 5 MP, capturas claras y listas para compartir</p></li><li><p>🔋 Batería de 5000 mAh con sistema de ahorro inteligente, energía para todo el día sin preocupaciones</p></li><li><p>🛡️ Sensor de huella lateral, Android 13, conector de 3.5 mm, USB Tipo‑C y grosor de solo 8.5 mm</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -9112,9 +9112,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -11833,9 +11833,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 11,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {

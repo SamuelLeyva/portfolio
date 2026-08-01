@@ -3086,7 +3086,7 @@
             "public": false,
             "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -28797,9 +28797,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -28990,7 +28990,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "3298-false",
           "117-false",
@@ -30986,9 +30986,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -31313,7 +31313,7 @@
         "sales-price": 395,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 286 Wh | 600 W (Surge 1200 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora con CA.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 220 W (Rango de voltaje 11-50 V, 13 A).</p></li><li><p><strong>🔌 Salidas:</strong> Múltiples puertos CA, USB-C (100W), USB-A y CC.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 4-4.5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 858 Wh con batería adicional inteligente EcoFlow EB300 (286Wh) o EB600 (572Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión completa mediante la EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
