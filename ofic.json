@@ -407,7 +407,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -523,7 +523,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -732,7 +732,7 @@
         "sales-price": 265,
         "short-description": "<ul><li><p>⚡ Impresión láser rápida de 30 ppm en blanco y negro con calidad profesional de hasta 1200 x 1200 ppp</p></li><li><p>📡 Conexión Wi‑Fi y USB: imprime de forma inalámbrica desde tu PC, móvil o tablet, compatible con Amazon Alexa</p></li><li><p>🖨️ Bandeja principal de 250 hojas y ranura manual para sobres y formatos especiales, lista para un volumen mensual recomendado de hasta 2,500 páginas</p></li><li><p>📦 Diseño compacto (solo 14\" de ancho), gris y pensado para el hogar o la pequeña oficina, sin ocupar demasiado espacio</p></li><li><p>💸 Suscripción Refresh disponible </p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
