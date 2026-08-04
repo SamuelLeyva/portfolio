@@ -3616,7 +3616,7 @@
         "sales-price": 115,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 128GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -4296,9 +4296,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -4601,7 +4601,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -4623,7 +4623,7 @@
         "sales-price": 127,
         "short-description": "<ul><li><p>⚡ 8 GB de RAM (4 GB extendida) y procesador T7250 para rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 64 GB de almacenamiento interno, espacio de sobra para fotos, apps y documentos</p></li><li><p>🌈 Pantalla Dot Notch de 6.75\" con resolución HD+ y tasa de refresco de 120 Hz, imágenes suaves y colores nítidos</p></li><li><p>📸 Cámara trasera de 13 MP con flash dual + selfie de 8 MP, capturas claras y bien iluminadas</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 15 W y puerto Tipo‑C, energía para todo el día</p></li><li><p>🛡️ Diseño delgado de solo 8.1 mm, sensor de huella lateral, control remoto infrarrojo y Android 15</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -5291,9 +5291,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -5618,7 +5618,7 @@
         "sales-price": 127,
         "short-description": "<p>📱 Pantalla: 6.7\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5000 mAh</p><p>⚡ Procesador: MediaTek Helio G99</p><p>🧠 Ram: 4GB</p><p>💾 Almacenamiento: 64GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -6291,9 +6291,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -6618,7 +6618,7 @@
         "sales-price": 138,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -7014,7 +7014,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 108,
+            "price": 112,
             "updatedAt": 1747229914346
           },
           {
@@ -7325,9 +7325,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 31,
+            "stock": 29,
             "subcontractedid": "",
-            "virtual-stock": 29,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
@@ -7652,7 +7652,7 @@
         "sales-price": 129,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 34,
+        "stock": 29,
         "stock-enabled": true,
         "tag": [
           {
