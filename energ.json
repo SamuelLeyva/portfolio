@@ -53861,7 +53861,7 @@
             "public": false,
             "stock": 23,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -54186,7 +54186,7 @@
         "sales-price": 30,
         "short-description": "",
         "short-description-en": "",
-        "stock": 22,
+        "stock": 23,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
