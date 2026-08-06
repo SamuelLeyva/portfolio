@@ -444,9 +444,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -31835,9 +31835,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -32140,7 +32140,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -32162,7 +32162,7 @@
         "sales-price": 375,
         "short-description": "<p><strong>💻 ASUS VivoBook 14 (Modelo: X1404V)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel Core i3-1315U (13ra Gen)</p></li><li><p><strong>⚡ Memoria RAM:</strong> 8GB DDR4</p></li><li><p><strong>💾 Almacenamiento:</strong> 128GB SSD NVMe</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" Full HD (1920 x 1080)</p></li><li><p><strong>🎨 Gráficos:</strong> Intel UHD Graphics</p></li><li><p><strong>🔋 Batería:</strong> 42Wh con diseño de bajo consumo</p></li><li><p><strong>🔌 Puertos:</strong> 1x USB-C, 2x USB 3.2, 1x USB 2.0, HDMI</p></li><li><p><strong>⚖️ Peso:</strong> 1.4 kg</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo de Paquete</strong> 📦 (Color Azul)</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -54324,9 +54324,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
