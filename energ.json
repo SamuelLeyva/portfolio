@@ -32917,9 +32917,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 37,
+            "stock": 36,
             "subcontractedid": "",
-            "virtual-stock": 37,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -33244,7 +33244,7 @@
         "sales-price": 890,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Permite expandir</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 37,
+        "stock": 36,
         "stock-enabled": true,
         "tag": [
           {
