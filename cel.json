@@ -3205,7 +3205,7 @@
         "sales-price": 105,
         "short-description": "",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -3934,7 +3934,7 @@
         "sales-price": 119,
         "short-description": "",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -9066,7 +9066,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {

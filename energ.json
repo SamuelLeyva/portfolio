@@ -26928,7 +26928,7 @@
         "sales-price": 16,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C).</p><p>⚡ Carga USB rápida e inteligente de 12W.</p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga.</p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable.</p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -28132,9 +28132,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 23,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -28248,7 +28248,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 27,
+            "stock": 25,
             "subcontractedid": "",
             "virtual-stock": 25,
             "zip-code": ""
