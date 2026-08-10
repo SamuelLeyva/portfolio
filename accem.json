@@ -6446,7 +6446,7 @@
             "public": false,
             "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -6771,7 +6771,7 @@
         "sales-price": 7,
         "short-description": "<ul><li><p><strong>Tipo de Producto:</strong> Correa / Arnés de Sujeción Elástica</p></li><li><p><strong>Material Principal:</strong> Poliamida</p></li><li><p><strong>Característica:</strong> Multifuncional (4 en 1), Alta Elasticidad, Ajustable</p></li><li><p><strong>Componentes:</strong> Incluye ganchos para enganche seguro</p></li><li><p><strong>Uso Principal:</strong> Sujetar cascos de motocicleta y bicicleta eléctrica en el almacenamiento trasero</p></li><li><p><strong>Usos Adicionales:</strong> Sujeción de equipaje, herramientas, cargas ligeras en vehículos personales.</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
