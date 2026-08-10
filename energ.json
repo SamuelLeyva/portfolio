@@ -7848,7 +7848,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 15,
             "subcontractedid": "",
             "virtual-stock": 15,
             "zip-code": ""
@@ -8621,7 +8621,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 3,
+            "stock": 13,
             "subcontractedid": "",
             "virtual-stock": 13,
             "zip-code": ""
@@ -9394,7 +9394,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 15,
             "subcontractedid": "",
             "virtual-stock": 15,
             "zip-code": ""
@@ -10127,7 +10127,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 30,
             "subcontractedid": "",
             "virtual-stock": 30,
             "zip-code": ""
@@ -10900,7 +10900,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 30,
             "subcontractedid": "",
             "virtual-stock": 30,
             "zip-code": ""
@@ -11674,7 +11674,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 5,
+            "stock": 15,
             "subcontractedid": "",
             "virtual-stock": 15,
             "zip-code": ""
@@ -12451,7 +12451,7 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 15,
+            "stock": 25,
             "subcontractedid": "",
             "virtual-stock": 25,
             "zip-code": ""
@@ -51837,7 +51837,7 @@
         "sales-price": 58,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
