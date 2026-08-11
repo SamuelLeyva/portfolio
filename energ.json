@@ -23877,7 +23877,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 65,
+        "stock": 63,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -33269,7 +33269,7 @@
         "sales-price": 810,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {

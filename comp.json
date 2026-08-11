@@ -28357,9 +28357,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -28684,7 +28684,7 @@
         "sales-price": 19,
         "short-description": "<ul><li><p>Salida estable de <strong>19.5V 2.05A (40W)</strong></p></li><li><p><strong>Conector DC 4.0×1.7mm</strong>, estándar HP Mini</p></li><li><p>Compatible con <strong>HP Mini series 100, 110, 210, 310 y más</strong></p></li><li><p>Incluye <strong>adaptador + cable de corriente</strong></p></li><li><p>Disponible con enchufe <strong>US, EU, AU o UK</strong>, según el país</p></li><li><p>Fabricado con componentes de alta calidad y rendimiento seguro</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -53970,20 +53970,6 @@
           {
             "data": [
               {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
-          {
-            "data": [
-              {
                 "description": "",
                 "id": "6",
                 "name": "Original",
@@ -54187,6 +54173,20 @@
             "description": "",
             "id": "gciO5hectmJj0Na1nOsD",
             "name": "Puertos",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "id": "8",
+                "name": "Como nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
             "name_en": "",
             "originCreate": "",
             "originUpdate": ""
