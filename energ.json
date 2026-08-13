@@ -12846,7 +12846,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
@@ -26061,9 +26061,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 190,
+            "stock": 180,
             "subcontractedid": "",
-            "virtual-stock": 190,
+            "virtual-stock": 180,
             "zip-code": ""
           },
           {
@@ -30320,7 +30320,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -31223,9 +31223,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -31552,7 +31552,7 @@
         "sales-price": 1800,
         "short-description": "<ul><li><p>⚡ 3600 W de salida AC (7200 W pico) y tecnología X‑Boost hasta 4600 W: alimenta electrodomésticos de alta demanda sin esfuerzo </p></li><li><p>🔋 Batería LiFePO₄ de 3072 Wh (51.2 V, 60 Ah) no expandible: rendimiento duradero y fiable para hogar, RV, vida fuera de la red y emergencias </p></li><li><p>☀️ Entrada solar máxima de 800 W: recarga limpia y eficiente para mantenerte con energía en cualquier lugar </p></li><li><p>🛡️ UPS ultrarrápido menor a 10 ms: respaldo instantáneo que protege tus dispositivos ante cortes de energía </p></li><li><p>📱 Control por app vía Bluetooth y WiFi: monitorea y gestiona tu estación de energía desde el teléfono en tiempo real </p></li><li><p>🌡️ Opera de forma óptima entre 20 °C y 30 °C y carga entre 0 °C y 45 °C: preparada para funcionar en diversas condiciones </p></li><li><p>📐 32.7 kg y dimensiones de 626 × 328 × 395 mm: diseño robusto con certificación EMC Clase B para aplicaciones residenciales y profesionales exigentes</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
@@ -32761,6 +32761,35 @@
             "zip-code": ""
           },
           {
+            "acronym": "CUR",
+            "active": true,
+            "addres": "Centro Habana",
+            "agent-id": "",
+            "comercialname": "CUR1",
+            "country": "Cuba",
+            "createdAt": 1786569699538,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5018",
+            "idstel": "5018",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "CUR1.CUR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "EJC",
             "active": true,
             "addres": "",
@@ -32900,9 +32929,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 93,
+            "stock": 73,
             "subcontractedid": "",
-            "virtual-stock": 93,
+            "virtual-stock": 73,
             "zip-code": ""
           },
           {
@@ -33018,7 +33047,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -30,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -33194,35 +33223,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -33231,6 +33231,7 @@
           "680-false",
           "3375-false",
           "613-false",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -33245,8 +33246,7 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5018-false"
+          "1624-false"
         ],
         "productname": "EcoFlow DELTA 3 con 1024Wh, 1800W - Pico 3600W, Carga Rápida y Batería LiFePO Estación de Energía Portátil",
         "productname_en": "",
@@ -33258,7 +33258,7 @@
         "sales-price": 810,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 93,
+        "stock": 73,
         "stock-enabled": true,
         "tag": [
           {
