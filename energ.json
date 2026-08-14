@@ -30346,9 +30346,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 23,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -34530,9 +34530,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -34859,7 +34859,7 @@
         "sales-price": 2000,
         "short-description": "<ul><li><p>⚡ 3600 W de salida AC (7200 W pico) y tecnología X‑Boost hasta 4600 W: alimenta electrodomésticos de alta demanda sin esfuerzo </p></li><li><p>🔋 Batería LiFePO₄ de 3072 Wh (51.2 V, 60 Ah) no expandible: rendimiento duradero y fiable para hogar, RV, vida fuera de la red y emergencias </p></li><li><p>☀️ Entrada solar máxima de 800 W: recarga limpia y eficiente para mantenerte con energía en cualquier lugar </p></li><li><p>🛡️ UPS ultrarrápido menor a 10 ms: respaldo instantáneo que protege tus dispositivos ante cortes de energía </p></li><li><p>📱 Control por app vía Bluetooth y WiFi: monitorea y gestiona tu estación de energía desde el teléfono en tiempo real </p></li><li><p>🌡️ Opera de forma óptima entre 20 °C y 30 °C y carga entre 0 °C y 45 °C: preparada para funcionar en diversas condiciones </p></li><li><p>📐 32.7 kg y dimensiones de 626 × 328 × 395 mm: diseño robusto con certificación EMC Clase B para aplicaciones residenciales y profesionales exigentes</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
@@ -36236,9 +36236,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 70,
+            "stock": 69,
             "subcontractedid": "",
-            "virtual-stock": 70,
+            "virtual-stock": 69,
             "zip-code": ""
           },
           {
@@ -39473,6 +39473,35 @@
             "zip-code": ""
           },
           {
+            "acronym": "CUR",
+            "active": true,
+            "addres": "Centro Habana",
+            "agent-id": "",
+            "comercialname": "CUR1",
+            "country": "Cuba",
+            "createdAt": 1786569699538,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5018",
+            "idstel": "5018",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "CUR1.CUR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "EJC",
             "active": true,
             "addres": "",
@@ -39612,9 +39641,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -39906,35 +39935,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -39943,6 +39943,7 @@
           "680-false",
           "3375-false",
           "613-false",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -39957,8 +39958,7 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5018-false"
+          "1624-false"
         ],
         "productname": "EcoFlow River 3 Plus con 286Wh, 600W - Pico 1200W, Carga Rápida y Batería LiFePO Estación de Energía Portátil",
         "productname_en": "",
@@ -39970,7 +39970,7 @@
         "sales-price": 395,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 286 Wh | 600 W (Surge 1200 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora con CA.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 220 W (Rango de voltaje 11-50 V, 13 A).</p></li><li><p><strong>🔌 Salidas:</strong> Múltiples puertos CA, USB-C (100W), USB-A y CC.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 4-4.5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 858 Wh con batería adicional inteligente EcoFlow EB300 (286Wh) o EB600 (572Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión completa mediante la EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -50885,15 +50885,29 @@
     },
     {
       "_index": "products",
-      "_id": "24155941",
+      "_id": "24155937",
       "_score": null,
       "_source": {
-        "id": "24155941",
-        "idstel": "24155941",
+        "id": "24155937",
+        "idstel": "24155937",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
           {
             "data": [
               {
@@ -50908,42 +50922,28 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "u9ktUqpjtSyHE8wIgp5x"
+          "v4GnDDXnoh4OoMUwScoW"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
-            "idstel": "2374876",
+            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
+            "idstel": "2374881",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
           }
         ],
         "item-rates": [
@@ -50968,7 +50968,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.5,
+            "price": 11.5,
             "updatedAt": 1747229914346
           },
           {
@@ -50979,7 +50979,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 16,
+            "price": 14,
             "updatedAt": 1747229914346
           },
           {
@@ -51012,7 +51012,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.9,
+            "price": 13,
             "updatedAt": 1747229914347
           }
         ],
@@ -51279,9 +51279,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -51416,7 +51416,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "",
+            "location": "CAJA 2",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -51656,17 +51656,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
+        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03732",
+        "reference": "PRO03727",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -51679,7 +51679,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "private-description": "",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
@@ -56678,29 +56678,15 @@
     },
     {
       "_index": "products",
-      "_id": "24155937",
+      "_id": "24155941",
       "_score": null,
       "_source": {
-        "id": "24155937",
-        "idstel": "24155937",
+        "id": "24155941",
+        "idstel": "24155941",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
           {
             "data": [
               {
@@ -56715,28 +56701,42 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "v4GnDDXnoh4OoMUwScoW"
+          "u9ktUqpjtSyHE8wIgp5x"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 20,
+        "discount-percentage": 32,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
-            "idstel": "2374881",
+            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
+            "idstel": "2374876",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
           }
         ],
         "item-rates": [
@@ -56761,7 +56761,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 11.5,
+            "price": 9.5,
             "updatedAt": 1747229914346
           },
           {
@@ -56772,7 +56772,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 14,
+            "price": 16,
             "updatedAt": 1747229914346
           },
           {
@@ -56805,7 +56805,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 13,
+            "price": 9.9,
             "updatedAt": 1747229914347
           }
         ],
@@ -57072,9 +57072,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -57209,7 +57209,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "CAJA 2",
+            "location": "",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -57449,17 +57449,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
+        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03727",
+        "reference": "PRO03732",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -57472,7 +57472,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "",
+        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
