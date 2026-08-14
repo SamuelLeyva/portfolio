@@ -11827,7 +11827,7 @@
             "public": false,
             "stock": 25,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 25,
             "zip-code": ""
           },
           {
@@ -15165,9 +15165,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 44,
+            "stock": 43,
             "subcontractedid": "",
-            "virtual-stock": 44,
+            "virtual-stock": 43,
             "zip-code": ""
           },
           {
@@ -34161,7 +34161,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1780,
+            "price": 1980,
             "updatedAt": 1747229914346
           },
           {
@@ -34184,7 +34184,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1780
+            "price": 1980
           },
           {
             "deleted": false,
@@ -34194,7 +34194,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1780,
+            "price": 1980,
             "updatedAt": 1747229914347
           },
           {
@@ -34205,7 +34205,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1780,
+            "price": 1980,
             "updatedAt": 1747229914347
           }
         ],
@@ -34530,9 +34530,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -34856,10 +34856,10 @@
         "reference": "PRO06923",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 1800,
+        "sales-price": 2000,
         "short-description": "<ul><li><p>⚡ 3600 W de salida AC (7200 W pico) y tecnología X‑Boost hasta 4600 W: alimenta electrodomésticos de alta demanda sin esfuerzo </p></li><li><p>🔋 Batería LiFePO₄ de 3072 Wh (51.2 V, 60 Ah) no expandible: rendimiento duradero y fiable para hogar, RV, vida fuera de la red y emergencias </p></li><li><p>☀️ Entrada solar máxima de 800 W: recarga limpia y eficiente para mantenerte con energía en cualquier lugar </p></li><li><p>🛡️ UPS ultrarrápido menor a 10 ms: respaldo instantáneo que protege tus dispositivos ante cortes de energía </p></li><li><p>📱 Control por app vía Bluetooth y WiFi: monitorea y gestiona tu estación de energía desde el teléfono en tiempo real </p></li><li><p>🌡️ Opera de forma óptima entre 20 °C y 30 °C y carga entre 0 °C y 45 °C: preparada para funcionar en diversas condiciones </p></li><li><p>📐 32.7 kg y dimensiones de 626 × 328 × 395 mm: diseño robusto con certificación EMC Clase B para aplicaciones residenciales y profesionales exigentes</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
@@ -35867,7 +35867,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 750,
+            "price": 740,
             "updatedAt": 1747229914346
           },
           {
@@ -35890,7 +35890,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 790
+            "price": 740
           },
           {
             "deleted": false,
@@ -35900,7 +35900,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 790,
+            "price": 740,
             "updatedAt": 1747229914347
           },
           {
@@ -35911,7 +35911,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 790,
+            "price": 759,
             "updatedAt": 1747229914347
           }
         ],
@@ -36562,10 +36562,10 @@
         "reference": "PRO06212",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 810,
+        "sales-price": 769,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 73,
+        "stock": 70,
         "stock-enabled": true,
         "tag": [
           {
@@ -36787,7 +36787,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 685,
+            "price": 680,
             "updatedAt": 1747229914346
           },
           {
@@ -36810,7 +36810,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740
+            "price": 700
           },
           {
             "deleted": false,
@@ -36831,7 +36831,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 720,
+            "price": 689,
             "updatedAt": 1747229914347
           }
         ],
@@ -37482,7 +37482,7 @@
         "reference": "PRO06314",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 740,
+        "sales-price": 699,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3 Classic</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0-80% en 45 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W.</p></li><li><p><strong>🔌 Salidas:</strong> 3 enchufes CA, 2 USB-C (100W max + 30W max), 1 USB-A (18W max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,1 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>No</strong> expandible.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App (Wi-Fi/Bluetooth).</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
