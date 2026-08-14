@@ -10768,7 +10768,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 279,
+            "price": 289,
             "updatedAt": 1747229914346
           },
           {
@@ -10791,7 +10791,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 279
+            "price": 289
           },
           {
             "deleted": false,
@@ -10801,7 +10801,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 289,
+            "price": 299,
             "updatedAt": 1747229914347
           },
           {
@@ -10812,7 +10812,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 279,
+            "price": 289,
             "updatedAt": 1747229914347
           }
         ],
@@ -10992,9 +10992,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -11139,7 +11139,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -7,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -11463,7 +11463,7 @@
         "reference": "PRO07336",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 289,
+        "sales-price": 299,
         "short-description": "<p>🔋 Batería Humsienk LiFePO4 12V 100Ah Group 24</p><p>🏠 Ideal para sistemas compatibles de respaldo en casa ante apagones</p><p>⚡ Capacidad de 1280Wh y potencia de salida de 1280W</p><p>🔗 Configuración flexible hasta 4S4P para alcanzar 20.48kWh</p><p>🚐 Compatible con aplicaciones en RV, marina, solar, off-grid y backup power</p><p>🛡️ Protecciones por baja y alta temperatura en carga y descarga</p><p>🔁 Ciclo de vida de 6000 ciclos al 80% DOD</p><p>💧 Protección IP65 y carcasa ABS</p><p>✅ Certificada por SDS, UN38.3, FCC, CE y RoHS</p>",
         "short-description-en": "",
         "stock": 0,
@@ -11588,7 +11588,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520,
+            "price": 550,
             "updatedAt": 1747229914344
           },
           {
@@ -11601,7 +11601,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520,
+            "price": 550,
             "updatedAt": 1747229914346
           },
           {
@@ -11612,7 +11612,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520,
+            "price": 550,
             "updatedAt": 1747229914346
           },
           {
@@ -11624,7 +11624,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520
+            "price": 550
           },
           {
             "deleted": false,
@@ -11634,7 +11634,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 530,
+            "price": 559,
             "updatedAt": 1747229914347
           },
           {
@@ -11645,7 +11645,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520,
+            "price": 550,
             "updatedAt": 1747229914347
           }
         ],
@@ -11825,9 +11825,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 25,
+            "stock": 22,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 22,
             "zip-code": ""
           },
           {
@@ -11972,7 +11972,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": -6,
             "zip-code": ""
           },
           {
@@ -12296,7 +12296,7 @@
         "reference": "PRO07323",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 530,
+        "sales-price": 559,
         "short-description": "<p>🔋 Batería Humsienk Plus LiFePO4 12V 200Ah para respaldo en casa</p><p>🏠 Ideal para sistemas compatibles ante apagones y falta de energía en el hogar</p><p>⚡ Capacidad de 2560Wh para almacenamiento energético doméstico</p><p>🔌 Potencia continua de salida de 3200W para equipos compatibles</p><p>🛡️ BMS de 250A con más de 10 protecciones de seguridad</p><p>🔗 Configuración máxima 4S4P para alcanzar hasta 40.96kWh</p><p>🌡️ Operación en descarga de -4°F a 140°F / -20°C a 60°C</p><p>🔁 Vida útil de 6000+ ciclos al 80% DOD</p><p>💧 Protección IP65 y carcasa ABS resistente</p>",
         "short-description-en": "",
         "stock": 0,
@@ -14928,7 +14928,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 339,
+            "price": 650,
             "updatedAt": 1747229914344
           },
           {
@@ -14941,7 +14941,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 620,
+            "price": 650,
             "updatedAt": 1747229914346
           },
           {
@@ -14952,7 +14952,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 620,
+            "price": 650,
             "updatedAt": 1747229914346
           },
           {
@@ -14964,7 +14964,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 620
+            "price": 650
           },
           {
             "deleted": false,
@@ -14974,7 +14974,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 630,
+            "price": 650,
             "updatedAt": 1747229914347
           },
           {
@@ -14985,7 +14985,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 620,
+            "price": 650,
             "updatedAt": 1747229914347
           }
         ],
@@ -15165,9 +15165,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 43,
+            "stock": 34,
             "subcontractedid": "",
-            "virtual-stock": 43,
+            "virtual-stock": 34,
             "zip-code": ""
           },
           {
@@ -15312,7 +15312,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -33,
+            "virtual-stock": -21,
             "zip-code": ""
           },
           {
@@ -15636,7 +15636,7 @@
         "reference": "PRO07319",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 630,
+        "sales-price": 660,
         "short-description": "<p>🔋 Batería Humsienk LiFePO4 24V 100Ah para respaldo en casa</p><p>🏠 Ideal para sistemas compatibles ante apagones y cortes de energía en el hogar</p><p>⚡ Capacidad de 2560Wh / 2.56kWh para almacenamiento energético</p><p>🔗 Configuración máxima 2S4P para alcanzar hasta 19.2kWh</p><p>🚐 Compatible con aplicaciones en RVs y botes</p><p>🛡️ Protección contra sobrecorriente, sobrecarga, sobredescarga y cortocircuito</p><p>🌡️ Protecciones de temperatura alta y baja en carga y descarga</p><p>🔁 Ciclo de vida de 6000 ciclos al 80% DOD</p><p>🧱 Carcasa ABS+PC con clasificación UL94-V0</p>",
         "short-description-en": "",
         "stock": 0,
@@ -36565,7 +36565,7 @@
         "sales-price": 769,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 70,
+        "stock": 69,
         "stock-enabled": true,
         "tag": [
           {
@@ -39641,9 +39641,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
