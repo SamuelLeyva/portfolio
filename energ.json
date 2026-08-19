@@ -12669,9 +12669,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": -3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -7,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -12814,9 +12814,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -13116,12 +13116,12 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -13143,7 +13143,7 @@
         "sales-price": 270,
         "short-description": "<p>🔋 Batería Humsienk LiFePO4 12V 100Ah Grupo 24 para energía portátil y respaldo.</p><p>⚡ Capacidad de 1280Wh y potencia de salida de 1280W.</p><p>🏕️ Ideal para RVs, embarcaciones, sistemas solares, uso off-grid y respaldo eléctrico.</p><p>🔁 Configuración flexible 4S4P para alcanzar hasta 20.48kWh.</p><p>🛡️ Protección IP65 y carcasa plástica ABS resistente.</p><p>🔌 Terminal M8 para conexión segura.</p><p>✅ Certificaciones SDS, UN38.3, FCC, CE y ROHS.</p><p>📏 Tamaño compacto de 10.24 x 6.61 x 8.23 pulgadas y peso de 23.15 lb.</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -33588,9 +33588,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -5,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -33895,7 +33895,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
