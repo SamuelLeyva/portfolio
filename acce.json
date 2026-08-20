@@ -229465,16 +229465,16 @@
     },
     {
       "_index": "products",
-      "_id": "29414366",
+      "_id": "29414399",
       "_score": null,
       "_ignored": [
         "description.keyword"
       ],
       "_source": {
-        "id": "29414366",
-        "idstel": "29414366",
+        "id": "29414399",
+        "idstel": "29414399",
         "creation-date": "2024-03-28T17:48:15+0000",
-        "barcode": "TLM4057",
+        "barcode": "TLM4055",
         "buildservice": [],
         "attribute": [
           {
@@ -229510,9 +229510,9 @@
             "data": [
               {
                 "description": "",
-                "id": "10",
-                "name": "Verde",
-                "name_en": "Green"
+                "id": "1",
+                "name": "Negro",
+                "name_en": "Black"
               }
             ],
             "id": "Colour",
@@ -229538,10 +229538,16 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "eb16760b-48ef-45c2-b200-44fa414e8f00",
-            "idstel": "3250745",
+            "id": "5bfc9785-75f3-4bee-874a-8cd68624a800",
+            "idstel": "3250774",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/eb16760b-48ef-45c2-b200-44fa414e8f00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/5bfc9785-75f3-4bee-874a-8cd68624a800/public"
+          },
+          {
+            "id": "b1eaef00-f9d4-44e1-1cc3-0746ce67c000",
+            "idstel": "3208738",
+            "order": 1,
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/b1eaef00-f9d4-44e1-1cc3-0746ce67c000/public"
           }
         ],
         "item-rates": [
@@ -229877,9 +229883,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -230254,17 +230260,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Cover Samsung Galaxy S22 Plus Transparente Magsafe Tlm04 - Verde",
+        "productname": "Cover Samsung Galaxy S22 Plus Transparente Magsafe Tlm04 - Negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "CAS-SAM-S-TLM04 - 051",
+        "reference": "CAS-SAM-S-TLM04 - 049",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 6,
         "short-description": "",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -231141,16 +231147,16 @@
     },
     {
       "_index": "products",
-      "_id": "29414399",
+      "_id": "29414366",
       "_score": null,
       "_ignored": [
         "description.keyword"
       ],
       "_source": {
-        "id": "29414399",
-        "idstel": "29414399",
+        "id": "29414366",
+        "idstel": "29414366",
         "creation-date": "2024-03-28T17:48:15+0000",
-        "barcode": "TLM4055",
+        "barcode": "TLM4057",
         "buildservice": [],
         "attribute": [
           {
@@ -231186,9 +231192,9 @@
             "data": [
               {
                 "description": "",
-                "id": "1",
-                "name": "Negro",
-                "name_en": "Black"
+                "id": "10",
+                "name": "Verde",
+                "name_en": "Green"
               }
             ],
             "id": "Colour",
@@ -231214,16 +231220,10 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "5bfc9785-75f3-4bee-874a-8cd68624a800",
-            "idstel": "3250774",
+            "id": "eb16760b-48ef-45c2-b200-44fa414e8f00",
+            "idstel": "3250745",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/5bfc9785-75f3-4bee-874a-8cd68624a800/public"
-          },
-          {
-            "id": "b1eaef00-f9d4-44e1-1cc3-0746ce67c000",
-            "idstel": "3208738",
-            "order": 1,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/b1eaef00-f9d4-44e1-1cc3-0746ce67c000/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/eb16760b-48ef-45c2-b200-44fa414e8f00/public"
           }
         ],
         "item-rates": [
@@ -231559,9 +231559,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -231936,17 +231936,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Cover Samsung Galaxy S22 Plus Transparente Magsafe Tlm04 - Negro",
+        "productname": "Cover Samsung Galaxy S22 Plus Transparente Magsafe Tlm04 - Verde",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "CAS-SAM-S-TLM04 - 049",
+        "reference": "CAS-SAM-S-TLM04 - 051",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 6,
         "short-description": "",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
