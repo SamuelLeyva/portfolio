@@ -2091,9 +2091,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -2207,7 +2207,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
             "virtual-stock": 2,
             "zip-code": ""
@@ -2398,7 +2398,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -2420,7 +2420,7 @@
         "sales-price": 135,
         "short-description": "<p>Baúl trasero universal para motocicleta de 45L.</p><p>🏍️ Diseño universal para motocicletas y scooters compatibles </p><p>📦 Capacidad amplia de 45L para equipaje, herramientas o accesorios </p><p>💧 Protección contra polvo y agua para mayor seguridad en ruta </p><p>🧱 Fabricado con cuerpo de aluminio de alta resistencia </p><p>⚖️ Combina buena resistencia estructural con bajo peso </p><p>🔒 Sistema de sellado superior e inferior para mejor protección climática </p><p>🛠️ Puede requerir reubicación de direccionales o ajustes menores según el modelo </p><p>🎨 Color: Silver / Black</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
