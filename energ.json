@@ -34466,7 +34466,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -34793,7 +34793,7 @@
         "sales-price": 2000,
         "short-description": "<ul><li><p>⚡ 3600 W de salida AC (7200 W pico) y tecnología X‑Boost hasta 4600 W: alimenta electrodomésticos de alta demanda sin esfuerzo </p></li><li><p>🔋 Batería LiFePO₄ de 3072 Wh (51.2 V, 60 Ah) no expandible: rendimiento duradero y fiable para hogar, RV, vida fuera de la red y emergencias </p></li><li><p>☀️ Entrada solar máxima de 800 W: recarga limpia y eficiente para mantenerte con energía en cualquier lugar </p></li><li><p>🛡️ UPS ultrarrápido menor a 10 ms: respaldo instantáneo que protege tus dispositivos ante cortes de energía </p></li><li><p>📱 Control por app vía Bluetooth y WiFi: monitorea y gestiona tu estación de energía desde el teléfono en tiempo real </p></li><li><p>🌡️ Opera de forma óptima entre 20 °C y 30 °C y carga entre 0 °C y 45 °C: preparada para funcionar en diversas condiciones </p></li><li><p>📐 32.7 kg y dimensiones de 626 × 328 × 395 mm: diseño robusto con certificación EMC Clase B para aplicaciones residenciales y profesionales exigentes</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
