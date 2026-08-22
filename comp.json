@@ -32991,9 +32991,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 25,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -33136,9 +33136,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -33443,7 +33443,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -33465,7 +33465,7 @@
         "sales-price": 22,
         "short-description": "<ul><li><p>Potencia de salida: <strong>65W (20V / 3.25A)</strong></p></li><li><p>Compatible con dispositivos que usan <strong>45W, 15V, 9V, 5V – carga inteligente PD</strong></p></li><li><p>Conector <strong>USB Tipo-C</strong>, no compatible con puntas redondas ni micro-USB</p></li><li><p>Compatible con <strong>Lenovo ThinkPad, Yoga, Chromebook y más</strong></p></li><li><p>Entrada de voltaje universal: <strong>110–240V</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
