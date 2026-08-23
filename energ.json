@@ -32678,7 +32678,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 199,
+            "stock": 196,
             "subcontractedid": "",
             "virtual-stock": 175,
             "zip-code": ""
@@ -33007,7 +33007,7 @@
         "sales-price": 13,
         "short-description": "<ul><li><p>⚡ Protector de voltaje y corriente</p></li><li><p>🔌 110/220V, 80–300V, 1–63A</p></li><li><p>🔄 Auto-reset automático</p></li><li><p>🛡️ Ideal para equipos sensible</p></li></ul>",
         "short-description-en": "",
-        "stock": 199,
+        "stock": 196,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -34337,9 +34337,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
