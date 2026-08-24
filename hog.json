@@ -6385,7 +6385,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -6501,7 +6501,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -6712,7 +6712,7 @@
         "sales-price": 49,
         "short-description": "<ul><li><p>💧 <strong>Flujo:</strong> 1.2 GPM (4.5 L/min)</p></li><li><p>⚡ <strong>Presión:</strong> Hasta 80 PSI</p></li><li><p>🔋 <strong>Voltaje:</strong> 12V DC</p></li><li><p>🔄 <strong>Tipo:</strong> Bomba presurizadora autocebante</p></li><li><p>⚙️ <strong>Diseño:</strong> Diafragma de 2 cámaras</p></li><li><p>🔇 Operación silenciosa (~50 dB)</p></li><li><p>🔌 Conexión 3/8” estándar</p></li><li><p>🛡️ Protección contra sobrecalentamiento y sobrecarga</p></li><li><p>🚐 Ideal para RV, caravanas, riego y sistemas portátiles</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
