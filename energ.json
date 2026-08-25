@@ -14371,9 +14371,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 32,
+            "stock": 30,
             "subcontractedid": "",
-            "virtual-stock": 32,
+            "virtual-stock": 30,
             "zip-code": ""
           },
           {
@@ -35890,7 +35890,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740,
+            "price": 730,
             "updatedAt": 1747229914346
           },
           {
@@ -35913,7 +35913,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 740
+            "price": 730
           },
           {
             "deleted": false,
@@ -35934,7 +35934,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 759,
+            "price": 730,
             "updatedAt": 1747229914347
           }
         ],
@@ -36085,9 +36085,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -8,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -36114,9 +36114,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 34,
+            "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -36560,7 +36560,7 @@
           "4813-false",
           "680-false",
           "3375-false",
-          "613-true",
+          "613-false",
           "5018-true",
           "4028-false",
           "3807-false",
@@ -36585,7 +36585,7 @@
         "reference": "PRO06212",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 769,
+        "sales-price": 750,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
         "stock": 2,
@@ -36810,7 +36810,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 680,
+            "price": 670,
             "updatedAt": 1747229914346
           },
           {
@@ -36854,7 +36854,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 689,
+            "price": 670,
             "updatedAt": 1747229914347
           }
         ],
@@ -37005,9 +37005,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -30,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -30,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -37034,9 +37034,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 83,
+            "stock": 53,
             "subcontractedid": "",
-            "virtual-stock": 83,
+            "virtual-stock": 53,
             "zip-code": ""
           },
           {
@@ -37480,7 +37480,7 @@
           "4813-false",
           "680-false",
           "3375-false",
-          "613-true",
+          "613-false",
           "5018-true",
           "4028-false",
           "3807-false",
@@ -37505,7 +37505,7 @@
         "reference": "PRO06314",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 699,
+        "sales-price": 689,
         "short-description": "<ul><li><p>⚡ 1800 W de salida continua (3600 W pico) con X‑Boost™ hasta 2400 W: alimenta herramientas eléctricas y dispositivos de alto consumo sin interrupciones</p></li><li><p>🔋 Batería LFP de calidad automotriz con protección BMS 24/7 y estructura CTC: hasta 10 años de vida útil, fiable y resistente a impactos y condensación</p></li><li><p>⏱️ Carga ultrarrápida X‑Stream: 0–80 % en solo 45 minutos y carga completa en 60 minutos con AC, sin comprometer la vida de la batería</p></li><li><p>☀️ Cuatro opciones de carga: AC, solar, automóvil y combinación, para que siempre tengas energía donde la necesites🤫 Operación silenciosa de ≤30 dB a 600 W: tan silenciosa que no perturba tu descanso ni tu concentración</p></li><li><p>📱 Control inteligente con app OASIS 3.0: monitorea consumo y generación solar, programa tareas y activa el modo Storm Guard para emergencias climáticas</p></li><li><p>🎒 Compacta y portátil: diseño ligero que se adapta a cualquier entorno, ideal para camping, pesca, bricolaje y actividades al aire libre</p></li><li><p>☀️ Entrada Solar (Max): 500 W, recarga limpia y eficiente para mantenerte con energía en cualquier lugar</p></li><li><p><strong>➕</strong> No expandible, no admite baterías adicionales</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -53471,29 +53471,15 @@
     },
     {
       "_index": "products",
-      "_id": "24155937",
+      "_id": "24155941",
       "_score": null,
       "_source": {
-        "id": "24155937",
-        "idstel": "24155937",
+        "id": "24155941",
+        "idstel": "24155941",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
           {
             "data": [
               {
@@ -53508,28 +53494,42 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "v4GnDDXnoh4OoMUwScoW"
+          "u9ktUqpjtSyHE8wIgp5x"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 20,
+        "discount-percentage": 32,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
-            "idstel": "2374881",
+            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
+            "idstel": "2374876",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
           }
         ],
         "item-rates": [
@@ -53554,7 +53554,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 11.5,
+            "price": 9.5,
             "updatedAt": 1747229914346
           },
           {
@@ -53565,7 +53565,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 14,
+            "price": 16,
             "updatedAt": 1747229914346
           },
           {
@@ -53598,7 +53598,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 13,
+            "price": 9.9,
             "updatedAt": 1747229914347
           }
         ],
@@ -53865,9 +53865,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -54002,7 +54002,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "CAJA 2",
+            "location": "",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -54242,17 +54242,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
+        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03727",
+        "reference": "PRO03732",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -54265,7 +54265,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "",
+        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
@@ -59264,29 +59264,15 @@
     },
     {
       "_index": "products",
-      "_id": "24155937",
+      "_id": "24155941",
       "_score": null,
       "_source": {
-        "id": "24155937",
-        "idstel": "24155937",
+        "id": "24155941",
+        "idstel": "24155941",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
           {
             "data": [
               {
@@ -59301,28 +59287,42 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "v4GnDDXnoh4OoMUwScoW"
+          "u9ktUqpjtSyHE8wIgp5x"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 20,
+        "discount-percentage": 32,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
-            "idstel": "2374881",
+            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
+            "idstel": "2374876",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
           }
         ],
         "item-rates": [
@@ -59347,7 +59347,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 11.5,
+            "price": 9.5,
             "updatedAt": 1747229914346
           },
           {
@@ -59358,7 +59358,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 14,
+            "price": 16,
             "updatedAt": 1747229914346
           },
           {
@@ -59391,7 +59391,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 13,
+            "price": 9.9,
             "updatedAt": 1747229914347
           }
         ],
@@ -59658,9 +59658,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -59795,7 +59795,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "CAJA 2",
+            "location": "",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -60035,17 +60035,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
+        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03727",
+        "reference": "PRO03732",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -60058,7 +60058,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "",
+        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
