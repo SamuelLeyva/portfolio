@@ -7541,7 +7541,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7868,7 +7868,7 @@
         "sales-price": 279,
         "short-description": "<ul><li><p>⚡ Intel Core i3-1115G4 de 11.ª Gen a 3.0 GHz y 8 GB de RAM, multitarea ágil para oficina, clases y uso diario</p></li><li><p>💾 SSD de 256 GB: arranque veloz y espacio amplio para documentos, fotos y aplicaciones</p></li><li><p>🌈 Pantalla de 15.6\" Full HD (1920x1080), gráficos Intel UHD con imagen nítida y colores claros</p></li><li><p>📡 Conexiones completas: Wi‑Fi, Bluetooth, HDMI, USB‑C, USB 3.0, lector microSD y LAN</p></li><li><p>🔐 Lector de huellas, cámara web y micrófono integrados, Windows 10 Home preinstalado y diseño negro portátil</p></li></ul><p>Grado A (Excelente / Como nuevo / Open box): Estos productos son aquellos que están en condiciones excelentes y se asemejan prácticamente a un producto nuevo. Pueden tener algunas marcas de desgaste mínimas o imperfecciones cosméticas muy leves que no afectan su funcionamiento. Han sido probados para asegurar su perfecto funcionamiento. Son una excelente opción para aquellos que buscan un producto de alta calidad a un precio más accesible que el de un producto nuevo.</p><p></p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -21190,7 +21190,7 @@
         "sales-price": 285,
         "short-description": "<p><strong>💻 HP 14\" Plateada (14-dq6011dx)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel N150</p></li><li><p><strong>⚡ Memoria RAM:</strong> 4GB RAM</p></li><li><p><strong>💾 Almacenamiento:</strong> 128GB UFS</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" HD Micro-edge</p></li><li><p><strong>🔋 Batería:</strong> Ion-litio de 3 celdas (<strong>41 Wh</strong>). Ofrece autonomía para una jornada escolar completa (aprox. <strong>10-11 horas</strong>).</p></li><li><p><strong>🔌 Puertos:</strong> USB-C, 2x USB-A, HDMI</p></li><li><p><strong>⚖️ Peso:</strong> 1.46 kg</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {

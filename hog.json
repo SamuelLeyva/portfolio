@@ -1660,7 +1660,7 @@
         "sales-price": 50,
         "short-description": "<ul><li><p>🔋 Batería de 20000 mAh con función de power bank: hasta 60 horas de uso en nivel 1 y salida USB para cargar tus dispositivos </p></li><li><p>🌀 Oscilación automática de 90° y 45° con rotación libre: ajusta la dirección del aire según tu espacio, incluso colgado o sobre plataforma </p></li><li><p>💡 Luz LED de 3 niveles: iluminación fuerte de hasta 40 horas o modo tenue de hasta 140 horas, ideal para camping, emergencias y noches sin electricidad </p></li><li><p>📱 Control remoto con alcance de 3 m y ángulo de 120°: cambia velocidad, luz, temporizador y rotación sin levantarte </p></li><li><p>🌙 Modo sleep y temporizador programable (1H, 2H, 4H, 8H): apaga las luces indicadoras y programa el apagado para dormir sin molestias </p></li><li><p>🔌 Entrada y salida USB‑C 5V‑3A: carga completa en 9‑10 horas y compatible con múltiples dispositivos externos </p></li><li><p>🛡️ Diseño industrial anti‑golpes, firme y duradero: apto para uso rudo en exteriores, con carga y uso simultáneo desde fuentes DC 5V</p></li></ul>",
         "short-description-en": "",
-        "stock": 42,
+        "stock": 41,
         "stock-enabled": true,
         "tag": [
           {
@@ -15301,7 +15301,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -17849,9 +17849,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
