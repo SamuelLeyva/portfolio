@@ -3643,7 +3643,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -10,
+            "virtual-stock": -13,
             "zip-code": ""
           },
           {
@@ -8832,7 +8832,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
