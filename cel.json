@@ -426,7 +426,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -2546,7 +2546,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -3643,7 +3643,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -4771,7 +4771,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -20,
+            "virtual-stock": -21,
             "zip-code": ""
           },
           {
@@ -7800,7 +7800,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -112,
+            "virtual-stock": -113,
             "zip-code": ""
           },
           {
@@ -8832,7 +8832,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
