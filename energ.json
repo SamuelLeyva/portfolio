@@ -29391,7 +29391,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 110,
+            "stock": 100,
             "subcontractedid": "",
             "virtual-stock": 100,
             "zip-code": ""
@@ -33532,9 +33532,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -35398,7 +35398,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 22,
             "subcontractedid": "",
             "virtual-stock": 22,
             "zip-code": ""
@@ -39159,7 +39159,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 27,
+        "stock": 26,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -46330,7 +46330,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -46657,7 +46657,7 @@
         "sales-price": 75,
         "short-description": "<p>🚗 Inversor de Corriente 500W (Pico 2000W)</p><p><strong>El compañero ideal para viajes y dispositivos ligeros.</strong></p><ul><li><p><strong>Descripción corta:</strong></p><ul><li><p>⚡ <strong>Potencia nominal:</strong> 500W continuos.</p></li><li><p>🚀 <strong>Potencia de pico:</strong> 2000W (arranque de alta capacidad).</p></li><li><p>🔌 <strong>Entrada/Salida:</strong> DC 12V a AC 110V.</p></li><li><p>📱 <strong>Uso ideal:</strong> Laptops, smartphones, tablets, luces LED y ventiladores pequeños.</p></li><li><p>🎒 <strong>Diseño:</strong> Ultra compacto y ligero, perfecto para llevar en la guantera.</p></li></ul></li></ul><p>🛡️ <strong>Protecciones Integradas:</strong></p><ul><li><p>Alarmas contra baja/sobre voltaje (&lt;10.5V o &gt;15V) y sobrecarga ⚠️.</p></li><li><p>Protección contra cortocircuitos, sobrecalentamiento 🔥 y polaridad inversa.</p></li><li><p>Ventilador de enfriamiento automático para mantener temperatura estable ❄️.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
