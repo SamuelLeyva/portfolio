@@ -11983,7 +11983,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
@@ -12814,9 +12814,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": -2,
             "subcontractedid": "",
-            "virtual-stock": -20,
+            "virtual-stock": -22,
             "zip-code": ""
           },
           {
@@ -13121,7 +13121,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -13143,7 +13143,7 @@
         "sales-price": 270,
         "short-description": "<p>🔋 Batería Humsienk LiFePO4 12V 100Ah Grupo 24 para energía portátil y respaldo.</p><p>⚡ Capacidad de 1280Wh y potencia de salida de 1280W.</p><p>🏕️ Ideal para RVs, embarcaciones, sistemas solares, uso off-grid y respaldo eléctrico.</p><p>🔁 Configuración flexible 4S4P para alcanzar hasta 20.48kWh.</p><p>🛡️ Protección IP65 y carcasa plástica ABS resistente.</p><p>🔌 Terminal M8 para conexión segura.</p><p>✅ Certificaciones SDS, UN38.3, FCC, CE y ROHS.</p><p>📏 Tamaño compacto de 10.24 x 6.61 x 8.23 pulgadas y peso de 23.15 lb.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": -2,
         "stock-enabled": true,
         "tag": [
           {
@@ -15178,7 +15178,7 @@
             "public": false,
             "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -15323,7 +15323,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -21,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -29735,7 +29735,7 @@
         "sales-price": 19,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C). </p><p>⚡ Carga USB rápida e inteligente de 12W. </p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga. </p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable. </p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -34484,7 +34484,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -35687,7 +35687,7 @@
         "sales-price": 2000,
         "short-description": "<ul><li><p>⚡ 3600 W de salida AC (7200 W pico) y tecnología X‑Boost hasta 4600 W: alimenta electrodomésticos de alta demanda sin esfuerzo </p></li><li><p>🔋 Batería LiFePO₄ de 3072 Wh (51.2 V, 60 Ah) no expandible: rendimiento duradero y fiable para hogar, RV, vida fuera de la red y emergencias </p></li><li><p>☀️ Entrada solar máxima de 800 W: recarga limpia y eficiente para mantenerte con energía en cualquier lugar </p></li><li><p>🛡️ UPS ultrarrápido menor a 10 ms: respaldo instantáneo que protege tus dispositivos ante cortes de energía </p></li><li><p>📱 Control por app vía Bluetooth y WiFi: monitorea y gestiona tu estación de energía desde el teléfono en tiempo real </p></li><li><p>🌡️ Opera de forma óptima entre 20 °C y 30 °C y carga entre 0 °C y 45 °C: preparada para funcionar en diversas condiciones </p></li><li><p>📐 32.7 kg y dimensiones de 626 × 328 × 395 mm: diseño robusto con certificación EMC Clase B para aplicaciones residenciales y profesionales exigentes</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -41302,7 +41302,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -41629,7 +41629,7 @@
         "sales-price": 395,
         "short-description": "<p><strong>🔋 EcoFlow RIVER 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 286 Wh | 600 W (Surge 1200 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de salud.</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 0 a 100% en aproximadamente 1 hora con CA.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 220 W (Rango de voltaje 11-50 V, 13 A).</p></li><li><p><strong>🔌 Salidas:</strong> Múltiples puertos CA, USB-C (100W), USB-A y CC.</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 4-4.5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, expandible hasta 858 Wh con batería adicional inteligente EcoFlow EB300 (286Wh) o EB600 (572Wh).</p></li><li><p><strong>📱 Control Inteligente:</strong> Gestión completa mediante la EcoFlow App.</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -44187,7 +44187,7 @@
         "sales-price": 55,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [
           {
@@ -45068,7 +45068,7 @@
         "sales-price": 55,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
@@ -52229,7 +52229,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
             "virtual-stock": 1,
             "zip-code": ""
@@ -55065,15 +55065,29 @@
     },
     {
       "_index": "products",
-      "_id": "24155941",
+      "_id": "24155937",
       "_score": null,
       "_source": {
-        "id": "24155941",
-        "idstel": "24155941",
+        "id": "24155937",
+        "idstel": "24155937",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
           {
             "data": [
               {
@@ -55088,42 +55102,28 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "u9ktUqpjtSyHE8wIgp5x"
+          "v4GnDDXnoh4OoMUwScoW"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
-            "idstel": "2374876",
+            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
+            "idstel": "2374881",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
           }
         ],
         "item-rates": [
@@ -55148,7 +55148,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.5,
+            "price": 11.5,
             "updatedAt": 1747229914346
           },
           {
@@ -55159,7 +55159,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 16,
+            "price": 14,
             "updatedAt": 1747229914346
           },
           {
@@ -55192,7 +55192,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.9,
+            "price": 13,
             "updatedAt": 1747229914347
           }
         ],
@@ -55459,9 +55459,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -55596,7 +55596,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "",
+            "location": "CAJA 2",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -55836,17 +55836,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
+        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03732",
+        "reference": "PRO03727",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -55859,7 +55859,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "private-description": "",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
@@ -60858,15 +60858,29 @@
     },
     {
       "_index": "products",
-      "_id": "24155941",
+      "_id": "24155937",
       "_score": null,
       "_source": {
-        "id": "24155941",
-        "idstel": "24155941",
+        "id": "24155937",
+        "idstel": "24155937",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
           {
             "data": [
               {
@@ -60881,42 +60895,28 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "u9ktUqpjtSyHE8wIgp5x"
+          "v4GnDDXnoh4OoMUwScoW"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
-            "idstel": "2374876",
+            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
+            "idstel": "2374881",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
           }
         ],
         "item-rates": [
@@ -60941,7 +60941,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.5,
+            "price": 11.5,
             "updatedAt": 1747229914346
           },
           {
@@ -60952,7 +60952,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 16,
+            "price": 14,
             "updatedAt": 1747229914346
           },
           {
@@ -60985,7 +60985,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.9,
+            "price": 13,
             "updatedAt": 1747229914347
           }
         ],
@@ -61252,9 +61252,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -61389,7 +61389,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "",
+            "location": "CAJA 2",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -61629,17 +61629,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
+        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03732",
+        "reference": "PRO03727",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -61652,7 +61652,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "private-description": "",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
