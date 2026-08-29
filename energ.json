@@ -15176,9 +15176,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 25,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -26840,7 +26840,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -27167,7 +27167,7 @@
         "sales-price": 25,
         "short-description": "<p>Toma eléctrica Leviton industrial de 30 Amp para montaje empotrado.</p><p>• ⚡ 30 Amp para aplicaciones que requieren alta tolerancia al uso exigente • </p><p>🚐 Diseñada para uso en vehículos recreativos • </p><p>🔩 Contactos de aleación de cobre de doble presión y calibre pesado • </p><p>🧰 Incluye todo el hardware de montaje • </p><p>🧱 Compatible con cajas eléctricas sencillas o de 2 gangs • </p><p>🛡️ Resiste impacto, grietas y químicos agresivos • </p><p>✅ Certificación UL y CSA</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -38063,9 +38063,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -38392,7 +38392,7 @@
         "sales-price": 650,
         "short-description": "<ul><li><p>⚡ 1800 W de salida continua (3600 W pico) con X‑Boost™ hasta 2400 W: alimenta herramientas eléctricas y dispositivos de alto consumo sin interrupciones</p></li><li><p>🔋 Batería LFP de calidad automotriz con protección BMS 24/7 y estructura CTC: hasta 10 años de vida útil, fiable y resistente a impactos y condensación</p></li><li><p>⏱️ Carga ultrarrápida X‑Stream: 0–80 % en solo 45 minutos y carga completa en 60 minutos con AC, sin comprometer la vida de la batería</p></li><li><p>☀️ Cuatro opciones de carga: AC, solar, automóvil y combinación, para que siempre tengas energía donde la necesites🤫 Operación silenciosa de ≤30 dB a 600 W: tan silenciosa que no perturba tu descanso ni tu concentración</p></li><li><p>📱 Control inteligente con app OASIS 3.0: monitorea consumo y generación solar, programa tareas y activa el modo Storm Guard para emergencias climáticas</p></li><li><p>🎒 Compacta y portátil: diseño ligero que se adapta a cualquier entorno, ideal para camping, pesca, bricolaje y actividades al aire libre</p></li><li><p>☀️ Entrada Solar (Max): 500 W, recarga limpia y eficiente para mantenerte con energía en cualquier lugar</p></li><li><p><strong>➕</strong> No expandible, no admite baterías adicionales</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -39580,9 +39580,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 70,
+            "stock": 69,
             "subcontractedid": "",
-            "virtual-stock": 70,
+            "virtual-stock": 69,
             "zip-code": ""
           },
           {
@@ -40554,9 +40554,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
