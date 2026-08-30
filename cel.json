@@ -1013,7 +1013,7 @@
         "sales-price": 125,
         "short-description": "<ul><li><p>📱 Pantalla de 6.6\" con notch de gota y tasa de 90 Hz: visualización amplia y fluida para videos, juegos y desplazamientos sin interrupciones</p></li><li><p>📸 Cámara dual de 50 MP + 2 MP de profundidad: fotos nítidas y retratos con desenfoque realista; selfies de 5 MP con belleza AI</p></li><li><p>⚡ 14 GB de RAM totales (4 GB físicos + 10 GB dinámicos): mantén más apps abiertas sin retrasos y con experiencia fluida</p></li><li><p>💾 128 GB de almacenamiento interno: espacio de sobra para aplicaciones, fotos, videos y archivos importantes</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida de 22.5 W: mayor autonomía sin preocuparte por quedarte sin energía</p></li><li><p>🤖 Procesador octa-core: sistema rápido, inteligente y estable para el uso diario</p></li><li><p>🔐 Desbloqueo facial o por huella: acceso rápido, seguro y confiable a tu teléfono</p></li></ul>",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
@@ -9089,7 +9089,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -17,
+            "virtual-stock": -22,
             "zip-code": ""
           },
           {
