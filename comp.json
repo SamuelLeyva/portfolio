@@ -27410,7 +27410,7 @@
             "public": false,
             "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -27737,7 +27737,7 @@
         "sales-price": 19,
         "short-description": "<ul><li><p>Salida estable de <strong>19.5V 2.05A (40W)</strong></p></li><li><p><strong>Conector DC 4.0×1.7mm</strong>, estándar HP Mini</p></li><li><p>Compatible con <strong>HP Mini series 100, 110, 210, 310 y más</strong></p></li><li><p>Incluye <strong>adaptador + cable de corriente</strong></p></li><li><p>Disponible con enchufe <strong>US, EU, AU o UK</strong>, según el país</p></li><li><p>Fabricado con componentes de alta calidad y rendimiento seguro</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 5,
         "stock-enabled": true,
         "tag": [
           {
