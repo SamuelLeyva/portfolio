@@ -810,7 +810,7 @@
         "sales-price": 2.4,
         "short-description": "<ul><li><p>⚡ Alto rendimiento: pilas AAA alcalinas LR6 de 1.5 V con conductividad superior y larga duración</p></li><li><p>🔋 Consumo eficiente: reduce la pérdida de energía y mantiene la potencia estable durante más tiempo</p></li><li><p>🌱 Ecológicas y seguras: sin metales pesados tóxicos, diseñadas para un uso confiable y responsable</p></li><li><p>📦 Paquete de 4 pilas AAA: listas para usar en controles, relojes, juguetes y otros dispositivos de uso diario</p></li><li><p>⚠️ No recargables: deséchalas de forma adecuada cuando se agoten</p></li></ul>",
         "short-description-en": "",
-        "stock": 40,
+        "stock": 39,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -14373,7 +14373,7 @@
             "public": false,
             "stock": 16,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 16,
             "zip-code": ""
           },
           {
@@ -28105,7 +28105,7 @@
         "sales-price": 16,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C).</p><p>⚡ Carga USB rápida e inteligente de 12W.</p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga.</p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable.</p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31410,7 +31410,7 @@
         "sales-price": 9,
         "short-description": "<ul><li><p>⚡ MCB 32A 120/240V</p></li><li><p>🔌 2 polos, riel DIN</p></li><li><p>🛡️ Protección térmica y magnética</p></li><li><p>🌞 Ideal para sistemas solares</p><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31897,9 +31897,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 185,
+            "stock": 175,
             "subcontractedid": "",
-            "virtual-stock": 164,
+            "virtual-stock": 154,
             "zip-code": ""
           },
           {
@@ -32226,7 +32226,7 @@
         "sales-price": 13,
         "short-description": "<ul><li><p>⚡ Protector de voltaje y corriente</p></li><li><p>🔌 110/220V, 80–300V, 1–63A</p></li><li><p>🔄 Auto-reset automático</p></li><li><p>🛡️ Ideal para equipos sensible</p></li></ul>",
         "short-description-en": "",
-        "stock": 185,
+        "stock": 175,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -36184,7 +36184,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": -6,
             "zip-code": ""
           },
           {
@@ -36329,7 +36329,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -36656,7 +36656,7 @@
         "sales-price": 730,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -37113,9 +37113,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 46,
+            "stock": 45,
             "subcontractedid": "",
-            "virtual-stock": 46,
+            "virtual-stock": 45,
             "zip-code": ""
           },
           {
@@ -38922,7 +38922,7 @@
             "public": false,
             "stock": 23,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -39249,7 +39249,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 22,
+        "stock": 23,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -42643,7 +42643,7 @@
         "sales-price": 55,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 16,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {
@@ -43524,7 +43524,7 @@
         "sales-price": 55,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank.</p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar.</p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H).</p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso.</p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes.</p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 11,
         "stock-enabled": true,
         "tag": [
           {
