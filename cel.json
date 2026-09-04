@@ -1475,7 +1475,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -3,
             "zip-code": ""
           },
           {
@@ -1868,20 +1868,263 @@
       "_index": "products",
       "_id": "46806310",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "46806310",
         "idstel": "46806310",
         "creation-date": "2026-09-04T15:17:40+0000",
         "barcode": "",
         "buildservice": [],
-        "attribute": [],
+        "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535313430,
+            "data": [
+              {
+                "id": "6",
+                "name": "64 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "PBychuNQOnOw6xxrxPf2",
+            "name": "Almacenamiento",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Tecnología",
+                "name_en": "Technology"
+              }
+            ],
+            "id": "Sector",
+            "name": "Sector",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696676408175,
+            "data": [
+              {
+                "id": "8",
+                "name": "Android",
+                "name_en": "Android"
+              }
+            ],
+            "description": "",
+            "id": "qS1nZkztvJVtyMsz2IdS",
+            "name": "Sistema Operativo",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729478199652,
+            "creation-date": "2024-10-21T02:36:39.652Z",
+            "data": [
+              {
+                "id": "1",
+                "name": "Si",
+                "name_en": "Yes"
+              }
+            ],
+            "description": "",
+            "id": "juyCESAsVuLhJaLXdUS2",
+            "name": "Pantalla táctil",
+            "name_en": "Pantalla táctil",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729969053779,
+            "creation-date": "2024-10-26T18:57:33.779Z",
+            "data": [
+              {
+                "id": "7",
+                "name": "13MP",
+                "name_en": "13MP"
+              }
+            ],
+            "description": "",
+            "id": "kipYg9VxrvIhGgNcANEU",
+            "name": "Cámara Trasera",
+            "name_en": "Cámara Trasera",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "86",
+                "name": "HotWav",
+                "name_en": "HotWav"
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "HotWav",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535706749,
+            "data": [
+              {
+                "id": "18",
+                "name": "USB tipo C",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "gciO5hectmJj0Na1nOsD",
+            "name": "Puertos",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696676672522,
+            "data": [
+              {
+                "id": "5",
+                "name": "De 6.0'' a 7.0''",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "eqM0wDHfpNBMxDEiFM6J",
+            "name": "Pulgadas",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729970011574,
+            "creation-date": "2024-10-26T19:13:31.574Z",
+            "data": [
+              {
+                "id": "6",
+                "name": "4G LTE",
+                "name_en": "4G LTE"
+              },
+              {
+                "id": "3",
+                "name": "3G",
+                "name_en": "3G"
+              },
+              {
+                "id": "1",
+                "name": "2G",
+                "name_en": "2G"
+              }
+            ],
+            "description": "",
+            "id": "Ylsr7vBfZA74G62GAnxv",
+            "name": "Red",
+            "name_en": "Red",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Negro",
+                "name_en": "Black"
+              }
+            ],
+            "id": "Colour",
+            "name": "Color",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535416942,
+            "data": [
+              {
+                "id": "1",
+                "name": "Inalámbrico",
+                "name_en": ""
+              },
+              {
+                "id": "2",
+                "name": "Bluetooth",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "7kvZCFvICG8ROZNSgNm4",
+            "name": "Conectividad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535229659,
+            "data": [
+              {
+                "id": "4",
+                "name": "4 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "9y9h9dSmwhowM472H6Hw",
+            "name": "Ram",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          }
+        ],
         "category": [
           "GAAoE1sPuBll0xMHopQj",
           "844"
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>El Smartphone HOTWAV Note 17 Max está pensado para quienes buscan un equipo con una pantalla enorme, un diseño ligero y elegante, y una batería que dure más allá del día. Con su pantalla HD de 6.9 pulgadas, el procesador Unisoc T7200 de ocho núcleos, los 4 GB de RAM ampliables virtualmente hasta 12 GB y sus 64 GB de almacenamiento expandible hasta 1 TB, ofrece una experiencia completa para el entretenimiento, la fotografía y la multitarea. Su cámara Samsung ISOCELL de 13 MP, la cámara frontal de 8 MP, el desbloqueo facial y de huella, y la conectividad 4G Dual SIM lo convierten en el aliado perfecto para tu día a día.</p><p>🌈 Pantalla enorme de 6.9 pulgadas</p><ul><li><p>Expansiva pantalla HD de 6.9 pulgadas que da a tu contenido espacio para respirar, haciendo que leer, desplazarte y ver vídeos sea mucho más agradable.</p></li><li><p>Visuales brillantes y una relación de aspecto alta que te envuelven, ya sea navegando, viendo streaming o relajándote.</p></li><li><p>Una ventana más grande a tu mundo, para que cada momento cotidiano se vea mejor.</p></li></ul><p>🎨 Diseño ligero y elegante de 225 g y 8.2 mm</p><ul><li><p>El HOTWAV Note 17 Max combina un perfil delgado de solo 8.2 mm con un peso ligero de 225 g que se sienta cómodamente en la mano y se desliza fácilmente en el bolsillo.</p></li><li><p>Líneas elegantes y peso equilibrado que hacen que el uso diario se sienta natural, refinado y sin esfuerzo.</p></li><li><p>Cógelo y notarás la diferencia de inmediato.</p></li></ul><p>📸 Fotos fieles a la realidad con cámara Samsung ISOCELL de 13 MP</p><ul><li><p>Cámara trasera Samsung ISOCELL de 13 MP que captura momentos tal y como suceden, con imágenes claras, detalladas, color equilibrado y enfoque fiable.</p></li><li><p>Grabación de vídeo en 1080P que conserva la claridad y el movimiento, para que tus historias se reproduzcan con la misma viveza con la que ocurrieron.</p></li><li><p>Cámara frontal de 8 MP diseñada para la autenticidad: tonos de piel naturales y detalles limpios, para selfies honestos y relajados.</p></li><li><p>Modo Noche: da vida a la noche con escenas de poca luz llenas de detalle vibrante y luminosidad.</p></li><li><p>Modo Panorama: expande tu perspectiva capturando paisajes amplios y horizontes urbanos en un solo encuadre.</p></li><li><p>Modo Time Lapse: convierte momentos ordinarios en historias dinámicas con secuencias fluidas y aceleradas.</p></li><li><p>Modo Retrato: resalta la esencia de cada sujeto con fondos suavemente desenfocados y nitidez profesional.</p></li><li><p>Modo Pro: desbloquea tu visión creativa con control preciso sobre cada ajuste, como un fotógrafo profesional.</p></li></ul><p>⚡ Rendimiento fluido con procesador Unisoc T7200</p><ul><li><p>Procesador Unisoc T7200 de ocho núcleos que mantiene las aplicaciones receptivas, las transiciones fluidas y la multitarea fácil.</p></li><li><p>4 GB de RAM con 8 GB adicionales de expansión virtual (12 GB totales) para un rendimiento estable en el día a día.</p></li><li><p>64 GB de almacenamiento interno expandibles hasta 1 TB con tarjeta microSD: guarda más y preocúpate menos.</p></li><li><p>Android 14 con experiencia más limpia, rápida, inteligente y segura desde el primer toque.</p></li></ul><p>🔋 Batería de 5160 mAh que dura más allá del día</p><ul><li><p>Batería de 5160 mAh diseñada para mantenerse al día contigo: desde los mensajes de la mañana hasta el entretenimiento nocturno.</p></li><li><p>Autonomía fiable en la que puedes confiar, con menos pausas para cargar y más tiempo para lo que importa.</p></li><li><p>Energía que te acompaña sin interrupciones.</p></li></ul><p>🔓 Seguridad y conectividad completa</p><ul><li><p>Desbloqueo facial y sensor de huella dactilar: acceso instantáneo, rápido y seguro para que entres y sigas con tu día sin demoras.</p></li><li><p>Dual SIM 4G Nano para usar dos líneas al mismo tiempo, separando vida personal y profesional.</p></li><li><p>GPS, GLONASS, Galileo y Beidou: posicionamiento por satélite múltiple con detección de ubicación más rápida y mayor precisión.</p></li><li><p>Conector de audio de 3.5 mm: enchufa y reproduce, manteniendo tus auriculares con cable favoritos con un audio sencillo y fiable.</p></li></ul><p>🤖 Google Gemini 2.5 Flash integrado</p><ul><li><p>El HOTWAV Note 17 Max incorpora Google Gemini 2.5 Flash, un potente modelo de IA que equilibra velocidad, rendimiento e inteligencia.</p></li><li><p>Primer modelo de Google con capacidades avanzadas de razonamiento, que hace cada interacción más inteligente, clara y perspicaz.</p></li><li><p>Disfruta de respuestas y creaciones asistidas por IA directamente desde tu smartphone.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Usuarios que buscan un smartphone con una pantalla gigante de 6.9 pulgadas para ver series, jugar y navegar con total comodidad.</p></li><li><p>Personas que valoran un diseño ligero y elegante, con solo 225 g de peso y 8.2 mm de grosor.</p></li><li><p>Amantes de la fotografía que quieren versatilidad con modos Noche, Retrato, Panorama, Time Lapse y Pro.</p></li><li><p>Quienes necesitan una batería de larga duración y almacenamiento ampliable hasta 1 TB.</p></li><li><p>Cualquiera que desee un equipo moderno con Android 14, Dual SIM 4G, desbloqueo facial y de huella, y la inteligencia de Google Gemini integrada.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -1963,6 +2206,1081 @@
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
             "price": 103,
+            "updatedAt": 1747229914347
+          }
+        ],
+        "min-max": {
+          "qty-max": 0,
+          "qty-min": 0,
+          "step": 0
+        },
+        "outstanding": false,
+        "product-warehouses": [
+          {
+            "acronym": "AND",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "ANDY",
+            "country": "Estados Unidos",
+            "createdAt": 1774667717671,
+            "creator-id": "",
+            "description": "Almacen de traspaso",
+            "hidden": true,
+            "id": "116",
+            "idstel": "116",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "ANDY.AND",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "AST",
+            "active": true,
+            "addres": "Plaza",
+            "agent-id": "",
+            "comercialname": "AST1",
+            "country": "Cuba",
+            "createdAt": 1779131418055,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "4813",
+            "idstel": "4813",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Plaza",
+            "name": "AST1.AST",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "AGE",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "BRO",
+            "country": "Estados Unidos",
+            "createdAt": 1753368139137,
+            "creator-id": "",
+            "description": "Almacén de transito",
+            "hidden": true,
+            "id": "680",
+            "idstel": "680",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Tampa",
+            "name": "BRO.AGE",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "C01",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "CO0205-PUCHITEL",
+            "country": "Cuba",
+            "createdAt": 1734174942610,
+            "creator-id": "",
+            "description": "Almacén Puchitel. Consignación",
+            "hidden": true,
+            "id": "3375",
+            "idstel": "3375",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Marianao",
+            "name": "CO0205-PUCHITEL.C01",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "CUE",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "CUE1",
+            "country": "Estados Unidos",
+            "createdAt": 1786559956344,
+            "creator-id": "",
+            "description": "",
+            "hidden": true,
+            "id": "613",
+            "idstel": "613",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Cape Coral",
+            "name": "CUE1.CUE",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "CUR",
+            "active": true,
+            "addres": "Centro Habana",
+            "agent-id": "",
+            "comercialname": "CUR1",
+            "country": "Cuba",
+            "createdAt": 1786569699538,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5018",
+            "idstel": "5018",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "CUR1.CUR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "EJC",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "EJC1",
+            "country": "Estados Unidos",
+            "createdAt": 1757473206811,
+            "creator-id": "",
+            "description": "Almacén de transito",
+            "hidden": true,
+            "id": "4028",
+            "idstel": "4028",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "EJC1.EJC",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "EVZ",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "EVZ1",
+            "country": "Estados Unidos",
+            "createdAt": 1752467585787,
+            "creator-id": "",
+            "description": "Almacén de transito",
+            "hidden": true,
+            "id": "3807",
+            "idstel": "3807",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Hialeah",
+            "name": "EVZ1.EVZ",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "EXP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "EXP1",
+            "country": "Estados Unidos",
+            "createdAt": 1765313151099,
+            "creator-id": "",
+            "description": "Vía rapida",
+            "hidden": true,
+            "id": "120",
+            "idstel": "120",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "EXP1.EXP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "DUD",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "HAB0",
+            "country": "Cuba",
+            "createdAt": 1734169928092,
+            "creator-id": "",
+            "description": "ESTE ES UN ALAMCEN DE TRANSICION. SI LA ROTURA NO ESTA CONFIRMADA DEL TODO SE PONE AQUI Y LUEGO SE ANALIZA.",
+            "hidden": true,
+            "id": "2820",
+            "idstel": "2820",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": true,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Plaza",
+            "name": "HAB0.DUD",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "HAB",
+            "active": true,
+            "addres": "Plaza",
+            "agent-id": "",
+            "comercialname": "HAB1",
+            "country": "Cuba",
+            "createdAt": 1693523222617,
+            "creator-id": "",
+            "description": "Almacén principal, Vedado",
+            "hidden": false,
+            "id": "-2",
+            "idstel": "-2",
+            "isMainReservationWarehouse": true,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Plaza",
+            "name": "HAB1.HAB",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": -6,
+            "zip-code": ""
+          },
+          {
+            "acronym": "CHA",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "HAB2",
+            "country": "Cuba",
+            "createdAt": 1734169928096,
+            "creator-id": "",
+            "description": "Almacén Centro Habana",
+            "hidden": true,
+            "id": "1776",
+            "idstel": "1776",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "HAB2.CHA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "AHA",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "HAB3",
+            "country": "Cuba",
+            "createdAt": 1734169928095,
+            "creator-id": "",
+            "description": "Almacen de astrus",
+            "hidden": true,
+            "id": "2193",
+            "idstel": "2193",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Plaza",
+            "name": "HAB3.AHA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "LHA",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "HAB4",
+            "country": "Cuba",
+            "createdAt": 1734169928096,
+            "creator-id": "",
+            "description": "Almacén Lawton",
+            "hidden": true,
+            "id": "707",
+            "idstel": "707",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Diez de Octubre",
+            "name": "HAB4.LHA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "CHA",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "HAB5",
+            "country": "Cuba",
+            "createdAt": 1750475709904,
+            "creator-id": "",
+            "description": "jose ",
+            "hidden": false,
+            "id": "3866",
+            "idstel": "3866",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "HAB5.CHA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "US1",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "MIA1",
+            "country": "Estados Unidos",
+            "createdAt": 1734169928094,
+            "creator-id": "",
+            "description": "Almacén 1 usa",
+            "hidden": true,
+            "id": "611",
+            "idstel": "611",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miramar",
+            "name": "MIA1.US1",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "PDR",
+            "active": false,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "PDR1",
+            "country": "Cuba",
+            "createdAt": 1732254395594,
+            "creator-id": "",
+            "description": "Almacén Pinar del Río",
+            "hidden": true,
+            "id": "3298",
+            "idstel": "3298",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Pinar del Río",
+            "name": "PDR1.PDR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Pinar del Río",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "RIC1",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "RIC",
+            "country": "Estados Unidos",
+            "createdAt": 1778723330842,
+            "creator-id": "",
+            "description": "",
+            "hidden": true,
+            "id": "117",
+            "idstel": "117",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": true,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Miami",
+            "name": "RIC.RIC1",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Florida",
+            "public": false,
+            "stock": 20,
+            "subcontractedid": "",
+            "virtual-stock": 20,
+            "zip-code": ""
+          },
+          {
+            "acronym": "SS1",
+            "active": false,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "SSP1",
+            "country": "Cuba",
+            "createdAt": 1693523222622,
+            "creator-id": "",
+            "description": "Almacen arnolsi sacti spritus",
+            "hidden": true,
+            "id": "933",
+            "idstel": "933",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Taguasco",
+            "name": "SSP1.SS1",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Sancti Spíritus",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "SS2",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "SSP2",
+            "country": "Cuba",
+            "createdAt": 1734169928097,
+            "creator-id": "",
+            "description": "Almacén Sancti Spíritus, silvia",
+            "hidden": true,
+            "id": "862",
+            "idstel": "862",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Taguasco",
+            "name": "SSP2.SS2",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Sancti Spíritus",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "SS3",
+            "active": true,
+            "addres": "Puente de colon , calle Eduardo Chivaz (calle de la nela) # 15",
+            "agent-id": "",
+            "comercialname": "SSP3",
+            "country": "Cuba",
+            "createdAt": 1744060148748,
+            "creator-id": "",
+            "description": "Almacén SSP",
+            "hidden": true,
+            "id": "1624",
+            "idstel": "1624",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Sancti Spíritus",
+            "name": "SSP3.SS3",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "Sancti Spíritus",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          }
+        ],
+        "warehousesInStock": [
+          "116-false",
+          "4813-false",
+          "680-false",
+          "3375-false",
+          "613-false",
+          "5018-false",
+          "4028-false",
+          "3807-false",
+          "120-false",
+          "2820-false",
+          "-2-false",
+          "1776-false",
+          "2193-false",
+          "707-false",
+          "3866-false",
+          "611-false",
+          "3298-false",
+          "117-true",
+          "933-false",
+          "862-false",
+          "1624-false"
+        ],
+        "productname": "Teléfono HotWav Note 17 max, 4GB Ram, 64GB Almacenamiento, Con Cover, Mica y Audífonos - Negro",
+        "productname_en": "",
+        "promotional": false,
+        "recommended": false,
+        "reference": "PRO07752",
+        "related-product": [],
+        "sale-account": 0,
+        "sales-price": 108,
+        "short-description": "<ul><li><p>📱 Pantalla HD de 6.9\": una ventana más grande para leer, navegar, hacer streaming y disfrutar de tu contenido con visuales brillantes</p></li><li><p>📸 Cámara Samsung ISOCELL de 13 MP con grabación 1080P + selfie de 8 MP: fotos fieles a la realidad, modo Noche, Panorama, Time Lapse, Retrato y Pro</p></li><li><p>⚡ Procesador Unisoc T7200 octa‑core: rendimiento fluido y multitarea confiable para todas tus tareas diarias</p></li><li><p>💾 4 GB de RAM y 64 GB de almacenamiento: memoria flexible y espacio expandible para apps, fotos y archivos sin preocupaciones</p></li><li><p>🔋 Batería de 5160 mAh: autonomía que va más allá del día, desde la mañana hasta el entretenimiento nocturno</p></li><li><p>🔐 Desbloqueo facial y por huella: acceso rápido, seguro y sin complicaciones</p></li><li><p>📶 Dual 4G Nano SIM, GPS+GLONASS+Galileo+Beidou: posicionamiento preciso y conectividad confiable en ciudad o en campo abierto</p></li><li><p>🎧 Jack de 3.5 mm y Android 14 con Google Gemini: escucha con auriculares con cable y disfruta de una experiencia inteligente, segura y actualizada</p></li><li><p>📐 Ligero (225 g) y delgado (8.2 mm): diseño elegante y cómodo que se desliza fácilmente en tu bolsillo</p></li></ul>",
+        "short-description-en": "",
+        "stock": 0,
+        "stock-enabled": true,
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1788553687186,
+            "creation-date": "2026-09-04T20:28:07.186Z",
+            "description": "",
+            "id": "R865uj1adUrrpFKJKnoy",
+            "name": "Celulares HotWav",
+            "name_en": "Celulares HotWav",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares-hotwav"
+          },
+          {
+            "active": true,
+            "createdAt": 1752174921688,
+            "creation-date": "2025-07-10T19:15:21.687Z",
+            "description": "Celulares",
+            "id": "CM4CPnv12tBfYmclfP40",
+            "name": "Celulares",
+            "name_en": "Celulares",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares"
+          }
+        ],
+        "subcontractedid": "0",
+        "orderDate": "2026-09-04T15:17:40+0000",
+        "warranty": null,
+        "warranty-config": false,
+        "weight": null,
+        "dimensions": null,
+        "private-description-en": "",
+        "private-description": "",
+        "unit": {
+          "abbreviation": "u",
+          "description": "Producto individual",
+          "name": "Unidad"
+        },
+        "vendorID": "",
+        "ratesConfig": [
+          "12431",
+          "15287",
+          "11482",
+          "17589",
+          "11388",
+          "11399"
+        ],
+        "special-tags": {
+          "international-shipments": [],
+          "location-restrictions": [],
+          "special-products": [],
+          "store-pickup": [],
+          "warranties-info": []
+        }
+      },
+      "sort": [
+        1788535060000
+      ]
+    },
+    {
+      "_index": "products",
+      "_id": "46806299",
+      "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
+      "_source": {
+        "id": "46806299",
+        "idstel": "46806299",
+        "creation-date": "2026-09-04T15:15:59+0000",
+        "barcode": "",
+        "buildservice": [],
+        "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Tecnología",
+                "name_en": "Technology"
+              }
+            ],
+            "id": "Sector",
+            "name": "Sector",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696535313430,
+            "data": [
+              {
+                "id": "6",
+                "name": "64 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "PBychuNQOnOw6xxrxPf2",
+            "name": "Almacenamiento",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696676408175,
+            "data": [
+              {
+                "id": "8",
+                "name": "Android",
+                "name_en": "Android"
+              }
+            ],
+            "description": "",
+            "id": "qS1nZkztvJVtyMsz2IdS",
+            "name": "Sistema Operativo",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729969053779,
+            "creation-date": "2024-10-26T18:57:33.779Z",
+            "data": [
+              {
+                "id": "7",
+                "name": "13MP",
+                "name_en": "13MP"
+              }
+            ],
+            "description": "",
+            "id": "kipYg9VxrvIhGgNcANEU",
+            "name": "Cámara Trasera",
+            "name_en": "Cámara Trasera",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729478199652,
+            "creation-date": "2024-10-21T02:36:39.652Z",
+            "data": [
+              {
+                "id": "1",
+                "name": "Si",
+                "name_en": "Yes"
+              }
+            ],
+            "description": "",
+            "id": "juyCESAsVuLhJaLXdUS2",
+            "name": "Pantalla táctil",
+            "name_en": "Pantalla táctil",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729968943655,
+            "creation-date": "2024-10-26T18:55:43.655Z",
+            "data": [
+              {
+                "id": "5",
+                "name": "5MP",
+                "name_en": "5MP"
+              }
+            ],
+            "description": "",
+            "id": "1Ts4wojniDhZsUp4Cjua",
+            "name": "Cámara frontal",
+            "name_en": "Cámara frontal",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "86",
+                "name": "HotWav",
+                "name_en": "HotWav"
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "HotWav",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729970011574,
+            "creation-date": "2024-10-26T19:13:31.574Z",
+            "data": [
+              {
+                "id": "6",
+                "name": "4G LTE",
+                "name_en": "4G LTE"
+              },
+              {
+                "id": "3",
+                "name": "3G",
+                "name_en": "3G"
+              },
+              {
+                "id": "1",
+                "name": "2G",
+                "name_en": "2G"
+              }
+            ],
+            "description": "",
+            "id": "Ylsr7vBfZA74G62GAnxv",
+            "name": "Red",
+            "name_en": "Red",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535706749,
+            "data": [
+              {
+                "id": "18",
+                "name": "USB tipo C",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "gciO5hectmJj0Na1nOsD",
+            "name": "Puertos",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696676672522,
+            "data": [
+              {
+                "id": "5",
+                "name": "De 6.0'' a 7.0''",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "eqM0wDHfpNBMxDEiFM6J",
+            "name": "Pulgadas",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Negro",
+                "name_en": "Black"
+              }
+            ],
+            "id": "Colour",
+            "name": "Color",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535416942,
+            "data": [
+              {
+                "id": "1",
+                "name": "Inalámbrico",
+                "name_en": ""
+              },
+              {
+                "id": "2",
+                "name": "Bluetooth",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "7kvZCFvICG8ROZNSgNm4",
+            "name": "Conectividad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535229659,
+            "data": [
+              {
+                "id": "3",
+                "name": "3 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "9y9h9dSmwhowM472H6Hw",
+            "name": "Ram",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          }
+        ],
+        "category": [
+          "GAAoE1sPuBll0xMHopQj",
+          "844"
+        ],
+        "compatibility": [],
+        "deleted": false,
+        "description": "<p>El Smartphone HOTWAV A26 Ultra está pensado para quienes buscan estilo, rendimiento y una pantalla grande sin renunciar a un precio asequible. Con una pantalla HD de 6.75 pulgadas y tasa de refresco de 120 Hz, el procesador de ocho núcleos ASR8662 y una batería de 5160 mAh, ofrece una experiencia fluida para el entretenimiento, la multitarea y el día a día. Su cámara Samsung de 13 MP, la cámara frontal de 5 MP, el desbloqueo facial y de huella, y la conectividad Wi‑Fi 6 y Bluetooth 5.4 lo convierten en el aliado perfecto para capturar tus momentos y mantenerte siempre conectado.</p><p>🌈 Pantalla de 6.75 pulgadas con 120 Hz</p><ul><li><p>Pantalla HD de 6.75 pulgadas que abre tu mundo: las películas se sienten más envolventes, la lectura se vuelve sencilla y la multitarea finalmente tiene espacio para respirar.</p></li><li><p>Tasa de refresco de 120 Hz que responde al instante a cada deslizamiento y desplazamiento: las animaciones fluyen con naturalidad y los juegos se sienten más receptivos.</p></li><li><p>Una pantalla expansiva que convierte los momentos diarios en algo más atractivo y vivo.</p></li></ul><p>🎨 Estilo asequible y diseño moderno</p><ul><li><p>Biseles ultrafinos que maximizan la superficie de visualización, ofreciendo un aspecto moderno y elegante.</p></li><li><p>Disponible en colores Moonlight Silver, Sunset Orange y Pearl White, para que elijas el que mejor combina con tu estilo.</p></li><li><p>Un diseño que demuestra que la calidad y el precio pueden ir de la mano.</p></li></ul><p>📸 Cámara Samsung de 13 MP que captura momentos con claridad</p><ul><li><p>Cámara trasera Samsung de 13 MP que captura escenas con colores ricos y detalles nítidos, preservando el ambiente de cada momento.</p></li><li><p>Grabación de vídeo en 1080P: cada fotograma lleva profundidad, claridad y color vibrante, haciendo que tus vídeos se sientan auténticos y expresivos.</p></li><li><p>Cámara frontal de 5 MP que aporta calidez y realismo a selfies y videollamadas, con expresiones naturales y detalles claros.</p></li><li><p>Modo Noche: da vida a la noche capturando escenas con poca luz con detalle vibrante y luminosidad sin esfuerzo.</p></li><li><p>Modo Panorama: expande tu perspectiva capturando paisajes amplios y horizontes urbanos en un solo encuadre.</p></li><li><p>Modo Time Lapse: convierte momentos ordinarios en historias dinámicas con secuencias fluidas y aceleradas.</p></li><li><p>Modo Retrato: resalta la esencia de cada sujeto con fondos suavemente desenfocados y nitidez profesional.</p></li><li><p>Modo Pro: desbloquea tu visión creativa con control preciso sobre cada ajuste, como un fotógrafo profesional.</p></li></ul><p>⚡ Rendimiento potente con procesador Octa‑Core</p><ul><li><p>Procesador ASR8662 de ocho núcleos que ofrece velocidad y eficiencia constantes: las aplicaciones se abren con fluidez, la multitarea es sencilla y los sistemas de conectividad trabajan de forma inteligente.</p></li><li><p>Opciones de memoria: 3 GB de RAM física + 9 GB de RAM extendida (12 GB totales) </p></li><li><p>Almacenamiento de 64GB, ampliables hasta 1 TB con tarjeta microSD: siempre hay espacio para lo que más te importa.</p></li><li><p>Android 15 con experiencia intuitiva, segura y fluida, diseñada en torno a tus hábitos diarios.</p></li></ul><p>🔋 Batería de 5160 mAh que sigue tu ritmo</p><ul><li><p>Batería de 5160 mAh que alimenta tu día sin interrupciones: desde la mañana temprano hasta la noche.</p></li><li><p>El HOTWAV A26 Ultra se mantiene listo para el trabajo, el entretenimiento y todo lo demás, sin pausas innecesarias.</p></li><li><p>Resistencia fiable cuando más la necesitas, sin cargar constantemente.</p></li></ul><p>🔓 Seguridad y conectividad completa</p><ul><li><p>Desbloqueo facial y sensor de huella lateral: acceso rápido y fiable al momento de levantar tu teléfono.</p></li><li><p>Wi‑Fi 6 que ofrece velocidades más rápidas y conexiones más fuertes incluso en entornos concurridos.</p></li><li><p>Bluetooth 5.4 con emparejamiento más rápido, mayor estabilidad y menor consumo de energía.</p></li><li><p>GPS, GLONASS, Galileo y Beidou: seguimiento de ubicación preciso en ciudades, carreteras y zonas remotas.</p></li><li><p>Conector de audio de 3.5 mm: elige entre la libertad inalámbrica del Bluetooth o la clásica conexión con cable.</p></li></ul><p>🤖 Google Gemini 2.5 Flash integrado</p><ul><li><p>El HOTWAV A26 Ultra incorpora Google Gemini 2.5 Flash, un potente modelo de IA que equilibra velocidad, rendimiento e inteligencia.</p></li><li><p>Primer modelo de Google con capacidades avanzadas de razonamiento, que hace cada interacción más inteligente, clara y perspicaz.</p></li><li><p>Disfruta de respuestas y creaciones asistidas por IA directamente desde tu smartphone.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Usuarios que buscan un smartphone con pantalla grande y fluida de 120 Hz para ver vídeos, jugar y navegar cómodamente.</p></li><li><p>Personas que valoran un diseño moderno con biseles ultrafinos y variedad de colores.</p></li><li><p>Amantes de la fotografía que quieren versatilidad con modos Noche, Retrato, Panorama, Time Lapse y Pro.</p></li><li><p>Quienes necesitan una batería de larga duración y almacenamiento ampliable hasta 1 TB.</p></li><li><p>Cualquiera que desee un equipo moderno con Android 15, Wi‑Fi 6, Bluetooth 5.4, desbloqueo facial y de huella, y la inteligencia de Google Gemini integrada.</p></li></ul>",
+        "description_en": "",
+        "discontinued": false,
+        "discount-percentage": 0,
+        "inactive": false,
+        "isCatalog": false,
+        "onlyBougth": false,
+        "images": [
+          {
+            "id": "1392a570-86ad-4983-49e3-8063cc875300",
+            "idstel": "4627436",
+            "order": 0,
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/1392a570-86ad-4983-49e3-8063cc875300/public"
+          }
+        ],
+        "item-rates": [
+          {
+            "deleted": false,
+            "description": "Precios en USA",
+            "id": "12431",
+            "idstel": "12431",
+            "name": "B2B-USA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "price": 101,
+            "updatedAt": 1747229914344
+          },
+          {
+            "active": true,
+            "createdAt": 1714535209272,
+            "deleted": false,
+            "description": "Clientes de empresas básicos, que no realizan compras regulares en CUBA",
+            "id": "15287",
+            "idstel": "15287",
+            "name": "B2B-CUBA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "price": 88.7,
+            "updatedAt": 1747229914346
+          },
+          {
+            "deleted": false,
+            "description": "CLIENTES MAYORISTAS GRANDES en cuba",
+            "id": "11482",
+            "idstel": "11482",
+            "name": "B2B-VIP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "price": 101,
+            "updatedAt": 1747229914346
+          },
+          {
+            "createdAt": 1747229914346,
+            "deleted": false,
+            "description": "Agencias de ventas en usa",
+            "id": "17589",
+            "idstel": "17589",
+            "name": "AGENCIA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "price": 101
+          },
+          {
+            "deleted": false,
+            "description": "Encargados de agencias",
+            "id": "11388",
+            "idstel": "11388",
+            "name": "DIST.USA",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "price": 88.7,
+            "updatedAt": 1747229914347
+          },
+          {
+            "deleted": false,
+            "description": "Agentes de ventas.",
+            "id": "11399",
+            "idstel": "11399",
+            "name": "AG.VENTAS",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "price": 101,
             "updatedAt": 1747229914347
           }
         ],
@@ -2606,21 +3924,46 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Teléfono HotWav Note 17 max, 4GB Ram, 64GB Almacenamiento, Con Cover, Mica y Audífonos - Negro",
+        "productname": "Teléfono HotWav A26 ultra, 3GB Ram, 64GB Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO07752",
+        "reference": "PRO07751",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 108,
-        "short-description": "",
+        "sales-price": 106,
+        "short-description": "<ul><li><p>📱 Pantalla HD de 6.75\" con bisel ultrafino y tasa de refresco de 120 Hz: una experiencia inmersiva y fluida para películas, lectura, juegos y multitarea</p></li><li><p>📸 Cámara Samsung de 13 MP con grabación 1080P + selfie de 5 MP: captura momentos con color intenso y detalle nítido, con modos Noche, Panorama, Time Lapse, Retrato y Pro</p></li><li><p>⚡ Procesador octa‑core ASR8662: velocidad constante y eficiente, con apps que abren sin demora y multitarea sin esfuerzo</p></li><li><p>💾 3 GB de RAM y 64 de almacenamiento: memoria extendida y espacio ampliable para todas tus apps, fotos y archivos</p></li><li><p>🔋 Batería de 5160 mAh: energía confiable desde la mañana hasta la noche, sin pausas innecesarias</p></li><li><p>🔐 Desbloqueo facial y huella lateral: acceso rápido, seguro y sin interrupciones</p></li><li><p>📶 Wi‑Fi 6, Bluetooth 5.4, GPS+GLONASS+Galileo+Beidou: conexiones veloces, estables y con localización precisa en cualquier lugar</p></li><li><p>🎧 Jack de 3.5 mm y Android 15 con Google Gemini: elige entre audio inalámbrico o con cable y disfruta de una experiencia inteligente, fluida y segura</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1788553687186,
+            "creation-date": "2026-09-04T20:28:07.186Z",
+            "description": "",
+            "id": "R865uj1adUrrpFKJKnoy",
+            "name": "Celulares HotWav",
+            "name_en": "Celulares HotWav",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares-hotwav"
+          },
+          {
+            "active": true,
+            "createdAt": 1752174921688,
+            "creation-date": "2025-07-10T19:15:21.687Z",
+            "description": "Celulares",
+            "id": "CM4CPnv12tBfYmclfP40",
+            "name": "Celulares",
+            "name_en": "Celulares",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares"
+          }
+        ],
         "subcontractedid": "0",
-        "orderDate": "2026-09-04T15:17:40+0000",
+        "orderDate": "2026-09-04T15:15:59+0000",
         "warranty": null,
         "warranty-config": false,
         "weight": null,
@@ -2650,27 +3993,288 @@
         }
       },
       "sort": [
-        1788535060000
+        1788534959000
       ]
     },
     {
       "_index": "products",
-      "_id": "46806299",
+      "_id": "46806278",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
-        "id": "46806299",
-        "idstel": "46806299",
-        "creation-date": "2026-09-04T15:15:59+0000",
+        "id": "46806278",
+        "idstel": "46806278",
+        "creation-date": "2026-09-04T15:12:10+0000",
         "barcode": "",
         "buildservice": [],
-        "attribute": [],
+        "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535313430,
+            "data": [
+              {
+                "id": "7",
+                "name": "128 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "PBychuNQOnOw6xxrxPf2",
+            "name": "Almacenamiento",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Tecnología",
+                "name_en": "Technology"
+              }
+            ],
+            "id": "Sector",
+            "name": "Sector",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696676408175,
+            "data": [
+              {
+                "id": "8",
+                "name": "Android",
+                "name_en": "Android"
+              }
+            ],
+            "description": "",
+            "id": "qS1nZkztvJVtyMsz2IdS",
+            "name": "Sistema Operativo",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729969053779,
+            "creation-date": "2024-10-26T18:57:33.779Z",
+            "data": [
+              {
+                "id": "7",
+                "name": "13MP",
+                "name_en": "13MP"
+              }
+            ],
+            "description": "",
+            "id": "kipYg9VxrvIhGgNcANEU",
+            "name": "Cámara Trasera",
+            "name_en": "Cámara Trasera",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729478199652,
+            "creation-date": "2024-10-21T02:36:39.652Z",
+            "data": [
+              {
+                "id": "1",
+                "name": "Si",
+                "name_en": "Yes"
+              }
+            ],
+            "description": "",
+            "id": "juyCESAsVuLhJaLXdUS2",
+            "name": "Pantalla táctil",
+            "name_en": "Pantalla táctil",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "84",
+                "name": "Oukitel",
+                "name_en": "Oukitel"
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "HotWav",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535706749,
+            "data": [
+              {
+                "id": "18",
+                "name": "USB tipo C",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "gciO5hectmJj0Na1nOsD",
+            "name": "Puertos",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "active": true,
+            "createdAt": 1729970011574,
+            "creation-date": "2024-10-26T19:13:31.574Z",
+            "data": [
+              {
+                "id": "6",
+                "name": "4G LTE",
+                "name_en": "4G LTE"
+              },
+              {
+                "id": "3",
+                "name": "3G",
+                "name_en": "3G"
+              },
+              {
+                "id": "1",
+                "name": "2G",
+                "name_en": "2G"
+              }
+            ],
+            "description": "",
+            "id": "Ylsr7vBfZA74G62GAnxv",
+            "name": "Red",
+            "name_en": "Red",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696676672522,
+            "data": [
+              {
+                "id": "5",
+                "name": "De 6.0'' a 7.0''",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "eqM0wDHfpNBMxDEiFM6J",
+            "name": "Pulgadas",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535229659,
+            "data": [
+              {
+                "id": "4",
+                "name": "4 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "9y9h9dSmwhowM472H6Hw",
+            "name": "Ram",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535416942,
+            "data": [
+              {
+                "id": "1",
+                "name": "Inalámbrico",
+                "name_en": ""
+              },
+              {
+                "id": "2",
+                "name": "Bluetooth",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "7kvZCFvICG8ROZNSgNm4",
+            "name": "Conectividad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "1",
+                "name": "Negro",
+                "name_en": "Black"
+              }
+            ],
+            "id": "Colour",
+            "name": "Color",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729968943655,
+            "creation-date": "2024-10-26T18:55:43.655Z",
+            "data": [
+              {
+                "id": "5",
+                "name": "5MP",
+                "name_en": "5MP"
+              }
+            ],
+            "description": "",
+            "id": "1Ts4wojniDhZsUp4Cjua",
+            "name": "Cámara frontal",
+            "name_en": "Cámara frontal",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          }
+        ],
         "category": [
-          "GAAoE1sPuBll0xMHopQj",
+          "5Wx8ZlnDav6QXjCw324C",
           "844"
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>El Smartphone OUKITEL C1 está pensado para quienes buscan un equipo desbloqueado, fiable y con una gran batería para acompañarlos en su día a día. Con una pantalla HD+ de 6.52 pulgadas, un procesador Unisoc T606 de ocho núcleos, 4 GB de RAM ampliables virtualmente hasta 16 GB y 128 GB de almacenamiento interno, ofrece un rendimiento fluido para las aplicaciones cotidianas, la navegación y el entretenimiento. Su batería de 5150 mAh, la cámara principal de 13 MP y la cámara frontal de 5 MP, junto con el desbloqueo facial y la conectividad 4G Dual SIM, lo convierten en un aliado completo y versátil para cualquier situación.</p><p>📱 Pantalla HD+ de 6.52 pulgadas con notch de gota de agua</p><ul><li><p>Pantalla PLS LCD de 6.52 pulgadas con resolución HD+ (540 × 1200 píxeles) y un brillo de 450 nits que garantiza una visualización clara y vibrante incluso bajo una luz exterior intensa.</p></li><li><p>Tasa de refresco de 60 Hz que ofrece operaciones de deslizamiento suaves y una reproducción de vídeo más estable y fluida.</p></li><li><p>Perfecta para navegar por YouTube, Instagram o sumergirte en la lectura de libros electrónicos con una experiencia siempre agradable.</p></li></ul><p>⚡ Rendimiento eficiente con procesador Unisoc T606</p><ul><li><p>Procesador Unisoc T606 de ocho núcleos a 1.6 GHz con GPU Mali‑G57, que proporciona un rendimiento estable para las aplicaciones diarias, la multitarea y los juegos ligeros.</p></li><li><p>4 GB de RAM física + 12 GB de RAM extendida (16 GB totales) que permiten mantener más aplicaciones abiertas sin ralentizaciones.</p></li><li><p>128 GB de almacenamiento interno, espacio de sobra para tus fotos, vídeos, aplicaciones y archivos importantes.</p></li><li><p>Android 15 de fábrica, con interfaz moderna, segura e intuitiva.</p></li></ul><p>📸 Cámaras para capturar tus momentos</p><ul><li><p>Cámara principal de 13 MP con flash LED, ideal para tomar fotografías claras y detalladas en cualquier situación.</p></li><li><p>Cámara frontal de 5 MP para selfies naturales y videollamadas con buena definición.</p></li><li><p>Funciones de fotografía: Panorama y HDR, para ampliar tu creatividad y capturar imágenes con mayor rango dinámico.</p></li><li><p>Grabación de vídeo en alta definición para conservar tus recuerdos con claridad.</p></li></ul><p>🔋 Batería de 5150 mAh de larga duración</p><ul><li><p>Batería no extraíble de 5150 mAh que ofrece una autonomía excepcional: hasta 35 horas de llamadas continuas o 18 horas de reproducción de vídeo en HD.</p></li><li><p>Perfecta para viajes de negocios, jornadas intensivas o para capturar momentos mientras viajas sin preocuparte por el cargador.</p></li><li><p>Función OTG de carga inversa que te permite recargar dispositivos como auriculares o relojes inteligentes en momentos críticos.</p></li><li><p>Carga por cable de 10 W a través del puerto USB Tipo C 2.0.</p></li></ul><p>🔓 Seguridad y conectividad completa</p><ul><li><p>Desbloqueo facial rápido y fiable que activa el teléfono al instante al levantarlo.</p></li><li><p>Doble ranura para Nano SIM con soporte Dual Standby, para usar dos líneas al mismo tiempo.</p></li><li><p>Compatible con redes 4G LTE GSM y operadores móviles virtuales (MVNOs) como T‑Mobile, Metro PCS, Mint Mobile, Lyca Mobile, Tello Mobile, Ultra Mobile y otros.</p></li><li><p>Bluetooth 5.0 con A2DP y LE, Wi‑Fi Direct, Hotspot, GPS con posicionamiento de alta precisión, acelerómetro y sensor de proximidad.</p></li><li><p>Radio FM y conector de audio de 3.5 mm para escuchar música con auriculares clásicos.</p></li><li><p>Altavoz de alto volumen de 95 dB que ofrece llamadas claras y un sonido potente, incluso en entornos exteriores ruidosos.</p></li></ul><p>📏 Dimensiones y diseño funcional</p><ul><li><p>Medidas de 163.8 × 75.4 × 9.2 mm y un peso de 199 g, con un diseño cómodo que se adapta bien a la mano.</p></li><li><p>Disponible en color con acabado moderno y elegante.</p></li><li><p>Incluye cable Tipo C.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Usuarios que buscan un smartphone desbloqueado y compatible con la mayoría de operadores GSM de Estados Unidos.</p></li><li><p>Personas que necesitan una batería de larga duración para viajes, trabajo o uso intensivo diario.</p></li><li><p>Quienes valoran la doble SIM para separar vida personal y profesional en un solo teléfono.</p></li><li><p>Amantes de la radio FM y del conector de auriculares de 3.5 mm.</p></li><li><p>Cualquiera que desee un equipo moderno con Android 15, desbloqueo facial, cámara de 13 MP y almacenamiento amplio a un precio asequible.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -2679,10 +4283,10 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "1392a570-86ad-4983-49e3-8063cc875300",
-            "idstel": "4627436",
+            "id": "89f6931f-5908-4bfd-4a6f-0e1162ed3b00",
+            "idstel": "4627479",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/1392a570-86ad-4983-49e3-8063cc875300/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/89f6931f-5908-4bfd-4a6f-0e1162ed3b00/public"
           }
         ],
         "item-rates": [
@@ -2694,7 +4298,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 101,
+            "price": 105,
             "updatedAt": 1747229914344
           },
           {
@@ -2707,7 +4311,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 88.7,
+            "price": 93.4,
             "updatedAt": 1747229914346
           },
           {
@@ -2718,7 +4322,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 101,
+            "price": 105,
             "updatedAt": 1747229914346
           },
           {
@@ -2730,7 +4334,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 101
+            "price": 105
           },
           {
             "deleted": false,
@@ -2740,7 +4344,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 88.7,
+            "price": 93.4,
             "updatedAt": 1747229914347
           },
           {
@@ -2751,7 +4355,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 101,
+            "price": 105,
             "updatedAt": 1747229914347
           }
         ],
@@ -3078,7 +4682,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -3395,21 +4999,46 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Teléfono HotWav A26 ultra, 3GB Ram, 64GB Almacenamiento, Con Cover, Mica y Audífonos - Negro",
+        "productname": "Teléfono Oukitel C1, 4GB, 128GB Almacenamiento, Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO07751",
+        "reference": "PRO07750",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 106,
-        "short-description": "",
+        "sales-price": 110,
+        "short-description": "<ul><li><p>📱 Pantalla HD+ de 6.52\" con notch de gota y 450 nits de brillo: visuales claros y vibrantes incluso bajo luz intensa, con tasa de 60 Hz para deslizamientos suaves</p></li><li><p>📸 Cámara trasera de 13 MP con flash LED, Panorama y HDR + selfie de 5 MP: captura momentos con detalle y versatilidad en cualquier escenario</p></li><li><p>⚡ Unisoc T606 Quad‑core a 1.6 GHz con GPU Mali‑G57 y 16 GB de RAM totales (4 GB físicos + 12 GB extendidos): rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 128 GB de almacenamiento interno: espacio de sobra para apps, fotos, videos y archivos importantes</p></li><li><p>🔋 Batería de 5150 mAh no extraíble: hasta 35 horas de llamadas o 18 horas de video HD, con carga por USB‑C de 10 W y OTG para carga inversa</p></li><li><p>📶 Conectividad completa: Bluetooth 5.0, Wi‑Fi Direct y Hotspot, GPS/BEIDOU/GALILEO/GLONASS, radio FM y jack de 3.5 mm</p></li><li><p>🔊 Altavoz de 95 dB: llamadas claras y sonido potente incluso en entornos ruidosos al aire libre</p></li><li><p>📐 Dimensiones de 163.8 × 75.4 × 9.2 mm y 199 g: diseño cómodo y portátil, con Android 15 de fábrica</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1788558011359,
+            "creation-date": "2026-09-04T21:40:11.359Z",
+            "description": "",
+            "id": "4hgh1mn5lOlgoDmxQJnR",
+            "name": "Celulares Oukitel ",
+            "name_en": "Celulares Oukitel ",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares-oukitel"
+          },
+          {
+            "active": true,
+            "createdAt": 1752174921688,
+            "creation-date": "2025-07-10T19:15:21.687Z",
+            "description": "Celulares",
+            "id": "CM4CPnv12tBfYmclfP40",
+            "name": "Celulares",
+            "name_en": "Celulares",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares"
+          }
+        ],
         "subcontractedid": "0",
-        "orderDate": "2026-09-04T15:15:59+0000",
+        "orderDate": "2026-09-04T15:12:10+0000",
         "warranty": null,
         "warranty-config": false,
         "weight": null,
@@ -3439,810 +5068,7 @@
         }
       },
       "sort": [
-        1788534959000
-      ]
-    },
-    {
-      "_index": "products",
-      "_id": "46806273",
-      "_score": null,
-      "_source": {
-        "id": "46806273",
-        "idstel": "46806273",
-        "creation-date": "2026-09-04T15:10:59+0000",
-        "barcode": "",
-        "buildservice": [],
-        "attribute": [],
-        "category": [
-          "GAAoE1sPuBll0xMHopQj",
-          "844",
-          "gYSfmDRRdlCNTRSTEghm",
-          "c19iTWch7lN9EFsHIRLJ"
-        ],
-        "compatibility": [],
-        "deleted": false,
-        "description": "",
-        "description_en": "",
-        "discontinued": false,
-        "discount-percentage": 0,
-        "inactive": false,
-        "isCatalog": false,
-        "onlyBougth": false,
-        "images": [
-          {
-            "id": "d49ecfea-54d0-4f22-7845-b8ec06c8a100",
-            "idstel": "4627438",
-            "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/d49ecfea-54d0-4f22-7845-b8ec06c8a100/public"
-          },
-          {
-            "id": "87a67982-f536-45df-5952-fa24ad1ea000",
-            "idstel": "4627439",
-            "order": 1,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/87a67982-f536-45df-5952-fa24ad1ea000/public"
-          },
-          {
-            "id": "f3f787b7-137c-4260-a4cc-a76887ed2f00",
-            "idstel": "4627437",
-            "order": 2,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/f3f787b7-137c-4260-a4cc-a76887ed2f00/public"
-          }
-        ],
-        "item-rates": [
-          {
-            "deleted": false,
-            "description": "Precios en USA",
-            "id": "12431",
-            "idstel": "12431",
-            "name": "B2B-USA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 145,
-            "updatedAt": 1747229914344
-          },
-          {
-            "active": true,
-            "createdAt": 1714535209272,
-            "deleted": false,
-            "description": "Clientes de empresas básicos, que no realizan compras regulares en CUBA",
-            "id": "15287",
-            "idstel": "15287",
-            "name": "B2B-CUBA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 132.8,
-            "updatedAt": 1747229914346
-          },
-          {
-            "deleted": false,
-            "description": "CLIENTES MAYORISTAS GRANDES en cuba",
-            "id": "11482",
-            "idstel": "11482",
-            "name": "B2B-VIP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 145,
-            "updatedAt": 1747229914346
-          },
-          {
-            "createdAt": 1747229914346,
-            "deleted": false,
-            "description": "Agencias de ventas en usa",
-            "id": "17589",
-            "idstel": "17589",
-            "name": "AGENCIA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 145
-          },
-          {
-            "deleted": false,
-            "description": "Encargados de agencias",
-            "id": "11388",
-            "idstel": "11388",
-            "name": "DIST.USA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 132.8,
-            "updatedAt": 1747229914347
-          },
-          {
-            "deleted": false,
-            "description": "Agentes de ventas.",
-            "id": "11399",
-            "idstel": "11399",
-            "name": "AG.VENTAS",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 145,
-            "updatedAt": 1747229914347
-          }
-        ],
-        "min-max": {
-          "qty-max": 0,
-          "qty-min": 0,
-          "step": 0
-        },
-        "outstanding": false,
-        "product-warehouses": [
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "Estados Unidos",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": true,
-            "id": "116",
-            "idstel": "116",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "AST",
-            "active": true,
-            "addres": "Plaza",
-            "agent-id": "",
-            "comercialname": "AST1",
-            "country": "Cuba",
-            "createdAt": 1779131418055,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "4813",
-            "idstel": "4813",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "AST1.AST",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "AGE",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "BRO",
-            "country": "Estados Unidos",
-            "createdAt": 1753368139137,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "680",
-            "idstel": "680",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Tampa",
-            "name": "BRO.AGE",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "C01",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "CO0205-PUCHITEL",
-            "country": "Cuba",
-            "createdAt": 1734174942610,
-            "creator-id": "",
-            "description": "Almacén Puchitel. Consignación",
-            "hidden": true,
-            "id": "3375",
-            "idstel": "3375",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Marianao",
-            "name": "CO0205-PUCHITEL.C01",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CUE",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "CUE1",
-            "country": "Estados Unidos",
-            "createdAt": 1786559956344,
-            "creator-id": "",
-            "description": "",
-            "hidden": true,
-            "id": "613",
-            "idstel": "613",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Cape Coral",
-            "name": "CUE1.CUE",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "EJC",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "EJC1",
-            "country": "Estados Unidos",
-            "createdAt": 1757473206811,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "4028",
-            "idstel": "4028",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "EJC1.EJC",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "EVZ",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "EVZ1",
-            "country": "Estados Unidos",
-            "createdAt": 1752467585787,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "3807",
-            "idstel": "3807",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Hialeah",
-            "name": "EVZ1.EVZ",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "EXP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "EXP1",
-            "country": "Estados Unidos",
-            "createdAt": 1765313151099,
-            "creator-id": "",
-            "description": "Vía rapida",
-            "hidden": true,
-            "id": "120",
-            "idstel": "120",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "EXP1.EXP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "DUD",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB0",
-            "country": "Cuba",
-            "createdAt": 1734169928092,
-            "creator-id": "",
-            "description": "ESTE ES UN ALAMCEN DE TRANSICION. SI LA ROTURA NO ESTA CONFIRMADA DEL TODO SE PONE AQUI Y LUEGO SE ANALIZA.",
-            "hidden": true,
-            "id": "2820",
-            "idstel": "2820",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": true,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "HAB0.DUD",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "HAB",
-            "active": true,
-            "addres": "Plaza",
-            "agent-id": "",
-            "comercialname": "HAB1",
-            "country": "Cuba",
-            "createdAt": 1693523222617,
-            "creator-id": "",
-            "description": "Almacén principal, Vedado",
-            "hidden": false,
-            "id": "-2",
-            "idstel": "-2",
-            "isMainReservationWarehouse": true,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "HAB1.HAB",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": -2,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB2",
-            "country": "Cuba",
-            "createdAt": 1734169928096,
-            "creator-id": "",
-            "description": "Almacén Centro Habana",
-            "hidden": true,
-            "id": "1776",
-            "idstel": "1776",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "HAB2.CHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "AHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB3",
-            "country": "Cuba",
-            "createdAt": 1734169928095,
-            "creator-id": "",
-            "description": "Almacen de astrus",
-            "hidden": true,
-            "id": "2193",
-            "idstel": "2193",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "HAB3.AHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "LHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB4",
-            "country": "Cuba",
-            "createdAt": 1734169928096,
-            "creator-id": "",
-            "description": "Almacén Lawton",
-            "hidden": true,
-            "id": "707",
-            "idstel": "707",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Diez de Octubre",
-            "name": "HAB4.LHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB5",
-            "country": "Cuba",
-            "createdAt": 1750475709904,
-            "creator-id": "",
-            "description": "jose ",
-            "hidden": false,
-            "id": "3866",
-            "idstel": "3866",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "HAB5.CHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "US1",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "MIA1",
-            "country": "Estados Unidos",
-            "createdAt": 1734169928094,
-            "creator-id": "",
-            "description": "Almacén 1 usa",
-            "hidden": true,
-            "id": "611",
-            "idstel": "611",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miramar",
-            "name": "MIA1.US1",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "PDR",
-            "active": false,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "PDR1",
-            "country": "Cuba",
-            "createdAt": 1732254395594,
-            "creator-id": "",
-            "description": "Almacén Pinar del Río",
-            "hidden": true,
-            "id": "3298",
-            "idstel": "3298",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Pinar del Río",
-            "name": "PDR1.PDR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Pinar del Río",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "RIC1",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "RIC",
-            "country": "Estados Unidos",
-            "createdAt": 1778723330842,
-            "creator-id": "",
-            "description": "",
-            "hidden": true,
-            "id": "117",
-            "idstel": "117",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "RIC.RIC1",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 10,
-            "subcontractedid": "",
-            "virtual-stock": 10,
-            "zip-code": ""
-          },
-          {
-            "acronym": "SS1",
-            "active": false,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "SSP1",
-            "country": "Cuba",
-            "createdAt": 1693523222622,
-            "creator-id": "",
-            "description": "Almacen arnolsi sacti spritus",
-            "hidden": true,
-            "id": "933",
-            "idstel": "933",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Taguasco",
-            "name": "SSP1.SS1",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Sancti Spíritus",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "SS2",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "SSP2",
-            "country": "Cuba",
-            "createdAt": 1734169928097,
-            "creator-id": "",
-            "description": "Almacén Sancti Spíritus, silvia",
-            "hidden": true,
-            "id": "862",
-            "idstel": "862",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Taguasco",
-            "name": "SSP2.SS2",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Sancti Spíritus",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "SS3",
-            "active": true,
-            "addres": "Puente de colon , calle Eduardo Chivaz (calle de la nela) # 15",
-            "agent-id": "",
-            "comercialname": "SSP3",
-            "country": "Cuba",
-            "createdAt": 1744060148748,
-            "creator-id": "",
-            "description": "Almacén SSP",
-            "hidden": true,
-            "id": "1624",
-            "idstel": "1624",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Sancti Spíritus",
-            "name": "SSP3.SS3",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Sancti Spíritus",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          }
-        ],
-        "warehousesInStock": [
-          "116-false",
-          "4813-false",
-          "680-false",
-          "3375-false",
-          "613-false",
-          "5018-false",
-          "4028-false",
-          "3807-false",
-          "120-false",
-          "2820-false",
-          "-2-false",
-          "1776-false",
-          "2193-false",
-          "707-false",
-          "3866-false",
-          "611-false",
-          "3298-false",
-          "117-true",
-          "933-false",
-          "862-false",
-          "1624-false"
-        ],
-        "productname": "Tablet Hotwav Pad 13 Pro 10.1 Pulgadas 4GB Ram 256GB Almacenamiento Negro",
-        "productname_en": "",
-        "promotional": false,
-        "recommended": false,
-        "reference": "PRO07749",
-        "related-product": [],
-        "sale-account": 0,
-        "sales-price": 150,
-        "short-description": "",
-        "short-description-en": "",
-        "stock": 0,
-        "stock-enabled": true,
-        "tag": [],
-        "subcontractedid": "0",
-        "orderDate": "2026-09-04T15:10:59+0000",
-        "warranty": null,
-        "warranty-config": false,
-        "weight": null,
-        "dimensions": null,
-        "private-description-en": "",
-        "private-description": "",
-        "unit": {
-          "abbreviation": "u",
-          "description": "Producto individual",
-          "name": "Unidad"
-        },
-        "vendorID": "",
-        "ratesConfig": [
-          "12431",
-          "15287",
-          "11482",
-          "17589",
-          "11388",
-          "11399"
-        ],
-        "special-tags": {
-          "international-shipments": [],
-          "location-restrictions": [],
-          "special-products": [],
-          "store-pickup": [],
-          "warranties-info": []
-        }
-      },
-      "sort": [
-        1788534659000
+        1788534730000
       ]
     },
     {
@@ -7508,1099 +8334,6 @@
     },
     {
       "_index": "products",
-      "_id": "46180038",
-      "_score": null,
-      "_ignored": [
-        "short-description.keyword",
-        "description.keyword"
-      ],
-      "_source": {
-        "id": "46180038",
-        "idstel": "46180038",
-        "creation-date": "2026-07-29T23:58:26+0000",
-        "barcode": "",
-        "buildservice": [],
-        "attribute": [
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
-          {
-            "createdAt": 1696535313430,
-            "data": [
-              {
-                "id": "7",
-                "name": "128 GB",
-                "name_en": ""
-              }
-            ],
-            "description": "",
-            "id": "PBychuNQOnOw6xxrxPf2",
-            "name": "Almacenamiento",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "description": "",
-                "id": "6",
-                "name": "Original",
-                "name_en": ""
-              }
-            ],
-            "id": "Quality",
-            "name": "Calidad",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "description": "",
-                "id": "1",
-                "name": "Tecnología",
-                "name_en": "Technology"
-              }
-            ],
-            "id": "Sector",
-            "name": "Sector",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
-          {
-            "createdAt": 1696676408175,
-            "data": [
-              {
-                "id": "8",
-                "name": "Android",
-                "name_en": "Android"
-              }
-            ],
-            "description": "",
-            "id": "qS1nZkztvJVtyMsz2IdS",
-            "name": "Sistema Operativo",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "active": true,
-            "createdAt": 1729478199652,
-            "creation-date": "2024-10-21T02:36:39.652Z",
-            "data": [
-              {
-                "id": "1",
-                "name": "Si",
-                "name_en": "Yes"
-              }
-            ],
-            "description": "",
-            "id": "juyCESAsVuLhJaLXdUS2",
-            "name": "Pantalla táctil",
-            "name_en": "Pantalla táctil",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "active": true,
-            "createdAt": 1729969053779,
-            "creation-date": "2024-10-26T18:57:33.779Z",
-            "data": [
-              {
-                "id": "15",
-                "name": "50MP",
-                "name_en": "50MP"
-              }
-            ],
-            "description": "",
-            "id": "kipYg9VxrvIhGgNcANEU",
-            "name": "Cámara Trasera",
-            "name_en": "Cámara Trasera",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "active": true,
-            "createdAt": 1729968943655,
-            "creation-date": "2024-10-26T18:55:43.655Z",
-            "data": [
-              {
-                "id": "10",
-                "name": "13MP",
-                "name_en": "13MP"
-              }
-            ],
-            "description": "",
-            "id": "1Ts4wojniDhZsUp4Cjua",
-            "name": "Cámara frontal",
-            "name_en": "Cámara frontal",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "description": "",
-                "id": "29",
-                "name": "Samsung",
-                "name_en": ""
-              }
-            ],
-            "id": "Brand",
-            "name": "Marca",
-            "name_en": "Nike",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "createdAt": 1696535229659,
-            "data": [
-              {
-                "id": "4",
-                "name": "4 GB",
-                "name_en": ""
-              }
-            ],
-            "description": "",
-            "id": "9y9h9dSmwhowM472H6Hw",
-            "name": "Ram",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
-          {
-            "createdAt": 1696535706749,
-            "data": [
-              {
-                "id": "18",
-                "name": "USB tipo C",
-                "name_en": ""
-              }
-            ],
-            "description": "",
-            "id": "gciO5hectmJj0Na1nOsD",
-            "name": "Puertos",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
-          {
-            "active": true,
-            "createdAt": 1729970011574,
-            "creation-date": "2024-10-26T19:13:31.574Z",
-            "data": [
-              {
-                "id": "7",
-                "name": "5G",
-                "name_en": "5G"
-              },
-              {
-                "id": "6",
-                "name": "4G LTE",
-                "name_en": "4G LTE"
-              },
-              {
-                "id": "3",
-                "name": "3G",
-                "name_en": "3G"
-              },
-              {
-                "id": "1",
-                "name": "2G",
-                "name_en": "2G"
-              }
-            ],
-            "description": "",
-            "id": "Ylsr7vBfZA74G62GAnxv",
-            "name": "Red",
-            "name_en": "Red",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "createdAt": 1696676672522,
-            "data": [
-              {
-                "id": "5",
-                "name": "De 6.0'' a 7.0''",
-                "name_en": ""
-              }
-            ],
-            "description": "",
-            "id": "eqM0wDHfpNBMxDEiFM6J",
-            "name": "Pulgadas",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "active": true,
-            "createdAt": 1729971051863,
-            "creation-date": "2024-10-26T19:30:51.863Z",
-            "data": [
-              {
-                "id": "2",
-                "name": "No",
-                "name_en": "No"
-              }
-            ],
-            "description": "",
-            "id": "9jFM3lcFwoMp6q0H8jd5",
-            "name": "Dual Sim",
-            "name_en": "Dual Sim",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "description": "",
-                "id": "1",
-                "name": "Negro",
-                "name_en": "Black"
-              }
-            ],
-            "id": "Colour",
-            "name": "Color",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          },
-          {
-            "createdAt": 1696535416942,
-            "data": [
-              {
-                "id": "1",
-                "name": "Inalámbrico",
-                "name_en": ""
-              },
-              {
-                "id": "2",
-                "name": "Bluetooth",
-                "name_en": ""
-              },
-              {
-                "id": "3",
-                "name": "NFC",
-                "name_en": "NFC"
-              }
-            ],
-            "description": "",
-            "id": "7kvZCFvICG8ROZNSgNm4",
-            "name": "Conectividad",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": "ecommerce"
-          }
-        ],
-        "category": [
-          "8UWVawp9ynku7dWGeTmT",
-          "846",
-          "844"
-        ],
-        "compatibility": [],
-        "deleted": false,
-        "description": "<p>El Samsung Galaxy A16 5G está pensado para quienes buscan un smartphone moderno, con una pantalla vibrante, conectividad ultrarrápida y una batería que aguante todo el día sin renunciar a un diseño delgado y elegante. Su pantalla Super AMOLED FHD+ de 6.7 pulgadas con tasa de refresco de 90 Hz, el procesador de ocho núcleos a 2.4 GHz y la cámara principal de 50 MP ofrecen un rendimiento sobresaliente para el entretenimiento, los videojuegos y la fotografía. Esta versión incluye, además, cover protector, mica para pantalla y audífonos, para que tengas todo a punto sin gastos extra.</p><p>⚡ Rendimiento potente y conectividad 5G</p><ul><li><p>Procesador de ocho núcleos (hasta 2.4 GHz) que brinda la potencia necesaria para gaming, streaming y multitarea sin ralentizaciones.</p></li><li><p>4 GB de RAM que mantienen las aplicaciones abiertas y el sistema fluido, incluso con un uso exigente.</p></li><li><p>128 GB de almacenamiento interno (109.3 GB disponibles), ampliables hasta 1.5 TB con tarjeta microSD, para guardar toda tu biblioteca de fotos, vídeos y documentos.</p></li><li><p>Conectividad 5G ultrarrápida para videollamadas continuas, juegos de reacción rápida y descargas aceleradas estés donde estés.</p></li></ul><p>🌈 Pantalla Super AMOLED FHD+ de nivel superior La pantalla del Galaxy A16 5G convierte cada contenido en un espectáculo visual:</p><ul><li><p>Tecnología Super AMOLED de 6.7 pulgadas con resolución FHD+ (1080 x 2340) y 16 millones de colores, que ofrece imágenes nítidas, negros profundos y colores vibrantes.</p></li><li><p>Frecuencia de actualización de hasta 90 Hz, que garantiza deslizamientos y animaciones ultraligeras en la interfaz y en juegos compatibles.</p></li><li><p>Biseles minimizados y diseño envolvente que maximiza la experiencia inmersiva, perfecta para ver películas, series y navegar por internet.</p></li></ul><p>📸 Múltiples cámaras, múltiples posibilidades El sistema de cámaras del Galaxy A16 5G te permite capturar momentos cotidianos como un profesional:</p><ul><li><p>Cámara principal de 50 MP (F1.8) con autoenfoque, para fotos nítidas, llenas de detalle y con un rendimiento excelente en cualquier condición de luz.</p></li><li><p>Cámara ultraancha de 5 MP (F2.2), ideal para capturar paisajes amplios, reuniones familiares o arquitectura.</p></li><li><p>Cámara macro de 2 MP (F2.4) para descubrir texturas y detalles en primeros planos.</p></li><li><p>Cámara frontal de 13 MP (F2.0), perfecta para selfies claras y videollamadas con gran nitidez.</p></li><li><p>Zoom digital de hasta 10x y grabación de vídeo en Full HD (1080p) a 30 fps, con cámara lenta a 120 fps en HD.</p></li></ul><p>🔋 Batería de larga duración y carga superrápida</p><ul><li><p>Batería de 5000 mAh (típica) que te ofrece hasta 15 horas de navegación en LTE, 16 horas en Wi‑Fi, 18 horas de reproducción de vídeo y hasta 79 horas de audio con una sola carga.</p></li><li><p>Carga superrápida de 25 W (cargador de pared no incluido en la caja original, se recomienda uno compatible).</p></li><li><p>Batería no extraíble que mantiene su rendimiento durante años, para que disfrutes sin interrupciones.</p></li></ul><p>🛡️ Diseño resistente, seguro y funcional</p><ul><li><p>Clasificación IP54, que protege el dispositivo contra el polvo y las salpicaduras de agua, ideal para la vida diaria sin preocupaciones.</p></li><li><p>Perfil ultradelgado de solo 7.9 mm y peso de 200 g, que se desliza cómodamente en la mano y en el bolsillo.</p></li><li><p>Sensor de huella dactilar integrado para un desbloqueo rápido y seguro, más detección de proximidad virtual.</p></li><li><p>Samsung Knox Vault, que aísla físicamente NIP, contraseñas y datos privados para que los hackers no puedan acceder a ellos.</p></li><li><p>Conectividad completa: Wi‑Fi 802.11a/b/g/n/ac (2.4 GHz + 5 GHz), Bluetooth 5.3, NFC, GPS, Glonass, Beidou, Galileo y QZSS.</p></li><li><p>Puerto USB Tipo‑C para carga y auriculares (sin conector jack de 3.5 mm).</p></li><li><p>Diseñado para durar con hasta 6 generaciones de actualizaciones del sistema operativo y 6 años de mantenimiento de seguridad.</p></li></ul><p>🎧 Accesorios incluidos Este paquete completo te entrega:</p><ul><li><p>Cover protector para cuidar el dispositivo desde el primer día.</p></li><li><p>Mica para pantalla que evita rayones y protege el panel.</p></li><li><p>Audífonos para disfrutar de música y llamadas con comodidad.</p></li><li><p>Además, incluye cable USB‑C</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Amantes del entretenimiento que buscan una pantalla Super AMOLED grande y vibrante para ver series, películas y jugar con la máxima calidad.</p></li><li><p>Usuarios que necesitan conectividad 5G ultrarrápida para trabajar, estudiar o compartir contenido sin esperas.</p></li><li><p>Fotógrafos aficionados y creadores de contenido que valoran un sistema de cámaras versátil con sensor principal de 50 MP y ultraancho.</p></li><li><p>Personas que priorizan la seguridad y las actualizaciones a largo plazo, con Samsung Knox Vault y 6 años de soporte de software.</p></li><li><p>Quienes buscan un smartphone completo, delgado y elegante, con todos los accesorios listos desde el primer momento.</p></li></ul>",
-        "description_en": "",
-        "discontinued": false,
-        "discount-percentage": 0,
-        "inactive": false,
-        "isCatalog": false,
-        "onlyBougth": false,
-        "images": [
-          {
-            "id": "7fa13a84-694e-45bb-b7d6-5651cd9b6900",
-            "idstel": "4548868",
-            "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/7fa13a84-694e-45bb-b7d6-5651cd9b6900/public"
-          }
-        ],
-        "item-rates": [
-          {
-            "deleted": false,
-            "description": "Precios en USA",
-            "id": "12431",
-            "idstel": "12431",
-            "name": "B2B-USA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 160,
-            "updatedAt": 1747229914344
-          },
-          {
-            "active": true,
-            "createdAt": 1714535209272,
-            "deleted": false,
-            "description": "Clientes de empresas básicos, que no realizan compras regulares en CUBA",
-            "id": "15287",
-            "idstel": "15287",
-            "name": "B2B-CUBA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 144,
-            "updatedAt": 1747229914346
-          },
-          {
-            "deleted": false,
-            "description": "CLIENTES MAYORISTAS GRANDES en cuba",
-            "id": "11482",
-            "idstel": "11482",
-            "name": "B2B-VIP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 160,
-            "updatedAt": 1747229914346
-          },
-          {
-            "createdAt": 1747229914346,
-            "deleted": false,
-            "description": "Agencias de ventas en usa",
-            "id": "17589",
-            "idstel": "17589",
-            "name": "AGENCIA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 160
-          },
-          {
-            "deleted": false,
-            "description": "Encargados de agencias",
-            "id": "11388",
-            "idstel": "11388",
-            "name": "DIST.USA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 145,
-            "updatedAt": 1747229914347
-          },
-          {
-            "deleted": false,
-            "description": "Agentes de ventas.",
-            "id": "11399",
-            "idstel": "11399",
-            "name": "AG.VENTAS",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "price": 160,
-            "updatedAt": 1747229914347
-          }
-        ],
-        "min-max": {
-          "qty-max": 0,
-          "qty-min": 0,
-          "step": 0
-        },
-        "outstanding": false,
-        "product-warehouses": [
-          {
-            "acronym": "AND",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "ANDY",
-            "country": "Estados Unidos",
-            "createdAt": 1774667717671,
-            "creator-id": "",
-            "description": "Almacen de traspaso",
-            "hidden": true,
-            "id": "116",
-            "idstel": "116",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "ANDY.AND",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "AST",
-            "active": true,
-            "addres": "Plaza",
-            "agent-id": "",
-            "comercialname": "AST1",
-            "country": "Cuba",
-            "createdAt": 1779131418055,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "4813",
-            "idstel": "4813",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "AST1.AST",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "AGE",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "BRO",
-            "country": "Estados Unidos",
-            "createdAt": 1753368139137,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "680",
-            "idstel": "680",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Tampa",
-            "name": "BRO.AGE",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "C01",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "CO0205-PUCHITEL",
-            "country": "Cuba",
-            "createdAt": 1734174942610,
-            "creator-id": "",
-            "description": "Almacén Puchitel. Consignación",
-            "hidden": true,
-            "id": "3375",
-            "idstel": "3375",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Marianao",
-            "name": "CO0205-PUCHITEL.C01",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CUE",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "CUE1",
-            "country": "Estados Unidos",
-            "createdAt": 1786559956344,
-            "creator-id": "",
-            "description": "",
-            "hidden": true,
-            "id": "613",
-            "idstel": "613",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Cape Coral",
-            "name": "CUE1.CUE",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "EJC",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "EJC1",
-            "country": "Estados Unidos",
-            "createdAt": 1757473206811,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "4028",
-            "idstel": "4028",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "EJC1.EJC",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "EVZ",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "EVZ1",
-            "country": "Estados Unidos",
-            "createdAt": 1752467585787,
-            "creator-id": "",
-            "description": "Almacén de transito",
-            "hidden": true,
-            "id": "3807",
-            "idstel": "3807",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Hialeah",
-            "name": "EVZ1.EVZ",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "EXP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "EXP1",
-            "country": "Estados Unidos",
-            "createdAt": 1765313151099,
-            "creator-id": "",
-            "description": "Vía rapida",
-            "hidden": true,
-            "id": "120",
-            "idstel": "120",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "EXP1.EXP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "DUD",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB0",
-            "country": "Cuba",
-            "createdAt": 1734169928092,
-            "creator-id": "",
-            "description": "ESTE ES UN ALAMCEN DE TRANSICION. SI LA ROTURA NO ESTA CONFIRMADA DEL TODO SE PONE AQUI Y LUEGO SE ANALIZA.",
-            "hidden": true,
-            "id": "2820",
-            "idstel": "2820",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": true,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "HAB0.DUD",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 13,
-            "subcontractedid": "",
-            "virtual-stock": 13,
-            "zip-code": ""
-          },
-          {
-            "acronym": "HAB",
-            "active": true,
-            "addres": "Plaza",
-            "agent-id": "",
-            "comercialname": "HAB1",
-            "country": "Cuba",
-            "createdAt": 1693523222617,
-            "creator-id": "",
-            "description": "Almacén principal, Vedado",
-            "hidden": false,
-            "id": "-2",
-            "idstel": "-2",
-            "isMainReservationWarehouse": true,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "HAB1.HAB",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB2",
-            "country": "Cuba",
-            "createdAt": 1734169928096,
-            "creator-id": "",
-            "description": "Almacén Centro Habana",
-            "hidden": true,
-            "id": "1776",
-            "idstel": "1776",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "HAB2.CHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "AHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB3",
-            "country": "Cuba",
-            "createdAt": 1734169928095,
-            "creator-id": "",
-            "description": "Almacen de astrus",
-            "hidden": true,
-            "id": "2193",
-            "idstel": "2193",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Plaza",
-            "name": "HAB3.AHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "LHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB4",
-            "country": "Cuba",
-            "createdAt": 1734169928096,
-            "creator-id": "",
-            "description": "Almacén Lawton",
-            "hidden": true,
-            "id": "707",
-            "idstel": "707",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Diez de Octubre",
-            "name": "HAB4.LHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "CHA",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "HAB5",
-            "country": "Cuba",
-            "createdAt": 1750475709904,
-            "creator-id": "",
-            "description": "jose ",
-            "hidden": false,
-            "id": "3866",
-            "idstel": "3866",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "HAB5.CHA",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "US1",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "MIA1",
-            "country": "Estados Unidos",
-            "createdAt": 1734169928094,
-            "creator-id": "",
-            "description": "Almacén 1 usa",
-            "hidden": true,
-            "id": "611",
-            "idstel": "611",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miramar",
-            "name": "MIA1.US1",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "PDR",
-            "active": false,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "PDR1",
-            "country": "Cuba",
-            "createdAt": 1732254395594,
-            "creator-id": "",
-            "description": "Almacén Pinar del Río",
-            "hidden": true,
-            "id": "3298",
-            "idstel": "3298",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Pinar del Río",
-            "name": "PDR1.PDR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Pinar del Río",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "RIC1",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "RIC",
-            "country": "Estados Unidos",
-            "createdAt": 1778723330842,
-            "creator-id": "",
-            "description": "",
-            "hidden": true,
-            "id": "117",
-            "idstel": "117",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": true,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Miami",
-            "name": "RIC.RIC1",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Florida",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "SS1",
-            "active": false,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "SSP1",
-            "country": "Cuba",
-            "createdAt": 1693523222622,
-            "creator-id": "",
-            "description": "Almacen arnolsi sacti spritus",
-            "hidden": true,
-            "id": "933",
-            "idstel": "933",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Taguasco",
-            "name": "SSP1.SS1",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Sancti Spíritus",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "SS2",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "SSP2",
-            "country": "Cuba",
-            "createdAt": 1734169928097,
-            "creator-id": "",
-            "description": "Almacén Sancti Spíritus, silvia",
-            "hidden": true,
-            "id": "862",
-            "idstel": "862",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Taguasco",
-            "name": "SSP2.SS2",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Sancti Spíritus",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "SS3",
-            "active": true,
-            "addres": "Puente de colon , calle Eduardo Chivaz (calle de la nela) # 15",
-            "agent-id": "",
-            "comercialname": "SSP3",
-            "country": "Cuba",
-            "createdAt": 1744060148748,
-            "creator-id": "",
-            "description": "Almacén SSP",
-            "hidden": true,
-            "id": "1624",
-            "idstel": "1624",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Sancti Spíritus",
-            "name": "SSP3.SS3",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "Sancti Spíritus",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          }
-        ],
-        "warehousesInStock": [
-          "116-false",
-          "4813-false",
-          "680-false",
-          "3375-false",
-          "613-false",
-          "5018-false",
-          "4028-false",
-          "3807-false",
-          "120-false",
-          "2820-true",
-          "-2-false",
-          "1776-false",
-          "2193-false",
-          "707-false",
-          "3866-false",
-          "611-false",
-          "3298-false",
-          "117-false",
-          "933-false",
-          "862-false",
-          "1624-false"
-        ],
-        "productname": "Teléfono Samsung Galaxy A16 5G ( Una SIM ), 4Gb Ram, 128Gb Almacenamiento, Con Cover, Mica y Audífonos - Negro",
-        "productname_en": "",
-        "promotional": false,
-        "recommended": false,
-        "reference": "PRO07401",
-        "related-product": [],
-        "sale-account": 0,
-        "sales-price": 165,
-        "short-description": "<ul><li><p>📱 Pantalla LCD FHD+ de 6.7\" con frecuencia de actualización de 90 Hz: colores vibrantes y fluidez envolvente para ver tu contenido favorito</p></li><li><p>📸 Cámara principal triple de 50 MP (principal) + 5 MP (ultra gran angular) + 2 MP (macro) y cámara frontal de 13 MP: captura cada momento con gran detalle y múltiples perspectivas</p></li><li><p>⚡ Procesador octa‑core a 2.4 GHz, 4 GB de RAM y 128 GB de almacenamiento (ampliable con microSD hasta 1.5 TB): rendimiento ágil y espacio de sobra para apps, fotos y juegos</p></li><li><p>🔋 Batería de 5000 mAh con carga rápida: autonomía para todo el día, hasta 16 horas de navegación Wi‑Fi y 18 horas de reproducción de video</p></li><li><p>🛡️ Protección IP54, lector de huellas lateral y Samsung Knox Vault: diseño delgado de 7.9 mm, resistente al agua y al polvo, con seguridad reforzada para tus datos</p></li><li><p>🎧 Incluye cover, mica y audífonos</p></li></ul>",
-        "short-description-en": "",
-        "stock": 0,
-        "stock-enabled": true,
-        "tag": [
-          {
-            "active": true,
-            "createdAt": 1752174937816,
-            "creation-date": "2025-07-10T19:15:37.816Z",
-            "description": "Celulares Samsung",
-            "id": "s5mKjx3sEZ9aa9T6jesa",
-            "name": "Celulares Samsung",
-            "name_en": "Celulares Samsung",
-            "originCreate": "ecommerce",
-            "originUpdate": "ecommerce",
-            "slug": "celulares-samsung"
-          }
-        ],
-        "subcontractedid": "0",
-        "orderDate": "2026-07-29T23:58:26+0000",
-        "warranty": null,
-        "warranty-config": false,
-        "weight": null,
-        "dimensions": null,
-        "private-description-en": "",
-        "private-description": "",
-        "unit": {
-          "abbreviation": "u",
-          "description": "Producto individual",
-          "name": "Unidad"
-        },
-        "vendorID": "",
-        "ratesConfig": [
-          "12431",
-          "15287",
-          "11482",
-          "17589",
-          "11388",
-          "11399"
-        ],
-        "special-tags": {
-          "international-shipments": [],
-          "location-restrictions": [],
-          "special-products": [],
-          "store-pickup": [],
-          "warranties-info": []
-        }
-      },
-      "sort": [
-        1785369506000
-      ]
-    },
-    {
-      "_index": "products",
       "_id": "45681706",
       "_score": null,
       "_source": {
@@ -9024,7 +8757,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -13865,7 +13598,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -9,
             "zip-code": ""
           },
           {
@@ -14993,7 +14726,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": -8,
             "zip-code": ""
           },
           {
@@ -16064,7 +15797,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": -8,
             "zip-code": ""
           },
           {
@@ -18018,7 +17751,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": -11,
             "zip-code": ""
           },
           {
@@ -18422,17 +18155,16 @@
     },
     {
       "_index": "products",
-      "_id": "31470512",
+      "_id": "32512664",
       "_score": null,
       "_ignored": [
-        "short-description.keyword",
         "description.keyword"
       ],
       "_source": {
-        "id": "31470512",
-        "idstel": "31470512",
-        "creation-date": "2024-07-29T18:52:29+0000",
-        "barcode": "",
+        "id": "32512664",
+        "idstel": "32512664",
+        "creation-date": "2024-10-08T16:02:36+0000",
+        "barcode": "6941812798157",
         "buildservice": [],
         "attribute": [
           {
@@ -18448,6 +18180,22 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": ""
+          },
+          {
+            "createdAt": 1696535313430,
+            "data": [
+              {
+                "id": "7",
+                "name": "128 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "PBychuNQOnOw6xxrxPf2",
+            "name": "Almacenamiento",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
           },
           {
             "createdAt": 1696676408175,
@@ -18466,6 +18214,109 @@
             "originUpdate": "ecommerce"
           },
           {
+            "active": true,
+            "createdAt": 1729968943655,
+            "creation-date": "2024-10-26T18:55:43.655Z",
+            "data": [
+              {
+                "id": "10",
+                "name": "13MP",
+                "name_en": "13MP"
+              }
+            ],
+            "description": "",
+            "id": "1Ts4wojniDhZsUp4Cjua",
+            "name": "Cámara frontal",
+            "name_en": "Cámara frontal",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729969053779,
+            "creation-date": "2024-10-26T18:57:33.779Z",
+            "data": [
+              {
+                "id": "15",
+                "name": "50MP",
+                "name_en": "50MP"
+              }
+            ],
+            "description": "",
+            "id": "kipYg9VxrvIhGgNcANEU",
+            "name": "Cámara Trasera",
+            "name_en": "Cámara Trasera",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729971231241,
+            "creation-date": "2024-10-26T19:33:51.241Z",
+            "data": [
+              {
+                "id": "3",
+                "name": "MediaTek",
+                "name_en": "MediaTek"
+              }
+            ],
+            "description": "",
+            "id": "UheNQWBRmx1WlgrFmB6q",
+            "name": "CPU",
+            "name_en": "CPU",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "31",
+                "name": "Xiaomi",
+                "name_en": ""
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "Choetech ",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535229659,
+            "data": [
+              {
+                "id": "4",
+                "name": "4 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "9y9h9dSmwhowM472H6Hw",
+            "name": "Ram",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "active": true,
+            "createdAt": 1729971051863,
+            "creation-date": "2024-10-26T19:30:51.863Z",
+            "data": [
+              {
+                "id": "1",
+                "name": "Si",
+                "name_en": "Yes"
+              }
+            ],
+            "description": "",
+            "id": "9jFM3lcFwoMp6q0H8jd5",
+            "name": "Dual Sim",
+            "name_en": "Dual Sim",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
             "data": [
               {
                 "description": "",
@@ -18481,17 +18332,16 @@
             "originUpdate": "ecommerce"
           },
           {
-            "createdAt": 1696535313430,
             "data": [
               {
-                "id": "5",
-                "name": "32 GB",
+                "description": "",
+                "id": "6",
+                "name": "Original",
                 "name_en": ""
               }
             ],
-            "description": "",
-            "id": "PBychuNQOnOw6xxrxPf2",
-            "name": "Almacenamiento",
+            "id": "Quality",
+            "name": "Calidad",
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
@@ -18510,55 +18360,34 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": ""
-          },
-          {
-            "createdAt": 1696535229659,
-            "data": [
-              {
-                "id": "1",
-                "name": "1 GB",
-                "name_en": ""
-              }
-            ],
-            "description": "",
-            "id": "9y9h9dSmwhowM472H6Hw",
-            "name": "Ram",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "844",
-          "82koNUbxjMLyPJCbPwX5"
+          "Zm98KN5Qu9TpXWA4dHTT",
+          "845"
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "<p>El <strong>BLU Studio X5 (S0610WW)</strong> es un dispositivo completamente nuevo, en su empaque original y sin uso previo. Sin embargo, <strong>presenta dos condiciones técnicas</strong> que requieren intervención para su correcto funcionamiento:</p>\n<p>✔ <strong>Nuevo y en caja sellada</strong> 📦<br>\n✔ <strong>Nunca ha sido activado ni configurado</strong><br>\n⚠ <strong>No muestra opciones de APN</strong>, lo que impide la configuración manual de datos móviles en algunas operadoras. Este problema <strong>es 100% solucionable con trabajo técnico</strong>.<br>\n⚠ <strong>Requiere desbloqueo de MDM (Mobile Device Management)</strong> para su uso sin restricciones. Este proceso <strong>también es 100% solucionable con intervención técnica</strong>.</p>\n<p>💡 <strong>Recomendado para técnicos o personas con conocimientos en desbloqueo de dispositivos.</strong></p>\n<p>📦 <strong>Incluye:</strong> Caja original con todos sus accesorios de fábrica.</p>\n<p>⚠ <strong>Importante:</strong><br>\n✅ <strong>El equipo se vende tal como está</strong>, con las condiciones descritas.<br>\n🚫 <strong>No se ofrece garantía ni se aceptan devoluciones una vez entregado.</strong></p>",
+        "description": "<ul><li><p>🖥️ <strong>Pantalla Inmersiva 6.88\" 120Hz</strong>: Fluidez extrema con tasa de refresco de 120Hz y 600 nits de brillo para una visualización cómoda y vibrante.</p></li><li><p>⚡ <strong>Potencia Helio G81</strong>: Procesador octa-core de 2.0GHz y 8GB de RAM para un rendimiento ágil en multitarea y juegos.</p></li><li><p>📸 <strong>Cámara Principal de 50MP</strong>: Fotografía nítida y llena de detalle con modo nocturno, retrato y grabación en 1080p.</p></li><li><p>🔋 <strong>Batería de Larga Duración 5160mAh</strong>: Energía para más de un día de uso intensivo, con soporte de carga rápida de 18W incluida.</p></li><li><p>💾 <strong>Almacenamiento Masivo 128GB</strong>: Amplio espacio para todas tus apps, fotos y videos, expandible aún más.</p></li><li><p>🔒 <strong>Seguridad Integral</strong>: Desbloqueo rápido y seguro con sensor de huella dactilar trasero y reconocimiento facial AI.</p></li><li><p>🎧 <strong>Conector para Auriculares 3.5mm</strong>: Disfruta de tu audio favorito sin necesidad de adaptadores.</p></li><li><p>🌐 <strong>Global Unlocked &amp; Dual SIM</strong>: Compatible con redes 4G/3G/2G en múltiples países.</p></li><li><p>📡 <strong>Conectividad Completa</strong>: GPS multifrecuencia, Bluetooth, y puerto USB Tipo-C para una conexión versátil.</p></li><li><p></p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 20,
+        "discount-percentage": 0,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "9ff4a06f-7fb4-4452-3504-a33163d38700",
-            "idstel": "3091123",
+            "id": "f28522fb-a827-46b6-b87a-15772a000800",
+            "idstel": "3787242",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/9ff4a06f-7fb4-4452-3504-a33163d38700/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/f28522fb-a827-46b6-b87a-15772a000800/public"
           },
           {
-            "id": "5a2beb81-dc9e-4d60-4fac-13acd66add00",
-            "idstel": "3091122",
+            "id": "ef5064ae-ba95-4732-750c-2d070d5ec100",
+            "idstel": "3206886",
             "order": 1,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/5a2beb81-dc9e-4d60-4fac-13acd66add00/public"
-          },
-          {
-            "id": "653488bb-9756-48dd-decb-b797649b0100",
-            "idstel": "3091124",
-            "order": 2,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/653488bb-9756-48dd-decb-b797649b0100/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/ef5064ae-ba95-4732-750c-2d070d5ec100/public"
           }
         ],
         "item-rates": [
@@ -18570,7 +18399,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 64,
+            "price": 143,
             "updatedAt": 1747229914344
           },
           {
@@ -18583,7 +18412,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 45,
+            "price": 128.8,
             "updatedAt": 1747229914346
           },
           {
@@ -18594,7 +18423,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 64,
+            "price": 143,
             "updatedAt": 1747229914346
           },
           {
@@ -18606,7 +18435,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 45
+            "price": 143
           },
           {
             "deleted": false,
@@ -18616,7 +18445,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 44,
+            "price": 128.8,
             "updatedAt": 1747229914347
           },
           {
@@ -18627,7 +18456,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 50,
+            "price": 143,
             "updatedAt": 1747229914347
           }
         ],
@@ -18923,9 +18752,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -18952,9 +18781,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -19258,7 +19087,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-true",
+          "2820-false",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -19271,26 +19100,36 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Teléfono BLU Studio X5 (S0610WW) 1GB RAM, 32GB Almacenamiento, Requiere Trabajo Técnico, Sin Garantía ni Devoluciones",
+        "productname": "Teléfono Xiaomi Redmi 14C, 4GB + 4GB Ram, 128GB Almacenamiento. (2409BRN2CL), Con Cover, Mica y Audífonos - Negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO04528",
+        "reference": "PRO04819",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 64,
-        "short-description": "<p>📱 <strong>Estado:</strong> <strong>Nuevo en caja, sin uso</strong><br>\n ⚠ &nbsp;<strong>Condiciones del producto:</strong><br>\n🔓 <strong>Requiere desbloqueo de MDM</strong><br>\n📶 <strong>No muestra opciones de APN</strong> (requiere configuración técnica)<br>\n🚫 <strong>Sin garantía ni devoluciones una vez entregado</strong></p>",
+        "sales-price": 148,
+        "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 2,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "createdAt": 1702034367379,
+            "description": "Móvil Xiaomi",
+            "id": "xUXOECOLS3RExVIncNmp",
+            "name": "Móvil Xiaomi",
+            "name_en": "Móvil Xiaomi",
+            "originCreate": "ecommerce",
+            "slug": "móvil-xiaomi"
+          }
+        ],
         "subcontractedid": "0",
-        "orderDate": "2024-07-29T18:52:29+0000",
+        "orderDate": "2024-10-08T16:02:36+0000",
         "warranty": {
-          "unit": "",
-          "value": 0
+          "unit": "D",
+          "value": 30
         },
-        "warranty-config": false,
+        "warranty-config": true,
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
@@ -19301,7 +19140,14 @@
           "name": "Unidad"
         },
         "vendorID": "",
-        "ratesConfig": [],
+        "ratesConfig": [
+          "12431",
+          "15287",
+          "11482",
+          "17589",
+          "11388",
+          "11399"
+        ],
         "special-tags": {
           "advertisements": [],
           "international-shipments": [],
@@ -19312,7 +19158,7 @@
         }
       },
       "sort": [
-        1722279149000
+        1728403356000
       ]
     }
   ]
