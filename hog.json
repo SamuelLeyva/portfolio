@@ -1331,9 +1331,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 40,
+            "stock": 39,
             "subcontractedid": "",
-            "virtual-stock": 40,
+            "virtual-stock": 39,
             "zip-code": ""
           },
           {
@@ -1660,7 +1660,7 @@
         "sales-price": 50,
         "short-description": "<ul><li><p>🔋 Batería de 20000 mAh con función de power bank: hasta 60 horas de uso en nivel 1 y salida USB para cargar tus dispositivos </p></li><li><p>🌀 Oscilación automática de 90° y 45° con rotación libre: ajusta la dirección del aire según tu espacio, incluso colgado o sobre plataforma </p></li><li><p>💡 Luz LED de 3 niveles: iluminación fuerte de hasta 40 horas o modo tenue de hasta 140 horas, ideal para camping, emergencias y noches sin electricidad </p></li><li><p>📱 Control remoto con alcance de 3 m y ángulo de 120°: cambia velocidad, luz, temporizador y rotación sin levantarte </p></li><li><p>🌙 Modo sleep y temporizador programable (1H, 2H, 4H, 8H): apaga las luces indicadoras y programa el apagado para dormir sin molestias </p></li><li><p>🔌 Entrada y salida USB‑C 5V‑3A: carga completa en 9‑10 horas y compatible con múltiples dispositivos externos </p></li><li><p>🛡️ Diseño industrial anti‑golpes, firme y duradero: apto para uso rudo en exteriores, con carga y uso simultáneo desde fuentes DC 5V</p></li></ul>",
         "short-description-en": "",
-        "stock": 40,
+        "stock": 39,
         "stock-enabled": true,
         "tag": [
           {
@@ -17236,7 +17236,7 @@
         "sales-price": 55,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
