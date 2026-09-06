@@ -7195,7 +7195,7 @@
         "sales-price": 89,
         "short-description": "<p>📱 Teléfono Inteligente SKY 65 Pro</p><p>• Pantalla IPS HD+ de 6.56 pulgadas con resolución de 720 × 1612 píxeles</p><p>• Memoria RAM de 3 GB y almacenamiento interno de 64 GB</p><p>• Almacenamiento ampliable mediante tarjeta microSD</p><p>• Procesador Quad-Core de 1.5 GHz</p><p>• Cámara trasera principal de 13 MP y cámara frontal de 8 MP</p><p>• Batería de 4000 mAh</p><p>• Sistema operativo Android 14 Go Edition</p><p>• Conectividad 4G LTE, Wi-Fi y Bluetooth</p><p>• Soporte para Dual SIM</p>",
         "short-description-en": "",
-        "stock": 15,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
@@ -7941,9 +7941,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 20,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -8270,7 +8270,7 @@
         "sales-price": 89,
         "short-description": "<p>📱 Teléfono Inteligente SKY 65 Pro</p><p>• Pantalla IPS HD+ de 6.56 pulgadas con resolución de 720 × 1612 píxeles</p><p>• Memoria RAM de 3 GB y almacenamiento interno de 64 GB</p><p>• Almacenamiento ampliable mediante tarjeta microSD</p><p>• Procesador Quad-Core de 1.5 GHz</p><p>• Cámara trasera principal de 13 MP y cámara frontal de 8 MP</p><p>• Batería de 4000 mAh</p><p>• Sistema operativo Android 14 Go Edition</p><p>• Conectividad 4G LTE, Wi-Fi y Bluetooth</p><p>• Soporte para Dual SIM</p>",
         "short-description-en": "",
-        "stock": 21,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
@@ -11451,9 +11451,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -19110,7 +19110,7 @@
         "sales-price": 148,
         "short-description": "<p>📱 Pantalla: 6.88\"</p><p>📸 Cámara trasera: 50MP</p><p>📸 Cámara frontal: 8MP</p><p>⚡ Batería: 5160 mAh</p><p>⚡ Procesador: MediaTek Helio G81</p><p>🧠 Ram: 8GB</p><p>💾 Almacenamiento: 128GB</p><p>📶 Conectividad: Redes 4G, Wi-Fi y Bluetooth</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {

@@ -810,7 +810,7 @@
         "sales-price": 2.4,
         "short-description": "<ul><li><p>⚡ Alto rendimiento: pilas AAA alcalinas LR6 de 1.5 V con conductividad superior y larga duración</p></li><li><p>🔋 Consumo eficiente: reduce la pérdida de energía y mantiene la potencia estable durante más tiempo</p></li><li><p>🌱 Ecológicas y seguras: sin metales pesados tóxicos, diseñadas para un uso confiable y responsable</p></li><li><p>📦 Paquete de 4 pilas AAA: listas para usar en controles, relojes, juguetes y otros dispositivos de uso diario</p></li><li><p>⚠️ No recargables: deséchalas de forma adecuada cuando se agoten</p></li></ul>",
         "short-description-en": "",
-        "stock": 39,
+        "stock": 37,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -15213,9 +15213,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -24745,7 +24745,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 65,
+        "stock": 64,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31422,7 +31422,7 @@
         "sales-price": 13,
         "short-description": "<ul><li><p>⚡ Protector de voltaje y corriente</p></li><li><p>🔌 110/220V, 80–300V, 1–63A</p></li><li><p>🔄 Auto-reset automático</p></li><li><p>🛡️ Ideal para equipos sensible</p></li></ul>",
         "short-description-en": "",
-        "stock": 175,
+        "stock": 173,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -33797,7 +33797,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -37641,7 +37641,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 23,
+        "stock": 22,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -38470,7 +38470,7 @@
         "sales-price": 65,
         "short-description": "<ul><li><p>🔌 Interruptor de transferencia automática dual <strong>2P – 63A – 110V</strong></p></li><li><p>🔁 Cambio automático o manual entre <strong>red eléctrica y planta / inversor</strong></p></li><li><p>⏱️ Tiempo de conmutación de <strong>hasta 2 segundos</strong></p></li><li><p>🏠 Ideal para <strong>casas, oficinas y pequeños negocios</strong></p></li><li><p>🛡️ Carcasa metálica resistente y segura</p></li><li><p>🧲 Terminales de cobre para conexión más estable</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -51935,15 +51935,29 @@
     },
     {
       "_index": "products",
-      "_id": "24155941",
+      "_id": "24155937",
       "_score": null,
       "_source": {
-        "id": "24155941",
-        "idstel": "24155941",
+        "id": "24155937",
+        "idstel": "24155937",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
           {
             "data": [
               {
@@ -51958,42 +51972,28 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "u9ktUqpjtSyHE8wIgp5x"
+          "v4GnDDXnoh4OoMUwScoW"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
-            "idstel": "2374876",
+            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
+            "idstel": "2374881",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
           }
         ],
         "item-rates": [
@@ -52018,7 +52018,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.5,
+            "price": 11.5,
             "updatedAt": 1747229914346
           },
           {
@@ -52029,7 +52029,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 16,
+            "price": 14,
             "updatedAt": 1747229914346
           },
           {
@@ -52062,7 +52062,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.9,
+            "price": 13,
             "updatedAt": 1747229914347
           }
         ],
@@ -52329,9 +52329,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -52466,7 +52466,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "",
+            "location": "CAJA 2",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -52706,17 +52706,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
+        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03732",
+        "reference": "PRO03727",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -52729,7 +52729,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "private-description": "",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
@@ -57728,15 +57728,29 @@
     },
     {
       "_index": "products",
-      "_id": "24155941",
+      "_id": "24155937",
       "_score": null,
       "_source": {
-        "id": "24155941",
-        "idstel": "24155941",
+        "id": "24155937",
+        "idstel": "24155937",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
           {
             "data": [
               {
@@ -57751,42 +57765,28 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "u9ktUqpjtSyHE8wIgp5x"
+          "v4GnDDXnoh4OoMUwScoW"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
-            "idstel": "2374876",
+            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
+            "idstel": "2374881",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
           }
         ],
         "item-rates": [
@@ -57811,7 +57811,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.5,
+            "price": 11.5,
             "updatedAt": 1747229914346
           },
           {
@@ -57822,7 +57822,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 16,
+            "price": 14,
             "updatedAt": 1747229914346
           },
           {
@@ -57855,7 +57855,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.9,
+            "price": 13,
             "updatedAt": 1747229914347
           }
         ],
@@ -58122,9 +58122,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -58259,7 +58259,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "",
+            "location": "CAJA 2",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -58499,17 +58499,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
+        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03732",
+        "reference": "PRO03727",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -58522,7 +58522,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "private-description": "",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
