@@ -7172,9 +7172,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7501,7 +7501,7 @@
         "sales-price": 689,
         "short-description": "<p>💻 <strong>HP 15-fd0127dx</strong> (15.6\" Full HD Touch Laptop - Intel Core i7 1355U 2023)</p><p>🧠 <strong>Procesador:</strong> Intel Core i7 1355U (13ª generación, 10 núcleos, hasta 5.0 GHz)</p><p>⚡ <strong>Memoria RAM:</strong> 16GB DDR4 (3200 MHz)</p><p>💾 <strong>Almacenamiento:</strong> 512GB SSD NVMe PCIe</p><p>📺 <strong>Pantalla:</strong> 15.6\" Full HD (1920 x 1080) IPS táctil, 300 nits, antirreflejo</p><p>🎨 <strong>Gráficos:</strong> Intel Iris Xe Graphics (integrados)</p><p>🔋 <strong>Batería:</strong> Hasta 7.75 horas (3 celdas, Li-ion polímero)</p><p>🔌 <strong>Puertos:</strong> 1x USB-C 3.0, 2x USB-A 3.0, 1x HDMI 1.4, jack audífono/micrófono</p><p>⚖️ <strong>Peso:</strong> Aprox. 1.6 kg (3.52 libras)</p><p>🪟 <strong>Sistema:</strong> Windows 11 Home</p><p>✨ <strong>Estado:</strong> Nuevo (Color Natural Silver)</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
