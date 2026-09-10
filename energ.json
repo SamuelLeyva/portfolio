@@ -45211,7 +45211,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 780,
+            "price": 695,
             "updatedAt": 1747229914346
           },
           {
@@ -45234,7 +45234,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 780
+            "price": 695
           },
           {
             "deleted": false,
@@ -45244,7 +45244,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 780,
+            "price": 695,
             "updatedAt": 1747229914347
           },
           {
@@ -45255,7 +45255,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 780,
+            "price": 695,
             "updatedAt": 1747229914347
           }
         ],
@@ -45290,9 +45290,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 200,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 200,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -45435,9 +45435,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 202,
             "subcontractedid": "",
-            "virtual-stock": -8,
+            "virtual-stock": 192,
             "zip-code": ""
           },
           {
@@ -45877,7 +45877,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-true",
+          "116-false",
           "4813-false",
           "680-false",
           "3375-false",
@@ -45906,7 +45906,7 @@
         "reference": "PRO06212",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 790,
+        "sales-price": 720,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -46142,7 +46142,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 640,
+            "price": 620,
             "updatedAt": 1747229914346
           },
           {
@@ -46186,7 +46186,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 640,
+            "price": 620,
             "updatedAt": 1747229914347
           }
         ],
@@ -46837,7 +46837,7 @@
         "reference": "PRO06314",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 650,
+        "sales-price": 639,
         "short-description": "<ul><li><p>⚡ 1800 W de salida continua (3600 W pico) con X‑Boost™ hasta 2400 W: alimenta herramientas eléctricas y dispositivos de alto consumo sin interrupciones</p></li><li><p>🔋 Batería LFP de calidad automotriz con protección BMS 24/7 y estructura CTC: hasta 10 años de vida útil, fiable y resistente a impactos y condensación</p></li><li><p>⏱️ Carga ultrarrápida X‑Stream: 0–80 % en solo 45 minutos y carga completa en 60 minutos con AC, sin comprometer la vida de la batería</p></li><li><p>☀️ Cuatro opciones de carga: AC, solar, automóvil y combinación, para que siempre tengas energía donde la necesites🤫 Operación silenciosa de ≤30 dB a 600 W: tan silenciosa que no perturba tu descanso ni tu concentración</p></li><li><p>📱 Control inteligente con app OASIS 3.0: monitorea consumo y generación solar, programa tareas y activa el modo Storm Guard para emergencias climáticas</p></li><li><p>🎒 Compacta y portátil: diseño ligero que se adapta a cualquier entorno, ideal para camping, pesca, bricolaje y actividades al aire libre</p></li><li><p>☀️ Entrada Solar (Max): 500 W, recarga limpia y eficiente para mantenerte con energía en cualquier lugar</p></li><li><p><strong>➕</strong> No expandible, no admite baterías adicionales</p></li></ul>",
         "short-description-en": "",
         "stock": 1,
