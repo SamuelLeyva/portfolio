@@ -1245,9 +1245,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -43648,9 +43648,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -46263,9 +46263,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 200,
+            "stock": 202,
             "subcontractedid": "",
-            "virtual-stock": 190,
+            "virtual-stock": 192,
             "zip-code": ""
           },
           {
@@ -47194,9 +47194,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 39,
+            "stock": 41,
             "subcontractedid": "",
-            "virtual-stock": 39,
+            "virtual-stock": 41,
             "zip-code": ""
           },
           {
@@ -47668,7 +47668,7 @@
         "sales-price": 639,
         "short-description": "<ul><li><p>⚡ 1800 W de salida continua (3600 W pico) con X‑Boost™ hasta 2400 W: alimenta herramientas eléctricas y dispositivos de alto consumo sin interrupciones</p></li><li><p>🔋 Batería LFP de calidad automotriz con protección BMS 24/7 y estructura CTC: hasta 10 años de vida útil, fiable y resistente a impactos y condensación</p></li><li><p>⏱️ Carga ultrarrápida X‑Stream: 0–80 % en solo 45 minutos y carga completa en 60 minutos con AC, sin comprometer la vida de la batería</p></li><li><p>☀️ Cuatro opciones de carga: AC, solar, automóvil y combinación, para que siempre tengas energía donde la necesites🤫 Operación silenciosa de ≤30 dB a 600 W: tan silenciosa que no perturba tu descanso ni tu concentración</p></li><li><p>📱 Control inteligente con app OASIS 3.0: monitorea consumo y generación solar, programa tareas y activa el modo Storm Guard para emergencias climáticas</p></li><li><p>🎒 Compacta y portátil: diseño ligero que se adapta a cualquier entorno, ideal para camping, pesca, bricolaje y actividades al aire libre</p></li><li><p>☀️ Entrada Solar (Max): 500 W, recarga limpia y eficiente para mantenerte con energía en cualquier lugar</p></li><li><p><strong>➕</strong> No expandible, no admite baterías adicionales</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -48526,7 +48526,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 16,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
