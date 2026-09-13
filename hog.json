@@ -182,9 +182,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -42,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -42,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -769,7 +769,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-true",
+          "116-false",
           "4813-false",
           "680-false",
           "3375-false",
@@ -1809,9 +1809,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 228,
+            "stock": 182,
             "subcontractedid": "",
-            "virtual-stock": 228,
+            "virtual-stock": 182,
             "zip-code": ""
           },
           {
@@ -16571,9 +16571,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 83,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 182,
+            "virtual-stock": 123,
             "zip-code": ""
           },
           {
