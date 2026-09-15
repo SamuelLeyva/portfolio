@@ -22883,9 +22883,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -23212,7 +23212,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p>🛡️ Carcasa de ABS con clasificación IP65, cubierta con cerradura y ventana transparente: resistente al agua, al polvo y a los golpes, apta para interior y exterior en ambientes húmedos</p></li><li><p>⚡ 12 módulos con corriente nominal de 63A y certificación CE: distribución eléctrica segura y fiable para viviendas, oficinas, jardines o piscinas</p></li><li><p>🔧 Entradas de cable prefabricadas en los cuatro laterales: orificios guiados que puedes perforar a medida para adaptar cualquier instalación eléctrica fácilmente</p></li><li><p>📏 Tamaño compacto de 255 × 200 × 108 mm: se instala fácilmente en espacios reducidos sin perder capacidad de distribución</p></li><li><p>🌡️ Soporta temperaturas extremas de -20 °C a +70 °C y cumple con las normas para salas húmedas: ideal para baños, pilas de carga, cuartos de bombas o céspedes</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -42063,9 +42063,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 172,
+            "stock": 171,
             "subcontractedid": "",
-            "virtual-stock": 151,
+            "virtual-stock": 150,
             "zip-code": ""
           },
           {
@@ -42392,7 +42392,7 @@
         "sales-price": 13,
         "short-description": "<ul><li><p>⚡ Protector de voltaje y corriente</p></li><li><p>🔌 110/220V, 80–300V, 1–63A</p></li><li><p>🔄 Auto-reset automático</p></li><li><p>🛡️ Ideal para equipos sensible</p></li></ul>",
         "short-description-en": "",
-        "stock": 172,
+        "stock": 171,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
