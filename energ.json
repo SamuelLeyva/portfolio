@@ -2133,9 +2133,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -2278,9 +2278,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -2580,12 +2580,12 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -2607,7 +2607,7 @@
         "sales-price": 38,
         "short-description": "<ul><li><p>☀️ Alimentación solar con batería de litio recargable de 2000 mAh: energía limpia y gratuita, se enciende sola al detectar movimiento</p></li><li><p>💡 Superbrillante de 2000-3000 lúmenes con 3 cabezales ajustables: iluminación amplia y dirigible para jardín, garaje o patio</p></li><li><p>💧 Resistencia IP65: soporta lluvia y polvo, diseñada para exteriores sin mantenimiento</p></li><li><p>📡 Incluye control remoto: enciende, apaga o ajusta el modo sin moverte de casa</p></li><li><p>🛠️ Instalación semiempotrada o empotrada y pantalla de plástico resistente: cubre hasta 60 m² y se adapta a cualquier pared exterior</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -2967,9 +2967,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -3228,9 +3228,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": -2,
+            "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": 17,
             "zip-code": ""
           },
           {
@@ -3414,7 +3414,7 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -9373,9 +9373,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9489,9 +9489,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": -1,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -9605,9 +9605,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9932,7 +9932,7 @@
         ],
         "warehousesInStock": [
           "116-true",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
@@ -9940,7 +9940,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-false",
           "1776-false",
           "2193-false",
@@ -10276,9 +10276,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -10392,9 +10392,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -10835,11 +10835,11 @@
         ],
         "warehousesInStock": [
           "116-true",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -22952,9 +22952,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -23068,9 +23068,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": -6,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -6,
             "zip-code": ""
           },
           {
@@ -23263,7 +23263,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "3298-false",
           "117-false",
@@ -23281,7 +23281,7 @@
         "sales-price": 39,
         "short-description": "<ul><li><p>🛡️ Clasificación IP65 contra agua y polvo: diseñada para resistir la intemperie y funcionar de forma fiable en exteriores</p></li><li><p>🔒 15 vías con cerradura: configuración versátil y segura para adaptarse a distintas necesidades eléctricas</p></li><li><p>🛠️ Material ABS robusto: resistente al desgaste y a las condiciones adversas del ambiente exterior</p></li><li><p>📏 Tamaño compacto de 300 × 200 × 108 mm: se instala fácilmente en espacios reducidos sin perder capacidad de distribución</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -23626,9 +23626,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -23887,9 +23887,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -24073,7 +24073,7 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -24082,7 +24082,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "3298-false",
           "117-false",
@@ -49170,9 +49170,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -49499,7 +49499,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 16,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -63793,15 +63793,29 @@
     },
     {
       "_index": "products",
-      "_id": "24155941",
+      "_id": "24155937",
       "_score": null,
       "_source": {
-        "id": "24155941",
-        "idstel": "24155941",
+        "id": "24155937",
+        "idstel": "24155937",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
           {
             "data": [
               {
@@ -63816,42 +63830,28 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
-          },
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "u9ktUqpjtSyHE8wIgp5x"
+          "v4GnDDXnoh4OoMUwScoW"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 32,
+        "discount-percentage": 20,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
-            "idstel": "2374876",
+            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
+            "idstel": "2374881",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
           }
         ],
         "item-rates": [
@@ -63876,7 +63876,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.5,
+            "price": 11.5,
             "updatedAt": 1747229914346
           },
           {
@@ -63887,7 +63887,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 16,
+            "price": 14,
             "updatedAt": 1747229914346
           },
           {
@@ -63920,7 +63920,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 9.9,
+            "price": 13,
             "updatedAt": 1747229914347
           }
         ],
@@ -64187,9 +64187,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -64324,7 +64324,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "",
+            "location": "CAJA 2",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -64564,17 +64564,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
+        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03732",
+        "reference": "PRO03727",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -64587,7 +64587,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
+        "private-description": "",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",
@@ -67900,29 +67900,15 @@
     },
     {
       "_index": "products",
-      "_id": "24155937",
+      "_id": "24155941",
       "_score": null,
       "_source": {
-        "id": "24155937",
-        "idstel": "24155937",
+        "id": "24155941",
+        "idstel": "24155941",
         "creation-date": "2023-06-01T19:14:06+0000",
         "barcode": "",
         "buildservice": [],
         "attribute": [
-          {
-            "data": [
-              {
-                "id": "9",
-                "name": "Nuevo",
-                "name_en": ""
-              }
-            ],
-            "id": "Condition",
-            "name": "Condición",
-            "name_en": "",
-            "originCreate": "",
-            "originUpdate": ""
-          },
           {
             "data": [
               {
@@ -67937,28 +67923,42 @@
             "name_en": "",
             "originCreate": "",
             "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
           }
         ],
         "category": [
           "833",
           "PJQXoHsSgJPi9xfYQ5SH",
-          "v4GnDDXnoh4OoMUwScoW"
+          "u9ktUqpjtSyHE8wIgp5x"
         ],
         "compatibility": [],
         "deleted": false,
         "description": "",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 20,
+        "discount-percentage": 32,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
         "images": [
           {
-            "id": "8cdd7905-17ff-4921-63eb-83607a7dc000",
-            "idstel": "2374881",
+            "id": "68537bce-3f45-4e97-478a-9ad046a5ff00",
+            "idstel": "2374876",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8cdd7905-17ff-4921-63eb-83607a7dc000/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/68537bce-3f45-4e97-478a-9ad046a5ff00/public"
           }
         ],
         "item-rates": [
@@ -67983,7 +67983,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 11.5,
+            "price": 9.5,
             "updatedAt": 1747229914346
           },
           {
@@ -67994,7 +67994,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 14,
+            "price": 16,
             "updatedAt": 1747229914346
           },
           {
@@ -68027,7 +68027,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 13,
+            "price": 9.9,
             "updatedAt": 1747229914347
           }
         ],
@@ -68294,9 +68294,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -68431,7 +68431,7 @@
             "isMainReservationWarehouse": false,
             "isQuarantine": false,
             "isReserved": true,
-            "location": "CAJA 2",
+            "location": "",
             "minimum-stock": 0,
             "municipality": "Miramar",
             "name": "MIA1.US1",
@@ -68671,17 +68671,17 @@
           "613-false",
           "5018-false"
         ],
-        "productname": "Mophie Power Boost 5200 Mah, Power Bank 5200 Mah, Doble Usb, Negro, Con Caja.",
+        "productname": "Mophie Powerstation Mini 3000 Mah, Power Bank, Negro, Con Caja.",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
-        "reference": "PRO03727",
+        "reference": "PRO03732",
         "related-product": [],
         "sale-account": 0,
         "sales-price": 22,
         "short-description": "",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -68694,7 +68694,7 @@
         "weight": null,
         "dimensions": null,
         "private-description-en": "",
-        "private-description": "",
+        "private-description": "{\"blocks\":[{\"key\":\"422sn\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}",
         "unit": {
           "abbreviation": "u",
           "description": "Producto individual",

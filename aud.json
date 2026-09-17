@@ -482,7 +482,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -809,7 +809,7 @@
         "sales-price": 27,
         "short-description": "<ul><li><p>🔊 Dos parlantes de 45 mm con 10 W de potencia total (5 W×2): sonido claro y envolvente para entrenamientos, paseos o fiestas al aire libre</p></li><li><p>📡 Conectividad Bluetooth 5.3 con chip JL AC6965E: conexión estable, rápida y compatible con tus dispositivos favoritos</p></li><li><p>🎛️ Múltiples modos de reproducción: Bluetooth, FM, tarjeta TF, USB y AUX para escuchar música como prefieras</p></li><li><p>🔋 Batería de 1200 mAh: hasta 3 horas de uso continuo con un tiempo de carga de 3 horas</p></li><li><p>🛡️ Cuerpo de ABS resistente y diseño compacto (171.5 × 68 × 66 mm, 348 g): ligera, duradera y fácil de llevar a cualquier lugar</p></li><li><p>📦 Incluye cable de carga y manual de usuario</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -1653,7 +1653,7 @@
         "sales-price": 17,
         "short-description": "<p>🔊 Sonido potente de 5W para interiores y exteriores. </p><p>🔗 Bluetooth 5.3, entrada AUX y ranura MicroSD/TF. </p><p>🔋 1500mAh, hasta 7h de música. Carga USB-C en 3h. </p><p>🛡️ Carcasa de goma y tejido resistente para aventuras. </p><p>🎒 Compacto y ligero (374g), fácil de llevar.</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -4722,7 +4722,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -5049,7 +5049,7 @@
         "sales-price": 30,
         "short-description": "<ul><li><p>🔊 <strong>Sonido 360° De 10W</strong> potente y envolvente.</p></li><li><p>🔗 <strong>Bluetooth 5.0 + TWS</strong> para emparejar dos bocinas.</p></li><li><p>🎵 <strong>Modos BT / USB / microSD / Aux / FM</strong>.</p></li><li><p>🤳 <strong>Manos Libres</strong> para llamadas.</p></li><li><p>🔋 <strong>Batería 1500 mAh</strong> hasta 4 horas.</p></li><li><p>🧳 <strong>Diseño Portátil Con Correa</strong>.</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
