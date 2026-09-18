@@ -1907,7 +1907,7 @@
         "sales-price": 415,
         "short-description": "<p>💻 Laptop Lenovo IdeaPad Slim 3i para estudio, trabajo, navegación y entretenimiento diario.</p><p>⚡ Procesador Intel Core i3-N305 de 8 núcleos con velocidad turbo de hasta 3.8 GHz.</p><p>🧠 8GB de memoria LPDDR5 a 4800 MHz para multitarea cotidiana.</p><p>💾 Almacenamiento UFS de 128GB para archivos, documentos y contenido multimedia.</p><p>🖥️ Pantalla LCD TN de 15.6” Full HD 1920 x 1080 con brillo de 250 nits.</p><p>👀 Pantalla con certificación TÜV de baja luz azul para mayor comodidad visual.</p><p>🔋 Batería de hasta 8 horas con Rapid Charge Boost.</p><p>📹 Cámara HD 720p con obturador de privacidad para videollamadas.</p><p>🔌 Conectividad con USB-C 3.2, USB-A 3.2, HDMI 1.4, Wi-Fi 6 y Bluetooth.</p><p>🪟 Windows 11 Home en Modo S con Copilot en Windows.</p><p>🎒 Diseño delgado de 0.7” y peso de 3.41 lb en color Arctic Grey.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -22452,6 +22452,35 @@
             "zip-code": ""
           },
           {
+            "acronym": "CUR",
+            "active": true,
+            "addres": "Centro Habana",
+            "agent-id": "",
+            "comercialname": "CUR1",
+            "country": "Cuba",
+            "createdAt": 1786569699538,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5018",
+            "idstel": "5018",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "CUR1.CUR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "EJC",
             "active": true,
             "addres": "",
@@ -22885,35 +22914,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -22922,6 +22922,7 @@
           "680-false",
           "3375-false",
           "613-false",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -22936,8 +22937,7 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5018-false"
+          "1624-false"
         ],
         "productname": "Adaptador Unno Tekno DisplayPort A VGA Full HD 1080p Plug & Play Compatible Con Monitores y Proyectores",
         "productname_en": "",
@@ -22949,7 +22949,7 @@
         "sales-price": 8,
         "short-description": "<ul><li><p>🔌 <strong>DisplayPort A VGA</strong> para laptops y desktops modernos.</p></li><li><p>🖥️ <strong>Resolución Full HD 1080p</strong> clara y estable.</p></li><li><p>⚙️ <strong>Plug &amp; Play</strong> sin drivers ni configuraciones.</p></li><li><p>🔗 <strong>Compatible Con Múltiples Formatos VGA</strong> para mayor flexibilidad.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -26565,7 +26565,7 @@
         "sales-price": 499,
         "short-description": "<ul><li><p><strong>💻 ASUS VivoBook 14 (Quiet Blue)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel Core i5-1334U (13ra Gen - hasta 4.6 GHz)</p></li><li><p><strong>⚡ Memoria RAM:</strong> 128GB LPDDR5</p></li><li><p><strong>💾 Almacenamiento:</strong> 256GB SSD NVMe PCIe</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" Full HD (1920 x 1080) antirreflejos</p></li><li><p><strong>🎨 Gráficos:</strong> Intel Iris Xe Graphics</p></li><li><p><strong>🔋 Batería:</strong> 42Wh con carga rápida</p></li><li><p><strong>🔌 Puertos:</strong> 1x USB-C, 2x USB 3.2, 1x USB 2.0, HDMI 1.4</p></li><li><p><strong>⚖️ Peso:</strong> 1.4 kg (Ultra portátil)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {

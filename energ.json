@@ -9375,7 +9375,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -9491,7 +9491,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -17882,9 +17882,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -23773,7 +23773,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -23889,7 +23889,7 @@
             "public": false,
             "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -24100,7 +24100,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p>🛡️ Carcasa de ABS con clasificación IP65, cubierta con cerradura y ventana transparente: resistente al agua, al polvo y a los golpes, apta para interior y exterior en ambientes húmedos</p></li><li><p>⚡ 12 módulos con corriente nominal de 63A y certificación CE: distribución eléctrica segura y fiable para viviendas, oficinas, jardines o piscinas</p></li><li><p>🔧 Entradas de cable prefabricadas en los cuatro laterales: orificios guiados que puedes perforar a medida para adaptar cualquier instalación eléctrica fácilmente</p></li><li><p>📏 Tamaño compacto de 255 × 200 × 108 mm: se instala fácilmente en espacios reducidos sin perder capacidad de distribución</p></li><li><p>🌡️ Soporta temperaturas extremas de -20 °C a +70 °C y cumple con las normas para salas húmedas: ideal para baños, pilas de carga, cuartos de bombas o céspedes</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -33731,9 +33731,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 61,
+            "stock": 60,
             "subcontractedid": "",
-            "virtual-stock": 61,
+            "virtual-stock": 60,
             "zip-code": ""
           },
           {
@@ -34060,7 +34060,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 61,
+        "stock": 60,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -49499,7 +49499,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -52893,7 +52893,7 @@
         "sales-price": 53,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {

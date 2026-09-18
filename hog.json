@@ -15815,6 +15815,35 @@
             "zip-code": ""
           },
           {
+            "acronym": "CUR",
+            "active": true,
+            "addres": "Centro Habana",
+            "agent-id": "",
+            "comercialname": "CUR1",
+            "country": "Cuba",
+            "createdAt": 1786569699538,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5018",
+            "idstel": "5018",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "CUR1.CUR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "EJC",
             "active": true,
             "addres": "",
@@ -16248,35 +16277,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -16285,6 +16285,7 @@
           "680-false",
           "3375-false",
           "613-false",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -16299,8 +16300,7 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5018-false"
+          "1624-false"
         ],
         "productname": "Adaptador Unno Tekno DisplayPort A VGA Full HD 1080p Plug & Play Compatible Con Monitores y Proyectores",
         "productname_en": "",
@@ -16312,7 +16312,7 @@
         "sales-price": 8,
         "short-description": "<ul><li><p>🔌 <strong>DisplayPort A VGA</strong> para laptops y desktops modernos.</p></li><li><p>🖥️ <strong>Resolución Full HD 1080p</strong> clara y estable.</p></li><li><p>⚙️ <strong>Plug &amp; Play</strong> sin drivers ni configuraciones.</p></li><li><p>🔗 <strong>Compatible Con Múltiples Formatos VGA</strong> para mayor flexibilidad.</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -19736,7 +19736,7 @@
         "sales-price": 53,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
