@@ -745,6 +745,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -768,7 +795,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Traje Impermeable Para Hombre Alta Visibilidad Con Chaqueta Y Pantalón Reflectivo Talla L Negro y Verde",
         "productname_en": "",
@@ -1565,6 +1593,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1588,7 +1643,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Traje Impermeable Para Hombre Alta Visibilidad Con Chaqueta Y Pantalón Reflectivo Talla M Negro",
         "productname_en": "",
@@ -2385,6 +2441,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2408,7 +2491,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Baúl Trasero Para Motocicleta 45L De Aluminio Impermeable Para Equipaje Silver / Black",
         "productname_en": "",
@@ -3203,6 +3287,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -3226,7 +3337,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Traje Impermeable Para Hombre Alta Visibilidad Con Chaqueta Y Pantalón Reflectivo Talla L Negro y Amarillo",
         "productname_en": "",
@@ -4019,6 +4131,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4042,7 +4181,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Sillín para Bicicleta Schwinn Spree",
         "productname_en": "",
@@ -4820,6 +4960,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4843,7 +5010,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Malla Elástica Sujetadora con Ganchos",
         "productname_en": "",
@@ -5640,6 +5808,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -5663,7 +5858,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Bandas Sujetadoras de Moto 100 cm",
         "productname_en": "",
@@ -6471,6 +6667,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -6494,7 +6717,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Banda Elástica para Motos",
         "productname_en": "",
@@ -7330,6 +7554,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -7353,7 +7604,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Traje Impermeable Para Hombre Alta Visibilidad Con Chaqueta Y Pantalón Reflectivo Talla L Negro",
         "productname_en": "",

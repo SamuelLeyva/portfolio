@@ -840,6 +840,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -863,7 +890,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Organizador de Pared VEVOR para Piezas con 48 Gavetas Plásticas y Paneles, Negro y Rojo",
         "productname_en": "",
@@ -1751,6 +1779,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1774,7 +1829,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Organizador de Pared VEVOR para Piezas con 30 Gavetas, Paneles, Soportes y Ganchos, Negro y Rojo",
         "productname_en": "",

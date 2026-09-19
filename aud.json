@@ -774,6 +774,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -797,7 +824,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Hoco  Bocina Bluetooth Deportiva HC16 | BT 5.3 | 10W",
         "productname_en": "",
@@ -1618,6 +1646,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1641,7 +1696,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Bocina Bluetooth Portatil - 1HORA BOC243 - Negro",
         "productname_en": "",
@@ -2461,6 +2517,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2484,7 +2567,8 @@
           "933-false",
           "862-false",
           "1624-false",
-          "5018-false"
+          "5018-false",
+          "5049-false"
         ],
         "productname": "Consola PlayStation 5 Slim 1 TB",
         "productname_en": "",
@@ -3305,6 +3389,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -3328,7 +3439,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Bocina Unno Tekno Pulse TWS Bluetooth 5.0 5W LED Multicolor FM USB SD Aux Doble Enlace Estéreo Portátil",
         "productname_en": "",
@@ -4181,6 +4293,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4204,7 +4343,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Bocina Unno Tekno Bullet TWS Bluetooth 5.0 10W Sonido 360° FM USB MicroSD Aux Portátil Batería 1500mAh",
         "productname_en": "",
@@ -5067,6 +5207,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -5090,7 +5257,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Bocina Inalambrica Hyper Gear BT 5.0. Potencia 20 W. Bass Boost.3000mAH de Bateria 8h de autonomia.",
         "productname_en": "",

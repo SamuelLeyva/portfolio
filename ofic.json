@@ -757,6 +757,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -780,7 +807,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Brother - HL-L2405W Wireless Black-and-White Refresh Subscription Eligible Laser Printer, Great for Home - Gray",
         "productname_en": "",
@@ -1606,6 +1634,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1629,7 +1684,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "Contadora de Billetes VEVOR 1000 Billetes/min Detección UV MG IR DD Pantalla LCD Con Display Externo USD EUR Para Negocios Negro",
         "productname_en": "",
@@ -2450,6 +2506,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -2473,7 +2556,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "CubiCubi Escritorio para computadora de 40 pulgadas, mesa de estudio para oficina en casa",
         "productname_en": "",
@@ -3293,6 +3377,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -3316,7 +3427,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "DUMOS Escritorio de oficina pequeño de 32 pulgadas para computadora de estilo moderno y simple, mesa de trabajo de estudio Negro",
         "productname_en": "",
@@ -4141,6 +4253,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4164,7 +4303,8 @@
           "117-false",
           "933-false",
           "862-false",
-          "1624-false"
+          "1624-false",
+          "5049-false"
         ],
         "productname": "LOLARAN AL1000 Máquina Contadora de Dinero con Contabilidad de Valor, Soporta Dólar y Euro, Detección de Falsificaciones UV, MG,",
         "productname_en": "",
@@ -4963,6 +5103,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -4986,7 +5153,8 @@
           "933-false",
           "862-false",
           "1624-false",
-          "5018-false"
+          "5018-false",
+          "5049-false"
         ],
         "productname": "Impresora Brother - HL-L2460DW Wireless - Gray",
         "productname_en": "",
@@ -5764,6 +5932,33 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -5787,7 +5982,8 @@
           "933-false",
           "862-false",
           "1624-false",
-          "5018-false"
+          "5018-false",
+          "5049-false"
         ],
         "productname": "Impresora Epson - EcoTank ET-2400 Wireless Color All-in-One Inkjet Cartridge-Free Supertank Printer - Negro",
         "productname_en": "",
