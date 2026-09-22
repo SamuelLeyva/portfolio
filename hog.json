@@ -2207,9 +2207,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -2379,9 +2379,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -2547,7 +2547,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-false",
+          "5049-true",
           "3298-false",
           "117-false",
           "933-false",
@@ -2564,7 +2564,7 @@
         "sales-price": 40.3,
         "short-description": "<ul><li><p>⌚ Reloj inteligente: funciones básicas de wearable como hora, notificaciones y seguimiento de actividad física para tu día a día</p></li><li><p>🌀 Abanico recargable por USB: refrigeración personal portátil para el escritorio o salidas al aire libre</p></li><li><p>💧 Cepillo de dientes inteligente: cepillo eléctrico recargable con modos básicos para una limpieza diaria eficiente</p></li><li><p>🔋 Banco de energía: batería portátil para recargar teléfonos y dispositivos mientras te desplazas</p></li><li><p>🎧 Auriculares: para llamadas y música, con conexión Bluetooth o jack según el modelo incluido</p></li><li><p>5️⃣ Cinco artículos tecnológicos de uso diario</p></li><li><p>🎁 Opción práctica de regalo: set completo que cubre cuidado personal, refrigeración, energía y audio</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
