@@ -1771,9 +1771,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -8505,7 +8505,7 @@
         "sales-price": 145,
         "short-description": "",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -9487,9 +9487,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 15,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 15,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -9599,7 +9599,7 @@
           "611-false",
           "5049-false",
           "3298-false",
-          "117-true",
+          "117-false",
           "933-false",
           "862-false",
           "1624-false"
@@ -10353,9 +10353,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -15,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -15,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -10465,7 +10465,7 @@
           "611-false",
           "5049-false",
           "3298-false",
-          "117-true",
+          "117-false",
           "933-false",
           "862-false",
           "1624-false"
@@ -10480,7 +10480,7 @@
         "sales-price": 117,
         "short-description": "<p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p><p>💾 64GB de almacenamiento expandible mediante microSD.</p><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p><p>🔋 Batería de 5,000 mAh para mayor duración.</p><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p><p>🔵 Elegante acabado en color Azul.</p><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
@@ -11241,7 +11241,7 @@
             "public": false,
             "stock": 91,
             "subcontractedid": "",
-            "virtual-stock": 73,
+            "virtual-stock": 88,
             "zip-code": ""
           },
           {
@@ -11596,7 +11596,7 @@
         "sales-price": 147,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 77,
+        "stock": 91,
         "stock-enabled": true,
         "tag": [
           {
@@ -12356,7 +12356,7 @@
             "public": false,
             "stock": 17,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 14,
             "zip-code": ""
           },
           {
@@ -12711,7 +12711,7 @@
         "sales-price": 150,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [
           {
@@ -14366,7 +14366,7 @@
             "public": false,
             "stock": 29,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -14721,7 +14721,7 @@
         "sales-price": 179,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 21,
+        "stock": 29,
         "stock-enabled": true,
         "tag": [
           {
