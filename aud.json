@@ -6070,9 +6070,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -6238,7 +6238,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
