@@ -11706,7 +11706,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 795,
+            "price": 850,
             "updatedAt": 1747229914344
           },
           {
@@ -11719,7 +11719,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 775,
+            "price": 810,
             "updatedAt": 1747229914346
           },
           {
@@ -11730,7 +11730,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 795,
+            "price": 850,
             "updatedAt": 1747229914346
           },
           {
@@ -11742,7 +11742,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 775
+            "price": 810
           },
           {
             "deleted": false,
@@ -11763,7 +11763,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 775,
+            "price": 810,
             "updatedAt": 1747229914347
           }
         ],
@@ -12239,6 +12239,33 @@
             "zip-code": ""
           },
           {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -12382,33 +12409,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -12428,12 +12428,12 @@
           "707-false",
           "3866-false",
           "611-false",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Laptop MSI Thin 15 Gaming 15.6\" FHD 144Hz Core i5-13420H RTX 3050 16GB 512GB SSD (Modelo: Thin 15 B13UC-1000US) Gris",
         "productname_en": "",
@@ -12442,7 +12442,7 @@
         "reference": "PRO07009",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 795,
+        "sales-price": 850,
         "short-description": "<p><strong>💻 </strong><a target=\"_blank\" rel=\"noopener\" href=\"https://google.com/search?q=MSI+-+Thin+15.6%22+FHD+144Hz+Gaming+Laptop,Intel+i5-13420H,16GB+DDR4,1TB+SSD,NVIDIA+GeForce+RTX+3050,Win+11,Grey+-+Gray&amp;prds=headlineOfferDocid%3A15507278914778476976%2Cproductid%3A15507278914778476976%2Cpvo%3A38%2Cpvt%3Ahg&amp;ibp=oshop&amp;pvo=38&amp;opi=103135050&amp;gl=us&amp;hl=en&amp;noiga=1\"><strong>MSI Thin 15 (B13UC-1000US)</strong></a></p><ul><li><p><strong>🧠 Procesador:</strong> Intel Core <strong>i5-13420H</strong> (13ra Gen - 8 núcleos hasta 4.6 GHz)</p></li><li><p><strong>⚡ Memoria RAM:</strong> <strong>16GB DDR4</strong>-3200MHz (Expandible a 64GB)</p></li><li><p><strong>💾 Almacenamiento:</strong> <strong>512GB SSD</strong> NVMe PCIe Gen4</p></li><li><p><strong>📺 Pantalla:</strong> 15.6\" <strong>Full HD</strong> (1920x1080) IPS a <strong>144Hz</strong></p></li><li><p><strong>🎨 Gráficos:</strong> NVIDIA GeForce <strong>RTX 3050</strong> (4GB GDDR6)</p></li><li><p><strong>🔋 Batería:</strong> 3 celdas, <strong>52.4Whr</strong> (Adaptador de 120W)</p></li><li><p><strong>🔌 Puertos:</strong> 1x <strong>USB-C</strong> (con DP), 3x USB 3.2 Gen1, HDMI (4K@30Hz), RJ45</p></li><li><p><strong>⚖️ Peso:</strong> <strong>1.86 kg</strong> (Diseño ultra delgado y ligero)</p></li><li><p><strong>🪟 Sistema:</strong> Windows 11 Home</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo</strong> (Color Gris Cosmos / Teclado con retroiluminación azul)</p></li></ul>",
         "short-description-en": "",
         "stock": 1,
