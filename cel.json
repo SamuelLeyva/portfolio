@@ -5064,9 +5064,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -5421,7 +5421,7 @@
         "sales-price": 108,
         "short-description": "<ul><li><p>📱 Pantalla IPS TFT de 6.60\" con resolución 540 × 1208 px y 60 Hz: 16.7 millones de colores y una relación pantalla‑cuerpo del 84.4 % para una visualización amplia</p></li><li><p>📸 Cámara principal de 8 MP con autoenfoque, flash LED y zoom digital + cámara de retrato de 5 MP: captura momentos con claridad y agrega desenfoque de fondo a tus retratos</p></li><li><p>⚡ Procesador Unisoc Tiger T603 de 8 núcleos a 1.80 GHz con GPU PowerVR GE8322: rendimiento fluido para apps, navegación y tareas cotidianas</p></li><li><p>💾 64 GB de almacenamiento interno ampliable hasta 2 TB con microSD: espacio de sobra para fotos, apps y archivos</p></li><li><p>🔋 Batería de 4000 mAh con cargador incluido: autonomía para acompañarte durante tu jornada sin preocupaciones</p></li><li><p>🤖 Android 14 Go con 2 GB de RAM: sistema ligero y optimizado para un funcionamiento ágil</p></li><li><p>🔐 Sensor de huellas trasero, acelerómetro, sensor de luz y de acercamiento: acceso seguro y funciones inteligentes para el día a día</p></li><li><p>📶 DualSIM, conectividad LTE, Bluetooth 5.1, WiFi 802.11 a/b/g/n/ac y USB Type‑C con OTG: mantente conectado y comparte datos con facilidad</p></li><li><p>🎧 Puerto de audio de 3.5 mm y radio FM: escucha música y tus emisoras favoritas con comodidad</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -13144,9 +13144,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 87,
+            "stock": 63,
             "subcontractedid": "",
-            "virtual-stock": 84,
+            "virtual-stock": 60,
             "zip-code": ""
           },
           {
@@ -13501,7 +13501,7 @@
         "sales-price": 147,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 87,
+        "stock": 63,
         "stock-enabled": true,
         "tag": [
           {
@@ -15363,7 +15363,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -13,
+            "virtual-stock": -14,
             "zip-code": ""
           },
           {
@@ -19613,9 +19613,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -19970,7 +19970,7 @@
         "sales-price": 179,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {

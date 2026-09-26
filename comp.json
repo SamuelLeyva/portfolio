@@ -14510,7 +14510,7 @@
         "sales-price": 285,
         "short-description": "<p><strong>💻 HP 14\" Oro Rosa (14-dq6015dx)</strong></p><ul><li><p><strong>🧠 Procesador:</strong> Intel N150 (Eficiencia energética)</p></li><li><p><strong>⚡ Memoria RAM:</strong> 4GB RAM</p></li><li><p><strong>💾 Almacenamiento:</strong> 128GB UFS</p></li><li><p><strong>📺 Pantalla:</strong> 14.0\" HD Micro-edge</p></li><li><p><strong>🔋 Batería:</strong> Hasta <strong>11 horas y 45 minutos</strong> de uso mixto; compatible con <strong>HP Fast Charge</strong> (50% en 45 min).</p></li><li><p><strong>🔌 Puertos:</strong> USB-C, 2x USB-A, HDMI</p></li><li><p><strong>⚖️ Peso:</strong> 1.46 kg</p></li><li><p><strong>✨ Estado:</strong> <strong>Nuevo</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -24375,6 +24375,33 @@
             "zip-code": ""
           },
           {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -24518,33 +24545,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -24564,12 +24564,12 @@
           "707-false",
           "3866-false",
           "611-false",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Cable Unno Tekno HDMI 2.1 10FT 8K 60Hz Dynamic HDR 48Gbps Conectores Gold-Plated eARC Video y Audio Premium",
         "productname_en": "",
@@ -24581,7 +24581,7 @@
         "sales-price": 13,
         "short-description": "<ul><li><p>🎥 <strong>Compatible Con 8K @ 60Hz</strong> para máxima calidad visual.</p></li><li><p>🌈 <strong>Dynamic HDR</strong> con colores más brillantes y detallados.</p></li><li><p>🔊 <strong>eARC Mejorado</strong> para audio premium y control avanzado.</p></li><li><p>📏 <strong>Longitud De 10FT</strong> ideal para setups grandes o de sala.</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {

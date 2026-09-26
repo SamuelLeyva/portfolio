@@ -14958,9 +14958,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -15190,9 +15190,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -15544,7 +15544,7 @@
         ],
         "warehousesInStock": [
           "116-true",
-          "4813-true",
+          "4813-false",
           "680-false",
           "3375-false",
           "613-false",
@@ -15552,7 +15552,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-false",
           "1776-false",
           "2193-false",
@@ -21671,9 +21671,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -21787,9 +21787,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 77,
+            "stock": 72,
             "subcontractedid": "",
-            "virtual-stock": 77,
+            "virtual-stock": 72,
             "zip-code": ""
           },
           {
@@ -27990,7 +27990,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -28106,7 +28106,7 @@
             "public": false,
             "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -28345,7 +28345,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p>🛡️ Carcasa de ABS con clasificación IP65, cubierta con cerradura y ventana transparente: resistente al agua, al polvo y a los golpes, apta para interior y exterior en ambientes húmedos</p></li><li><p>⚡ 12 módulos con corriente nominal de 63A y certificación CE: distribución eléctrica segura y fiable para viviendas, oficinas, jardines o piscinas</p></li><li><p>🔧 Entradas de cable prefabricadas en los cuatro laterales: orificios guiados que puedes perforar a medida para adaptar cualquier instalación eléctrica fácilmente</p></li><li><p>📏 Tamaño compacto de 255 × 200 × 108 mm: se instala fácilmente en espacios reducidos sin perder capacidad de distribución</p></li><li><p>🌡️ Soporta temperaturas extremas de -20 °C a +70 °C y cumple con las normas para salas húmedas: ideal para baños, pilas de carga, cuartos de bombas o céspedes</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -54643,9 +54643,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -54904,9 +54904,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": -3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -3,
             "zip-code": ""
           },
           {
@@ -55117,7 +55117,7 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-false",
+          "5018-true",
           "4028-false",
           "3807-false",
           "120-false",
@@ -55126,7 +55126,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-false",
+          "3866-true",
           "611-false",
           "5049-false",
           "3298-false",
@@ -55427,9 +55427,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -55543,9 +55543,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 170,
+            "stock": 168,
             "subcontractedid": "",
-            "virtual-stock": 159,
+            "virtual-stock": 158,
             "zip-code": ""
           },
           {
@@ -65864,9 +65864,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -65980,9 +65980,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 17,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -66450,7 +66450,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
