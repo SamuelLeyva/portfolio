@@ -6662,7 +6662,7 @@
         "sales-price": 520,
         "short-description": "<p>💻 <strong>Lenovo IdeaPad 1 15.6\" FHD (Intel 13th Gen)</strong></p><p>🧠 <strong>Procesador:</strong> Intel Core i5-1335U (13ª Generación, Arquitectura híbrida de rendimiento)</p><p>⚡ <strong>Memoria RAM:</strong> 8GB DDR4 (Velocidad de 3200 MHz)</p><p>💾 <strong>Almacenamiento:</strong> 256GB SSD NVMe (Capacidad total sólida)</p><p>📺 <strong>Pantalla:</strong> 15.6\" Full HD (1920 x 1080) 60Hz, Panel Antirreflejo</p><p>🎨 <strong>Gráficos:</strong> Intel Iris Xe Graphics (Integrados de alto desempeño para tareas diarias)</p><p>🔋 <strong>Batería:</strong> Química de Iones de Litio (Duración estándar para productividad)</p><p>🔌 <strong>Puertos:</strong> 1 x HDMI, 2 x USB-A, Conector de audio combinado (Auriculares/Micrófono), Teclado numérico dedicado</p><p>⚖️ <strong>Peso:</strong> Aprox. 2.63 kg (5.8 libras)</p><p>🪟 <strong>Sistema:</strong> Windows 11 Home (Modo S configurable)</p><p>✨ <strong>Estado:</strong> Nuevo (Color Gris - Incluye enfriador portátil PCO Laptop Cooler)</p>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -24937,7 +24937,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -25292,7 +25292,7 @@
         "sales-price": 19,
         "short-description": "<p>⚡ Salida 19V – 2.1A (40W) para notebooks ASUS</p><p>🔌 Conector de tres pines, 0.098\" × 0.028\" (2.5 × 0.7 mm)</p><p>💻 Compatible con ASUS Eee PC 1001HA, 1005HA, 1008HA, etc.</p><p>🛡️ Protección contra cortocircuitos y sobretensión</p><p></p>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {

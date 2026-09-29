@@ -685,9 +685,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -1042,7 +1042,7 @@
         "sales-price": 106,
         "short-description": "<ul><li><p>📱 Pantalla HD de 6.75\" con bisel ultrafino y tasa de refresco de 120 Hz: una experiencia inmersiva y fluida para películas, lectura, juegos y multitarea</p></li><li><p>📸 Cámara Samsung de 13 MP con grabación 1080P + selfie de 5 MP: captura momentos con color intenso y detalle nítido, con modos Noche, Panorama, Time Lapse, Retrato y Pro</p></li><li><p>⚡ Procesador octa‑core ASR8662: velocidad constante y eficiente, con apps que abren sin demora y multitarea sin esfuerzo</p></li><li><p>💾 3 GB de RAM y 64 de almacenamiento: memoria extendida y espacio ampliable para todas tus apps, fotos y archivos</p></li><li><p>🔋 Batería de 5160 mAh: energía confiable desde la mañana hasta la noche, sin pausas innecesarias</p></li><li><p>🔐 Desbloqueo facial y huella lateral: acceso rápido, seguro y sin interrupciones</p></li><li><p>📶 Wi‑Fi 6, Bluetooth 5.4, GPS+GLONASS+Galileo+Beidou: conexiones veloces, estables y con localización precisa en cualquier lugar</p></li><li><p>🎧 Jack de 3.5 mm y Android 15 con Google Gemini: elige entre audio inalámbrico o con cable y disfruta de una experiencia inteligente, fluida y segura</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -1771,9 +1771,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -2128,7 +2128,7 @@
         "sales-price": 108,
         "short-description": "<ul><li><p>📱 Pantalla HD de 6.9\": una ventana más grande para leer, navegar, hacer streaming y disfrutar de tu contenido con visuales brillantes</p></li><li><p>📸 Cámara Samsung ISOCELL de 13 MP con grabación 1080P + selfie de 8 MP: fotos fieles a la realidad, modo Noche, Panorama, Time Lapse, Retrato y Pro</p></li><li><p>⚡ Procesador Unisoc T7200 octa‑core: rendimiento fluido y multitarea confiable para todas tus tareas diarias</p></li><li><p>💾 4 GB de RAM y 64 GB de almacenamiento: memoria flexible y espacio expandible para apps, fotos y archivos sin preocupaciones</p></li><li><p>🔋 Batería de 5160 mAh: autonomía que va más allá del día, desde la mañana hasta el entretenimiento nocturno</p></li><li><p>🔐 Desbloqueo facial y por huella: acceso rápido, seguro y sin complicaciones</p></li><li><p>📶 Dual 4G Nano SIM, GPS+GLONASS+Galileo+Beidou: posicionamiento preciso y conectividad confiable en ciudad o en campo abierto</p></li><li><p>🎧 Jack de 3.5 mm y Android 14 con Google Gemini: escucha con auriculares con cable y disfruta de una experiencia inteligente, segura y actualizada</p></li><li><p>📐 Ligero (225 g) y delgado (8.2 mm): diseño elegante y cómodo que se desliza fácilmente en tu bolsillo</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -2875,9 +2875,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -3232,7 +3232,7 @@
         "sales-price": 110,
         "short-description": "<ul><li><p>📱 Pantalla HD+ de 6.52\" con notch de gota y 450 nits de brillo: visuales claros y vibrantes incluso bajo luz intensa, con tasa de 60 Hz para deslizamientos suaves</p></li><li><p>📸 Cámara trasera de 13 MP con flash LED, Panorama y HDR + selfie de 5 MP: captura momentos con detalle y versatilidad en cualquier escenario</p></li><li><p>⚡ Unisoc T606 Quad‑core a 1.6 GHz con GPU Mali‑G57 y 16 GB de RAM totales (4 GB físicos + 12 GB extendidos): rendimiento fluido y multitarea sin interrupciones</p></li><li><p>💾 128 GB de almacenamiento interno: espacio de sobra para apps, fotos, videos y archivos importantes</p></li><li><p>🔋 Batería de 5150 mAh no extraíble: hasta 35 horas de llamadas o 18 horas de video HD, con carga por USB‑C de 10 W y OTG para carga inversa</p></li><li><p>📶 Conectividad completa: Bluetooth 5.0, Wi‑Fi Direct y Hotspot, GPS/BEIDOU/GALILEO/GLONASS, radio FM y jack de 3.5 mm</p></li><li><p>🔊 Altavoz de 95 dB: llamadas claras y sonido potente incluso en entornos ruidosos al aire libre</p></li><li><p>📐 Dimensiones de 163.8 × 75.4 × 9.2 mm y 199 g: diseño cómodo y portátil, con Android 15 de fábrica</p></li></ul>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
@@ -5421,7 +5421,7 @@
         "sales-price": 108,
         "short-description": "<ul><li><p>📱 Pantalla IPS TFT de 6.60\" con resolución 540 × 1208 px y 60 Hz: 16.7 millones de colores y una relación pantalla‑cuerpo del 84.4 % para una visualización amplia</p></li><li><p>📸 Cámara principal de 8 MP con autoenfoque, flash LED y zoom digital + cámara de retrato de 5 MP: captura momentos con claridad y agrega desenfoque de fondo a tus retratos</p></li><li><p>⚡ Procesador Unisoc Tiger T603 de 8 núcleos a 1.80 GHz con GPU PowerVR GE8322: rendimiento fluido para apps, navegación y tareas cotidianas</p></li><li><p>💾 64 GB de almacenamiento interno ampliable hasta 2 TB con microSD: espacio de sobra para fotos, apps y archivos</p></li><li><p>🔋 Batería de 4000 mAh con cargador incluido: autonomía para acompañarte durante tu jornada sin preocupaciones</p></li><li><p>🤖 Android 14 Go con 2 GB de RAM: sistema ligero y optimizado para un funcionamiento ágil</p></li><li><p>🔐 Sensor de huellas trasero, acelerómetro, sensor de luz y de acercamiento: acceso seguro y funciones inteligentes para el día a día</p></li><li><p>📶 DualSIM, conectividad LTE, Bluetooth 5.1, WiFi 802.11 a/b/g/n/ac y USB Type‑C con OTG: mantente conectado y comparte datos con facilidad</p></li><li><p>🎧 Puerto de audio de 3.5 mm y radio FM: escucha música y tus emisoras favoritas con comodidad</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -9568,7 +9568,7 @@
         "sales-price": 117,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 64GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -11550,7 +11550,7 @@
         "sales-price": 147,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 63,
+        "stock": 59,
         "stock-enabled": true,
         "tag": [
           {
