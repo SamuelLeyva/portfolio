@@ -167,9 +167,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -60,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -60,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -781,7 +781,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-true",
+          "116-false",
           "4813-true",
           "680-false",
           "3375-false",
@@ -1039,9 +1039,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": -48,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -48,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -1653,7 +1653,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-true",
+          "116-false",
           "4813-true",
           "680-false",
           "3375-false",
@@ -2379,9 +2379,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -2547,7 +2547,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -2564,7 +2564,7 @@
         "sales-price": 40.3,
         "short-description": "<ul><li><p>⌚ Reloj inteligente: funciones básicas de wearable como hora, notificaciones y seguimiento de actividad física para tu día a día</p></li><li><p>🌀 Abanico recargable por USB: refrigeración personal portátil para el escritorio o salidas al aire libre</p></li><li><p>💧 Cepillo de dientes inteligente: cepillo eléctrico recargable con modos básicos para una limpieza diaria eficiente</p></li><li><p>🔋 Banco de energía: batería portátil para recargar teléfonos y dispositivos mientras te desplazas</p></li><li><p>🎧 Auriculares: para llamadas y música, con conexión Bluetooth o jack según el modelo incluido</p></li><li><p>5️⃣ Cinco artículos tecnológicos de uso diario</p></li><li><p>🎁 Opción práctica de regalo: set completo que cubre cuidado personal, refrigeración, energía y audio</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -3532,7 +3532,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 42,
             "updatedAt": 1747229914344
           },
           {
@@ -3545,7 +3545,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 50,
+            "price": 35,
             "updatedAt": 1747229914346
           },
           {
@@ -3556,7 +3556,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 42,
             "updatedAt": 1747229914346
           },
           {
@@ -3568,7 +3568,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 50
+            "price": 35
           },
           {
             "deleted": false,
@@ -3578,7 +3578,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 42,
             "updatedAt": 1747229914347
           },
           {
@@ -3589,7 +3589,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 50,
+            "price": 38,
             "updatedAt": 1747229914347
           }
         ],
@@ -4268,7 +4268,7 @@
         "reference": "PRO07405",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 55,
+        "sales-price": 42,
         "short-description": "<p>🏕️ Ventilador portátil 3 en 1 para camping</p><p>• Batería recargable de 20000 mAh</p><p>• Luz LED integrada</p><p>• Funcionamiento silencioso</p><p>• Diseño portátil alimentado por batería</p><p>• Adecuado para camping y actividades al aire libre</p>",
         "short-description-en": "",
         "stock": 0,
@@ -4466,9 +4466,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 146,
+            "stock": 38,
             "subcontractedid": "",
-            "virtual-stock": 146,
+            "virtual-stock": 38,
             "zip-code": ""
           },
           {
@@ -17145,6 +17145,35 @@
             "zip-code": ""
           },
           {
+            "acronym": "CUR",
+            "active": true,
+            "addres": "Centro Habana",
+            "agent-id": "",
+            "comercialname": "CUR1",
+            "country": "Cuba",
+            "createdAt": 1786569699538,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5018",
+            "idstel": "5018",
+            "isMainReservationWarehouse": false,
+            "isQuarantine": false,
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "Centro Habana",
+            "name": "CUR1.CUR",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "La Habana",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "EJC",
             "active": true,
             "addres": "",
@@ -17435,6 +17464,33 @@
             "zip-code": ""
           },
           {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -17578,62 +17634,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "CUR",
-            "active": true,
-            "addres": "Centro Habana",
-            "agent-id": "",
-            "comercialname": "CUR1",
-            "country": "Cuba",
-            "createdAt": 1786569699538,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5018",
-            "idstel": "5018",
-            "isMainReservationWarehouse": false,
-            "isQuarantine": false,
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "Centro Habana",
-            "name": "CUR1.CUR",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "La Habana",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -17642,6 +17642,7 @@
           "680-false",
           "3375-false",
           "613-false",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -17652,13 +17653,12 @@
           "707-false",
           "3866-false",
           "611-false",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5018-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Splitter Unno Tekno HDMI 4K 30Hz 2 Puertos Deep Color 36-Bit Dolby DTS HDCP 2.2 Plug & Play Para TV y Monitores",
         "productname_en": "",
@@ -17670,7 +17670,7 @@
         "sales-price": 10,
         "short-description": "<ul><li><p>📺 <strong>Duplica Una Fuente HDMI</strong> en 2 pantallas.</p></li><li><p>🎥 <strong>Soporta 4K 30Hz</strong>, formato 3D y Deep Color 36-bit.</p></li><li><p>🔊 <strong>Compatible Con Dolby® y DTS®</strong>.</p></li><li><p>🔌 <strong>Plug &amp; Play + Alimentación USB</strong>.</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
