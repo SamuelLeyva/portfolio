@@ -167,9 +167,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": -12,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -12,
             "zip-code": ""
           },
           {
@@ -312,9 +312,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 71,
+            "stock": 83,
             "subcontractedid": "",
-            "virtual-stock": 71,
+            "virtual-stock": 83,
             "zip-code": ""
           },
           {
@@ -781,7 +781,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-false",
+          "116-true",
           "4813-true",
           "680-false",
           "3375-false",
@@ -1039,9 +1039,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": -10,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -10,
             "zip-code": ""
           },
           {
@@ -1184,9 +1184,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 52,
+            "stock": 62,
             "subcontractedid": "",
-            "virtual-stock": 52,
+            "virtual-stock": 62,
             "zip-code": ""
           },
           {
@@ -1653,7 +1653,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-false",
+          "116-true",
           "4813-true",
           "680-false",
           "3375-false",
@@ -4466,9 +4466,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 38,
+            "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 38,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -4611,9 +4611,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 25,
+            "stock": 37,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 37,
             "zip-code": ""
           },
           {
@@ -7910,9 +7910,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 9,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -8055,9 +8055,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 25,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 25,
             "zip-code": ""
           },
           {
@@ -8524,7 +8524,7 @@
           }
         ],
         "warehousesInStock": [
-          "116-true",
+          "116-false",
           "4813-false",
           "680-false",
           "3375-false",
