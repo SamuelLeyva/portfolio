@@ -859,7 +859,7 @@
         "sales-price": 415,
         "short-description": "<p>💻 Laptop Lenovo IdeaPad Slim 3i para estudio, trabajo, navegación y entretenimiento diario.</p><p>⚡ Procesador Intel Core i3-N305 de 8 núcleos con velocidad turbo de hasta 3.8 GHz.</p><p>🧠 8GB de memoria LPDDR5 a 4800 MHz para multitarea cotidiana.</p><p>💾 Almacenamiento UFS de 128GB para archivos, documentos y contenido multimedia.</p><p>🖥️ Pantalla LCD TN de 15.6” Full HD 1920 x 1080 con brillo de 250 nits.</p><p>👀 Pantalla con certificación TÜV de baja luz azul para mayor comodidad visual.</p><p>🔋 Batería de hasta 8 horas con Rapid Charge Boost.</p><p>📹 Cámara HD 720p con obturador de privacidad para videollamadas.</p><p>🔌 Conectividad con USB-C 3.2, USB-A 3.2, HDMI 1.4, Wi-Fi 6 y Bluetooth.</p><p>🪟 Windows 11 Home en Modo S con Copilot en Windows.</p><p>🎒 Diseño delgado de 0.7” y peso de 3.41 lb en color Arctic Grey.</p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -1572,6 +1572,33 @@
             "zip-code": ""
           },
           {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -1715,33 +1742,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -1761,12 +1761,12 @@
           "707-false",
           "3866-false",
           "611-false",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Acer - Aspire Lite 15 Laptop - 15.6\" FHD IPS - Intel Core 3 Series 1 N350 - Intel Graphics - 8GB Onboard - 128GB PCIe SSD - Ligh",
         "productname_en": "",
@@ -1778,7 +1778,7 @@
         "sales-price": 415,
         "short-description": "<p>💻 Laptop Acer Aspire Lite 15 para tareas esenciales, estudio, trabajo y entretenimiento diario.</p><p>⚡ Procesador Intel Core 3 Series 1 N350 con 8 núcleos y velocidad turbo de hasta 3.9 GHz.</p><p>🧠 8GB de memoria DDR4 onboard, expandible hasta 16GB.</p><p>💾 SSD PCIe de 128GB para guardar archivos, documentos y contenido multimedia.</p><p>🖥️ Pantalla IPS de 15.6” Full HD 1920 x 1080 con imágenes claras y definidas.</p><p>🔋 Batería de hasta 12.5 horas con tecnología de ion de litio.</p><p>📹 Cámara HD 720p con obturador de privacidad para videollamadas.</p><p>🔌 Conectividad completa con USB-C, USB-A, HDMI 1.4, Wi-Fi 5 y Bluetooth 5.0 o superior.</p><p>🪟 Windows 11 Home en Modo S con tecla Copilot para acceso rápido al asistente de IA.</p><p>🎒 Diseño delgado de 0.78” y peso de 3.37 lb en color Plata Claro.</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
