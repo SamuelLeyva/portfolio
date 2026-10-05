@@ -193,9 +193,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -6648,9 +6648,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -6849,9 +6849,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -7010,14 +7010,14 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
           "3866-false",
           "611-true",
-          "5049-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -7914,7 +7914,7 @@
         "sales-price": 35,
         "short-description": "<p>🔌 Cable bidireccional para estaciones de energía y baterías de respaldo</p><p>• Compatible con EcoFlow Delta 2 y Delta 3, según la ficha</p><p>• Transmisión bidireccional de corriente de hasta 50 A</p><p>• Diseño de tres puertos para carga y descarga</p><p>• Cable industrial de calibre 8 AWG</p><p>• Compatible con conexión directa a baterías de 51,2 V y 100 Ah</p><p>• Carcasa de ABS resistente a temperaturas de hasta 100 °C</p><p>• Ideal para sistemas aislados, vehículos recreativos y almacenamiento de energía doméstico</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
@@ -10112,7 +10112,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -22522,7 +22522,7 @@
             "public": false,
             "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -22638,7 +22638,7 @@
             "public": false,
             "stock": 62,
             "subcontractedid": "",
-            "virtual-stock": 61,
+            "virtual-stock": 62,
             "zip-code": ""
           },
           {
@@ -31776,33 +31776,21 @@
             "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8b983438-504c-4019-d952-ae3f5faa1300/public"
           },
           {
-            "id": "04f676ef-007f-4132-c1b4-80343f342700",
-            "idstel": "4484626",
-            "order": 1,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/04f676ef-007f-4132-c1b4-80343f342700/public"
-          },
-          {
             "id": "c6263f84-0dc7-4238-e3b6-b015f510ad00",
             "idstel": "4484623",
-            "order": 2,
+            "order": 1,
             "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/c6263f84-0dc7-4238-e3b6-b015f510ad00/public"
           },
           {
             "id": "8f8998b6-5798-4b00-2828-ba1090a5ce00",
             "idstel": "4484625",
-            "order": 3,
+            "order": 2,
             "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8f8998b6-5798-4b00-2828-ba1090a5ce00/public"
-          },
-          {
-            "id": "a0437b80-128c-4884-7c22-fb379d064e00",
-            "idstel": "4484621",
-            "order": 4,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/a0437b80-128c-4884-7c22-fb379d064e00/public"
           },
           {
             "id": "8b71fb1e-3128-47b0-72c1-36f5e13ff300",
             "idstel": "4484622",
-            "order": 5,
+            "order": 3,
             "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/8b71fb1e-3128-47b0-72c1-36f5e13ff300/public"
           }
         ],
@@ -60160,9 +60148,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -60517,7 +60505,7 @@
         "sales-price": 425,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -66686,7 +66674,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
             "virtual-stock": 1,
             "zip-code": ""
@@ -66804,7 +66792,7 @@
             "public": false,
             "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 14,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -67272,7 +67260,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-true",
+          "4813-false",
           "680-false",
           "3375-false",
           "613-false",
