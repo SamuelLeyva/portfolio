@@ -685,9 +685,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -1019,7 +1019,7 @@
           "3807-false",
           "120-false",
           "2820-true",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -1042,7 +1042,7 @@
         "sales-price": 106,
         "short-description": "<ul><li><p>📱 Pantalla HD de 6.75\" con bisel ultrafino y tasa de refresco de 120 Hz: una experiencia inmersiva y fluida para películas, lectura, juegos y multitarea</p></li><li><p>📸 Cámara Samsung de 13 MP con grabación 1080P + selfie de 5 MP: captura momentos con color intenso y detalle nítido, con modos Noche, Panorama, Time Lapse, Retrato y Pro</p></li><li><p>⚡ Procesador octa‑core ASR8662: velocidad constante y eficiente, con apps que abren sin demora y multitarea sin esfuerzo</p></li><li><p>💾 3 GB de RAM y 64 de almacenamiento: memoria extendida y espacio ampliable para todas tus apps, fotos y archivos</p></li><li><p>🔋 Batería de 5160 mAh: energía confiable desde la mañana hasta la noche, sin pausas innecesarias</p></li><li><p>🔐 Desbloqueo facial y huella lateral: acceso rápido, seguro y sin interrupciones</p></li><li><p>📶 Wi‑Fi 6, Bluetooth 5.4, GPS+GLONASS+Galileo+Beidou: conexiones veloces, estables y con localización precisa en cualquier lugar</p></li><li><p>🎧 Jack de 3.5 mm y Android 15 con Google Gemini: elige entre audio inalámbrico o con cable y disfruta de una experiencia inteligente, fluida y segura</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -4015,7 +4015,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -53,
+            "virtual-stock": -60,
             "zip-code": ""
           },
           {
@@ -12698,7 +12698,7 @@
         "sales-price": 150,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
