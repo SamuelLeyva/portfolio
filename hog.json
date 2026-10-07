@@ -3073,9 +3073,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 21,
+            "stock": 23,
             "subcontractedid": "",
-            "virtual-stock": 21,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -3430,7 +3430,7 @@
         "sales-price": 48,
         "short-description": "<ul><li><p>🔋 Batería de 20000 mAh con función de power bank: hasta 60 horas de uso en nivel 1 y salida USB para cargar tus dispositivos </p></li><li><p>🌀 Oscilación automática de 90° y 45° con rotación libre: ajusta la dirección del aire según tu espacio, incluso colgado o sobre plataforma </p></li><li><p>💡 Luz LED de 3 niveles: iluminación fuerte de hasta 40 horas o modo tenue de hasta 140 horas, ideal para camping, emergencias y noches sin electricidad </p></li><li><p>📱 Control remoto con alcance de 3 m y ángulo de 120°: cambia velocidad, luz, temporizador y rotación sin levantarte </p></li><li><p>🌙 Modo sleep y temporizador programable (1H, 2H, 4H, 8H): apaga las luces indicadoras y programa el apagado para dormir sin molestias </p></li><li><p>🔌 Entrada y salida USB‑C 5V‑3A: carga completa en 9‑10 horas y compatible con múltiples dispositivos externos </p></li><li><p>🛡️ Diseño industrial anti‑golpes, firme y duradero: apto para uso rudo en exteriores, con carga y uso simultáneo desde fuentes DC 5V</p></li></ul>",
         "short-description-en": "",
-        "stock": 21,
+        "stock": 23,
         "stock-enabled": true,
         "tag": [
           {
@@ -10351,7 +10351,8 @@
         "attribute": [],
         "category": [
           "R4z4HLoKLiN6zmhVz0Rm",
-          "cMxTKjltE5VHAnK11AOH"
+          "cMxTKjltE5VHAnK11AOH",
+          "4eNdnGEYrgkx9ulVbEC6"
         ],
         "compatibility": [],
         "deleted": false,
@@ -11260,8 +11261,8 @@
           }
         ],
         "category": [
-          "R4z4HLoKLiN6zmhVz0Rm",
-          "cMxTKjltE5VHAnK11AOH"
+          "cMxTKjltE5VHAnK11AOH",
+          "4eNdnGEYrgkx9ulVbEC6"
         ],
         "compatibility": [],
         "deleted": false,
@@ -26726,7 +26727,8 @@
         "attribute": [],
         "category": [
           "R4z4HLoKLiN6zmhVz0Rm",
-          "cMxTKjltE5VHAnK11AOH"
+          "cMxTKjltE5VHAnK11AOH",
+          "4eNdnGEYrgkx9ulVbEC6"
         ],
         "compatibility": [],
         "deleted": false,
@@ -27526,12 +27528,12 @@
           "11399"
         ],
         "special-tags": {
+          "advertisements": [],
+          "international-shipments": [],
           "location-restrictions": [],
           "special-products": [],
           "store-pickup": [],
-          "international-shipments": [],
-          "warranties-info": [],
-          "advertisements": []
+          "warranties-info": []
         }
       },
       "sort": [
@@ -27553,8 +27555,8 @@
         "buildservice": [],
         "attribute": [],
         "category": [
-          "R4z4HLoKLiN6zmhVz0Rm",
-          "cMxTKjltE5VHAnK11AOH"
+          "cMxTKjltE5VHAnK11AOH",
+          "4eNdnGEYrgkx9ulVbEC6"
         ],
         "compatibility": [],
         "deleted": false,
@@ -28092,9 +28094,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -28124,6 +28126,33 @@
             "stock": 0,
             "subcontractedid": "",
             "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 1,
+            "subcontractedid": "",
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -28270,33 +28299,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -28314,14 +28316,14 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
+          "5049-true",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Plancha Para el Pelo Hot Line. Placas de cerámica-Proteína de Keratina - Purpura",
         "productname_en": "",
@@ -28354,12 +28356,12 @@
           "11399"
         ],
         "special-tags": {
+          "advertisements": [],
+          "international-shipments": [],
           "location-restrictions": [],
           "special-products": [],
           "store-pickup": [],
-          "international-shipments": [],
-          "warranties-info": [],
-          "advertisements": []
+          "warranties-info": []
         }
       },
       "sort": [
