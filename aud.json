@@ -3068,9 +3068,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -3213,9 +3213,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -3542,7 +3542,7 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-false",
+          "5018-true",
           "4028-false",
           "3807-false",
           "120-false",
@@ -3570,7 +3570,7 @@
         "sales-price": 36.8,
         "short-description": "<ul><li><p>🚜 Diseño moderno de tractor con ruedas movibles: réplica decorativa y llamativa para escritorios, estantes o colecciones</p></li><li><p>🔊 Bluetooth + TWS: transmite audio inalámbrico o empareja dos unidades WS‑560 para sonido estéreo sincronizado en fiestas o en casa</p></li><li><p>📻 Múltiples modos de reproducción: compatible con FM, USB y tarjeta TF con sonido HD nítido para escuchar en casa, en el trabajo o de viaje</p></li><li><p>🎤 Micrófono integrado y manos libres: atiende llamadas directamente desde el altavoz mientras disfrutas de tu música</p></li><li><p>🎁 Regalo divertido y portátil: combina diseño de tractor con funcionalidad completa de altavoz, ideal para fanáticos de la electrónica y del diseño automotriz</p></li><li><p>💡 Luz LED integrada y 12 W de potencia: sonido estéreo potente con un toque visual llamativo</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -9198,9 +9198,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9560,7 +9560,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",

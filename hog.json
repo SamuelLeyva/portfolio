@@ -8055,9 +8055,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 21,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 21,
             "zip-code": ""
           },
           {
@@ -8200,9 +8200,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": -2,
             "zip-code": ""
           },
           {
@@ -8557,7 +8557,7 @@
         "sales-price": 37,
         "short-description": "<ul><li><p>☀️ Carga solar con batería de 2000 mAh: hasta 8 horas de autonomía y función de power bank para recargar tus dispositivos</p></li><li><p>📐 Diseño plegable, compacto y ligero (514 g): fácil de guardar y transportar a cualquier lugar</p></li><li><p>💨 4 velocidades ajustables: desde una brisa suave hasta un caudal potente para cubrir todas tus necesidades de ventilación</p></li><li><p>💡 Luz LED integrada: iluminación ambiental suave para noches al aire libre o entornos oscuros</p></li><li><p>🛡️ Construcción duradera de plástico de alta calidad: diseñado para resistir el uso en exteriores y acompañarte durante mucho tiempo</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
