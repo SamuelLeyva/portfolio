@@ -1778,7 +1778,7 @@
         "sales-price": 415,
         "short-description": "<p>💻 Laptop Acer Aspire Lite 15 para tareas esenciales, estudio, trabajo y entretenimiento diario.</p><p>⚡ Procesador Intel Core 3 Series 1 N350 con 8 núcleos y velocidad turbo de hasta 3.9 GHz.</p><p>🧠 8GB de memoria DDR4 onboard, expandible hasta 16GB.</p><p>💾 SSD PCIe de 128GB para guardar archivos, documentos y contenido multimedia.</p><p>🖥️ Pantalla IPS de 15.6” Full HD 1920 x 1080 con imágenes claras y definidas.</p><p>🔋 Batería de hasta 12.5 horas con tecnología de ion de litio.</p><p>📹 Cámara HD 720p con obturador de privacidad para videollamadas.</p><p>🔌 Conectividad completa con USB-C, USB-A, HDMI 1.4, Wi-Fi 5 y Bluetooth 5.0 o superior.</p><p>🪟 Windows 11 Home en Modo S con tecla Copilot para acceso rápido al asistente de IA.</p><p>🎒 Diseño delgado de 0.78” y peso de 3.37 lb en color Plata Claro.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -39407,7 +39407,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
