@@ -2145,7 +2145,7 @@
         "sales-price": 117,
         "short-description": "<ul><li><p>📱 Pantalla HD+ de 6.75\" con bisel ultrafino y tasa de refresco de 120 Hz: una experiencia inmersiva, fluida y sin interrupciones para series, juegos y redes sociales</p></li><li><p>📸 Cámara principal Samsung de 13 MP con grabación 1080P + selfie de 5 MP: captura cada momento con detalle nítido, color vivo y modos como Noche, Panorama, Time Lapse, Retrato y Pro</p></li><li><p>⚡ 3 GB de RAM: multitarea equilibrada, cambio ágil de aplicaciones y rendimiento estable para el día a día</p></li><li><p>💾 128 GB de almacenamiento interno: espacio de sobra para fotos, videos, aplicaciones y archivos importantes</p></li><li><p>🔋 Batería de 5160 mAh: autonomía para reuniones, películas, mensajería y todo lo demás sin quedarte sin energía</p></li><li><p>🔐 Desbloqueo facial y huella lateral: acceso rápido, seguro y conveniente con un solo gesto o toque</p></li><li><p>📶 Wi-Fi 6, Bluetooth 5.4, GPS + GLONASS + Galileo + Beidou: conectividad veloz, estable y de alta precisión dondequiera que estés</p></li><li><p>🎧 Jack de 3.5 mm y Android 15 con Google Gemini: escucha como prefieras y disfruta de una experiencia inteligente, segura y actualizada</p></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
@@ -7086,7 +7086,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -7441,7 +7441,7 @@
         "sales-price": 198,
         "short-description": "<p>El Samsung Galaxy A17 ofrece un equilibrio perfecto entre rendimiento y elegancia con 4 GB de RAM y 128 GB de almacenamiento. Su sofisticado color negro y pantalla Super AMOLED brindan colores vibrantes y contrastes profundos. Este combo incluye funda protectora, mica de cristal templado y audífonos para una experiencia completa desde el primer momento.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -9331,9 +9331,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": -30,
+            "virtual-stock": -28,
             "zip-code": ""
           },
           {
@@ -9688,7 +9688,7 @@
         "sales-price": 199.99,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.9\" Full HD+ IPS LCD, 144Hz</p><p>📸 <strong>Cámara trasera:</strong> 50MP</p><p>📸 <strong>Cámara frontal:</strong> 8MP</p><p>⚡ <strong>Batería:</strong> 7000 mAh con carga rápida 33W</p><p>⚡ <strong>Procesador:</strong> Qualcomm Snapdragon 685</p><p>🧠 <strong>Ram:</strong> 8GB</p><p>💾 <strong>Almacenamiento:</strong> 256GB (expandible con microSD)</p><p>📶 <strong>Conectividad:</strong> Redes 4G LTE, Wi-Fi, Bluetooth, Dual SIM</p><p></p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {

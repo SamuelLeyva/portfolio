@@ -2041,7 +2041,7 @@
             "public": false,
             "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -7559,7 +7559,7 @@
             "public": false,
             "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -7914,7 +7914,7 @@
         "sales-price": 35,
         "short-description": "<p>Cable adaptador para conectar baterías externas <strong>LiFePO₄ de 48V/51.2V</strong> al puerto de expansión de estaciones EcoFlow compatibles. Permite ampliar significativamente la capacidad energética utilizando baterías externas de gran capacidad. Compatible con <strong>EcoFlow DELTA 2, DELTA 2 Max, DELTA 3 y DELTA 3 Plus</strong>.</p>",
         "short-description-en": "",
-        "stock": 9,
+        "stock": 10,
         "stock-enabled": true,
         "tag": [
           {
@@ -9903,12 +9903,6 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "c2d3f7cd-1ac3-4334-6f06-fe2b2ad47200",
-            "idstel": "4550465",
-            "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/c2d3f7cd-1ac3-4334-6f06-fe2b2ad47200/public"
-          },
-          {
             "id": "d8ec1d91-e868-4cce-68f8-1d6ce5813400",
             "idstel": "4550461",
             "order": 1,
@@ -9985,6 +9979,12 @@
             "idstel": "4550467",
             "order": 13,
             "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/cf506f65-e823-40dd-cc33-3032075b0700/public"
+          },
+          {
+            "id": "05cb32c3-9742-46de-aa89-9bec4e7a9800",
+            "idstel": "4714717",
+            "order": 0,
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/05cb32c3-9742-46de-aa89-9bec4e7a9800/public"
           }
         ],
         "item-rates": [
@@ -22529,7 +22529,7 @@
             "public": false,
             "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -22645,7 +22645,7 @@
             "public": false,
             "stock": 61,
             "subcontractedid": "",
-            "virtual-stock": 60,
+            "virtual-stock": 61,
             "zip-code": ""
           },
           {
@@ -54489,7 +54489,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -54605,7 +54605,7 @@
             "public": false,
             "stock": 153,
             "subcontractedid": "",
-            "virtual-stock": 152,
+            "virtual-stock": 153,
             "zip-code": ""
           },
           {
@@ -56450,7 +56450,7 @@
             "public": false,
             "stock": 39,
             "subcontractedid": "",
-            "virtual-stock": 38,
+            "virtual-stock": 39,
             "zip-code": ""
           },
           {
@@ -56595,7 +56595,7 @@
             "public": false,
             "stock": 27,
             "subcontractedid": "",
-            "virtual-stock": 28,
+            "virtual-stock": 27,
             "zip-code": ""
           },
           {
@@ -56950,7 +56950,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 28,
+        "stock": 27,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
