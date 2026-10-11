@@ -11008,7 +11008,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -11363,7 +11363,7 @@
         "sales-price": 27,
         "short-description": "<ul><li><p>🔊 Dos parlantes de 45 mm con 10 W de potencia total (5 W×2): sonido claro y envolvente para entrenamientos, paseos o fiestas al aire libre</p></li><li><p>📡 Conectividad Bluetooth 5.3 con chip JL AC6965E: conexión estable, rápida y compatible con tus dispositivos favoritos</p></li><li><p>🎛️ Múltiples modos de reproducción: Bluetooth, FM, tarjeta TF, USB y AUX para escuchar música como prefieras</p></li><li><p>🔋 Batería de 1200 mAh: hasta 3 horas de uso continuo con un tiempo de carga de 3 horas</p></li><li><p>🛡️ Cuerpo de ABS resistente y diseño compacto (171.5 × 68 × 66 mm, 348 g): ligera, duradera y fácil de llevar a cualquier lugar</p></li><li><p>📦 Incluye cable de carga y manual de usuario</p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
