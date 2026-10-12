@@ -193,9 +193,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -3633,7 +3633,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 899,
+            "price": 889,
             "updatedAt": 1747229914346
           },
           {
@@ -3677,7 +3677,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 930,
+            "price": 880,
             "updatedAt": 1747229914347
           }
         ],
@@ -4432,7 +4432,7 @@
         "description": "<p>☀️ Inversor Solar Híbrido Anenji ANJ-4.2KW-LV-W de 4.2KW</p><p>El inversor solar híbrido Anenji ANJ-4.2KW-LV-W integra conversión de energía, carga solar MPPT y carga mediante corriente alterna en un equipo diseñado para sistemas de baterías de 24V. Su potencia nominal de 4.2KW y salida de onda sinusoidal pura permiten gestionar la energía con una señal estable de 110/120VAC.</p><p>Su entrada fotovoltaica admite hasta 6200W, con un amplio rango MPPT de 60VDC a 450VDC y un voltaje máximo de circuito abierto de 500VDC. Estas características lo convierten en una solución funcional para instalaciones solares y sistemas domésticos de respaldo energético ante cortes eléctricos, siempre que el sistema completo esté correctamente dimensionado.</p><p>🔋 Ventajas clave</p><p>• Potencia nominal de 4.2KVA/4.2KW</p><p>• Potencia de arranque de hasta 8400VA</p><p>• Salida de onda sinusoidal pura</p><p>• Eficiencia máxima de 97% desde la entrada fotovoltaica</p><p>• Eficiencia máxima de 93% desde la batería</p><p>• Controlador solar MPPT integrado</p><p>• Método de carga CC/CV</p><p>• Tiempo de transferencia de 10ms para computadoras y 20ms para electrodomésticos</p><p>• Detección automática de frecuencia de 50Hz o 60Hz</p><p>☀️ Entrada solar y carga</p><p>• Potencia fotovoltaica máxima admitida de 6200W</p><p>• Voltaje máximo de circuito abierto fotovoltaico de 500VDC</p><p>• Rango de voltaje MPPT de 60VDC a 450VDC</p><p>• Corriente máxima de entrada solar de 27A</p><p>• Corriente máxima de carga solar de 120A</p><p>• Corriente máxima de carga por corriente alterna de 60A</p><p>• Corriente máxima total de carga de 120A</p><p>📐 Especificaciones técnicas</p><p>• Modelo: ANJ-4.2KW-LV-W</p><p>• Capacidad: 4.2KVA/4.2KW</p><p>• Voltaje nominal de entrada: 110/120VAC</p><p>• Rango de entrada para computadoras: 95-140VAC</p><p>• Rango de entrada para electrodomésticos: 70-140VAC</p><p>• Voltaje nominal de salida: 110/120VAC ±5%</p><p>• Frecuencia: 50/60Hz</p><p>• Voltaje de batería: 24VDC</p><p>• Voltaje de carga flotante: 27VDC</p><p>• Protección contra sobrecarga de batería: 32VDC</p><p>• Factor de cresta: 3:1</p><p>• Factor de potencia admisible: 0.6 a 1, inductivo o capacitivo</p><p>• Protección contra sobrecarga: 5 segundos con carga igual o superior al 140%; 10 segundos entre 110% y 140%</p><p>📏 Diseño y condiciones de operación</p><p>• Dimensiones: 368 × 312.4 × 120.5mm</p><p>• Peso neto: 7.4kg</p><p>• Protección: IP21</p><p>• Temperatura de operación: -10°C a 50°C</p><p>• Humedad admitida: 5% a 95% sin condensación</p><p>• Comunicación: RS485, RS232 y contacto seco</p><p>• Operación en paralelo: no disponible</p><p>• Operación en fase dividida: no disponible</p>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 0,
+        "discount-percentage": 12.25,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -4540,7 +4540,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 478,
+            "price": 410,
             "updatedAt": 1747229914347
           }
         ],
@@ -22527,9 +22527,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -28829,9 +28829,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 36,
+            "stock": 39,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -29186,7 +29186,7 @@
         "sales-price": 22,
         "short-description": "<p>💡 Iluminación LED inalámbrica para espacios interiores</p><p>• Batería recargable, sin necesidad de cableado</p><p>• Sensor de movimiento para encendido práctico</p><p>• Control remoto incluido</p><p>• Tres tonos de luz ajustables</p><p>• Intensidad regulable según cada ambiente</p><p>• Ideal para clósets, duchas, despensas, cobertizos y pasillos</p>",
         "short-description-en": "",
-        "stock": 36,
+        "stock": 39,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -53763,9 +53763,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -53908,9 +53908,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 11,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -54024,9 +54024,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": -3,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": -3,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -54237,7 +54237,7 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
@@ -54265,7 +54265,7 @@
         "sales-price": 830,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Permite expandir</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -54663,9 +54663,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 153,
+            "stock": 152,
             "subcontractedid": "",
-            "virtual-stock": 153,
+            "virtual-stock": 152,
             "zip-code": ""
           },
           {
@@ -55506,9 +55506,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 9,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -55624,7 +55624,7 @@
             "public": false,
             "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {

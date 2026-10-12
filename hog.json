@@ -2928,9 +2928,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": -1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -3044,9 +3044,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -3073,9 +3073,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 23,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 23,
+            "virtual-stock": 19,
             "zip-code": ""
           },
           {
@@ -3402,11 +3402,11 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -3430,7 +3430,7 @@
         "sales-price": 48,
         "short-description": "<ul><li><p>🔋 Batería de 20000 mAh con función de power bank: hasta 60 horas de uso en nivel 1 y salida USB para cargar tus dispositivos </p></li><li><p>🌀 Oscilación automática de 90° y 45° con rotación libre: ajusta la dirección del aire según tu espacio, incluso colgado o sobre plataforma </p></li><li><p>💡 Luz LED de 3 niveles: iluminación fuerte de hasta 40 horas o modo tenue de hasta 140 horas, ideal para camping, emergencias y noches sin electricidad </p></li><li><p>📱 Control remoto con alcance de 3 m y ángulo de 120°: cambia velocidad, luz, temporizador y rotación sin levantarte </p></li><li><p>🌙 Modo sleep y temporizador programable (1H, 2H, 4H, 8H): apaga las luces indicadoras y programa el apagado para dormir sin molestias </p></li><li><p>🔌 Entrada y salida USB‑C 5V‑3A: carga completa en 9‑10 horas y compatible con múltiples dispositivos externos </p></li><li><p>🛡️ Diseño industrial anti‑golpes, firme y duradero: apto para uso rudo en exteriores, con carga y uso simultáneo desde fuentes DC 5V</p></li></ul>",
         "short-description-en": "",
-        "stock": 23,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [
           {
@@ -8611,7 +8611,7 @@
         "description": "<p>La Mini Sartén Eléctrica Antiadherente de 1.5 litros está pensada para quienes buscan una cocción rápida, cómoda y sin complicaciones en un formato compacto y de bajo consumo. Su recubrimiento antiadherente de alta calidad, el control de temperatura ajustable y el cuerpo de acero inoxidable ofrecen un rendimiento fiable para preparar porciones individuales o acompañamientos con total facilidad. Disponible en blanco y verde, esta sartén de 350 W es ideal para cocinas pequeñas, estudiantes o cualquier persona que valore la limpieza rápida y la eficiencia energética.</p><p>🍳 Cocción antiadherente y fácil limpieza</p><ul><li><p>Recubrimiento antiadherente duradero que garantiza que los alimentos se deslicen sin esfuerzo y no se peguen, facilitando tanto la cocción como la limpieza posterior.</p></li><li><p>Perfecta para preparar huevos, tortillas, salteados, crepes y mucho más sin necesidad de exceso de aceite, promoviendo una alimentación más saludable.</p></li><li><p>Una herramienta imprescindible para el cocinero casero que quiere resultados impecables sin perder tiempo frotando.</p></li></ul><p>🌡️ Control de temperatura preciso y seguro</p><ul><li><p>Termostato automático ajustable que te permite seleccionar exactamente la temperatura deseada: desde un fuego lento para salsas hasta una cocción más intensa para sellar carnes o verduras.</p></li><li><p>El control preciso garantiza una experiencia de cocción segura, evitando sobrecalentamientos y manteniendo el calor estable durante todo el proceso.</p></li></ul><p>💪 Cuerpo robusto y tapa que deja ver el progreso</p><ul><li><p>Cuerpo de acero inoxidable, resistente al calor y a la corrosión, que aporta durabilidad y un acabado elegante en la encimera.</p></li><li><p>Tapa de vidrio templado que resiste altas temperaturas y te permite controlar visualmente la cocción sin necesidad de destaparla, conservando el calor y la humedad.</p></li></ul><p>📏 Diseño compacto y versátil para cualquier espacio</p><ul><li><p>Capacidad de 1.5 litros y forma redonda (diámetro de 19 cm, longitud total de 36 cm incluyendo el mango), pensada para cocinar porciones pequeñas sin ocupar espacio de más.</p></li><li><p>Ligera y fácil de guardar, se adapta a cocinas con poco espacio, estudios, caravanas o incluso para llevar a una escapada de fin de semana.</p></li><li><p>Peso bruto de solo 1.5 kg (con embalaje) que la hace manejable y práctica para el día a día.</p></li></ul><p>⚡ Eficiencia energética de 350 W</p><ul><li><p>Con un consumo moderado de 350 W y voltaje de 220 V, esta sartén eléctrica ofrece un rendimiento equilibrado sin disparar la factura de la luz.</p></li><li><p>Alcanza la temperatura deseada rápidamente, cocinando de forma eficiente y manteniendo un bajo impacto energético en el hogar.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Personas que viven solas o parejas que preparan comidas rápidas sin encender grandes fuegos.</p></li><li><p>Estudiantes que disponen de una cocina reducida y necesitan un electrodoméstico sencillo, limpio y que no requiera instalación.</p></li><li><p>Amantes de los desayunos, meriendas y cenas ligeras que quieran elaborar tortillas, salteados o crepes con mínima grasa y máxima comodidad.</p></li><li><p>Aquellos que buscan una segunda sartén eléctrica para acompañamientos mientras cocinan el plato principal, optimizando tiempos y energía.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
-        "discount-percentage": 0,
+        "discount-percentage": 15.27,
         "inactive": false,
         "isCatalog": false,
         "onlyBougth": false,
@@ -8638,7 +8638,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 59,
             "updatedAt": 1747229914344
           },
           {
@@ -8651,7 +8651,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 48,
+            "price": 40,
             "updatedAt": 1747229914346
           },
           {
@@ -8662,7 +8662,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55,
+            "price": 59,
             "updatedAt": 1747229914346
           },
           {
@@ -8674,7 +8674,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 55
+            "price": 59
           },
           {
             "deleted": false,
@@ -9374,7 +9374,7 @@
         "reference": "PRO07301",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 55,
+        "sales-price": 59,
         "short-description": "<ul><li><p>🧼 Recubrimiento antiadherente de alta calidad: los alimentos se desprenden con facilidad y la limpieza es rápida y sin esfuerzo</p></li><li><p>🌡️ Control de temperatura con termostato automático: ajuste preciso desde cocción a fuego lento hasta sellado, para resultados perfectos</p></li><li><p>🛡️ Cuerpo de acero inoxidable y tapa de vidrio templado: durabilidad, resistencia al calor y visibilidad total del proceso de cocción</p></li><li><p>📏 Diseño compacto y versátil: capacidad de 1.5 L ideal para cocinas pequeñas o porciones individuales</p></li><li><p>⚡ Eficiencia energética de 350 W: excelente equilibrio entre rendimiento culinario y ahorro de energía</p></li></ul>",
         "short-description-en": "",
         "stock": 19,
