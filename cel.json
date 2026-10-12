@@ -678,7 +678,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -17,
+            "virtual-stock": -18,
             "zip-code": ""
           },
           {
@@ -2775,7 +2775,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -57,
+            "virtual-stock": -59,
             "zip-code": ""
           },
           {
@@ -7739,7 +7739,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -73,
+            "virtual-stock": -79,
             "zip-code": ""
           },
           {
@@ -14782,7 +14782,7 @@
         "sales-price": 199.99,
         "short-description": "<p>📱 <strong>Pantalla:</strong> 6.9\" Full HD+ IPS LCD, 144Hz</p><p>📸 <strong>Cámara trasera:</strong> 50MP</p><p>📸 <strong>Cámara frontal:</strong> 8MP</p><p>⚡ <strong>Batería:</strong> 7000 mAh con carga rápida 33W</p><p>⚡ <strong>Procesador:</strong> Qualcomm Snapdragon 685</p><p>🧠 <strong>Ram:</strong> 8GB</p><p>💾 <strong>Almacenamiento:</strong> 256GB (expandible con microSD)</p><p>📶 <strong>Conectividad:</strong> Redes 4G LTE, Wi-Fi, Bluetooth, Dual SIM</p><p></p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
