@@ -41806,9 +41806,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -41922,9 +41922,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -42140,11 +42140,11 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "5049-false",
           "3298-false",
@@ -42163,7 +42163,7 @@
         "sales-price": 188,
         "short-description": "<ul><li><p>🖥️✨ <strong>Monitor MSI Pro MP243XW</strong> – Rendimiento versátil para trabajo y entretenimiento.</p></li><li><p>🌈 <strong>Pantalla IPS de 24\" Full HD (1920x1080)</strong>: colores vivos y ángulos de visión superiores.</p></li><li><p>⚡ <strong>Fluidez en movimiento</strong>: frecuencia optimizada para una experiencia más suave.</p></li><li><p>🎮 <strong>Tecnología AMD FreeSync</strong>: elimina el tearing y mejora la inmersión en juegos y videos.</p></li><li><p>🖼️ <strong>Diseño moderno y funcional</strong>: perfecto para oficinas, estudios y setups gaming.</p></li><li><p>🌐 <strong>Uso versátil</strong>: ideal para productividad, multimedia y entretenimiento.</p></li><li><p>✅ <strong>Beneficio clave</strong>: calidad de imagen superior con rendimiento estable y confiable</p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {

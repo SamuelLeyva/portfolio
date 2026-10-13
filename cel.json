@@ -4926,9 +4926,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -4955,7 +4955,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
             "virtual-stock": 2,
             "zip-code": ""
@@ -5288,7 +5288,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -11071,9 +11071,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -11428,7 +11428,7 @@
         "sales-price": 157,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
