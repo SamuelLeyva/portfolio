@@ -22555,9 +22555,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -22889,7 +22889,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -22912,7 +22912,7 @@
         "sales-price": 280,
         "short-description": "<ul><li><p><strong>Multifuncional 3 en 1:</strong> Imprime, copia y escanea con total confianza. ✅</p></li><li><p><strong>Adiós a los Cartuchos:</strong> Sistema de tanque que ahorra hasta un <strong>90%</strong> en tinta. 💰</p></li><li><p><strong>Conexión Flexible:</strong> Imprime de forma inalámbrica o por cable. 📶</p></li><li><p><strong>Gran Capacidad:</strong> Bandeja para <strong>100 hojas</strong>, lista para el trabajo pesado. 📄</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
