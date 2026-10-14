@@ -193,9 +193,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -570,9 +570,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 17,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -779,7 +779,7 @@
         ],
         "warehousesInStock": [
           "116-true",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
@@ -7914,7 +7914,7 @@
         "sales-price": 35,
         "short-description": "<p>Cable adaptador para conectar baterías externas <strong>LiFePO₄ de 48V/51.2V</strong> al puerto de expansión de estaciones EcoFlow compatibles. Permite ampliar significativamente la capacidad energética utilizando baterías externas de gran capacidad. Compatible con <strong>EcoFlow DELTA 2, DELTA 2 Max, DELTA 3 y DELTA 3 Plus</strong>.</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
@@ -22529,7 +22529,7 @@
             "public": false,
             "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -22645,7 +22645,7 @@
             "public": false,
             "stock": 61,
             "subcontractedid": "",
-            "virtual-stock": 60,
+            "virtual-stock": 61,
             "zip-code": ""
           },
           {
@@ -29186,7 +29186,7 @@
         "sales-price": 22,
         "short-description": "<p>💡 Iluminación LED inalámbrica para espacios interiores</p><p>• Batería recargable, sin necesidad de cableado</p><p>• Sensor de movimiento para encendido práctico</p><p>• Control remoto incluido</p><p>• Tres tonos de luz ajustables</p><p>• Intensidad regulable según cada ambiente</p><p>• Ideal para clósets, duchas, despensas, cobertizos y pasillos</p>",
         "short-description-en": "",
-        "stock": 39,
+        "stock": 36,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31687,7 +31687,7 @@
         "sales-price": 29,
         "short-description": "<ul><li><p>☀️ Alimentación solar con panel integrado de 5.5V/1.8W: energía limpia y gratuita, se carga durante el día para iluminar toda la noche sin facturas </p></li><li><p>💡 1000 lúmenes de alto brillo y 3 modos con sensor de movimiento: alta + sensor, luz tenue constante o combinación inteligente, hasta 12 h de autonomía en modo bajo </p></li><li><p>🛡️ Resistencia IP65, plástico duradero y 100 000 horas de vida útil: construida para soportar lluvia, polvo y temperaturas extremas de -15 °C a 65 °C </p></li><li><p>🔧 Fácil montaje en pared y diseño compacto (195 x 125 x 105 mm): se instala sin complicaciones y el sensor de movimiento activa la luz justo cuando se necesita</p></li></ul>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -42774,7 +42774,7 @@
         "sales-price": 7.5,
         "short-description": "<p>Tomacorriente de 20 Amp y 125V, ideal para soportar altas cargas en estaciones EcoFlow compatibles.</p><p>• ⚡ Capacidad de 20 Amp para mayor soporte de carga • </p><p>🔌 Voltaje de 125V para instalaciones eléctricas compatibles • </p><p>🔋 Recomendado para estaciones EcoFlow compatibles • </p><p>⚪ Incluye tapa blanca para un acabado limpio • </p><p>📦 Producto vendido sin caja • </p><p>🧱 Requiere caja eléctrica compatible para su instalación</p>",
         "short-description-en": "",
-        "stock": 56,
+        "stock": 54,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -56655,7 +56655,7 @@
             "public": false,
             "stock": 28,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 28,
             "zip-code": ""
           },
           {
@@ -57010,7 +57010,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 27,
+        "stock": 28,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -67076,9 +67076,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 13,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -67433,7 +67433,7 @@
         "sales-price": 589,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje: </strong>110V CA</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~3 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
