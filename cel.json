@@ -8821,7 +8821,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -9176,7 +9176,7 @@
         "sales-price": 157,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -12166,7 +12166,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -5,
             "zip-code": ""
           },
           {
@@ -12521,7 +12521,7 @@
         "sales-price": 157,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
