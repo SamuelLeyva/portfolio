@@ -193,9 +193,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -309,9 +309,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 11,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -572,7 +572,7 @@
             "public": false,
             "stock": 23,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -22528,7 +22528,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -22642,7 +22642,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 61,
+            "stock": 60,
             "subcontractedid": "",
             "virtual-stock": 60,
             "zip-code": ""
@@ -30497,9 +30497,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -30854,7 +30854,7 @@
         "sales-price": 25,
         "short-description": "<ul><li><p>💡 LED de alta eficiencia (100W) y larga vida útil de 50 000 horas: iluminación brillante, fiable y de bajo consumo</p></li><li><p>🌡️ Temperatura de color ajustable de 2700K a 8000K: desde luz cálida hasta blanca fría para cada ambiente</p></li><li><p>🎮 Control remoto con regulación de intensidad: cambia el brillo y el tono de luz sin moverte</p></li><li><p>🛡️ Carcasa de ABS y certificación IP66: resistente al polvo y al agua, perfecta para exteriores en cualquier clima</p></li><li><p>🔆 Haz amplio de 180° con materiales de aluminio y plástico: cobertura total para jardín, camping o emergencias</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -31445,9 +31445,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 83,
+            "stock": 63,
             "subcontractedid": "",
-            "virtual-stock": 83,
+            "virtual-stock": 63,
             "zip-code": ""
           },
           {
@@ -45415,7 +45415,7 @@
         "sales-price": 19,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C). </p><p>⚡ Carga USB rápida e inteligente de 12W. </p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga. </p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable. </p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -51963,9 +51963,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -54546,9 +54546,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -54662,9 +54662,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 148,
+            "stock": 143,
             "subcontractedid": "",
-            "virtual-stock": 148,
+            "virtual-stock": 143,
             "zip-code": ""
           },
           {
@@ -55132,7 +55132,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
@@ -55505,9 +55505,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -55621,9 +55621,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -65818,9 +65818,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -65934,9 +65934,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -66404,7 +66404,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",

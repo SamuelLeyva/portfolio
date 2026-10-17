@@ -6921,7 +6921,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -100,
+            "virtual-stock": -50,
             "zip-code": ""
           },
           {
