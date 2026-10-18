@@ -7673,9 +7673,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 40,
+            "stock": 39,
             "subcontractedid": "",
-            "virtual-stock": 40,
+            "virtual-stock": 39,
             "zip-code": ""
           },
           {
@@ -28828,9 +28828,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 32,
+            "stock": 31,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -29185,7 +29185,7 @@
         "sales-price": 22,
         "short-description": "<p>💡 Iluminación LED inalámbrica para espacios interiores</p><p>• Batería recargable, sin necesidad de cableado</p><p>• Sensor de movimiento para encendido práctico</p><p>• Control remoto incluido</p><p>• Tres tonos de luz ajustables</p><p>• Intensidad regulable según cada ambiente</p><p>• Ideal para clósets, duchas, despensas, cobertizos y pasillos</p>",
         "short-description-en": "",
-        "stock": 32,
+        "stock": 31,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -45058,9 +45058,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -45415,7 +45415,7 @@
         "sales-price": 19,
         "short-description": "<p>🔌 13 tomas: 10 CA + 3 USB (2A, 1C). </p><p>⚡ Carga USB rápida e inteligente de 12W. </p><p>🛡️ Protección contra sobretensiones, rayos y sobrecarga. </p><p>⚙️ Cable 1.5m (16 AWG). Enchufe plano. Montable. </p><p>🏠 15A/1095W máx. Para hogar, oficina y taller.</p>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -54546,7 +54546,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 1,
             "subcontractedid": "",
             "virtual-stock": 1,
             "zip-code": ""
@@ -55507,7 +55507,7 @@
             "public": false,
             "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
