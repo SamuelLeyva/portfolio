@@ -610,9 +610,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -967,7 +967,7 @@
         "sales-price": 149,
         "short-description": "<ul><li><p>📱 Pantalla HD de 10.1\" con tasa de refresco de 120 Hz: visuales fluidos y nítidos para streaming, lectura, gaming y navegación</p></li><li><p>⚡ Procesador octa‑core con Android 16: rendimiento ágil y sistema moderno para todas tus tareas</p></li><li><p>💾 4 + 8 GB de RAM y 128 GB de ROM: memoria ampliable para multitarea fluida y espacio de sobra para apps, fotos y archivos</p></li><li><p>🔋 Batería de 5000 mAh: autonomía confiable para acompañarte durante todo el día⌨️ Incluye teclado, mouse y stylus pen gratis: convierte tu tablet en un espacio de trabajo o estudio completo</p></li><li><p>🎁 Ideal para productividad, entretenimiento y creatividad en cualquier lugar</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
@@ -1708,9 +1708,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -2065,7 +2065,7 @@
         "sales-price": 239,
         "short-description": "<ul><li><p>⚡ Snapdragon® 778G con CPU de ocho núcleos hasta 2.4 GHz y GPU Adreno 642L: rendimiento potente para gaming, apps y multitarea exigente</p></li><li><p>💾 6 + 128 GB + UFS 2.2 y ampliación dinámica de RAM 3.0: velocidad y espacio para todo</p></li><li><p>🌈 Pantalla AMOLED DotDisplay Flow FHD+ de 6.67\" con 120 Hz, 10 bits y DCI‑P3: colores intensos, negros profundos y hasta 900 nits de brillo</p></li><li><p>📸 Cámara de 108 MP con agrupamiento 9 en 1 + ultra gran angular de 8 MP + macro de 2 MP + selfie de 16 MP: captura 4K a 30 fps y 1080p a 60 fps con detalle profesional</p></li><li><p>🔋 Batería de 5000 mAh con carga turbo de 67 W: autonomía prolongada y recarga ultrarrápida</p></li><li><p>🔐 Sensor de huella lateral y desbloqueo facial por IA: seguridad rápida y conveniente</p></li></ul>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -7901,7 +7901,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -82,
+            "virtual-stock": -85,
             "zip-code": ""
           },
           {
@@ -9000,9 +9000,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 51,
+            "stock": 48,
             "subcontractedid": "",
-            "virtual-stock": 46,
+            "virtual-stock": 43,
             "zip-code": ""
           },
           {
@@ -9357,7 +9357,7 @@
         "sales-price": 148,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 51,
+        "stock": 48,
         "stock-enabled": true,
         "tag": [
           {
@@ -10118,9 +10118,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 20,
+            "stock": 14,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -10475,7 +10475,7 @@
         "sales-price": 157,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
