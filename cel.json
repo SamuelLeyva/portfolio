@@ -3832,9 +3832,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -4189,7 +4189,7 @@
         "sales-price": 149,
         "short-description": "<ul><li><p>📱 Pantalla HD de 10.1\" con tasa de refresco de 120 Hz: visuales fluidos y nítidos para streaming, lectura, gaming y navegación</p></li><li><p>⚡ Procesador octa‑core con Android 16: rendimiento ágil y sistema moderno para todas tus tareas</p></li><li><p>💾 4 + 8 GB de RAM y 128 GB de ROM: memoria ampliable para multitarea fluida y espacio de sobra para apps, fotos y archivos</p></li><li><p>🔋 Batería de 5000 mAh: autonomía confiable para acompañarte durante todo el día⌨️ Incluye teclado, mouse y stylus pen gratis: convierte tu tablet en un espacio de trabajo o estudio completo</p></li><li><p>🎁 Ideal para productividad, entretenimiento y creatividad en cualquier lugar</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -5933,9 +5933,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 14,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -6290,7 +6290,7 @@
         "sales-price": 85,
         "short-description": "<ul><li><p>📱 Pantalla HD IPS de 6.56\" (720×1612): colores vibrantes y nitidez desde cualquier ángulo para streaming y navegación</p></li><li><p>📸 Cámara trasera de 13 MP + frontal de 8 MP: fotos nítidas en cualquier entorno y selfies siempre acertadas</p></li><li><p>⚡ Procesador Quad Core de 1.5 GHz y 2 GB de RAM: rendimiento eficiente para apps básicas, mensajería y uso diario</p></li><li><p>💾 64 GB de almacenamiento interno: espacio suficiente para aplicaciones, fotos y archivos importantes</p></li><li><p>🔋 Batería de 4000 mAh: hasta 380 horas en espera y 5 horas de conversación para acompañarte todo el día</p></li><li><p>📶 Doble Micro SIM y conectividad 2G/3G/4G LTE: usa dos líneas y mantente conectado con cobertura amplia</p></li><li><p>🤖 Android 14 Go: sistema ligero y optimizado para un funcionamiento fluido y actualizado</p></li><li><p>📐 Dimensiones de 165.5 × 77 × 10.1 mm: diseño práctico y cómodo para el día a día</p></li></ul>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
