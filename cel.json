@@ -1940,7 +1940,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -3160,7 +3160,7 @@
         "sales-price": 239,
         "short-description": "<ul><li><p>⚡ Snapdragon® 778G con CPU de ocho núcleos hasta 2.4 GHz y GPU Adreno 642L: rendimiento potente para gaming, apps y multitarea exigente</p></li><li><p>💾 6 + 128 GB + UFS 2.2 y ampliación dinámica de RAM 3.0: velocidad y espacio para todo</p></li><li><p>🌈 Pantalla AMOLED DotDisplay Flow FHD+ de 6.67\" con 120 Hz, 10 bits y DCI‑P3: colores intensos, negros profundos y hasta 900 nits de brillo</p></li><li><p>📸 Cámara de 108 MP con agrupamiento 9 en 1 + ultra gran angular de 8 MP + macro de 2 MP + selfie de 16 MP: captura 4K a 30 fps y 1080p a 60 fps con detalle profesional</p></li><li><p>🔋 Batería de 5000 mAh con carga turbo de 67 W: autonomía prolongada y recarga ultrarrápida</p></li><li><p>🔐 Sensor de huella lateral y desbloqueo facial por IA: seguridad rápida y conveniente</p></li><li><p>📶 5G dual SIM, Wi‑Fi 802.11ax, Bluetooth 5.2 y NFC con Google Pay: conectividad completa y veloz</p></li><li><p>🎧 Altavoces duales y jack de 3.5 mm: sonido envolvente para música, videos y juegos</p></li><li><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -9232,7 +9232,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 60,
             "zip-code": ""
           },
           {
@@ -9357,7 +9357,7 @@
         "sales-price": 148,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 48,
+        "stock": 47,
         "stock-enabled": true,
         "tag": [
           {
@@ -10475,7 +10475,7 @@
         "sales-price": 157,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
@@ -11591,7 +11591,7 @@
         "sales-price": 157,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 39,
+        "stock": 38,
         "stock-enabled": true,
         "tag": [
           {
@@ -12102,9 +12102,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 131,
+            "stock": 130,
             "subcontractedid": "",
-            "virtual-stock": 131,
+            "virtual-stock": 130,
             "zip-code": ""
           },
           {
@@ -13602,7 +13602,7 @@
         "sales-price": 192,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 78,
+        "stock": 71,
         "stock-enabled": true,
         "tag": [
           {
