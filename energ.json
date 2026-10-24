@@ -193,9 +193,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 11,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -309,9 +309,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 36,
+            "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 32,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -3663,9 +3663,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -3779,9 +3779,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 24,
+            "stock": 22,
             "subcontractedid": "",
-            "virtual-stock": 24,
+            "virtual-stock": 22,
             "zip-code": ""
           },
           {
@@ -4249,7 +4249,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
@@ -19045,7 +19045,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -21585,9 +21585,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -21701,9 +21701,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 56,
+            "stock": 50,
             "subcontractedid": "",
-            "virtual-stock": 56,
+            "virtual-stock": 50,
             "zip-code": ""
           },
           {
@@ -45797,9 +45797,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -46154,7 +46154,7 @@
         "sales-price": 3,
         "short-description": "<ul><li><p>🟢 Pulsador momentáneo verde (START)</p></li><li><p>⚡ Capacidad: 10A / 380V AC</p></li><li><p>📏 Montaje en panel de 22 mm</p></li><li><p>🔩 Terminales: 4 (1NO + 1NC por botón)</p></li><li><p>🛠️ Ideal para control de motores y maquinari</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -46649,9 +46649,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -47006,7 +47006,7 @@
         "sales-price": 3,
         "short-description": "<ul><li><p>🔴 Pulsador momentáneo rojo (STOP)</p></li><li><p>⚡ Capacidad: 10A / 380V AC</p></li><li><p>📏 Montaje en panel de 22 mm</p></li><li><p>🔩 Terminales: 4 (1NO + 1NC por botón)</p></li><li><p>🛠️ Ideal para control de motores y maquinaria</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -52087,9 +52087,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -52444,7 +52444,7 @@
         "sales-price": 830,
         "short-description": "<p></p><ul><li><p><strong>🔋 EcoFlow DELTA 3 Plus</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LFP de larga duración (más de 4000 ciclos al 80%).</p></li><li><p><strong>⏱️ Carga Rápida:</strong> 1500W Carga completa en 56 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1000 W (dos conectores de 500 W cada uno).</p></li><li><p><strong>🔌 Salidas:</strong> Seis salidas de CA de 110 V y múltiples puertos USB.</p></li><li><p><strong>🪶 Portabilidad:</strong> 12.5Kg</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Permite expandir</strong></p></li><li><p><strong>📱 Control Inteligente:</strong> Control mediante aplicación móvil.</p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -52726,9 +52726,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -52842,9 +52842,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 139,
+            "stock": 133,
             "subcontractedid": "",
-            "virtual-stock": 139,
+            "virtual-stock": 133,
             "zip-code": ""
           },
           {
@@ -53685,9 +53685,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 12,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -53801,9 +53801,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": -4,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": -4,
             "zip-code": ""
           },
           {
@@ -63998,9 +63998,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -64114,9 +64114,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
