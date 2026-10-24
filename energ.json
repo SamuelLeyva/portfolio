@@ -164,9 +164,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 72,
+            "stock": 36,
             "subcontractedid": "",
-            "virtual-stock": 72,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -309,9 +309,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 36,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 36,
             "zip-code": ""
           },
           {
@@ -783,7 +783,7 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-false",
+          "5018-true",
           "4028-false",
           "3807-false",
           "120-false",
@@ -21585,9 +21585,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -21701,7 +21701,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 58,
+            "stock": 57,
             "subcontractedid": "",
             "virtual-stock": 57,
             "zip-code": ""
@@ -21817,9 +21817,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -22171,7 +22171,7 @@
         ],
         "warehousesInStock": [
           "116-false",
-          "4813-false",
+          "4813-true",
           "680-false",
           "3375-false",
           "613-false",
@@ -23424,9 +23424,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 15,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -28226,7 +28226,7 @@
         "sales-price": 22,
         "short-description": "<p>💡 Iluminación LED inalámbrica para espacios interiores</p><p>• Batería recargable, sin necesidad de cableado</p><p>• Sensor de movimiento para encendido práctico</p><p>• Control remoto incluido</p><p>• Tres tonos de luz ajustables</p><p>• Intensidad regulable según cada ambiente</p><p>• Ideal para clósets, duchas, despensas, cobertizos y pasillos</p>",
         "short-description-en": "",
-        "stock": 23,
+        "stock": 22,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -53589,7 +53589,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -53705,7 +53705,7 @@
             "public": false,
             "stock": 139,
             "subcontractedid": "",
-            "virtual-stock": 138,
+            "virtual-stock": 139,
             "zip-code": ""
           },
           {
@@ -60391,7 +60391,7 @@
         "sales-price": 53,
         "short-description": "<p>🔋 20000mAh, carga USB-C, 8-58h de uso y funciona como power bank. </p><p>🌀 Giro 270°, oscilación automática y gancho 360° para colgar. </p><p>📱 Control remoto hasta 8m. Programa temporizador (1-8H). </p><p>🔇 Motor sin escobillas, ≤28dB, fuerte flujo de aire silencioso. </p><p>💡 3 en 1: Ventilador, luz y power bank. Ideal para camping y viajes. </p><p>⚡ Portátil, seguro, funciona mientras se carga.</p>",
         "short-description-en": "",
-        "stock": 6,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -66116,9 +66116,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 11,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -66232,9 +66232,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": -4,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -4,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -66454,7 +66454,7 @@
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "5049-false",
           "3298-false",
@@ -66473,7 +66473,7 @@
         "sales-price": 589,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje: </strong>110V CA</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~3 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 11,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
