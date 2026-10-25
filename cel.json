@@ -692,9 +692,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 24,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 22,
             "zip-code": ""
           },
           {
@@ -922,9 +922,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 20,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 20,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -1034,7 +1034,7 @@
           "611-false",
           "5049-false",
           "3298-false",
-          "117-true",
+          "117-false",
           "933-false",
           "862-false",
           "1624-false"
@@ -1049,7 +1049,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ Snapdragon® 778G con CPU de ocho núcleos hasta 2.4 GHz y GPU Adreno 642L: rendimiento potente para gaming, apps y multitarea exigente</p></li><li><p>💾 6 + 128 GB + UFS 2.2 y ampliación dinámica de RAM 3.0: velocidad y espacio para todo</p></li><li><p>🌈 Pantalla AMOLED DotDisplay Flow FHD+ de 6.67\" con 120 Hz, 10 bits y DCI‑P3: colores intensos, negros profundos y hasta 900 nits de brillo</p></li><li><p>📸 Cámara de 108 MP con agrupamiento 9 en 1 + ultra gran angular de 8 MP + macro de 2 MP + selfie de 16 MP: captura 4K a 30 fps y 1080p a 60 fps con detalle profesional</p></li><li><p>🔋 Batería de 5000 mAh con carga turbo de 67 W: autonomía prolongada y recarga ultrarrápida</p></li><li><p>🔐 Sensor de huella lateral y desbloqueo facial por IA: seguridad rápida y conveniente</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 24,
         "stock-enabled": true,
         "tag": [
           {
@@ -8141,7 +8141,7 @@
             "public": false,
             "stock": 131,
             "subcontractedid": "",
-            "virtual-stock": 130,
+            "virtual-stock": 131,
             "zip-code": ""
           },
           {
@@ -8496,7 +8496,7 @@
         "sales-price": 9.5,
         "short-description": "<p>El soporte selfie extensible para teléfono móvil es un trípode portátil de aleación ligera diseñado para selfies grupales, transmisión en vivo y grabación de video estable. Con brazo extensible de 90cm y rotación 360°, permite ajustar ángulos libremente. Incluye control remoto Bluetooth y adaptador universal compatible con la mayoría de smartphones, ideal para creadores de contenido, viajeros y usuarios de redes sociales.</p>",
         "short-description-en": "",
-        "stock": 130,
+        "stock": 131,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
