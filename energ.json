@@ -195,7 +195,7 @@
             "public": false,
             "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -311,7 +311,7 @@
             "public": false,
             "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -572,7 +572,7 @@
             "public": false,
             "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 20,
             "zip-code": ""
           },
           {
@@ -19043,9 +19043,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -21585,9 +21585,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -21703,7 +21703,7 @@
             "public": false,
             "stock": 50,
             "subcontractedid": "",
-            "virtual-stock": 49,
+            "virtual-stock": 50,
             "zip-code": ""
           },
           {
@@ -22449,7 +22449,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -28226,7 +28226,7 @@
         "sales-price": 22,
         "short-description": "<p>💡 Iluminación LED inalámbrica para espacios interiores</p><p>• Batería recargable, sin necesidad de cableado</p><p>• Sensor de movimiento para encendido práctico</p><p>• Control remoto incluido</p><p>• Tres tonos de luz ajustables</p><p>• Intensidad regulable según cada ambiente</p><p>• Ideal para clósets, duchas, despensas, cobertizos y pasillos</p>",
         "short-description-en": "",
-        "stock": 22,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -67000,9 +67000,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 5,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
