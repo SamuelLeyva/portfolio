@@ -9020,9 +9020,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 14,
+            "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 14,
+            "virtual-stock": 13,
             "zip-code": ""
           },
           {
@@ -9377,7 +9377,7 @@
         "sales-price": 59,
         "short-description": "<ul><li><p>⚡ Potencia ajustable: 120 W / 230 W en 12 V / 24 V y 700 W en 110 V / 220 V, con frecuencia de 50‑60 Hz</p></li><li><p>🌡️ Control de temperatura y fusible térmico dual: apagado automático de seguridad al exceder la temperatura límite y reinicio automático al enfriarse</p></li><li><p>🔥 Dos niveles de cocción: \"Low\" (aprox. 300 W) para calentamiento lento y \"High\" (aprox. 700 W) para calentamiento rápido</p></li><li><p>🛡️ Diseño seguro: carcasa anti‑escaldaduras, tapa de vidrio, asa pequeña y interruptor termostato</p></li><li><p>🧼 Limpieza y mantenimiento sencillos: recubrimiento antiadherente, no sumergir en agua, limpiar con paño suave y usar detergente neutro</p></li><li><p>✅ Materiales aptos para alimentos: acero inoxidable de grado alimenticio, PP, vidrio y silicona, certificados según normas nacionales</p></li><li><p>📋 Certificaciones ambientales y de seguridad: cumple con SJ/T11364 y GB/T26572, sin sustancias peligrosas que afecten la salud</p></li></ul>",
         "short-description-en": "",
-        "stock": 14,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
