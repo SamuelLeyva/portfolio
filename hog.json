@@ -17009,9 +17009,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 0,
+            "stock": 10,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 10,
             "zip-code": ""
           },
           {
@@ -17328,9 +17328,9 @@
             "originUpdate": "stelorder",
             "province": "Florida",
             "public": false,
-            "stock": 10,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -17511,7 +17511,7 @@
           "4813-false",
           "680-false",
           "3375-false",
-          "613-false",
+          "613-true",
           "5018-false",
           "4028-false",
           "3807-false",
@@ -17522,7 +17522,7 @@
           "2193-false",
           "707-false",
           "3866-false",
-          "611-true",
+          "611-false",
           "5049-false",
           "3298-false",
           "117-false",
