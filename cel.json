@@ -4561,10 +4561,10 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "0ae58df5-cdb3-40d0-234e-ee6bd1c8d900",
-            "idstel": "4718480",
+            "id": "ffe022a6-69f5-4ece-1eb8-0be1e3f3f700",
+            "idstel": "4813193",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/0ae58df5-cdb3-40d0-234e-ee6bd1c8d900/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/ffe022a6-69f5-4ece-1eb8-0be1e3f3f700/public"
           }
         ],
         "item-rates": [
@@ -4929,9 +4929,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -4958,9 +4958,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 92,
+            "stock": 97,
             "subcontractedid": "",
-            "virtual-stock": 92,
+            "virtual-stock": 97,
             "zip-code": ""
           },
           {
@@ -5291,7 +5291,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-true",
+          "2820-false",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -5305,7 +5305,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Teléfono Motorola Moto GPlay XT2413-2 4Gb Ram, 64Gb Almacenamiento, Con Cover, Mica y Audífonos - Azul",
+        "productname": "Teléfono Motorola Moto GPlay XT2413-2 4Gb Ram, 64Gb Almacenamiento, Mica y Audífonos - Azul",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -5315,7 +5315,7 @@
         "sales-price": 144,
         "short-description": "<ul><li><p>⚡ Procesador Snapdragon 680 a 2.4 GHz y 4 GB de RAM: rendimiento fluido para apps, navegación y multitarea diaria</p></li><li><p>💾 64 GB de almacenamiento interno ampliable con microSD: espacio suficiente para fotos, apps y archivos</p></li><li><p>🌈 Pantalla HD+ de 6.5\" con resolución 720 × 1600 y tasa de refresco de 90 Hz: imágenes nítidas y desplazamientos suaves📸 Cámara principal de 50 MP + frontal de 8 MP: captura fotos con gran detalle y selfies claras</p></li><li><p>🔋 Batería de 5000 mAh: autonomía para todo el día sin preocupaciones🔊 Parlantes estéreo: sonido envolvente para música, videos y llamadas</p></li><li><p>🛡️ Resistencia a salpicaduras y diseño delgado de 8.3 mm y 185 g: práctico y cómodo para el uso diario</p></li><li><p>🤖 Android 13: sistema moderno y actualizado con las últimas funciones</p></li><li><p>📶 Conectividad 4G LTE: velocidad y cobertura confiable para mantenerte conectado</p></li><li><p>🎨 Disponible en color azul</p></li></ul>",
         "short-description-en": "",
-        "stock": 92,
+        "stock": 97,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -9757,7 +9757,7 @@
         "sales-price": 152,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 74,
+        "stock": 13,
         "stock-enabled": true,
         "tag": [
           {
@@ -13890,9 +13890,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 34,
+            "stock": 33,
             "subcontractedid": "",
-            "virtual-stock": 27,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
