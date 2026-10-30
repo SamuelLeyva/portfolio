@@ -493,9 +493,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 12,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 7,
             "zip-code": ""
           },
           {
@@ -840,7 +840,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Inversor Solar Híbrido Sunrry 4000W 120V",
+        "productname": "Inversor Solar Híbrido Sumry 4000W 120V",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -850,7 +850,7 @@
         "sales-price": 399,
         "short-description": "<ul><li><p>🔋 Diseño único de cubierta de vidrio: tapa superior de vidrio templado con pantalla LCD de 6.25\" y botones táctiles, alta transparencia para ver los datos en tiempo real</p></li><li><p>⚡ Inversor potente: 4000 W nominales y 8000 W de salida pico, verifica la potencia de tus cargas para mantenerte dentro del rango de salida</p></li><li><p>🔌 Estable y eficiente: salida de onda sinusoidal pura sin interferencias, controlador MPPT de 140 A incorporado, máx. PV 5600 W 350 VDC y eficiencia de conversión del 98 %</p></li><li><p>🔋 Funciona con o sin batería: puede operar sin batería durante el día usando corriente DC de PV; compatible con AGM, Gel, plomo‑ácido, litio‑ion y LiFePO4 de 24 V</p></li><li><p>☀️ Inversor solar híbrido: configura la prioridad de carga y salida de paneles solares, batería o red eléctrica, ideal para vida fuera de la red, cortes de energía y emergencias</p></li><li><p>🎛️ Configuración fácil: botones de función y pantalla LCD que indican estado de operación y potencia de entrada/salida, permite ajustar corriente de carga y prioridad de energía AC/solar</p></li><li><p>🛡️ Seguro y confiable: tres ventiladores de refrigeración, protecciones contra sobrecarga, sobrecalentamiento, sobrecorriente y cortocircuito, restauración con una tecla y carga inteligente para optimizar la vida de la batería</p></li><li><p>📖 Nota: manual electrónico disponible en la página del producto; léelo cuidadosamente antes de instalar el modelo de 24 V, 4 KW</p></li></ul>",
         "short-description-en": "",
-        "stock": 12,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [
           {
@@ -11090,7 +11090,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -11204,7 +11204,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
@@ -11349,9 +11349,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": -2,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -11678,12 +11678,12 @@
           "680-false",
           "3375-false",
           "613-false",
-          "5018-true",
+          "5018-false",
           "4028-false",
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -20862,9 +20862,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 6,
+            "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -27850,9 +27850,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": -11,
+            "virtual-stock": -7,
             "zip-code": ""
           },
           {
@@ -36624,7 +36624,7 @@
             "public": false,
             "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
