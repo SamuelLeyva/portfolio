@@ -18466,7 +18466,7 @@
             "public": false,
             "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 13,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -18821,7 +18821,7 @@
         "sales-price": 20,
         "short-description": "",
         "short-description-en": "",
-        "stock": 17,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -21568,7 +21568,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -21684,7 +21684,7 @@
             "public": false,
             "stock": 49,
             "subcontractedid": "",
-            "virtual-stock": 47,
+            "virtual-stock": 49,
             "zip-code": ""
           },
           {
@@ -28022,9 +28022,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 0,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -28190,7 +28190,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-false",
+          "5049-true",
           "3298-false",
           "117-false",
           "933-false",
