@@ -21744,9 +21744,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -21860,9 +21860,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -22078,11 +22078,11 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
-          "3866-true",
+          "3866-false",
           "611-false",
           "5049-false",
           "3298-false",
@@ -22101,7 +22101,7 @@
         "sales-price": 79,
         "short-description": "<p>La <strong>Freidora de Aire Bella PRO 4L</strong> es un electrodoméstico &nbsp;compacto y eficiente que permite cocinar con hasta un 85% menos de &nbsp;aceite, ofreciendo resultados crujientes y saludables. Con capacidad de 4 &nbsp;litros, tecnología de circulación de aire caliente 360°, es ideal para preparar una variedad de &nbsp;alimentos de manera rápida y uniforme.</p>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {

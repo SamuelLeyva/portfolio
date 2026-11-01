@@ -1093,7 +1093,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -1209,7 +1209,7 @@
             "public": false,
             "stock": 26,
             "subcontractedid": "",
-            "virtual-stock": 25,
+            "virtual-stock": 26,
             "zip-code": ""
           },
           {
@@ -18821,7 +18821,7 @@
         "sales-price": 20,
         "short-description": "",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 17,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -20748,7 +20748,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -20864,7 +20864,7 @@
             "public": false,
             "stock": 4,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 4,
             "zip-code": ""
           },
           {
@@ -21566,7 +21566,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 4,
             "subcontractedid": "",
             "virtual-stock": 4,
             "zip-code": ""
@@ -21682,9 +21682,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 49,
+            "stock": 47,
             "subcontractedid": "",
-            "virtual-stock": 49,
+            "virtual-stock": 47,
             "zip-code": ""
           },
           {
@@ -28022,9 +28022,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 5,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 5,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -28190,7 +28190,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -28207,7 +28207,7 @@
         "sales-price": 22,
         "short-description": "<p>💡 Iluminación LED inalámbrica para espacios interiores</p><p>• Batería recargable, sin necesidad de cableado</p><p>• Sensor de movimiento para encendido práctico</p><p>• Control remoto incluido</p><p>• Tres tonos de luz ajustables</p><p>• Intensidad regulable según cada ambiente</p><p>• Ideal para clósets, duchas, despensas, cobertizos y pasillos</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -55288,7 +55288,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -55404,7 +55404,7 @@
             "public": false,
             "stock": 133,
             "subcontractedid": "",
-            "virtual-stock": 131,
+            "virtual-stock": 133,
             "zip-code": ""
           },
           {
