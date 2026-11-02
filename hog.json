@@ -9020,9 +9020,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -9367,7 +9367,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Olla Eléctrica Portátil 2L 600W con Cesta Vaporera y Superficie Antiadherente",
+        "productname": "Olla Eléctrica Portátil 2L, 700W con Cesta Vaporera y Superficie Antiadherente",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -21744,9 +21744,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
