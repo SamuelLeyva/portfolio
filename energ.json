@@ -1207,9 +1207,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 26,
+            "stock": 23,
             "subcontractedid": "",
-            "virtual-stock": 26,
+            "virtual-stock": 23,
             "zip-code": ""
           },
           {
@@ -2781,9 +2781,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -20262,9 +20262,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 10,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -28022,9 +28022,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 3,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -28190,7 +28190,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -53891,9 +53891,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 16,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -56245,7 +56245,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 10,
+            "stock": 9,
             "subcontractedid": "",
             "virtual-stock": 9,
             "zip-code": ""
@@ -57749,7 +57749,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 26,
+        "stock": 25,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
