@@ -7103,9 +7103,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7219,9 +7219,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -7437,7 +7437,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-false",
+          "-2-true",
           "1776-false",
           "2193-false",
           "707-false",
@@ -7460,7 +7460,7 @@
         "sales-price": 259,
         "short-description": "<ul><li><p>⚡ Impresión láser rápida de 30 ppm en blanco y negro con calidad profesional de hasta 1200 x 1200 ppp</p></li><li><p>📡 Conexión Wi‑Fi y USB: imprime de forma inalámbrica desde tu PC, móvil o tablet, compatible con Amazon Alexa</p></li><li><p>🖨️ Bandeja principal de 250 hojas y ranura manual para sobres y formatos especiales, lista para un volumen mensual recomendado de hasta 2,500 páginas</p></li><li><p>📦 Diseño compacto (solo 14\" de ancho), gris y pensado para el hogar o la pequeña oficina, sin ocupar demasiado espacio</p></li><li><p>💸 Suscripción Refresh disponible </p></li></ul>",
         "short-description-en": "",
-        "stock": 0,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
