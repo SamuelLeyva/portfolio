@@ -19982,6 +19982,33 @@
             "zip-code": ""
           },
           {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -20125,33 +20152,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -20171,12 +20171,12 @@
           "707-false",
           "3866-false",
           "611-false",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Cargador Para Laptop 40W para HP Mini - 19.5V 2.05A | Conector 4.0*1.7mm | Compatible con Series 100, 110, 210 y 310",
         "productname_en": "",
@@ -20188,7 +20188,7 @@
         "sales-price": 19,
         "short-description": "<ul><li><p>Salida estable de <strong>19.5V 2.05A (40W)</strong></p></li><li><p><strong>Conector DC 4.0×1.7mm</strong>, estándar HP Mini</p></li><li><p>Compatible con <strong>HP Mini series 100, 110, 210, 310 y más</strong></p></li><li><p>Incluye <strong>adaptador + cable de corriente</strong></p></li><li><p>Disponible con enchufe <strong>US, EU, AU o UK</strong>, según el país</p></li><li><p>Fabricado con componentes de alta calidad y rendimiento seguro</p></li></ul>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
@@ -21984,7 +21984,7 @@
         "sales-price": 22,
         "short-description": "<ul><li><p>Potencia de salida: <strong>65W (20V / 3.25A)</strong></p></li><li><p>Compatible con dispositivos que usan <strong>45W, 15V, 9V, 5V – carga inteligente PD</strong></p></li><li><p>Conector <strong>USB Tipo-C</strong>, no compatible con puntas redondas ni micro-USB</p></li><li><p>Compatible con <strong>Lenovo ThinkPad, Yoga, Chromebook y más</strong></p></li><li><p>Entrada de voltaje universal: <strong>110–240V</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 20,
+        "stock": 19,
         "stock-enabled": true,
         "tag": [
           {
