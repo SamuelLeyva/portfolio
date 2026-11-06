@@ -1207,9 +1207,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 22,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 22,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -7466,9 +7466,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -7823,7 +7823,7 @@
         "sales-price": 49,
         "short-description": "<ul><li><p>🔌 Caja de distribución DIN para panel eléctrico: protección segura para circuitos de pared en interiores y exteriores</p></li><li><p>🛡️ Material plástico de alta calidad: carcasa duradera, resistente y de grado ingenieril con clasificación IP66 a prueba de agua</p></li><li><p>👁️ Tapa gris transparente y diseño aislado: observa el estado de los interruptores sin necesidad de abrir la caja</p></li><li><p>🏠 Amplia aplicación: ideal para hogares, talleres, hoteles, centros comerciales y estaciones de energía</p></li><li><p>🔧 Mantenimiento diario práctico: operación segura y cómoda que mejora la eficiencia y facilita las inspecciones de motores y sistemas de distribución</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -11088,9 +11088,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -20719,7 +20719,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -20835,7 +20835,7 @@
             "public": false,
             "stock": 49,
             "subcontractedid": "",
-            "virtual-stock": 48,
+            "virtual-stock": 49,
             "zip-code": ""
           },
           {
@@ -22442,7 +22442,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -22558,7 +22558,7 @@
             "public": false,
             "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 8,
+            "virtual-stock": 9,
             "zip-code": ""
           },
           {
@@ -24056,7 +24056,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2190,
+            "price": 1550,
             "updatedAt": 1747229914344
           },
           {
@@ -24069,7 +24069,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1830,
+            "price": 1500,
             "updatedAt": 1747229914346
           },
           {
@@ -24080,7 +24080,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2190,
+            "price": 1550,
             "updatedAt": 1747229914346
           },
           {
@@ -24092,7 +24092,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1850
+            "price": 1550
           },
           {
             "deleted": false,
@@ -24102,7 +24102,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2190,
+            "price": 1550,
             "updatedAt": 1747229914347
           },
           {
@@ -24113,7 +24113,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1850,
+            "price": 1535,
             "updatedAt": 1747229914347
           }
         ],
@@ -24792,7 +24792,7 @@
         "reference": "PRO07314",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 1899,
+        "sales-price": 1550,
         "short-description": "<ul><li><p>⚡ 3600 Wh ampliables a 10.8 kWh con dos baterías extra: triplica la capacidad de tu DELTA Pro y obtén días completos de energía de reserva</p></li><li><p>🔋 Celdas LFP de larga duración: 6500 ciclos al 50 % de capacidad, 3500 ciclos al 80 %, para un rendimiento fiable durante años</p></li><li><p>🔌 Carga universal al conectar con DELTA Pro: corriente alterna, paneles solares, generador inteligente Smart Generator, coche y vehículo eléctrico</p></li><li><p>📲 Pantalla LCD frontal y app EcoFlow: consulta en tiempo real la entrada, salida, carga restante y tiempo de uso</p></li><li><p>🛡️ Robusta y portable (38 kg) con asa integrada: preparada para emergencias, camping o como respaldo profesional</p></li><li><p><code>✔ Compatible con: EcoFlow DELTA Pro 3, EcoFlow DELTA Pro </code></p></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -30336,7 +30336,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 16,
+            "stock": 15,
             "subcontractedid": "",
             "virtual-stock": 16,
             "zip-code": ""
@@ -30454,7 +30454,7 @@
             "public": false,
             "stock": 53,
             "subcontractedid": "",
-            "virtual-stock": 53,
+            "virtual-stock": 52,
             "zip-code": ""
           },
           {
@@ -41818,7 +41818,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520,
+            "price": 499,
             "updatedAt": 1747229914344
           },
           {
@@ -41831,7 +41831,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 470,
+            "price": 440,
             "updatedAt": 1747229914346
           },
           {
@@ -41842,7 +41842,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 520,
+            "price": 499,
             "updatedAt": 1747229914346
           },
           {
@@ -41854,7 +41854,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 510
+            "price": 460
           },
           {
             "deleted": false,
@@ -41864,7 +41864,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 480,
+            "price": 440,
             "updatedAt": 1747229914347
           },
           {
@@ -41875,7 +41875,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 510,
+            "price": 460,
             "updatedAt": 1747229914347
           }
         ],
@@ -42554,7 +42554,7 @@
         "reference": "PRO07120",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 520,
+        "sales-price": 499,
         "short-description": "<p>⚡ Potencia y Capacidad: 960 Wh | 500 W (Pico 1000W con X-Boost 800W).</p><p>🧬 Química de Batería: LFP (LiFePO4), diseñada para durar hasta 10 años.</p><p>⏱️ Carga Rápida: X-Stream AC. 0 - 100% en ~2 horas.</p><p>☀️ Entrada Solar (Max): 500 W. Compatible también con carga por generador y coche.</p><p>🔌 Salidas: Puerto CA (120V, 500W total), USB-C (18W Max), USB-A (12W Max).</p><p>🪶 Portabilidad: 9.9 kg (22 lbs). Dimensiones: 220 x 223 x 263 mm.</p><p>➕ Batería Extra: No expandible (Modelo compacto \"Air\").</p><p>📱 Control Inteligente: Wi-Fi y Bluetooth compatibles. App EcoFlow.</p><p>⚡ Protección UPS: Conmutación ultrarrápida de 10 ms con estabilización de voltaje integrada.🔇 Funcionamiento: Seguro para interiores, cero emisiones y &lt;39 dB (ultra silencioso).</p>",
         "short-description-en": "",
         "stock": 0,
@@ -47402,9 +47402,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 161,
+            "stock": 159,
             "subcontractedid": "",
-            "virtual-stock": 140,
+            "virtual-stock": 138,
             "zip-code": ""
           },
           {
@@ -47759,7 +47759,7 @@
         "sales-price": 13,
         "short-description": "<ul><li><p>⚡ Protector de voltaje y corriente</p></li><li><p>🔌 110/220V, 80–300V, 1–63A</p></li><li><p>🔄 Auto-reset automático</p></li><li><p>🛡️ Ideal para equipos sensible</p></li></ul>",
         "short-description-en": "",
-        "stock": 161,
+        "stock": 159,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -48891,7 +48891,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2150,
+            "price": 2040,
             "updatedAt": 1747229914344
           },
           {
@@ -48904,7 +48904,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2020,
+            "price": 1900,
             "updatedAt": 1747229914346
           },
           {
@@ -48915,7 +48915,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2150,
+            "price": 1900,
             "updatedAt": 1747229914346
           },
           {
@@ -48927,7 +48927,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2135
+            "price": 2040
           },
           {
             "deleted": false,
@@ -48937,7 +48937,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2000,
+            "price": 1900,
             "updatedAt": 1747229914347
           },
           {
@@ -48948,7 +48948,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 2100,
+            "price": 2040,
             "updatedAt": 1747229914347
           }
         ],
@@ -49620,14 +49620,14 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "EcoFlow Delta Pro 110V 3600Wh Pico 7200W, Batería LiFePO y Carga Rápida Estación de Energía Portátil ( ETA: 5 de Septiembre )",
+        "productname": "EcoFlow Delta Pro 110V 3600Wh Pico 7200W, Batería LiFePO y Carga Rápida Estación de Energía Portátil",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
         "reference": "PRO06339",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 2150,
+        "sales-price": 2089,
         "short-description": "<p><strong>🔋 EcoFlow DELTA Pro</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 3600 Wh | 3600 W (Pico 7200 W).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP) – 3000 ciclos al 80% de capacidad.</p></li><li><p><strong>⏱️ Carga Rápida: 1800W</strong> Carga al 80% en 50 minutos.</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 1600 W.</p></li><li><p><strong>🔌 Salidas:</strong> Cinco salidas de CA.</p></li><li><p><strong>🪶 Portabilidad:</strong> 45 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con la batería adicional inteligente DELTA Pro para expandir la capacidad.</p></li><li><p><strong>📱 Control Inteligente:</strong> Control vía App.</p></li></ul>",
         "short-description-en": "",
         "stock": 0,
@@ -49806,7 +49806,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1780,
+            "price": 1690,
             "updatedAt": 1747229914344
           },
           {
@@ -49819,7 +49819,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1900,
+            "price": 1640,
             "updatedAt": 1747229914346
           },
           {
@@ -49830,7 +49830,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1780,
+            "price": 1690,
             "updatedAt": 1747229914346
           },
           {
@@ -49842,7 +49842,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1980
+            "price": 1670
           },
           {
             "deleted": false,
@@ -49852,7 +49852,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1980,
+            "price": 1600,
             "updatedAt": 1747229914347
           },
           {
@@ -49863,7 +49863,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1980,
+            "price": 1670,
             "updatedAt": 1747229914347
           }
         ],
@@ -50542,7 +50542,7 @@
         "reference": "PRO06923",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 2000,
+        "sales-price": 1690,
         "short-description": "<ul><li><p>⚡ 3600 W de salida AC (7200 W pico) y tecnología X‑Boost hasta 4600 W: alimenta electrodomésticos de alta demanda sin esfuerzo </p></li><li><p>🔋 Batería LiFePO₄ de 3072 Wh (51.2 V, 60 Ah) no expandible: rendimiento duradero y fiable para hogar, RV, vida fuera de la red y emergencias </p></li><li><p>☀️ Entrada solar máxima de 800 W: recarga limpia y eficiente para mantenerte con energía en cualquier lugar </p></li><li><p>🛡️ UPS ultrarrápido menor a 10 ms: respaldo instantáneo que protege tus dispositivos ante cortes de energía </p></li><li><p>📱 Control por app vía Bluetooth y WiFi: monitorea y gestiona tu estación de energía desde el teléfono en tiempo real </p></li><li><p>🌡️ Opera de forma óptima entre 20 °C y 30 °C y carga entre 0 °C y 45 °C: preparada para funcionar en diversas condiciones </p></li><li><p>📐 32.7 kg y dimensiones de 626 × 328 × 395 mm: diseño robusto con certificación EMC Clase B para aplicaciones residenciales y profesionales exigentes</p></li></ul>",
         "short-description-en": "",
         "stock": 1,
@@ -50759,7 +50759,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 1065,
+            "price": 1030,
             "updatedAt": 1747229914347
           }
         ],
@@ -52713,7 +52713,7 @@
             "public": false,
             "stock": 130,
             "subcontractedid": "",
-            "virtual-stock": 129,
+            "virtual-stock": 130,
             "zip-code": ""
           },
           {
@@ -52858,7 +52858,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -53213,7 +53213,7 @@
         "sales-price": 645,
         "short-description": "<p><strong>🔋 EcoFlow DELTA 3</strong></p><ul><li><p><strong>⚡ Potencia y Capacidad:</strong> 1024 Wh | 1800 W (Pico 3600 W con X-Boost).</p></li><li><p><strong>🧬 Química de Batería:</strong> LiFePO4 (LFP). 4000 Ciclos de Carga</p></li><li><p><strong>⏱️ Carga Rápida:</strong> Carga completa en 56 minutos (con entrada AC de 1500W).</p></li><li><p><strong>☀️ Entrada Solar (Max):</strong> 500 W (un solo puerto).</p></li><li><p><strong>🔌 Salidas:</strong> 6 tomas CA, 2 USB-A (18W Max), 2 USB-C (100W Max).</p></li><li><p><strong>🪶 Portabilidad:</strong> Aprox. 12,5 kg.</p></li><li><p><strong>➕ Batería Extra:</strong> <strong>Sí</strong>, compatible con baterías extra DELTA 2 EB, DELTA 2 Max EB, DELTA Pro 3 EB y DELTA 3 EB.</p></li><li><p><strong>📱 Control Inteligente:</strong> Wi-Fi y Bluetooth.</p></li></ul>",
         "short-description-en": "",
-        "stock": 1,
+        "stock": 0,
         "stock-enabled": true,
         "tag": [
           {
@@ -56959,7 +56959,7 @@
             "name": "B2B-USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 410,
+            "price": 380,
             "updatedAt": 1747229914344
           },
           {
@@ -56972,7 +56972,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 410,
+            "price": 360,
             "updatedAt": 1747229914346
           },
           {
@@ -56983,7 +56983,7 @@
             "name": "B2B-VIP",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 410,
+            "price": 380,
             "updatedAt": 1747229914346
           },
           {
@@ -56995,7 +56995,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 415
+            "price": 380
           },
           {
             "deleted": false,
@@ -57016,7 +57016,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 415,
+            "price": 360,
             "updatedAt": 1747229914347
           }
         ],
@@ -57695,7 +57695,7 @@
         "reference": "PRO06315",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 425,
+        "sales-price": 380,
         "short-description": "<p>Panel Solar Bifacial Portátil EcoFlow NextGen 220W</p><p>⚡ Potencia nominal de 220W frontal y 175W trasera</p><p>☀️ Tecnología N Type TOPCon monocristalina con eficiencia de hasta 25%</p><p>🔋 Diseño bifacial que permite captar energía por ambos lados</p><p>📐 Soporte ajustable de 30° a 60° con guía de ángulo solar integrada</p><p>💧 Protección IP68 contra agua y polvo</p><p>🧳 Diseño plegable, compacto y portátil de aprox. 7.0 kg</p><p>🛡️ Vidrio templado y recubrimiento ETFE para mayor durabilidad</p><p>🔌 Incluye cable de carga solar a XT60</p>",
         "short-description-en": "",
         "stock": 2,

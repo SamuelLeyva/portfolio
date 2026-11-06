@@ -8568,9 +8568,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -8736,7 +8736,7 @@
           "707-false",
           "3866-false",
           "611-false",
-          "5049-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
@@ -10119,9 +10119,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -10466,7 +10466,7 @@
           "862-false",
           "1624-false"
         ],
-        "productname": "Bocina Bluetooth Rastra WS-691 - Parlante Portátil con Carga Solar, TWS, USB, TF, AUX y FM, Color Rojo",
+        "productname": "Bocina Bluetooth Rastra WS-691 - Parlante Portátil con Carga Solar, TWS, USB, TF, AUX y FM, Color negro",
         "productname_en": "",
         "promotional": false,
         "recommended": false,
@@ -10476,7 +10476,7 @@
         "sales-price": 33.7,
         "short-description": "<ul><li><p>🎶 Sonido estéreo Bluetooth: disfruta de una experiencia auditiva potente y clara en interiores o exteriores</p></li><li><p>🔊 TWS Pairing: conecta dos parlantes para un sonido más envolvente y una mejor experiencia musical</p></li><li><p>☀️ Carga solar integrada: perfecto para uso al aire libre sin depender de tomas de corriente</p></li><li><p>📻 Versatilidad total: compatible con USB, tarjeta TF, AUX y radio FM para que escuches música como prefieras</p></li><li><p>🏠 Multifuncional de escritorio: diseño tipo camión que decora y funciona como parlante de mesa</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
@@ -11178,9 +11178,9 @@
             "originUpdate": "stelorder",
             "province": "",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
