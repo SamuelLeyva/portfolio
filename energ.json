@@ -20717,7 +20717,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
             "virtual-stock": 2,
             "zip-code": ""
@@ -20835,7 +20835,7 @@
             "public": false,
             "stock": 49,
             "subcontractedid": "",
-            "virtual-stock": 49,
+            "virtual-stock": 48,
             "zip-code": ""
           },
           {
@@ -22440,7 +22440,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
             "virtual-stock": 2,
             "zip-code": ""
@@ -22558,7 +22558,7 @@
             "public": false,
             "stock": 13,
             "subcontractedid": "",
-            "virtual-stock": 9,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -52713,7 +52713,7 @@
             "public": false,
             "stock": 130,
             "subcontractedid": "",
-            "virtual-stock": 130,
+            "virtual-stock": 129,
             "zip-code": ""
           },
           {
@@ -52856,7 +52856,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 0,
             "subcontractedid": "",
             "virtual-stock": 1,
             "zip-code": ""
@@ -53190,7 +53190,7 @@
           "3807-false",
           "120-false",
           "2820-false",
-          "-2-true",
+          "-2-false",
           "1776-false",
           "2193-false",
           "707-false",
@@ -53554,9 +53554,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
