@@ -257867,7 +257867,7 @@
             "public": false,
             "stock": 211,
             "subcontractedid": "",
-            "virtual-stock": 212,
+            "virtual-stock": 211,
             "zip-code": ""
           },
           {
@@ -258222,7 +258222,7 @@
         "sales-price": 4.99,
         "short-description": "",
         "short-description-en": "",
-        "stock": 212,
+        "stock": 211,
         "stock-enabled": true,
         "tag": [
           {
