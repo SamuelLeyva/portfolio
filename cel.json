@@ -9133,7 +9133,7 @@
         "sales-price": 145,
         "short-description": "",
         "short-description-en": "",
-        "stock": 81,
+        "stock": 80,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -10230,7 +10230,7 @@
         "sales-price": 115,
         "short-description": "<ul><li><p>📱 Pantalla IPS LCD de 6.6\" HD+ con tasa de refresco de 90Hz.</p></li><li><p>🚀 Procesador Unisoc T7100 Octa-Core con 3GB RAM + 5GB RAM Virtual.</p></li><li><p>💾 64GB de almacenamiento expandible mediante microSD.</p></li><li><p>📸 Cámara principal de 8MP con flash LED y frontal de 5MP.</p></li><li><p>🔋 Batería de 5,000 mAh para mayor duración.</p></li><li><p>🛡️ Resistencia a caídas de hasta 1.2 metros.</p></li><li><p>🔵 Elegante acabado en Negro</p></li><li><p>📲 Lector de huellas lateral, USB-C y Android 15 Go Edition.</p></li></ul>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -12072,9 +12072,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 19,
             "subcontractedid": "",
-            "virtual-stock": 11,
+            "virtual-stock": 12,
             "zip-code": ""
           },
           {
@@ -14440,7 +14440,7 @@
         "sales-price": 205,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 25,
+        "stock": 14,
         "stock-enabled": true,
         "tag": [
           {
