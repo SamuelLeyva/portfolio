@@ -1604,9 +1604,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 6,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -1961,7 +1961,7 @@
         "sales-price": 149,
         "short-description": "<ul><li><p>📱 Pantalla HD de 10.1\" con tasa de refresco de 120 Hz: visuales fluidos y nítidos para streaming, lectura, gaming y navegación</p></li><li><p>⚡ Procesador octa‑core con Android 16: rendimiento ágil y sistema moderno para todas tus tareas</p></li><li><p>💾 4 + 8 GB de RAM y 128 GB de ROM: memoria ampliable para multitarea fluida y espacio de sobra para apps, fotos y archivos</p></li><li><p>🔋 Batería de 5000 mAh: autonomía confiable para acompañarte durante todo el día⌨️ Incluye teclado, mouse y stylus pen gratis: convierte tu tablet en un espacio de trabajo o estudio completo</p></li><li><p>🎁 Ideal para productividad, entretenimiento y creatividad en cualquier lugar</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 6,
         "stock-enabled": true,
         "tag": [
           {
@@ -12043,9 +12043,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -12072,9 +12072,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 18,
             "subcontractedid": "",
-            "virtual-stock": 12,
+            "virtual-stock": 11,
             "zip-code": ""
           },
           {
@@ -12405,7 +12405,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -12429,7 +12429,7 @@
         "sales-price": 160,
         "short-description": "<p>El Samsung Galaxy A07 ofrece un rendimiento equilibrado con 4 GB de RAM y 64 GB de almacenamiento, ideal para el uso diario. Su diseño elegante en color negro y pantalla HD+ brindan una experiencia visual fluida y cómoda. Este combo incluye funda protectora, mica de cristal templado y audífonos para mayor protección y comodidad inmediata.</p><p></p>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 18,
         "stock-enabled": true,
         "tag": [
           {
