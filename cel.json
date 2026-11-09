@@ -3797,9 +3797,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -4154,7 +4154,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ Snapdragon® 778G con CPU de ocho núcleos hasta 2.4 GHz y GPU Adreno 642L: rendimiento potente para gaming, apps y multitarea exigente</p></li><li><p>💾 6 + 128 GB + UFS 2.2 y ampliación dinámica de RAM 3.0: velocidad y espacio para todo</p></li><li><p>🌈 Pantalla AMOLED DotDisplay Flow FHD+ de 6.67\" con 120 Hz, 10 bits y DCI‑P3: colores intensos, negros profundos y hasta 900 nits de brillo</p></li><li><p>📸 Cámara de 108 MP con agrupamiento 9 en 1 + ultra gran angular de 8 MP + macro de 2 MP + selfie de 16 MP: captura 4K a 30 fps y 1080p a 60 fps con detalle profesional</p></li><li><p>🔋 Batería de 5000 mAh con carga turbo de 67 W: autonomía prolongada y recarga ultrarrápida</p></li><li><p>🔐 Sensor de huella lateral y desbloqueo facial por IA: seguridad rápida y conveniente</p></li><li><p>📶 5G dual SIM, Wi‑Fi 802.11ax, Bluetooth 5.2 y NFC con Google Pay: conectividad completa y veloz</p></li><li><p>🎧 Altavoces duales y jack de 3.5 mm: sonido envolvente para música, videos y juegos</p></li><li><p></p></li></ul>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
@@ -10956,9 +10956,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 2,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": -1,
             "zip-code": ""
           },
           {
@@ -11313,7 +11313,7 @@
         "sales-price": 157,
         "short-description": "<p>🖥️ <strong>Pantalla Inmersiva 90Hz:</strong> HD+ de 6.7\".</p><p>📸 <strong>Cámara Profesional 50MP.</strong></p><p>🤳 <strong>Cámara Selfie 8MP.</strong></p><p>⚡ <strong>Potencia y Eficiencia:</strong> Procesador de 6 nm y 4GB de RAM.</p><p>💾 <strong>Amplio Almacenamiento 64GB.</strong></p>",
         "short-description-en": "",
-        "stock": 2,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [
           {
