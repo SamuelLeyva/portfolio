@@ -1530,9 +1530,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 7,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -1887,7 +1887,7 @@
         "sales-price": 299,
         "short-description": "<ul><li><p>⚡ Procesador Intel N150 y 4 GB de RAM DDR4: rendimiento ágil para multitarea, aplicaciones web y edición básica de fotos y videos</p></li><li><p>💾 128 GB de almacenamiento UFS: arranque rápido, eficiencia energética y espacio para tus archivos y documentos</p></li><li><p>🌈 Pantalla HD de 14\" con biseles micro‑edge y panel antirreflejo: visualización amplia y cómoda incluso en exteriores</p></li><li><p>🪟 Windows 11 Home en modo S con Microsoft Copilot: sistema seguro, rápido y con asistencia de IA integrada</p></li><li><p>🔋 Batería de hasta 12 horas con HP Fast Charge: 0 a 50 % en aproximadamente 45 minutos</p></li><li><p>📡 Wi‑Fi 6 (2x2) y Bluetooth 5.4: conexión veloz y estable para múltiples dispositivos</p></li><li><p>🔊 Altavoces estéreo ajustados y cámara HP True Vision HD: audio de calidad y videollamadas nítidas incluso con poca luz</p></li><li><p>🔌 Puertos completos: lector de tarjetas SD, USB Tipo‑C (10 Gbps, DisplayPort 1.2), 2 USB Tipo‑A, combo de auriculares/micrófono, pin de carga y HDMI 1.4b</p></li><li><p>🎒 Diseño delgado de 0.71\" y ligero (3.24 lbs): máxima portabilidad con batería de 3 celdas y 41 Wh</p></li><li><p>🌱 EPEAT Gold con Climate+, certificación ENERGY STAR y plásticos reciclados: opción sostenible y responsable</p></li><li><p>🎨 Disponible en color Willow Green</p></li></ul>",
         "short-description-en": "",
-        "stock": 7,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
