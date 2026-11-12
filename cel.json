@@ -5241,7 +5241,7 @@
         "sales-price": 144,
         "short-description": "<ul><li><p>⚡ Procesador Snapdragon 680 a 2.4 GHz y 4 GB de RAM: rendimiento fluido para apps, navegación y multitarea diaria</p></li><li><p>💾 64 GB de almacenamiento interno ampliable con microSD: espacio suficiente para fotos, apps y archivos</p></li><li><p>🌈 Pantalla HD+ de 6.5\" con resolución 720 × 1600 y tasa de refresco de 90 Hz: imágenes nítidas y desplazamientos suaves📸 Cámara principal de 50 MP + frontal de 8 MP: captura fotos con gran detalle y selfies claras</p></li><li><p>🔋 Batería de 5000 mAh: autonomía para todo el día sin preocupaciones🔊 Parlantes estéreo: sonido envolvente para música, videos y llamadas</p></li><li><p>🛡️ Resistencia a salpicaduras y diseño delgado de 8.3 mm y 185 g: práctico y cómodo para el uso diario</p></li><li><p>🤖 Android 13: sistema moderno y actualizado con las últimas funciones</p></li><li><p>📶 Conectividad 4G LTE: velocidad y cobertura confiable para mantenerte conectado</p></li><li><p>🎨 Disponible en color azul</p></li></ul>",
         "short-description-en": "",
-        "stock": 87,
+        "stock": 86,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -11814,9 +11814,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 0,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -11843,9 +11843,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 5,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": -28,
+            "virtual-stock": -30,
             "zip-code": ""
           },
           {
@@ -12176,7 +12176,7 @@
           "4028-false",
           "3807-false",
           "120-false",
-          "2820-false",
+          "2820-true",
           "-2-true",
           "1776-false",
           "2193-false",
@@ -12200,7 +12200,7 @@
         "sales-price": 205,
         "short-description": "<p>El <strong>Samsung Galaxy A16 4G</strong> ofrece <strong>4 GB de RAM y 128 GB de almacenamiento</strong>, garantizando fluidez y espacio amplio para tus archivos. Incluye <strong>accesorios esenciales como funda, mica templada y audífonos</strong> para protección y experiencia completa. Su pantalla <strong>Super AMOLED de 6.6 pulgadas</strong> brinda colores vibrantes y alto contraste, ideal para multimedia. Con una <strong>batería de 5000 mAh y soporte Dual SIM</strong>, asegura autonomía prolongada y versatilidad de uso. Es un dispositivo confiable con cámara de 50 MP y diseño elegante en color negro.</p>",
         "short-description-en": "",
-        "stock": 5,
+        "stock": 4,
         "stock-enabled": true,
         "tag": [
           {
