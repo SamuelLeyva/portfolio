@@ -5740,9 +5740,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 4,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 4,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -6097,7 +6097,7 @@
         "sales-price": 35,
         "short-description": "<p>Cable adaptador para conectar baterías externas <strong>LiFePO₄ de 48V/51.2V</strong> al puerto de expansión de estaciones EcoFlow compatibles. Permite ampliar significativamente la capacidad energética utilizando baterías externas de gran capacidad. Compatible con <strong>EcoFlow DELTA 2, DELTA 2 Max, DELTA 3 y DELTA 3 Plus</strong>.</p>",
         "short-description-en": "",
-        "stock": 4,
+        "stock": 3,
         "stock-enabled": true,
         "tag": [
           {
@@ -19860,9 +19860,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 1,
+            "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -19976,7 +19976,7 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 46,
+            "stock": 44,
             "subcontractedid": "",
             "virtual-stock": 44,
             "zip-code": ""
@@ -35691,7 +35691,7 @@
             "public": false,
             "stock": 2,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 2,
             "zip-code": ""
           },
           {
@@ -52774,7 +52774,7 @@
             "public": false,
             "stock": 39,
             "subcontractedid": "",
-            "virtual-stock": 38,
+            "virtual-stock": 39,
             "zip-code": ""
           },
           {
@@ -52919,7 +52919,7 @@
             "public": false,
             "stock": 22,
             "subcontractedid": "",
-            "virtual-stock": 23,
+            "virtual-stock": 22,
             "zip-code": ""
           },
           {
@@ -53274,7 +53274,7 @@
         "sales-price": 38,
         "short-description": "<p><strong>Maleta Kit para Cable MC4</strong></p><ul><li><p><strong>☀️ Engarzadora (Crimpadora) Solar:</strong> Herramienta robusta con mango rojo y azul, diseñada específicamente para terminales de cables fotovoltaicos.</p></li><li><p><strong>✂️ Pelacables de Precisión:</strong> Pinza negra con detalles amarillos para retirar el aislamiento del cable sin dañar el cobre.</p></li><li><p><strong>🔧 Llaves de Montaje:</strong> Dos llaves azules de plástico reforzado para apretar y desconectar conectores MC4 fácilmente.</p></li><li><p><strong>🔌 Conectores MC4:</strong> Incluye 3 pares de juegos de conectores macho/hembra (negros) listos para ensamblar.</p></li><li><p><strong>🔩 Terminales Metálicos:</strong> Bolsa con pines de contacto para asegurar la conductividad eléctrica.</p></li><li><p><strong>💼 Estuche de Transporte:</strong> Maletín de lona negra con cremallera y bandas elásticas para mantener todo organizado.</p></li></ul>",
         "short-description-en": "",
-        "stock": 23,
+        "stock": 22,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -62788,7 +62788,7 @@
         "sales-price": 589,
         "short-description": "<p>🔋 <strong>Batería Extra EcoFlow – Serie DELTA 3</strong></p><ul><li><p>⚡ <strong>Capacidad:</strong> 1 024 Wh</p></li><li><p>🔌 <strong>Voltaje: </strong>110V CA</p></li><li><p>🔋 <strong>Tipo de batería:</strong> Litio LiFePO₄ (LFP) de larga duración</p></li><li><p>🔄 <strong>Ciclos de vida:</strong> hasta ~3 000 ciclos (80 % de capacidad)</p></li><li><p>⚙️ <strong>Tecnología Plug &amp; Play:</strong> conexión rápida y sencilla, sin instalación compleja</p></li><li><p>🚀 <strong>Expande la capacidad</strong> total de la estación para mayor autonomía</p></li><li><p>🛡️ <strong>Protecciones inteligentes:</strong> contra sobrecarga, sobrecalentamiento y cortocircuito</p></li><li><p>🔇 <strong>Funcionamiento silencioso y seguro</strong></p></li><li><p>📦 <strong>Diseño compacto y apilable</strong></p></li><li><p>🔗 <strong>Compatibilidad:</strong></p><ul><li><p>EcoFlow <strong>DELTA 3</strong></p></li><li><p>EcoFlow <strong>DELTA 3 Plus</strong></p></li><li><p>EcoFlow <strong>DELTA 3 (1500)</strong></p></li><li><p>EcoFlow <strong>DELTA 2</strong></p></li></ul></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 2,
         "stock-enabled": true,
         "tag": [
           {
