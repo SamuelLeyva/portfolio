@@ -7014,7 +7014,7 @@
         "sales-price": 35,
         "short-description": "<p>Cable adaptador para conectar baterías externas <strong>LiFePO₄ de 48V/51.2V</strong> al puerto de expansión de estaciones EcoFlow compatibles. Permite ampliar significativamente la capacidad energética utilizando baterías externas de gran capacidad. Compatible con <strong>EcoFlow DELTA 2, DELTA 2 Max, DELTA 3 y DELTA 3 Plus</strong>.</p>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
         "tag": [
           {
@@ -18884,7 +18884,7 @@
             "public": false,
             "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -19000,7 +19000,7 @@
             "public": false,
             "stock": 42,
             "subcontractedid": "",
-            "virtual-stock": 40,
+            "virtual-stock": 42,
             "zip-code": ""
           },
           {
@@ -33773,7 +33773,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 1,
+            "virtual-stock": 0,
             "zip-code": ""
           },
           {
@@ -33889,7 +33889,7 @@
             "public": false,
             "stock": 3,
             "subcontractedid": "",
-            "virtual-stock": 2,
+            "virtual-stock": 3,
             "zip-code": ""
           },
           {
@@ -72711,6 +72711,33 @@
             "zip-code": ""
           },
           {
+            "acronym": "OBP",
+            "active": true,
+            "addres": "",
+            "agent-id": "",
+            "comercialname": "Obispo",
+            "country": "",
+            "createdAt": 1789787716144,
+            "creator-id": "",
+            "description": "",
+            "hidden": false,
+            "id": "5049",
+            "idstel": "5049",
+            "isReserved": false,
+            "location": "",
+            "minimum-stock": 0,
+            "municipality": "",
+            "name": "Obispo.OBP",
+            "originCreate": "stelorder",
+            "originUpdate": "stelorder",
+            "province": "",
+            "public": false,
+            "stock": 0,
+            "subcontractedid": "",
+            "virtual-stock": 0,
+            "zip-code": ""
+          },
+          {
             "acronym": "PDR",
             "active": false,
             "addres": "",
@@ -72854,33 +72881,6 @@
             "subcontractedid": "",
             "virtual-stock": 0,
             "zip-code": ""
-          },
-          {
-            "acronym": "OBP",
-            "active": true,
-            "addres": "",
-            "agent-id": "",
-            "comercialname": "Obispo",
-            "country": "",
-            "createdAt": 1789787716144,
-            "creator-id": "",
-            "description": "",
-            "hidden": false,
-            "id": "5049",
-            "idstel": "5049",
-            "isReserved": false,
-            "location": "",
-            "minimum-stock": 0,
-            "municipality": "",
-            "name": "Obispo.OBP",
-            "originCreate": "stelorder",
-            "originUpdate": "stelorder",
-            "province": "",
-            "public": false,
-            "stock": 0,
-            "subcontractedid": "",
-            "virtual-stock": 0,
-            "zip-code": ""
           }
         ],
         "warehousesInStock": [
@@ -72900,12 +72900,12 @@
           "707-false",
           "3866-false",
           "611-true",
+          "5049-false",
           "3298-false",
           "117-false",
           "933-false",
           "862-false",
-          "1624-false",
-          "5049-false"
+          "1624-false"
         ],
         "productname": "Bolso ECOFLOW Protector Impermeable Para Estación DELTA 2",
         "productname_en": "",
@@ -72917,7 +72917,7 @@
         "sales-price": 33,
         "short-description": "",
         "short-description-en": "",
-        "stock": 13,
+        "stock": 12,
         "stock-enabled": true,
         "tag": [
           {
