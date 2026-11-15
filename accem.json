@@ -3820,9 +3820,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 6,
+            "virtual-stock": 5,
             "zip-code": ""
           },
           {
@@ -4177,7 +4177,7 @@
         "sales-price": 6,
         "short-description": "<ul><li><p><strong>Producto:</strong> Red Elástica de Carga / Sujeción</p></li><li><p><strong>Color:</strong> Negro</p></li><li><p><strong>Material:</strong> Bandas Elásticas de Alta Calidad (impermeables y resistentes al desgaste)</p></li><li><p><strong>Dimensiones Extendidas:</strong> Aprox. 50 cm (largo) x 22.9 cm (ancho)</p></li><li><p><strong>Tipo de Fijación:</strong> Ganchos</p></li><li><p><strong>Característica Especial:</strong> Diseño de Doble Capa</p></li><li><p><strong>Compatibilidad:</strong> Motocicletas, Bicicletas (con portaequipajes), Vehículos Todo Terreno (ATV), Motos de Nieve.</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -4668,9 +4668,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 3,
+            "stock": 1,
             "subcontractedid": "",
-            "virtual-stock": 3,
+            "virtual-stock": 1,
             "zip-code": ""
           },
           {
@@ -5025,7 +5025,7 @@
         "sales-price": 4.5,
         "short-description": "<ul><li><p><strong>Longitud por Correa:</strong> 100 cm</p></li><li><p><strong>Color:</strong> Negro</p></li><li><p><strong>Material de la Correa:</strong> Nailon de Alta Intensidad</p></li><li><p><strong>Material de la Hebilla:</strong> Acero Inoxidable</p></li><li><p><strong>Tipo de Hebilla:</strong> Hebilla de Leva con Liberación Rápida</p></li></ul>",
         "short-description-en": "",
-        "stock": 3,
+        "stock": 1,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -5527,9 +5527,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 8,
+            "stock": 7,
             "subcontractedid": "",
-            "virtual-stock": 7,
+            "virtual-stock": 6,
             "zip-code": ""
           },
           {
@@ -5884,7 +5884,7 @@
         "sales-price": 7,
         "short-description": "<ul><li><p><strong>Tipo de Producto:</strong> Correa / Arnés de Sujeción Elástica</p></li><li><p><strong>Material Principal:</strong> Poliamida</p></li><li><p><strong>Característica:</strong> Multifuncional (4 en 1), Alta Elasticidad, Ajustable</p></li><li><p><strong>Componentes:</strong> Incluye ganchos para enganche seguro</p></li><li><p><strong>Uso Principal:</strong> Sujetar cascos de motocicleta y bicicleta eléctrica en el almacenamiento trasero</p></li><li><p><strong>Usos Adicionales:</strong> Sujeción de equipaje, herramientas, cargas ligeras en vehículos personales.</p></li></ul>",
         "short-description-en": "",
-        "stock": 8,
+        "stock": 7,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
