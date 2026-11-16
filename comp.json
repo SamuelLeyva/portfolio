@@ -24301,9 +24301,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 19,
+            "stock": 15,
             "subcontractedid": "",
-            "virtual-stock": 19,
+            "virtual-stock": 15,
             "zip-code": ""
           },
           {
@@ -24658,7 +24658,7 @@
         "sales-price": 22,
         "short-description": "<ul><li><p>Potencia de salida: <strong>65W (20V / 3.25A)</strong></p></li><li><p>Compatible con dispositivos que usan <strong>45W, 15V, 9V, 5V – carga inteligente PD</strong></p></li><li><p>Conector <strong>USB Tipo-C</strong>, no compatible con puntas redondas ni micro-USB</p></li><li><p>Compatible con <strong>Lenovo ThinkPad, Yoga, Chromebook y más</strong></p></li><li><p>Entrada de voltaje universal: <strong>110–240V</strong></p></li></ul>",
         "short-description-en": "",
-        "stock": 19,
+        "stock": 15,
         "stock-enabled": true,
         "tag": [
           {

@@ -4,6 +4,10 @@
       "_index": "products",
       "_id": "48629803",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "48629803",
         "idstel": "48629803",
@@ -17,7 +21,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>Esta Tablet de 10.1 pulgadas está pensada para quienes buscan un dispositivo versátil, completo y listo para trabajar, estudiar o disfrutar del entretenimiento desde el primer momento. Con su pantalla HD de 10.1 pulgadas y tasa de refresco de 120 Hz, el procesador de ocho núcleos, Android 16 y una batería de 5000 mAh, ofrece un rendimiento fluido y una experiencia visual envolvente. Además, incluye teclado, mouse y lápiz óptico de regalo, convirtiendo cualquier lugar en tu espacio de trabajo personal.</p><p>🖥️ Pantalla HD de 10.1\" con 120 Hz</p><ul><li><p>Pantalla HD de 10.1 pulgadas que ofrece imágenes nítidas, colores vibrantes y una experiencia visual cómoda para ver vídeos, navegar o trabajar.</p></li><li><p>Tasa de refresco de 120 Hz que garantiza deslizamientos ultraligeros y animaciones fluidas en cada interacción.</p></li><li><p>Ideal para disfrutar de contenido multimedia, leer, estudiar o jugar con una respuesta táctil suave y precisa.</p></li></ul><p>⚡ Rendimiento fluido con Android 16</p><ul><li><p>Procesador de ocho núcleos que ofrece un rendimiento equilibrado para las tareas cotidianas, la multitarea y el entretenimiento.</p></li><li><p>4 GB de RAM + 8 GB de RAM extendida (12 GB totales) que mantienen las aplicaciones abiertas y el sistema ágil.</p></li><li><p>64 GB de almacenamiento interno, espacio suficiente para guardar aplicaciones, fotos, vídeos y documentos.</p></li><li><p>Android 16 de fábrica, con una interfaz moderna, segura e intuitiva que aprovecha al máximo el hardware.</p></li></ul><p>⌨️ Teclado, mouse y lápiz óptico incluidos</p><ul><li><p>Incluye teclado y mouse inalámbricos que convierten la tablet en un pequeño ordenador portátil para trabajar o estudiar con comodidad.</p></li><li><p>Lápiz óptico de precisión incluido, perfecto para escribir, dibujar, tomar notas o anotar documentos con total naturalidad.</p></li><li><p>Un paquete completo que te permite empezar a usar la tablet como herramienta de productividad desde el primer momento.</p></li></ul><p>🔋 Batería de 5000 mAh para todo el día</p><ul><li><p>Batería de 5000 mAh que ofrece una autonomía suficiente para largas sesiones de trabajo, estudio o entretenimiento.</p></li><li><p>Ideal para llevar contigo a clase, a la oficina o de viaje sin preocuparte por quedarte sin energía.</p></li><li><p>Perfecta para ver series, leer, navegar o tomar apuntes durante horas.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Estudiantes que necesitan una tablet con teclado y lápiz para tomar apuntes, estudiar y realizar trabajos.</p></li><li><p>Profesionales que buscan un dispositivo ligero y completo para trabajar en movimiento.</p></li><li><p>Usuarios que quieren una tablet para el entretenimiento con pantalla fluida de 120 Hz y buena autonomía.</p></li><li><p>Cualquiera que valore la comodidad de tener teclado, mouse y lápiz incluidos para convertir la tablet en una herramienta completa.</p></li><li><p>Personas que buscan un equipo moderno con Android 16, almacenamiento amplio y rendimiento fluido para el día a día.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -661,7 +665,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 30,
             "zip-code": ""
           },
           {
@@ -784,11 +788,23 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 141,
-        "short-description": "",
+        "short-description": "<ul><li><p>📱 Pantalla HD de 10.1\" con tasa de refresco de 120 Hz: visuales fluidos y nítidos para streaming, lectura, gaming y navegación⚡ Procesador octa‑core con Android 16: rendimiento ágil y sistema moderno para todas tus tareas</p></li><li><p>💾 4 + 8 GB de RAM y 64 GB de ROM: memoria ampliable para multitarea fluida y espacio de sobra para apps, fotos y archivos</p></li><li><p>🔋 Batería de 5000 mAh: autonomía confiable para acompañarte durante todo el día</p></li><li><p>⌨️ Incluye teclado, mouse y stylus pen gratis: convierte tu tablet en un espacio de trabajo o estudio completo</p></li><li><p>🎁 Ideal para productividad, entretenimiento y creatividad en cualquier lugar</p></li></ul>",
         "short-description-en": "",
-        "stock": 10,
+        "stock": 9,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1772734013485,
+            "creation-date": "2026-03-05T18:06:53.485Z",
+            "description": "",
+            "id": "Y8rEwwAErOQYrnmsaddj",
+            "name": "Tablet",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "tablet"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-11-15T08:19:57+0000",
         "warranty": null,
@@ -827,13 +843,202 @@
       "_index": "products",
       "_id": "48627703",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "48627703",
         "idstel": "48627703",
         "creation-date": "2026-11-14T16:37:49+0000",
         "barcode": "",
         "buildservice": [],
-        "attribute": [],
+        "attribute": [
+          {
+            "data": [
+              {
+                "id": "9",
+                "name": "Nuevo",
+                "name_en": ""
+              }
+            ],
+            "id": "Condition",
+            "name": "Condición",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "6",
+                "name": "Original",
+                "name_en": ""
+              }
+            ],
+            "id": "Quality",
+            "name": "Calidad",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535313430,
+            "data": [
+              {
+                "id": "6",
+                "name": "64 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "PBychuNQOnOw6xxrxPf2",
+            "name": "Almacenamiento",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696676408175,
+            "data": [
+              {
+                "id": "8",
+                "name": "Android",
+                "name_en": "Android"
+              }
+            ],
+            "description": "",
+            "id": "qS1nZkztvJVtyMsz2IdS",
+            "name": "Sistema Operativo",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729969053779,
+            "creation-date": "2024-10-26T18:57:33.779Z",
+            "data": [
+              {
+                "id": "3",
+                "name": "5MP",
+                "name_en": "5MP"
+              }
+            ],
+            "description": "",
+            "id": "kipYg9VxrvIhGgNcANEU",
+            "name": "Cámara Trasera",
+            "name_en": "Cámara Trasera",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "id": "82",
+                "name": "Alcatel",
+                "name_en": ""
+              }
+            ],
+            "id": "Brand",
+            "name": "Marca",
+            "name_en": "HotWav",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "active": true,
+            "createdAt": 1729970011574,
+            "creation-date": "2024-10-26T19:13:31.574Z",
+            "data": [
+              {
+                "id": "6",
+                "name": "4G LTE",
+                "name_en": "4G LTE"
+              },
+              {
+                "id": "3",
+                "name": "3G",
+                "name_en": "3G"
+              },
+              {
+                "id": "1",
+                "name": "2G",
+                "name_en": "2G"
+              }
+            ],
+            "description": "",
+            "id": "Ylsr7vBfZA74G62GAnxv",
+            "name": "Red",
+            "name_en": "Red",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535706749,
+            "data": [
+              {
+                "id": "18",
+                "name": "USB tipo C",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "gciO5hectmJj0Na1nOsD",
+            "name": "Puertos",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": ""
+          },
+          {
+            "createdAt": 1696676672522,
+            "data": [
+              {
+                "id": "5",
+                "name": "De 6.0'' a 7.0''",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "eqM0wDHfpNBMxDEiFM6J",
+            "name": "Pulgadas",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "data": [
+              {
+                "description": "",
+                "id": "18",
+                "name": "Naranja",
+                "name_en": "Orange"
+              }
+            ],
+            "id": "Colour",
+            "name": "Color",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          },
+          {
+            "createdAt": 1696535229659,
+            "data": [
+              {
+                "id": "3",
+                "name": "3 GB",
+                "name_en": ""
+              }
+            ],
+            "description": "",
+            "id": "9y9h9dSmwhowM472H6Hw",
+            "name": "Ram",
+            "name_en": "",
+            "originCreate": "",
+            "originUpdate": "ecommerce"
+          }
+        ],
         "category": [
           "cuS1bAGQlXd69ubYcxkb",
           "3dQF4xeEwbvlt8PjUoJO",
@@ -841,7 +1046,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>Este Smartphone está pensado para quienes buscan un equipo práctico, funcional y con una batería que aguante todo el día, sin renunciar a un diseño delgado y moderno. Su pantalla HD+ de 6.52 pulgadas ofrece una amplia visibilidad, mientras que sus 3 GB + 6 GB de RAM y 32 GB de almacenamiento interno (ampliables mediante tarjeta microSD) proporcionan el espacio y la fluidez necesarios para las tareas cotidianas. Con Android Go, un sistema ligero y optimizado, y funciones de seguridad como el lector de huellas dactilares y el desbloqueo facial, este equipo está listo para acompañarte en tu día a día.</p><p>📱 Pantalla HD+ de 6.52 pulgadas</p><ul><li><p>Pantalla amplia y con buena visibilidad, ideal para ver vídeos, navegar por internet o usar redes sociales.</p></li><li><p>Formato cómodo que facilita la lectura y el manejo con una sola mano.</p></li><li><p>Perfecta para disfrutar de contenido multimedia con claridad.</p></li></ul><p>⚡ Memoria RAM y almacenamiento</p><ul><li><p>3 GB + 6 GB de RAM que mantienen la multitarea ágil y el sistema fluido.</p></li><li><p>32 GB de almacenamiento interno, espacio suficiente para tus aplicaciones, fotos y archivos.</p></li><li><p>Ampliable mediante tarjeta microSD, para que nunca te falte espacio.</p></li></ul><p>📸 Cámaras para capturar tus momentos</p><ul><li><p>Cámara trasera de 5 MP + 5 MP, que te permite tomar fotos y grabar vídeos con buena definición.</p></li><li><p>Cámara frontal de 5 MP, ideal para selfies y videollamadas con claridad.</p></li><li><p>Funciones básicas de fotografía que facilitan capturar tus recuerdos.</p></li></ul><p>🔋 Batería de 5010 mAh con gran autonomía</p><ul><li><p>Batería de 5010 mAh que ofrece energía para todo el día, sin necesidad de cargar a cada rato.</p></li><li><p>Ideal para jornadas largas de trabajo, estudio o entretenimiento.</p></li><li><p>Perfecta para quienes necesitan un teléfono fiable que aguante el ritmo diario.</p></li></ul><p>🤖 Android Go: sistema ligero y optimizado</p><ul><li><p>Android Go, una versión ligera y optimizada del sistema operativo, diseñada para funcionar con fluidez en dispositivos de gama de entrada.</p></li><li><p>Menor consumo de recursos y mejor rendimiento en las tareas cotidianas.</p></li><li><p>Interfaz sencilla e intuitiva para una experiencia de uso cómoda.</p></li></ul><p>🔓 Seguridad y diseño</p><ul><li><p>Lector de huellas dactilares y desbloqueo facial para un acceso rápido y seguro.</p></li><li><p>Diseño delgado y moderno que se adapta a tu estilo.</p></li><li><p>Incluye accesorios de fábrica: cargador, cable USB y funda protectora, para que lo tengas todo desde el primer momento.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Personas que buscan un smartphone práctico y económico para el uso diario.</p></li><li><p>Usuarios que necesitan una batería de larga duración y un sistema ligero como Android Go.</p></li><li><p>Estudiantes y adultos que quieren un teléfono funcional para redes sociales, mensajería y navegación.</p></li><li><p>Quienes valoran la seguridad del lector de huellas y el desbloqueo facial.</p></li><li><p>Cualquiera que desee un equipo con accesorios incluidos y almacenamiento ampliable.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -850,10 +1055,10 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "e78a13af-39a1-48bf-7291-703737547300",
-            "idstel": "4891442",
+            "id": "5c5591a5-c63b-440d-6ea0-ccf956c0ae00",
+            "idstel": "4895061",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/e78a13af-39a1-48bf-7291-703737547300/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/5c5591a5-c63b-440d-6ea0-ccf956c0ae00/public"
           }
         ],
         "item-rates": [
@@ -1602,11 +1807,24 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 122,
-        "short-description": "",
+        "short-description": "<ul><li><p>📱 Pantalla HD+ de 6.52\": amplia y con buena visibilidad para tus contenidos diarios</p></li><li><p>💾 3 GB + 6 GB de RAM y 32 GB de almacenamiento interno ampliable con microSD: espacio suficiente para apps, fotos y archivos</p></li><li><p>📸 Cámara trasera de 5 MP + 5 MP y frontal de 5 MP: capturas y selfies para el día a día🔋 Batería de 5010 mAh: gran autonomía para acompañarte durante todo el día</p></li><li><p>🤖 Android Go: sistema ligero y optimizado para un rendimiento fluido</p></li><li><p>🔐 Lector de huellas dactilares y desbloqueo facial: seguridad rápida y conveniente</p></li><li><p>✨ Carcasa delgada y moderna, con accesorios de fábrica incluidos: cargador, cable USB y funda protectora</p></li><li><p>🎁 Solución práctica y completa para el uso diario</p></li></ul>",
         "short-description-en": "",
         "stock": 10,
         "stock-enabled": true,
-        "tag": [],
+        "tag": [
+          {
+            "active": true,
+            "createdAt": 1752174921688,
+            "creation-date": "2025-07-10T19:15:21.687Z",
+            "description": "Celulares",
+            "id": "CM4CPnv12tBfYmclfP40",
+            "name": "Celulares",
+            "name_en": "Celulares",
+            "originCreate": "ecommerce",
+            "originUpdate": "ecommerce",
+            "slug": "celulares"
+          }
+        ],
         "subcontractedid": "0",
         "orderDate": "2026-11-14T16:37:49+0000",
         "warranty": null,
@@ -1645,6 +1863,10 @@
       "_index": "products",
       "_id": "48462586",
       "_score": null,
+      "_ignored": [
+        "short-description.keyword",
+        "description.keyword"
+      ],
       "_source": {
         "id": "48462586",
         "idstel": "48462586",
@@ -1659,7 +1881,7 @@
         ],
         "compatibility": [],
         "deleted": false,
-        "description": "",
+        "description": "<p>Este Smartphone está pensado para quienes buscan un equipo práctico, funcional y con una batería que aguante todo el día, sin renunciar a un diseño delgado y moderno. Su pantalla HD+ de 6.52 pulgadas ofrece una amplia visibilidad, mientras que sus 3 GB + 6 GB de RAM y 32 GB de almacenamiento interno (ampliables mediante tarjeta microSD) proporcionan el espacio y la fluidez necesarios para las tareas cotidianas. Con Android Go, un sistema ligero y optimizado, y funciones de seguridad como el lector de huellas dactilares y el desbloqueo facial, este equipo está listo para acompañarte en tu día a día.</p><p>📱 Pantalla HD+ de 6.52 pulgadas</p><ul><li><p>Pantalla amplia y con buena visibilidad, ideal para ver vídeos, navegar por internet o usar redes sociales.</p></li><li><p>Formato cómodo que facilita la lectura y el manejo con una sola mano.</p></li><li><p>Perfecta para disfrutar de contenido multimedia con claridad.</p></li></ul><p>⚡ Memoria RAM y almacenamiento</p><ul><li><p>3 GB + 6 GB de RAM que mantienen la multitarea ágil y el sistema fluido.</p></li><li><p>32 GB de almacenamiento interno, espacio suficiente para tus aplicaciones, fotos y archivos.</p></li><li><p>Ampliable mediante tarjeta microSD, para que nunca te falte espacio.</p></li></ul><p>📸 Cámaras para capturar tus momentos</p><ul><li><p>Cámara trasera de 5 MP + 5 MP, que te permite tomar fotos y grabar vídeos con buena definición.</p></li><li><p>Cámara frontal de 5 MP, ideal para selfies y videollamadas con claridad.</p></li><li><p>Funciones básicas de fotografía que facilitan capturar tus recuerdos.</p></li></ul><p>🔋 Batería de 5010 mAh con gran autonomía</p><ul><li><p>Batería de 5010 mAh que ofrece energía para todo el día, sin necesidad de cargar a cada rato.</p></li><li><p>Ideal para jornadas largas de trabajo, estudio o entretenimiento.</p></li><li><p>Perfecta para quienes necesitan un teléfono fiable que aguante el ritmo diario.</p></li></ul><p>🤖 Android Go: sistema ligero y optimizado</p><ul><li><p>Android Go, una versión ligera y optimizada del sistema operativo, diseñada para funcionar con fluidez en dispositivos de gama de entrada.</p></li><li><p>Menor consumo de recursos y mejor rendimiento en las tareas cotidianas.</p></li><li><p>Interfaz sencilla e intuitiva para una experiencia de uso cómoda.</p></li></ul><p>🔓 Seguridad y diseño</p><ul><li><p>Lector de huellas dactilares y desbloqueo facial para un acceso rápido y seguro.</p></li><li><p>Diseño delgado y moderno que se adapta a tu estilo.</p></li><li><p>Incluye accesorios de fábrica: cargador, cable USB y funda protectora, para que lo tengas todo desde el primer momento.</p></li></ul><p>🎁 Ideal para</p><ul><li><p>Personas que buscan un smartphone práctico y económico para el uso diario.</p></li><li><p>Usuarios que necesitan una batería de larga duración y un sistema ligero como Android Go.</p></li><li><p>Estudiantes y adultos que quieren un teléfono funcional para redes sociales, mensajería y navegación.</p></li><li><p>Quienes valoran la seguridad del lector de huellas y el desbloqueo facial.</p></li><li><p>Cualquiera que desee un equipo con accesorios incluidos y almacenamiento ampliable.</p></li></ul>",
         "description_en": "",
         "discontinued": false,
         "discount-percentage": 0,
@@ -1668,10 +1890,10 @@
         "onlyBougth": false,
         "images": [
           {
-            "id": "d0ef29de-3f1d-402c-0121-424058b48f00",
-            "idstel": "4891441",
+            "id": "146e20a8-e3c1-4796-ae84-3d125ed8a100",
+            "idstel": "4895076",
             "order": 0,
-            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/d0ef29de-3f1d-402c-0121-424058b48f00/public"
+            "url": "https://imagedelivery.net/VUs3wsOxpQwow_XYpQM5BA/146e20a8-e3c1-4796-ae84-3d125ed8a100/public"
           }
         ],
         "item-rates": [
@@ -2420,7 +2642,7 @@
         "related-product": [],
         "sale-account": 0,
         "sales-price": 122,
-        "short-description": "",
+        "short-description": "<ul><li><p>📱 Pantalla HD+ de 6.52\": amplia y con buena visibilidad para tus contenidos diarios</p></li><li><p>💾 3 GB + 6 GB de RAM y 32 GB de almacenamiento interno ampliable con microSD: espacio suficiente para apps, fotos y archivos</p></li><li><p>📸 Cámara trasera de 5 MP + 5 MP y frontal de 5 MP: capturas y selfies para el día a día🔋 Batería de 5010 mAh: gran autonomía para acompañarte durante todo el día</p></li><li><p>🤖 Android Go: sistema ligero y optimizado para un rendimiento fluido</p></li><li><p>🔐 Lector de huellas dactilares y desbloqueo facial: seguridad rápida y conveniente</p></li><li><p>✨ Carcasa delgada y moderna, con accesorios de fábrica incluidos: cargador, cable USB y funda protectora</p></li><li><p>🎁 Solución práctica y completa para el uso diario</p></li></ul>",
         "short-description-en": "",
         "stock": 10,
         "stock-enabled": true,
@@ -5161,9 +5383,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 20,
             "subcontractedid": "",
-            "virtual-stock": 16,
+            "virtual-stock": 18,
             "zip-code": ""
           },
           {
@@ -5518,7 +5740,7 @@
         "sales-price": 245,
         "short-description": "<ul><li><p>⚡ Snapdragon® 778G con CPU de ocho núcleos hasta 2.4 GHz y GPU Adreno 642L: rendimiento potente para gaming, apps y multitarea exigente</p></li><li><p>💾 6 + 128 GB + UFS 2.2 y ampliación dinámica de RAM 3.0: velocidad y espacio para todo</p></li><li><p>🌈 Pantalla AMOLED DotDisplay Flow FHD+ de 6.67\" con 120 Hz, 10 bits y DCI‑P3: colores intensos, negros profundos y hasta 900 nits de brillo</p></li><li><p>📸 Cámara de 108 MP con agrupamiento 9 en 1 + ultra gran angular de 8 MP + macro de 2 MP + selfie de 16 MP: captura 4K a 30 fps y 1080p a 60 fps con detalle profesional</p></li><li><p>🔋 Batería de 5000 mAh con carga turbo de 67 W: autonomía prolongada y recarga ultrarrápida</p></li><li><p>🔐 Sensor de huella lateral y desbloqueo facial por IA: seguridad rápida y conveniente</p></li></ul>",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 20,
         "stock-enabled": true,
         "tag": [
           {
@@ -9730,7 +9952,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 128,
+            "price": 134,
             "updatedAt": 1747229914346
           },
           {
@@ -9763,7 +9985,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 133,
+            "price": 139,
             "updatedAt": 1747229914347
           },
           {
@@ -9774,7 +9996,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 140,
+            "price": 148,
             "updatedAt": 1747229914347
           }
         ],
@@ -10099,9 +10321,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 18,
+            "stock": 8,
             "subcontractedid": "",
-            "virtual-stock": 18,
+            "virtual-stock": 8,
             "zip-code": ""
           },
           {
@@ -10453,10 +10675,10 @@
         "reference": "PRO07343",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 145,
+        "sales-price": 153,
         "short-description": "",
         "short-description-en": "",
-        "stock": 18,
+        "stock": 8,
         "stock-enabled": true,
         "tag": [
           {
@@ -11162,7 +11384,7 @@
             "public": false,
             "stock": 0,
             "subcontractedid": "",
-            "virtual-stock": 0,
+            "virtual-stock": 60,
             "zip-code": ""
           },
           {
@@ -11380,7 +11602,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 128,
+            "price": 134,
             "updatedAt": 1747229914346
           },
           {
@@ -11403,7 +11625,7 @@
             "name": "AGENCIA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 140
+            "price": 148
           },
           {
             "deleted": false,
@@ -11413,7 +11635,7 @@
             "name": "DIST.USA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 133,
+            "price": 139,
             "updatedAt": 1747229914347
           },
           {
@@ -11424,7 +11646,7 @@
             "name": "AG.VENTAS",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 140,
+            "price": 148,
             "updatedAt": 1747229914347
           }
         ],
@@ -11749,9 +11971,9 @@
             "originUpdate": "stelorder",
             "province": "La Habana",
             "public": false,
-            "stock": 77,
+            "stock": 47,
             "subcontractedid": "",
-            "virtual-stock": 54,
+            "virtual-stock": 24,
             "zip-code": ""
           },
           {
@@ -12103,10 +12325,10 @@
         "reference": "PRO07328",
         "related-product": [],
         "sale-account": 0,
-        "sales-price": 145,
+        "sales-price": 153,
         "short-description": "",
         "short-description-en": "",
-        "stock": 77,
+        "stock": 47,
         "stock-enabled": true,
         "tag": [],
         "subcontractedid": "0",
@@ -18994,7 +19216,7 @@
             "name": "B2B-CUBA",
             "originCreate": "stelorder",
             "originUpdate": "stelorder",
-            "price": 182.1,
+            "price": 180.5,
             "updatedAt": 1747229914346
           },
           {
